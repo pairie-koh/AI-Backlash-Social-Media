@@ -41,10 +41,10 @@ LLM_MODEL = os.environ.get("LLM_MODEL", "anthropic/claude-sonnet-4")
 
 # --- AI keyword patterns (case-insensitive) ---
 AI_PATTERNS = [
+    # Core AI terms
     r"\bAI\b",
     r"artificial\s+intelligence",
-    r"machine\s+learning",
-    r"deep\s+learning",
+    # Major products / companies
     r"ChatGPT",
     r"chat\s+GPT",
     r"OpenAI",
@@ -53,26 +53,59 @@ AI_PATTERNS = [
     r"mid\s+journey",
     r"DALL[\-\s]?E",
     r"Copilot",
-    r"Gemini\s+AI",
-    r"Claude\s+AI",
-    r"Sora\s+AI",
     r"Stable\s+Diffusion",
+    # Job displacement
     r"AI\s+taking\s+jobs",
     r"AI\s+replacing",
     r"AI\s+layoffs",
+    r"AI\s+killed\s+my\s+career",
+    # Environment
     r"AI\s+data\s+center",
     r"AI\s+energy",
+    r"AI\s+water\s+usage",
+    r"AI\s+carbon",
+    # Creative theft
     r"AI\s+art\s+theft",
     r"AI\s+stealing",
+    r"stop\s+AI\s+art",
+    r"AI\s+music\s+theft",
+    r"AI\s+voice\s+cloning",
+    # Privacy
+    r"AI\s+watching\s+me",
+    r"AI\s+spying",
+    r"AI\s+facial\s+recognition",
+    # Education
     r"AI\s+cheating",
-    r"AI\s+surveillance",
-    r"AI\s+deepfake",
+    r"ban\s+ChatGPT",
+    r"AI\s+ruining\s+education",
+    # Safety
     r"AI\s+dangerous",
     r"ban\s+AI",
-    r"stop\s+AI",
+    r"AI\s+out\s+of\s+control",
+    r"AI\s+regulation",
+    # Deepfakes
+    r"AI\s+deepfake",
+    r"deepfake\s+danger",
+    r"AI\s+scam",
+    r"AI\s+fake\s+news",
+    # Slop & quality degradation
+    r"AI\s+slop",
+    r"AI\s+spam",
+    r"AI\s+garbage",
+    r"AI\s+making\s+internet\s+worse",
+    r"AI\s+ruined\s+search",
+    # Everyday frustration & company backlash
+    r"AI\s+customer\s+service",
+    r"can.t\s+talk\s+to\s+a?\s*human",
+    r"ChatGPT\s+getting\s+worse",
+    r"OpenAI\s+bad",
+    r"Copilot\s+sucks",
+    # Anti-AI sentiment
     r"anti[\-\s]?AI",
     r"#noAI",
     r"#antiAI",
+    r"#SupportHumanArtists",
+    r"human\s+made\s+not\s+AI",
 ]
 AI_RE = re.compile("|".join(AI_PATTERNS), re.IGNORECASE)
 
