@@ -61,58 +61,84 @@ AI_PATTERNS = [
     r"DALL[\-\s]?E",
     r"Copilot",
     r"Stable\s+Diffusion",
+    r"Google\s+AI",
     # Job displacement
     r"AI\s+taking\s+jobs",
     r"AI\s+replacing",
     r"AI\s+layoffs",
     r"AI\s+killed\s+my\s+career",
+    r"AI\s+take\s+my\s+job",
+    r"AI\s+replace\s+me",
+    r"AI\s+job\s+loss",
+    r"AI\s+automation",
     # Environment
     r"AI\s+data\s+center",
     r"AI\s+energy",
     r"AI\s+water\s+usage",
     r"AI\s+carbon",
+    r"AI\s+climate",
+    r"AI\s+power\s+grid",
     # Creative theft
     r"AI\s+art\s+theft",
     r"AI\s+stealing",
     r"stop\s+AI\s+art",
     r"AI\s+music\s+theft",
     r"AI\s+voice\s+cloning",
+    r"AI\s+vs\s+artists",
+    r"AI\s+copyright",
+    r"protect\s+artists",
     # Privacy
     r"AI\s+watching\s+me",
     r"AI\s+spying",
     r"AI\s+facial\s+recognition",
+    r"AI\s+surveillance",
+    r"AI\s+tracking",
     # Education
     r"AI\s+cheating",
     r"ban\s+ChatGPT",
     r"AI\s+ruining\s+education",
+    r"AI\s+plagiarism",
     # Safety
     r"AI\s+dangerous",
     r"ban\s+AI",
     r"AI\s+out\s+of\s+control",
     r"AI\s+regulation",
-    # Deepfakes
+    r"stop\s+AI\b",
+    # Deepfakes & misinformation
     r"AI\s+deepfake",
     r"deepfake\s+danger",
     r"AI\s+scam",
     r"AI\s+fake\s+news",
+    r"AI\s+misinformation",
     # Slop & quality degradation
     r"AI\s+slop",
     r"AI\s+spam",
     r"AI\s+garbage",
     r"AI\s+making\s+internet\s+worse",
     r"AI\s+ruined\s+search",
+    r"AI\s+ruining\s+everything",
+    r"AI\s+generated\s+content",
     # Everyday frustration & company backlash
     r"AI\s+customer\s+service",
     r"can.t\s+talk\s+to\s+a?\s*human",
     r"ChatGPT\s+getting\s+worse",
     r"OpenAI\s+bad",
     r"Copilot\s+sucks",
-    # Anti-AI sentiment
+    r"AI\s+chatbot",
+    r"AI\s+overrated",
+    r"AI\s+bubble",
+    # Anti-AI sentiment & affirmative resistance
     r"anti[\-\s]?AI",
     r"#noAI",
     r"#antiAI",
     r"#SupportHumanArtists",
     r"human\s+made\s+not\s+AI",
+    r"#AIart",
+    r"no\s+AI\s+used",
+    r"real\s+artist",
+    r"AI\s+overhyped",
+    r"quit\s+AI",
+    r"hate\s+AI",
 ]
 AI_RE = re.compile("|".join(AI_PATTERNS), re.IGNORECASE)
 
@@ -248,6 +274,54 @@ def find_ai_terms(text: str) -> list[str]:
             terms.add("human_artists")
         elif "antiai" in m_clean or "noai" in m_clean or "anti ai" in m_clean:
             terms.add("anti_AI")
+        elif "surveillance" in m_clean:
+            terms.add("AI_surveillance")
+        elif "tracking" in m_clean:
+            terms.add("AI_tracking")
+        elif "plagiarism" in m_clean:
+            terms.add("AI_plagiarism")
+        elif "misinformation" in m_clean:
+            terms.add("AI_misinformation")
+        elif "copyright" in m_clean:
+            terms.add("AI_copyright")
+        elif "protect" in m_clean and "artist" in m_clean:
+            terms.add("protect_artists")
+        elif "vs" in m_clean and "artist" in m_clean:
+            terms.add("AI_vs_artists")
+        elif "climate" in m_clean:
+            terms.add("AI_climate")
+        elif "power grid" in m_clean:
+            terms.add("AI_power_grid")
+        elif "automation" in m_clean:
+            terms.add("AI_automation")
+        elif "job loss" in m_clean:
+            terms.add("AI_job_loss")
+        elif "chatbot" in m_clean:
+            terms.add("AI_chatbot")
+        elif "overrated" in m_clean:
+            terms.add("AI_overrated")
+        elif "overhyped" in m_clean:
+            terms.add("AI_overhyped")
+        elif "bubble" in m_clean:
+            terms.add("AI_bubble")
+        elif "ruining everything" in m_clean:
+            terms.add("AI_ruining_everything")
+        elif "generated content" in m_clean:
+            terms.add("AI_generated_content")
+        elif "#aiart" in m_clean:
+            terms.add("AI_art_hashtag")
+        elif "no ai used" in m_clean:
+            terms.add("no_AI_used")
+        elif "real artist" in m_clean:
+            terms.add("real_artist")
+        elif "quit" in m_clean:
+            terms.add("quit_AI")
+        elif "hate" in m_clean:
+            terms.add("hate_AI")
+        elif "stop ai" in m_clean:
+            terms.add("stop_AI")
+        elif "google" in m_clean:
+            terms.add("Google_AI")
         else:
             terms.add(m_clean.replace(" ", "_"))
     return sorted(terms)
