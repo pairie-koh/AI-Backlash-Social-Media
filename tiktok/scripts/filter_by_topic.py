@@ -128,9 +128,13 @@ YES — The video expresses negativity, worry, or criticism about AI. This inclu
 - AI in education concerns (cheating, plagiarism, deskilling)
 - Calls to regulate, ban, or slow down AI
 - Existential risk, safety, or alignment concerns
+- Complaints about AI slop, spam, or low-quality AI content flooding the internet
+- Frustration with AI customer service replacing human support
+- Criticism that AI products are getting worse (ChatGPT, Copilot, Google AI, etc.)
+- AI ruining search results or making the internet worse
 - General anti-AI sentiment or tech backlash
 - Personal stories about being negatively affected by AI
-- Criticism of AI companies (OpenAI, Google, Meta, etc.)
+- Celebrating human-made work as resistance to AI ("no AI used", "real artist")
 
 NO — The video mentions AI but is NOT expressing backlash. This includes:
 - AI tutorials, tips, or how-to content
@@ -223,15 +227,27 @@ def find_ai_terms(text: str) -> list[str]:
         elif "dall" in m_clean:
             terms.add("DALL-E")
         elif "stable diffusion" in m_clean:
-            terms.add("Stable Diffusion")
+            terms.add("Stable_Diffusion")
+        elif "copilot" in m_clean:
+            terms.add("Copilot")
         elif "artificial intelligence" in m_clean:
             terms.add("AI")
-        elif "machine learning" in m_clean:
-            terms.add("machine_learning")
-        elif "deep learning" in m_clean:
-            terms.add("deep_learning")
         elif "deepfake" in m_clean:
             terms.add("deepfake")
+        elif "slop" in m_clean:
+            terms.add("AI_slop")
+        elif "spam" in m_clean:
+            terms.add("AI_spam")
+        elif "garbage" in m_clean:
+            terms.add("AI_garbage")
+        elif "customer service" in m_clean:
+            terms.add("AI_customer_service")
+        elif "human" in m_clean and ("talk" in m_clean or "made" in m_clean):
+            terms.add("human_vs_AI")
+        elif "supporthumanartists" in m_clean:
+            terms.add("human_artists")
+        elif "antiai" in m_clean or "noai" in m_clean or "anti ai" in m_clean:
+            terms.add("anti_AI")
         else:
             terms.add(m_clean.replace(" ", "_"))
     return sorted(terms)

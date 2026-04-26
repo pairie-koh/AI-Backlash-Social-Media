@@ -44,7 +44,7 @@ PROGRESS_FILE = DATA_DIR / "backlash_theme_progress.json"
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
 LLM_MODEL = os.environ.get("LLM_MODEL", "anthropic/claude-sonnet-4")
 
-VALID_THEMES = ["JOBS", "ENVIRONMENT", "CREATIVE", "PRIVACY", "EDUCATION", "SAFETY", "MISINFO", "GENERAL"]
+VALID_THEMES = ["JOBS", "ENVIRONMENT", "CREATIVE", "PRIVACY", "EDUCATION", "SAFETY", "MISINFO", "SLOP", "FRUSTRATION", "GENERAL"]
 
 CLASSIFY_PROMPT = """A TikTok video expresses criticism or concern about AI. Classify the PRIMARY THEME of the backlash.
 
@@ -71,10 +71,16 @@ Examples: "AI could destroy humanity", "We need to regulate AI now", "AI is out 
 MISINFO — Deepfakes, AI misinformation, fake news, AI scams, AI manipulation
 Examples: "AI deepfakes are ruining democracy", "You can't trust anything anymore", "AI scam calls"
 
+SLOP — AI-generated low-quality content flooding platforms/internet, AI spam, AI ruining search results
+Examples: "AI slop is everywhere", "Google search is ruined by AI", "The internet is full of AI garbage"
+
+FRUSTRATION — Frustration with AI products/services: AI customer service, chatbots replacing humans, AI getting worse
+Examples: "I can't talk to a real person anymore", "ChatGPT is getting dumber", "Copilot sucks"
+
 GENERAL — General anti-AI sentiment, tech backlash, AI bubble, AI overhyped, doesn't fit above
 Examples: "AI is ruining everything", "The AI bubble will burst", "I hate AI"
 
-Respond with exactly one word from: JOBS, ENVIRONMENT, CREATIVE, PRIVACY, EDUCATION, SAFETY, MISINFO, GENERAL
+Respond with exactly one word from: JOBS, ENVIRONMENT, CREATIVE, PRIVACY, EDUCATION, SAFETY, MISINFO, SLOP, FRUSTRATION, GENERAL
 
 ---
 Description: {description}

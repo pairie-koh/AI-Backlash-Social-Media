@@ -50,8 +50,9 @@ Given the video's description and transcript, extract:
    - "education" (cheating, plagiarism, academic integrity, deskilling)
    - "safety" (existential risk, alignment, AI dangerous, loss of control)
    - "misinfo" (deepfakes, misinformation, fake news, scams)
+   - "slop" (AI-generated low-quality content, AI spam, AI garbage, AI ruining search/internet)
+   - "frustration" (AI customer service, chatbots replacing humans, AI products getting worse)
    - "regulation" (calls to regulate, ban, slow down AI)
-   - "labor_rights" (workers' rights, unionization against AI, fair compensation)
    - "general" (broad anti-AI sentiment that doesn't fit specific categories)
 
 2. specific_concerns: List each specific concern or criticism raised.
