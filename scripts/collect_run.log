@@ -1,0 +1,153 @@
+RESUME mode — loaded 139 snapshots from manifest
+
+Polling every 30s (max 120m)...
+
+    [27s] tiktok/'AI taking jobs': 183 records
+    [27s] tiktok/'AI replacing workers': 157 records
+    [27s] tiktok/'AI layoffs': 162 records
+    [27s] tiktok/'AI killed my career': 0 records
+    [27s] tiktok/'will AI take my job': 152 records
+    [27s] youtube/'AI taking jobs': 441 records
+    [27s] tiktok/'ChatGPT replacing jobs': 108 records
+    [27s] youtube/'AI replacing workers': 442 records
+    [27s] tiktok/'AI replace me': 147 records
+    [27s] tiktok/'AI job loss': 152 records
+    [27s] youtube/'ChatGPT replacing jobs': 435 records
+    [27s] youtube/'will AI take my job': 410 records
+    [27s] youtube/'AI layoffs': 400 records
+    [27s] tiktok/'AI data centers': 181 records
+    [27s] tiktok/'AI automation jobs': 161 records
+    [27s] tiktok/'AI energy consumption': 133 records
+    [27s] tiktok/'AI water usage': 173 records
+    [27s] tiktok/'AI carbon footprint': 128 records
+    [27s] tiktok/'AI climate change': 146 records
+    [27s] youtube/'AI automation jobs': 416 records
+    [27s] tiktok/'AI power grid': 136 records
+    [27s] youtube/'AI data centers': 386 records
+    [27s] tiktok/'AI art theft': 120 records
+    [27s] tiktok/'AI stealing art': 102 records
+    [27s] tiktok/'stop AI art': 139 records
+    [27s] tiktok/'AI vs artists': 159 records
+    [27s] tiktok/'AI music theft': 119 records
+    [27s] tiktok/'AI voice cloning danger': 131 records
+    [27s] tiktok/'AI copyright': 170 records
+    [27s] youtube/'AI killed my career': 338 records
+    [27s] tiktok/'protect artists from AI': 120 records
+    [27s] tiktok/'AI watching me': 113 records
+    [27s] tiktok/'AI facial recognition': 149 records
+    [27s] tiktok/'AI spying': 101 records
+    [27s] tiktok/'AI surveillance': 160 records
+    [27s] tiktok/'AI tracking': 157 records
+    [27s] tiktok/'ChatGPT cheating': 142 records
+    [27s] tiktok/'ban ChatGPT school': 94 records
+    [27s] tiktok/'AI ruining education': 133 records
+    [27s] tiktok/'AI cheating school': 140 records
+    [27s] tiktok/'AI plagiarism': 153 records
+    [27s] youtube/'ban ChatGPT school': 360 records
+    [27s] tiktok/'AI dangerous': 162 records
+    [27s] tiktok/'ban AI': 124 records
+    [27s] tiktok/'AI out of control': 138 records
+    [27s] tiktok/'AI regulation': 136 records
+    [27s] youtube/'ban AI': 444 records
+    [27s] tiktok/'AI deepfake': 177 records
+    [27s] tiktok/'stop AI': 175 records
+    [27s] youtube/'AI out of control': 352 records
+    [27s] tiktok/'deepfake danger': 113 records
+    [27s] tiktok/'AI scam': 132 records
+    [27s] tiktok/'AI fake news': 162 records
+    [27s] tiktok/'AI misinformation': 115 records
+    [27s] tiktok/'AI slop': 173 records
+    [27s] tiktok/'AI spam': 87 records
+    [27s] youtube/'AI slop': 322 records
+    [27s] tiktok/'AI garbage': 129 records
+    [27s] tiktok/'Google AI ruined search': 124 records
+    [27s] tiktok/'AI making internet worse': 97 records
+    [27s] tiktok/'AI ruining everything': 142 records
+    [27s] tiktok/'AI generated content problem': 149 records
+    [27s] tiktok/'AI customer service sucks': 116 records
+    [27s] tiktok/"can't talk to a human": 102 records
+    [27s] tiktok/'ChatGPT getting worse': 142 records
+    [27s] tiktok/'OpenAI bad': 137 records
+    [27s] tiktok/'AI chatbot useless': 122 records
+    [27s] tiktok/'Copilot sucks': 92 records
+    [27s] tiktok/'AI overrated': 99 records
+    [27s] youtube/'Copilot sucks': 353 records
+    [27s] tiktok/'AI bubble': 173 records
+    [27s] tiktok/'#antiAI': 155 records
+    [27s] tiktok/'human made not AI': 129 records
+    [27s] tiktok/'#SupportHumanArtists': 147 records
+    [27s] tiktok/'#noAI': 244 records
+    [27s] tiktok/'#AIart': 246 records
+    [27s] tiktok/'AI overhyped': 127 records
+    [27s] tiktok/'no AI used': 151 records
+    [27s] tiktok/'why I quit AI': 121 records
+    [27s] tiktok/'real artist not AI': 141 records
+    [27s] youtube/'#AIart': 381 records
+    [27s] tiktok/'AI taking jobs': 184 records
+    [27s] tiktok/'I hate AI': 170 records
+    [27s] youtube/'AI replacing workers': 497 records
+    [27s] youtube/'AI taking jobs': 485 records
+      -> tiktok: 8108 unique videos in raw
+      -> youtube: 5409 unique videos in raw
+    --- 85/139 complete, 54 pending ---
+
+    [229s] youtube/'AI power grid': 416 records
+    [229s] youtube/'AI replace me': 396 records
+    [229s] youtube/'AI carbon footprint': 409 records
+    [229s] youtube/'AI water usage': 445 records
+    [229s] youtube/'AI climate change': 443 records
+    [229s] youtube/'AI job loss': 419 records
+    [229s] youtube/'AI energy consumption': 452 records
+    [229s] youtube/'AI music theft': 410 records
+    [229s] youtube/'AI art theft': 492 records
+    [229s] youtube/'stop AI art': 437 records
+    [229s] youtube/'AI vs artists': 492 records
+    [229s] youtube/'AI voice cloning danger': 438 records
+    [229s] youtube/'AI stealing art': 437 records
+    [229s] youtube/'AI copyright': 412 records
+    [229s] youtube/'protect artists from AI': 441 records
+    [229s] youtube/'AI facial recognition': 450 records
+    [229s] youtube/'AI surveillance': 442 records
+    [229s] youtube/'AI spying': 415 records
+    [229s] youtube/'AI watching me': 409 records
+    [229s] youtube/'AI tracking': 420 records
+    [229s] youtube/'ChatGPT cheating': 405 records
+    [229s] youtube/'AI ruining education': 334 records
+    [229s] youtube/'AI plagiarism': 383 records
+    [229s] youtube/'AI cheating school': 403 records
+    [229s] youtube/'AI regulation': 419 records
+    [229s] youtube/'AI dangerous': 363 records
+    [229s] youtube/'AI deepfake': 393 records
+    [229s] youtube/'stop AI': 404 records
+    [229s] youtube/'AI scam': 403 records
+    [229s] youtube/'deepfake danger': 397 records
+    [229s] youtube/'AI fake news': 424 records
+    [229s] youtube/'AI misinformation': 401 records
+    [229s] youtube/'AI spam': 400 records
+    [229s] youtube/'AI garbage': 445 records
+    [229s] youtube/'AI making internet worse': 334 records
+    [229s] youtube/'AI generated content problem': 361 records
+    [229s] youtube/'AI ruining everything': 392 records
+    [229s] youtube/'Google AI ruined search': 290 records
+    [229s] youtube/'AI customer service sucks': 335 records
+    [229s] youtube/"can't talk to a human": 339 records
+    [229s] youtube/'AI chatbot useless': 386 records
+    [229s] youtube/'#antiAI': 394 records
+    [229s] youtube/'ChatGPT getting worse': 358 records
+    [229s] youtube/'AI bubble': 366 records
+    [229s] youtube/'OpenAI bad': 340 records
+    [229s] youtube/'#SupportHumanArtists': 334 records
+    [229s] youtube/'#noAI': 338 records
+    [229s] youtube/'AI overrated': 373 records
+    [229s] youtube/'human made not AI': 265 records
+    [229s] youtube/'real artist not AI': 312 records
+    [229s] youtube/'why I quit AI': 324 records
+    [229s] youtube/'AI overhyped': 388 records
+    [229s] youtube/'I hate AI': 394 records
+    [229s] youtube/'no AI used': 313 records
+      -> youtube: 23865 unique videos in raw
+    --- 139/139 complete, 0 pending ---
+
+
+Done in 8m 17s
+  tiktok: 8108 unique videos in tiktok\data\raw\tiktok_raw.json

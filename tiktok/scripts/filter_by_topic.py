@@ -14,25 +14,31 @@ import io
 import json
 import os
 import sys
+import threading
 import time
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 if sys.stdout.encoding != "utf-8":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 RAW_JSON = DATA_DIR / "raw" / "tiktok_raw.json"
 WHISPER_DIR = DATA_DIR / "whisper_transcripts"
 TIKTOK_DIR = DATA_DIR / "tiktok_transcripts"
 OUTPUT_CSV = DATA_DIR / "tiktok_ai_backlash_filtered.csv"
 PROGRESS_FILE = DATA_DIR / "filter_llm_progress.json"
+KEYS_FILE = REPO_ROOT / ".openrouter_keys"
 
 # --- API setup ---
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
+OPENROUTER_API_KEYS = os.environ.get("OPENROUTER_API_KEYS", "")
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 LLM_MODEL = os.environ.get("LLM_MODEL", "anthropic/claude-sonnet-4")
+WORKERS_PER_KEY = int(os.environ.get("WORKERS_PER_KEY", "3"))
 
 BACKLASH_PROMPT = """A TikTok video was found by searching for AI-related keywords. Does this video express criticism, concern, or backlash about AI?
 
@@ -70,21 +76,40 @@ Description: {description}
 Transcript: {transcript}"""
 
 
-def get_llm_client():
-    """Get an OpenAI-compatible client."""
+def _load_openrouter_keys():
+    """Load OpenRouter keys from env (comma-sep) or .openrouter_keys file."""
+    if OPENROUTER_API_KEYS.strip():
+        return [k.strip() for k in OPENROUTER_API_KEYS.split(",") if k.strip()]
+    if KEYS_FILE.exists():
+        return [
+            ln.strip()
+            for ln in KEYS_FILE.read_text(encoding="utf-8").splitlines()
+            if ln.strip() and not ln.lstrip().startswith("#")
+        ]
+    if OPENROUTER_API_KEY:
+        return [OPENROUTER_API_KEY]
+    return []
+
+
+def get_llm_clients():
+    """Return list of (client, model) pairs — one per OpenRouter key, or fallback."""
     from openai import OpenAI
 
-    if OPENROUTER_API_KEY:
-        return OpenAI(base_url="https://openrouter.ai/api/v1", api_key=OPENROUTER_API_KEY), LLM_MODEL
+    keys = _load_openrouter_keys()
+    if keys:
+        return [
+            (OpenAI(base_url="https://openrouter.ai/api/v1", api_key=k), LLM_MODEL)
+            for k in keys
+        ]
     if OPENAI_API_KEY:
-        return OpenAI(api_key=OPENAI_API_KEY), "gpt-4o-mini"
+        return [(OpenAI(api_key=OPENAI_API_KEY), "gpt-4o-mini")]
     if ANTHROPIC_API_KEY:
         try:
             import anthropic
-            return anthropic.Anthropic(api_key=ANTHROPIC_API_KEY), "claude-haiku-4-20250414"
+            return [(anthropic.Anthropic(api_key=ANTHROPIC_API_KEY), "claude-haiku-4-20250414")]
         except ImportError:
             pass
-    print("ERROR: Set OPENROUTER_API_KEY, OPENAI_API_KEY, or ANTHROPIC_API_KEY")
+    print("ERROR: Set OPENROUTER_API_KEYS / OPENROUTER_API_KEY / OPENAI_API_KEY / ANTHROPIC_API_KEY")
     sys.exit(1)
 
 
@@ -140,9 +165,14 @@ def deduplicate(raw_videos: list[dict]) -> list[dict]:
 
 
 def classify_backlash(videos: list[dict]) -> list[dict]:
-    """Use LLM to classify each video as backlash or not."""
-    client, model = get_llm_client()
+    """Use LLM to classify each video as backlash or not (concurrent, key-pooled)."""
+    clients = get_llm_clients()
+    n_keys = len(clients)
+    n_workers = max(1, n_keys * WORKERS_PER_KEY)
+    model = clients[0][1]
+
     print(f"  Using model: {model}")
+    print(f"  Keys: {n_keys}, workers: {n_workers} ({WORKERS_PER_KEY} per key)")
     print(f"  Videos to classify: {len(videos)}")
 
     # Resume from progress
@@ -152,30 +182,32 @@ def classify_backlash(videos: list[dict]) -> list[dict]:
             already_done = json.load(f)
         print(f"  Resuming: {len(already_done)} already classified")
 
-    api_calls = 0
-    errors = 0
-
-    for i, v in enumerate(videos):
+    # Build pending list — load transcripts and skip already-done
+    pending = []
+    for v in videos:
         pid = str(v.get("post_id", ""))
-
-        # Load transcript for this video
-        transcript = get_transcript(pid)
-        v["_transcript"] = transcript
-
+        v["_transcript"] = get_transcript(pid)
         if pid in already_done:
             v["_backlash"] = already_done[pid]
             continue
+        pending.append(v)
+    print(f"  Pending: {len(pending)} (skipping {len(videos) - len(pending)} already classified)")
+
+    state_lock = threading.Lock()
+    counters = {"api_calls": 0, "errors": 0, "completed": 0}
+    start = time.time()
+
+    def classify_one(idx_v):
+        idx, v = idx_v
+        pid = str(v.get("post_id", ""))
+        client, model_ = clients[idx % n_keys]
 
         description = (v.get("description", "") or "")[:500]
-        transcript_text = transcript[:1500]
-
-        prompt = BACKLASH_PROMPT.format(
-            description=description,
-            transcript=transcript_text,
-        )
+        transcript_text = (v.get("_transcript", "") or "")[:1500]
+        prompt = BACKLASH_PROMPT.format(description=description, transcript=transcript_text)
 
         try:
-            result = llm_call(client, model, prompt, max_tokens=10).upper().strip()
+            result = llm_call(client, model_, prompt, max_tokens=10).upper().strip()
             if result not in ("YES", "NO"):
                 if "YES" in result:
                     result = "YES"
@@ -183,30 +215,48 @@ def classify_backlash(videos: list[dict]) -> list[dict]:
                     result = "NO"
                 else:
                     result = "UNKNOWN"
-            api_calls += 1
+            with state_lock:
+                counters["api_calls"] += 1
         except Exception as e:
+            with state_lock:
+                counters["errors"] += 1
             print(f"    Error on {pid}: {e}")
             result = "UNKNOWN"
-            errors += 1
 
         v["_backlash"] = result
-        already_done[pid] = result
+        with state_lock:
+            already_done[pid] = result
+            counters["completed"] += 1
+            done = counters["completed"]
+            if done % 50 == 0 or done == len(pending):
+                with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
+                    json.dump(already_done, f)
+                yes_count = sum(1 for t in already_done.values() if t == "YES")
+                no_count = sum(1 for t in already_done.values() if t == "NO")
+                rate = done / max(time.time() - start, 1e-9)
+                eta = (len(pending) - done) / rate if rate > 0 else float("inf")
+                print(
+                    f"    [{done}/{len(pending)}] {rate:.1f}/s | "
+                    f"YES: {yes_count} NO: {no_count} | "
+                    f"errors: {counters['errors']} | "
+                    f"ETA: {eta/60:.1f}m"
+                )
+        return v
 
-        # Save progress every 25
-        if (api_calls + errors) % 25 == 0:
-            with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
-                json.dump(already_done, f)
-            yes_count = sum(1 for t in already_done.values() if t == "YES")
-            no_count = sum(1 for t in already_done.values() if t == "NO")
-            print(f"    [{i+1}/{len(videos)}] API calls: {api_calls} | YES: {yes_count}, NO: {no_count}")
-
-        time.sleep(0.15)
+    with ThreadPoolExecutor(max_workers=n_workers) as ex:
+        futures = [ex.submit(classify_one, (i, v)) for i, v in enumerate(pending)]
+        for fut in as_completed(futures):
+            try:
+                fut.result()
+            except Exception as e:
+                print(f"    Worker exception: {e}")
 
     # Final save
     with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
         json.dump(already_done, f)
 
-    print(f"\n  Done. API calls: {api_calls}, errors: {errors}")
+    elapsed = int(time.time() - start)
+    print(f"\n  Done in {elapsed//60}m {elapsed%60}s. API calls: {counters['api_calls']}, errors: {counters['errors']}")
     topic_counts = Counter(v.get("_backlash", "UNKNOWN") for v in videos)
     for t, c in topic_counts.most_common():
         print(f"    {t}: {c} ({c/len(videos)*100:.1f}%)")

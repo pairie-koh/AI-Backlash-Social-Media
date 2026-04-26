@@ -1,0 +1,511 @@
+Loading v1 filtered CSV...
+  Total rows: 23865  YES rows: 11467
+
+=== Strict v2 verification of YES rows ===
+  Using model: anthropic/claude-sonnet-4
+  Keys: 7, workers: 21 (3 per key)
+  YES rows to verify: 11467
+  Pending: 11467 (skipping 0 cached)
+    Error on _ssJW9_K8C0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 2s1pw5V9XU4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on -OqB7uHv9Ls: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on VEp5E8PJpjk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on QqX8fRCnrWA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [50/11467] 6.9/s | confirmed YES: 28 demoted NO: 17 | errors: 5 | ETA: 27.6m
+    Error on 0wHK_lb7G7E: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on sxBMCbUH-pY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on zKKbKEWKMUo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [100/11467] 9.0/s | confirmed YES: 49 demoted NO: 43 | errors: 8 | ETA: 21.1m
+    Error on r4aMUfEi0Co: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 8PDW7Kvd9WY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on KMvJgt-V8Nc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [150/11467] 10.1/s | confirmed YES: 75 demoted NO: 64 | errors: 11 | ETA: 18.7m
+    Error on R7vd-pPJZbc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on NIXeEo8NXBw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on qGXmq-PmGtU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [200/11467] 10.8/s | confirmed YES: 97 demoted NO: 89 | errors: 14 | ETA: 17.5m
+    Error on RVlfP7NTCFs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on hlPK3dPsszQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Wynqiyg7tOA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on uyaaHVnUHOs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on yTddYlKHjPA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on TBt04VmgrRE: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [250/11467] 11.0/s | confirmed YES: 117 demoted NO: 112 | errors: 20 | ETA: 17.0m
+    Error on FCIoJ6YqFks: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 2JlfpNRtB_8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on vPCHOcDVqgc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on P-Qx6pDpdVI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [300/11467] 11.1/s | confirmed YES: 135 demoted NO: 140 | errors: 24 | ETA: 16.8m
+    Error on b-15DfuWg8M: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 8P9Fzvrrh4w: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [350/11467] 10.9/s | confirmed YES: 151 demoted NO: 172 | errors: 26 | ETA: 17.0m
+    Error on GXL9OwUzizM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on fhh9unjOeuI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on PYWUP8zcNMs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Zcpj-U5lcAc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 9caIQspIlcM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [400/11467] 10.4/s | confirmed YES: 172 demoted NO: 195 | errors: 31 | ETA: 17.8m
+    Error on 7Mp_UKRFf1E: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Ull9VcMDJ14: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on z7mVJVir4mo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on JXUnB5lJY_4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 2Xe6YVkjlMk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on m1HqFjXObTA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [450/11467] 10.5/s | confirmed YES: 190 demoted NO: 221 | errors: 37 | ETA: 17.4m
+    Error on OY-wUeguBxY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on s_NkH0RXsVw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on MWIdo5eOgrk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on -2I5EPF5deQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [500/11467] 10.8/s | confirmed YES: 202 demoted NO: 255 | errors: 41 | ETA: 16.9m
+    Error on BTTXjHxfeac: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on vHIz8veYvnI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on BYizgB2FcAQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on TCczsjUPBSw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 6go-JrhMJwM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on nWqfVlIYHUg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [550/11467] 11.1/s | confirmed YES: 220 demoted NO: 281 | errors: 47 | ETA: 16.5m
+    Error on 0Wf4rr4wAOk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on bxMZLjLpiqw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on DjQx2TDzWsU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on LHZIDsHSmJs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 3Vf_xlX8N94: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [600/11467] 11.3/s | confirmed YES: 232 demoted NO: 314 | errors: 52 | ETA: 16.1m
+    Error on 0JmssIDKcXU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 6m2nV_n5bgs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on cJfKqKEyw1o: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on v3bMNwxwKA8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on zQThHCB_aec: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on MGyu2zwBqC8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [650/11467] 11.5/s | confirmed YES: 245 demoted NO: 345 | errors: 58 | ETA: 15.7m
+    Error on 9VGGOO_KoBo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 7kyWL78E2LE: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on YQw1vM8UCpU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [700/11467] 11.7/s | confirmed YES: 259 demoted NO: 378 | errors: 61 | ETA: 15.3m
+    Error on zrRPOchwcR4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on avZ7SUOedTo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on RcEzdnyPh9M: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on ZQxFu68Uko8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [750/11467] 11.9/s | confirmed YES: 271 demoted NO: 411 | errors: 65 | ETA: 15.1m
+    Error on Jk_mrWq-S58: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [800/11467] 8.9/s | confirmed YES: 288 demoted NO: 443 | errors: 66 | ETA: 19.9m
+    Error on 8-8WSaizjDY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Ly1Gp9-y5-8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Kbng0AyO5Vs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 3JdV2qGCAFk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on im4re4zSrpk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [850/11467] 9.1/s | confirmed YES: 304 demoted NO: 472 | errors: 71 | ETA: 19.5m
+    Error on 8Xp7ZpPxcGQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on u6QEs7BJjfw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [900/11467] 9.2/s | confirmed YES: 326 demoted NO: 498 | errors: 73 | ETA: 19.1m
+    Error on 3EBqWe3d3CI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 8FDHQKwfDSs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [950/11467] 9.3/s | confirmed YES: 343 demoted NO: 529 | errors: 75 | ETA: 18.8m
+    Error on eupDkKbA7Q8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 6aYyUUQxB50: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on tuE_WGSQGLU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on z7jDEgptePc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1000/11467] 9.4/s | confirmed YES: 368 demoted NO: 550 | errors: 79 | ETA: 18.5m
+    Error on 0bWQzy5nfhQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on h4T6QYA8pl0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on m6A8jqLNjDM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1050/11467] 9.5/s | confirmed YES: 392 demoted NO: 573 | errors: 82 | ETA: 18.2m
+    Error on L6hw481g_7w: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 9JqfhbcoQm0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on I6KrNcXvdrk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on SfXCIlGro_o: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1100/11467] 9.7/s | confirmed YES: 405 demoted NO: 606 | errors: 86 | ETA: 17.8m
+    Error on Um4XnmMKau8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on fzF7Mv6babw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on zOkvJ5Ora84: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on uhgi2H_MNMo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1150/11467] 9.8/s | confirmed YES: 425 demoted NO: 632 | errors: 90 | ETA: 17.5m
+    Error on dvk3Gi0Er9c: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 7KdY-ZBJohw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on -F_kFq7YQrw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on PYjZUKnZSzk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1200/11467] 9.9/s | confirmed YES: 444 demoted NO: 659 | errors: 94 | ETA: 17.3m
+    Error on c5IBdU2ty5c: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Ctevk8aq8XI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on zXSdS-POi-4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on R_LIl2hDRzQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on -r9y5qkrjLM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1250/11467] 10.0/s | confirmed YES: 466 demoted NO: 682 | errors: 99 | ETA: 17.0m
+    Error on UCV692sxr_Q: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on J-3E_mMaYyQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1300/11467] 10.1/s | confirmed YES: 489 demoted NO: 707 | errors: 101 | ETA: 16.8m
+    Error on UxVRrorZ4RM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on -r07UMIrVPQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1350/11467] 10.2/s | confirmed YES: 515 demoted NO: 729 | errors: 103 | ETA: 16.6m
+    Error on OFlRcY1t3gY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on xOjMXPOhnlg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on G15hb33VFmU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on hDJJYeHWsQw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1400/11467] 10.2/s | confirmed YES: 528 demoted NO: 762 | errors: 107 | ETA: 16.4m
+    Error on e70RT6c01M8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 26WJ8usMEpQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 5YOouYOZOSI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1450/11467] 10.4/s | confirmed YES: 546 demoted NO: 790 | errors: 110 | ETA: 16.1m
+    Error on ttgJ1e2afdA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on AnX_YrnjrZg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on jG9aLEawV7Y: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1500/11467] 10.4/s | confirmed YES: 565 demoted NO: 818 | errors: 113 | ETA: 16.0m
+    Error on pU2prVifda8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 75nJi81ZtMU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1550/11467] 10.3/s | confirmed YES: 576 demoted NO: 855 | errors: 115 | ETA: 16.0m
+    Error on MisvqfF0p40: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on KSWeoc0KLOI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on MjSUCg2NN4g: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1600/11467] 10.3/s | confirmed YES: 589 demoted NO: 889 | errors: 118 | ETA: 15.9m
+    Error on 51ZRtnblNO4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on WK7wNRs5G68: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 4TmS8hvUMOg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 48xMTCu_b2E: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1650/11467] 10.3/s | confirmed YES: 606 demoted NO: 918 | errors: 122 | ETA: 15.8m
+    Error on t-8TDOFqkQA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on lPM6EBTCzjY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on rIElevIJXqw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1700/11467] 10.3/s | confirmed YES: 630 demoted NO: 941 | errors: 125 | ETA: 15.9m
+    Error on 9K9bDvYHa18: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on LkHtqyEfgGw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1750/11467] 10.2/s | confirmed YES: 649 demoted NO: 970 | errors: 127 | ETA: 15.8m
+    Error on 6B2x2FrJa6w: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on yQeWr8Hnrec: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1800/11467] 10.1/s | confirmed YES: 667 demoted NO: 1000 | errors: 129 | ETA: 15.9m
+    Error on xr3UgtHbbYU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on dUSXQGTpRNQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on reWfsOYAc0c: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1850/11467] 10.0/s | confirmed YES: 683 demoted NO: 1031 | errors: 132 | ETA: 16.0m
+    Error on molpwsvF1Bs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on FSgN7UPSYvY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 8nzLYaZ0i4g: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1900/11467] 9.9/s | confirmed YES: 694 demoted NO: 1067 | errors: 135 | ETA: 16.0m
+    Error on m6cG_gdKjmU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on __k4DfZWZQ0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on UAtAA5J110w: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on RHysyLcofho: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 2LT-T5kn6uQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [1950/11467] 9.9/s | confirmed YES: 705 demoted NO: 1101 | errors: 140 | ETA: 15.9m
+    Error on K-4fciqvwYs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 9zC0IUXYKAQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 058FgrNaNs0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2000/11467] 10.0/s | confirmed YES: 715 demoted NO: 1137 | errors: 143 | ETA: 15.7m
+    Error on A8CSM2tFGXM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on w4gQB1x4akE: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Vi5hpMN6R24: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2050/11467] 10.1/s | confirmed YES: 730 demoted NO: 1169 | errors: 146 | ETA: 15.6m
+    Error on AUdc1AAmp60: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on co0u9qxevRs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on q4Dc_QGukcg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on tUyxsCJm7sw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2100/11467] 10.2/s | confirmed YES: 748 demoted NO: 1197 | errors: 150 | ETA: 15.4m
+    Error on Nl7-bRFSZBs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Mzf1qzcjIpM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on rt-b1OMuZws: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2150/11467] 10.2/s | confirmed YES: 776 demoted NO: 1216 | errors: 153 | ETA: 15.2m
+    Error on pKRrvkiFGYQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on JJhHbkeY0qo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on xJSEkO6LHXI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on YuxDtJmHGk4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2200/11467] 10.3/s | confirmed YES: 797 demoted NO: 1241 | errors: 157 | ETA: 15.0m
+    Error on VwCDL_liNIU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on dT5IJExTUR4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on vHSLSFoy39Y: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on hKil2PgOiNI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2250/11467] 10.1/s | confirmed YES: 823 demoted NO: 1261 | errors: 161 | ETA: 15.2m
+    Error on sTororpp3kU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on ja1S5tOBgTM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on gajL7fUfhVU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on oqT6OHJkM4Q: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2300/11467] 10.0/s | confirmed YES: 852 demoted NO: 1278 | errors: 165 | ETA: 15.2m
+    Error on 4XfEzMIRQEc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on NgMcKBM1kcU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on qKqrmS6dKDg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on fWKLLSPeAZA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on y65z-ysB0e4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2350/11467] 10.0/s | confirmed YES: 882 demoted NO: 1293 | errors: 170 | ETA: 15.2m
+    Error on 10pjryz362c: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on qcwtt-RKQpg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on vVwoRaadEJI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on QyIlxg3z2eQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2400/11467] 9.9/s | confirmed YES: 913 demoted NO: 1308 | errors: 174 | ETA: 15.3m
+    Error on DDRH4UBQesI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Ekcw7h82cg4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on TwTgxMAkLdc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on h7bYF7ZW4fY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2450/11467] 9.8/s | confirmed YES: 932 demoted NO: 1335 | errors: 178 | ETA: 15.3m
+    Error on 2JP7Eh7IHlg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on yMPXvx-I1Xc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on pQpxB_SscG0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 7HYPhBH5hjo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2500/11467] 9.8/s | confirmed YES: 954 demoted NO: 1359 | errors: 182 | ETA: 15.3m
+    Error on GEC0iqf4bBg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on crG5EA8BXBs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on J5NUrWWhcf8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2550/11467] 9.7/s | confirmed YES: 963 demoted NO: 1397 | errors: 185 | ETA: 15.4m
+    Error on 82rGiYOyhFM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on bFsF6m_x-eU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on G5X2MoWUedI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 6OlV2Itw-7w: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on dC8f0MDDBOo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2600/11467] 9.6/s | confirmed YES: 972 demoted NO: 1433 | errors: 190 | ETA: 15.4m
+    Error on PnxUtiEr9wo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on yXG89l81WB4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on H7DaZ4g3zZI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on ctFmH7lHcaI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on NZp1B-oDB48: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2650/11467] 9.6/s | confirmed YES: 979 demoted NO: 1471 | errors: 195 | ETA: 15.4m
+    Error on r-2WCjlNRKc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 1C3nf2YhgQw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on atv9yMRmkbk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on CbfLUCS35KI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 9jO5CBxN-Ic: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on sq0OaVuItxw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on d_zcXaVVB7M: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2700/11467] 9.5/s | confirmed YES: 982 demoted NO: 1511 | errors: 202 | ETA: 15.4m
+    Error on VcfLPBll-3Y: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on pwQXFEO39fE: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Kjk509SEh-0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on UZ44e8MoPXw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 16GZU-yRa5E: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2750/11467] 9.5/s | confirmed YES: 985 demoted NO: 1553 | errors: 207 | ETA: 15.3m
+    Error on fuN7q5-C3-w: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on yR8DAhRBiWE: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on cF7o0MqianI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on J0tCO35AXCs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2800/11467] 9.4/s | confirmed YES: 990 demoted NO: 1594 | errors: 211 | ETA: 15.3m
+    Error on C8kVJc8nCvY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on xAOslAaUWpI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on U7FVMbmjLeQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on LJMLpF1fsLs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2850/11467] 9.4/s | confirmed YES: 998 demoted NO: 1632 | errors: 215 | ETA: 15.2m
+    Error on 4lKuEvu9opQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on dpVc9103ueM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on -qcMF7e4164: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2900/11467] 9.4/s | confirmed YES: 1003 demoted NO: 1673 | errors: 218 | ETA: 15.2m
+    Error on EDrd0P5xK_I: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 2FCW-6TUBZk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on LOTDdMU6X9o: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on BVTg-yJNRWk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on hmspj7UHONo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [2950/11467] 9.3/s | confirmed YES: 1018 demoted NO: 1703 | errors: 223 | ETA: 15.2m
+    Error on VT4J3my7xn8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on lxphy3kMYa4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on sjrwHaaSnBQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on FEuGUJ43oG0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on wFIEPdA7Vn4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Jbu6Z-doewY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3000/11467] 9.3/s | confirmed YES: 1045 demoted NO: 1719 | errors: 229 | ETA: 15.2m
+    Error on nIRbN52PA0o: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on tmo1-oNJXec: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on RNiYtGjFo-Y: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Essae3SWrF4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3050/11467] 9.3/s | confirmed YES: 1078 demoted NO: 1732 | errors: 233 | ETA: 15.1m
+    Error on Ffih6jsOJaY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on -BI-0-8vqwI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on VHbSaLw7HF4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on QWoSlaN9G7A: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on HCEoUkeoDOY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on TE7XQDSzIf4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on AaO_4geIkuY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3100/11467] 9.3/s | confirmed YES: 1102 demoted NO: 1751 | errors: 240 | ETA: 15.0m
+    Error on foiQHHzAPng: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on kgHIxKz4W5E: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 2a83y-Wnh5Q: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Gp9Ye_XRw8g: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on iLmYLVkuscg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3150/11467] 9.2/s | confirmed YES: 1114 demoted NO: 1784 | errors: 245 | ETA: 15.0m
+    Error on VtxUD-ozCsw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on YViieGtX71Y: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on PEc1HUFpQLs: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3200/11467] 9.2/s | confirmed YES: 1125 demoted NO: 1820 | errors: 248 | ETA: 15.0m
+    Error on NoMsxohaqWI: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Sqa8Zo2XWc4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on ZJS6_7w1mOA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on m7Qh0InxKZY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on SruKrxBqtjg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3250/11467] 9.2/s | confirmed YES: 1140 demoted NO: 1850 | errors: 253 | ETA: 14.9m
+    Error on SuXtobA64uk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Q0ImsxAu-G4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on y3msBbtKnfk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on QhW4ZSz3Y4s: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3300/11467] 9.1/s | confirmed YES: 1150 demoted NO: 1886 | errors: 257 | ETA: 14.9m
+    Error on CvEi-ygjpMY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on hZqsTQ7RLbY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on SFjfCbq_gvA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on DA1hVMa11tk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3350/11467] 9.1/s | confirmed YES: 1160 demoted NO: 1922 | errors: 261 | ETA: 14.9m
+    Error on KJi7q6f3M2k: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on M2xXcUNI0_4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on w1VuztP7QBk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on aIqdb4xOXgw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on RPlprmBxhOY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3400/11467] 9.1/s | confirmed YES: 1167 demoted NO: 1960 | errors: 266 | ETA: 14.8m
+    Error on u4_QYREBac8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on dop3JG_d2Cw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on ioplaSdSPD8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3450/11467] 9.1/s | confirmed YES: 1180 demoted NO: 1994 | errors: 269 | ETA: 14.8m
+    Error on PRtIJqz99Qw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 5wfiD853wQE: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on zK6w2c3AVnk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 2AjNBXxYbuM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3500/11467] 9.0/s | confirmed YES: 1209 demoted NO: 2011 | errors: 273 | ETA: 14.7m
+    Error on 6PSw6afjov0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on JIYRf_K56b4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on az-NYQ94mvY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on VX-Vay_jmYY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on FtuTFQS1vYw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3550/11467] 9.0/s | confirmed YES: 1233 demoted NO: 2032 | errors: 278 | ETA: 14.6m
+    Error on cZ9IJUAY3ms: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 5sFBySzNIX0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on BYNZc-I09Q4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3600/11467] 9.0/s | confirmed YES: 1259 demoted NO: 2053 | errors: 281 | ETA: 14.6m
+    Error on T5YyIiiSJYU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 8MLbOulrLA0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on QvO_XD2DlmE: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on BTYoD8GP7e0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3650/11467] 9.0/s | confirmed YES: 1291 demoted NO: 2067 | errors: 285 | ETA: 14.5m
+    Error on r_stOqEQ2Ow: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on MJQIQJYxey4: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 74EogFpafBE: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3700/11467] 9.0/s | confirmed YES: 1326 demoted NO: 2079 | errors: 288 | ETA: 14.4m
+    Error on Vo6vejJhiK0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on E3szMFWJp9c: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on EPTDJejVngM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on EhX3Dv1_hoo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3750/11467] 8.9/s | confirmed YES: 1352 demoted NO: 2099 | errors: 292 | ETA: 14.4m
+    Error on Ii2yblKRlY8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on xdWSZFF3eJk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on UXxyCBimRyM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 31L1YGbF29Q: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on Vj-d4HSlaM8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3800/11467] 8.9/s | confirmed YES: 1375 demoted NO: 2121 | errors: 297 | ETA: 14.4m
+    Error on 1w-TaJeyxw0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on fyXtJUd2c3Q: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 9aBNIekp4qY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on m2lJm7zWgvU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3850/11467] 8.9/s | confirmed YES: 1399 demoted NO: 2143 | errors: 301 | ETA: 14.3m
+    Error on 6NWtEEQFhd8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on smB26TPAmUo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on xR2hTuI4I8A: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on OzieJU6TJfg: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on YveS9BsFP9w: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3900/11467] 8.9/s | confirmed YES: 1420 demoted NO: 2167 | errors: 306 | ETA: 14.2m
+    Error on jNWcWF8j7Sw: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on OJWEZ1-OlUU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 608NpA7TA04: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on _cQBskn_LFA: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [3950/11467] 8.9/s | confirmed YES: 1436 demoted NO: 2197 | errors: 310 | ETA: 14.1m
+    Error on MGS4IB-uH0g: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on jhDfq9sj-u8: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on -n8dQP5A-yk: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on le8C-5_szuU: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [4000/11467] 8.9/s | confirmed YES: 1457 demoted NO: 2222 | errors: 314 | ETA: 14.0m
+    Error on QIr8I9a1Ey0: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 4lGH41ZNDfQ: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on YrvF7Dy25uo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on l_nxXzqeeVM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on R5tJOo0xsKM: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on 2-LdYtzaleY: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [4050/11467] 8.9/s | confirmed YES: 1481 demoted NO: 2242 | errors: 320 | ETA: 14.0m
+    Error on CLcnJCo1ALo: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    Error on jdWiYimmCwc: Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+    [4100/11467] 8.8/s | confirmed YES: 1503 demoted NO: 2268 | errors: 322 | ETA: 13.9m
+    [4150/11467] 8.9/s | confirmed YES: 1521 demoted NO: 2300 | errors: 322 | ETA: 13.8m
+    [4200/11467] 8.9/s | confirmed YES: 1541 demoted NO: 2330 | errors: 322 | ETA: 13.6m
+    [4250/11467] 8.9/s | confirmed YES: 1567 demoted NO: 2354 | errors: 322 | ETA: 13.5m
+    [4300/11467] 9.0/s | confirmed YES: 1589 demoted NO: 2382 | errors: 322 | ETA: 13.3m
+    [4350/11467] 9.0/s | confirmed YES: 1619 demoted NO: 2401 | errors: 322 | ETA: 13.2m
+    [4400/11467] 9.0/s | confirmed YES: 1652 demoted NO: 2418 | errors: 322 | ETA: 13.0m
+    [4450/11467] 9.1/s | confirmed YES: 1691 demoted NO: 2429 | errors: 322 | ETA: 12.9m
+    [4500/11467] 9.1/s | confirmed YES: 1722 demoted NO: 2448 | errors: 322 | ETA: 12.8m
+    [4550/11467] 9.1/s | confirmed YES: 1755 demoted NO: 2465 | errors: 322 | ETA: 12.7m
+    [4600/11467] 9.1/s | confirmed YES: 1791 demoted NO: 2479 | errors: 322 | ETA: 12.5m
+    [4650/11467] 9.2/s | confirmed YES: 1816 demoted NO: 2504 | errors: 322 | ETA: 12.4m
+    [4700/11467] 8.9/s | confirmed YES: 1847 demoted NO: 2523 | errors: 322 | ETA: 12.6m
+    [4750/11467] 8.9/s | confirmed YES: 1871 demoted NO: 2549 | errors: 322 | ETA: 12.5m
+    [4800/11467] 9.0/s | confirmed YES: 1895 demoted NO: 2575 | errors: 322 | ETA: 12.4m
+    [4850/11467] 9.0/s | confirmed YES: 1913 demoted NO: 2607 | errors: 322 | ETA: 12.2m
+    [4900/11467] 9.0/s | confirmed YES: 1937 demoted NO: 2633 | errors: 322 | ETA: 12.1m
+    [4950/11467] 9.1/s | confirmed YES: 1951 demoted NO: 2669 | errors: 322 | ETA: 12.0m
+    [5000/11467] 9.1/s | confirmed YES: 1979 demoted NO: 2690 | errors: 322 | ETA: 11.9m
+    [5050/11467] 9.1/s | confirmed YES: 2017 demoted NO: 2702 | errors: 322 | ETA: 11.7m
+    [5100/11467] 9.1/s | confirmed YES: 2050 demoted NO: 2719 | errors: 322 | ETA: 11.6m
+    [5150/11467] 9.2/s | confirmed YES: 2081 demoted NO: 2738 | errors: 322 | ETA: 11.5m
+    [5200/11467] 9.2/s | confirmed YES: 2119 demoted NO: 2750 | errors: 322 | ETA: 11.4m
+    [5250/11467] 9.2/s | confirmed YES: 2152 demoted NO: 2767 | errors: 322 | ETA: 11.2m
+    [5300/11467] 9.2/s | confirmed YES: 2183 demoted NO: 2786 | errors: 322 | ETA: 11.1m
+    [5350/11467] 9.3/s | confirmed YES: 2212 demoted NO: 2807 | errors: 322 | ETA: 11.0m
+    [5400/11467] 9.3/s | confirmed YES: 2244 demoted NO: 2825 | errors: 322 | ETA: 10.9m
+    [5450/11467] 9.3/s | confirmed YES: 2277 demoted NO: 2842 | errors: 322 | ETA: 10.8m
+    [5500/11467] 9.3/s | confirmed YES: 2313 demoted NO: 2856 | errors: 322 | ETA: 10.6m
+    [5550/11467] 9.4/s | confirmed YES: 2336 demoted NO: 2883 | errors: 322 | ETA: 10.5m
+    [5600/11467] 9.4/s | confirmed YES: 2363 demoted NO: 2906 | errors: 322 | ETA: 10.4m
+    [5650/11467] 9.4/s | confirmed YES: 2396 demoted NO: 2923 | errors: 322 | ETA: 10.3m
+    [5700/11467] 9.4/s | confirmed YES: 2423 demoted NO: 2945 | errors: 322 | ETA: 10.2m
+    [5750/11467] 9.4/s | confirmed YES: 2449 demoted NO: 2969 | errors: 322 | ETA: 10.1m
+    [5800/11467] 9.5/s | confirmed YES: 2473 demoted NO: 2995 | errors: 322 | ETA: 10.0m
+    [5850/11467] 9.5/s | confirmed YES: 2496 demoted NO: 3022 | errors: 322 | ETA: 9.9m
+    [5900/11467] 9.5/s | confirmed YES: 2517 demoted NO: 3051 | errors: 322 | ETA: 9.8m
+    [5950/11467] 9.5/s | confirmed YES: 2541 demoted NO: 3077 | errors: 322 | ETA: 9.7m
+    [6000/11467] 9.5/s | confirmed YES: 2573 demoted NO: 3095 | errors: 322 | ETA: 9.6m
+    [6050/11467] 9.5/s | confirmed YES: 2600 demoted NO: 3118 | errors: 322 | ETA: 9.5m
+    [6100/11467] 9.6/s | confirmed YES: 2626 demoted NO: 3142 | errors: 322 | ETA: 9.3m
+    [6150/11467] 9.6/s | confirmed YES: 2646 demoted NO: 3172 | errors: 322 | ETA: 9.2m
+    [6200/11467] 9.6/s | confirmed YES: 2674 demoted NO: 3193 | errors: 322 | ETA: 9.1m
+    [6250/11467] 9.6/s | confirmed YES: 2703 demoted NO: 3214 | errors: 322 | ETA: 9.0m
+    [6300/11467] 9.6/s | confirmed YES: 2722 demoted NO: 3245 | errors: 322 | ETA: 8.9m
+    [6350/11467] 9.6/s | confirmed YES: 2743 demoted NO: 3274 | errors: 322 | ETA: 8.8m
+    [6400/11467] 9.7/s | confirmed YES: 2760 demoted NO: 3307 | errors: 322 | ETA: 8.7m
+    [6450/11467] 9.7/s | confirmed YES: 2783 demoted NO: 3334 | errors: 322 | ETA: 8.6m
+    [6500/11467] 9.7/s | confirmed YES: 2800 demoted NO: 3367 | errors: 322 | ETA: 8.5m
+    [6550/11467] 9.7/s | confirmed YES: 2813 demoted NO: 3404 | errors: 322 | ETA: 8.4m
+    [6600/11467] 9.7/s | confirmed YES: 2823 demoted NO: 3444 | errors: 322 | ETA: 8.3m
+    [6650/11467] 9.8/s | confirmed YES: 2826 demoted NO: 3490 | errors: 322 | ETA: 8.2m
+    [6700/11467] 9.8/s | confirmed YES: 2835 demoted NO: 3531 | errors: 322 | ETA: 8.1m
+    [6750/11467] 9.8/s | confirmed YES: 2863 demoted NO: 3553 | errors: 322 | ETA: 8.0m
+    [6800/11467] 9.8/s | confirmed YES: 2885 demoted NO: 3581 | errors: 322 | ETA: 7.9m
+    [6850/11467] 9.8/s | confirmed YES: 2895 demoted NO: 3621 | errors: 322 | ETA: 7.8m
+    [6900/11467] 9.8/s | confirmed YES: 2903 demoted NO: 3663 | errors: 322 | ETA: 7.8m
+    [6950/11467] 9.8/s | confirmed YES: 2910 demoted NO: 3706 | errors: 322 | ETA: 7.7m
+    [7000/11467] 9.8/s | confirmed YES: 2917 demoted NO: 3749 | errors: 322 | ETA: 7.6m
+    [7050/11467] 9.9/s | confirmed YES: 2924 demoted NO: 3792 | errors: 322 | ETA: 7.5m
+    [7100/11467] 9.9/s | confirmed YES: 2929 demoted NO: 3836 | errors: 322 | ETA: 7.4m
+    [7150/11467] 9.9/s | confirmed YES: 2937 demoted NO: 3878 | errors: 322 | ETA: 7.3m
+    [7200/11467] 9.9/s | confirmed YES: 2946 demoted NO: 3919 | errors: 322 | ETA: 7.2m
+    [7250/11467] 9.9/s | confirmed YES: 2957 demoted NO: 3958 | errors: 322 | ETA: 7.1m
+    [7300/11467] 9.9/s | confirmed YES: 2972 demoted NO: 3993 | errors: 322 | ETA: 7.0m
+    [7350/11467] 9.9/s | confirmed YES: 2999 demoted NO: 4016 | errors: 322 | ETA: 7.0m
+    [7400/11467] 9.9/s | confirmed YES: 3033 demoted NO: 4032 | errors: 322 | ETA: 6.9m
+    [7450/11467] 9.9/s | confirmed YES: 3063 demoted NO: 4052 | errors: 322 | ETA: 6.8m
+    [7500/11467] 9.9/s | confirmed YES: 3092 demoted NO: 4073 | errors: 322 | ETA: 6.7m
+    [7550/11467] 9.9/s | confirmed YES: 3121 demoted NO: 4094 | errors: 322 | ETA: 6.6m
+    [7600/11467] 9.9/s | confirmed YES: 3151 demoted NO: 4114 | errors: 322 | ETA: 6.5m
+    [7650/11467] 9.9/s | confirmed YES: 3179 demoted NO: 4136 | errors: 322 | ETA: 6.4m
+    [7700/11467] 9.9/s | confirmed YES: 3203 demoted NO: 4162 | errors: 322 | ETA: 6.3m
+    [7750/11467] 10.0/s | confirmed YES: 3229 demoted NO: 4186 | errors: 322 | ETA: 6.2m
+    [7800/11467] 10.0/s | confirmed YES: 3254 demoted NO: 4211 | errors: 322 | ETA: 6.1m
+    [7850/11467] 10.0/s | confirmed YES: 3279 demoted NO: 4236 | errors: 322 | ETA: 6.0m
+    [7900/11467] 10.0/s | confirmed YES: 3303 demoted NO: 4262 | errors: 322 | ETA: 5.9m
+    [7950/11467] 10.0/s | confirmed YES: 3327 demoted NO: 4288 | errors: 322 | ETA: 5.9m
+    [8000/11467] 10.0/s | confirmed YES: 3339 demoted NO: 4326 | errors: 322 | ETA: 5.8m
+    [8050/11467] 10.0/s | confirmed YES: 3355 demoted NO: 4360 | errors: 322 | ETA: 5.7m
+    [8100/11467] 10.0/s | confirmed YES: 3369 demoted NO: 4396 | errors: 322 | ETA: 5.6m
+    [8150/11467] 10.0/s | confirmed YES: 3382 demoted NO: 4433 | errors: 322 | ETA: 5.5m
+    [8200/11467] 10.1/s | confirmed YES: 3399 demoted NO: 4466 | errors: 322 | ETA: 5.4m
+    [8250/11467] 10.1/s | confirmed YES: 3433 demoted NO: 4482 | errors: 322 | ETA: 5.3m
+    [8300/11467] 10.1/s | confirmed YES: 3464 demoted NO: 4501 | errors: 322 | ETA: 5.2m
+    [8350/11467] 10.1/s | confirmed YES: 3504 demoted NO: 4511 | errors: 322 | ETA: 5.1m
+    [8400/11467] 10.1/s | confirmed YES: 3535 demoted NO: 4530 | errors: 322 | ETA: 5.0m
+    [8450/11467] 10.1/s | confirmed YES: 3566 demoted NO: 4549 | errors: 322 | ETA: 5.0m
+    [8500/11467] 10.2/s | confirmed YES: 3602 demoted NO: 4563 | errors: 322 | ETA: 4.9m
+    [8550/11467] 10.2/s | confirmed YES: 3627 demoted NO: 4588 | errors: 322 | ETA: 4.8m
+    [8600/11467] 10.2/s | confirmed YES: 3643 demoted NO: 4622 | errors: 322 | ETA: 4.7m
+    [8650/11467] 10.2/s | confirmed YES: 3657 demoted NO: 4658 | errors: 322 | ETA: 4.6m
+    [8700/11467] 10.2/s | confirmed YES: 3667 demoted NO: 4698 | errors: 322 | ETA: 4.5m
+    [8750/11467] 10.2/s | confirmed YES: 3686 demoted NO: 4729 | errors: 322 | ETA: 4.4m
+    [8800/11467] 10.2/s | confirmed YES: 3704 demoted NO: 4761 | errors: 322 | ETA: 4.3m
+    [8850/11467] 10.3/s | confirmed YES: 3726 demoted NO: 4789 | errors: 322 | ETA: 4.3m
+    [8900/11467] 10.3/s | confirmed YES: 3745 demoted NO: 4820 | errors: 322 | ETA: 4.2m
+    [8950/11467] 10.3/s | confirmed YES: 3765 demoted NO: 4850 | errors: 322 | ETA: 4.1m
+    [9000/11467] 10.3/s | confirmed YES: 3785 demoted NO: 4880 | errors: 322 | ETA: 4.0m
+    [9050/11467] 10.3/s | confirmed YES: 3802 demoted NO: 4913 | errors: 322 | ETA: 3.9m

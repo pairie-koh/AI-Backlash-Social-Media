@@ -24,6 +24,7 @@ from pathlib import Path
 from openai import OpenAI
 
 ROOT = Path(__file__).parent.parent
+REPO_ROOT = ROOT.parent
 DATA_DIR = ROOT / "data"
 RAW_PATH = DATA_DIR / "raw" / "tiktok_raw.json"
 WHISPER_DIR = DATA_DIR / "whisper_transcripts"
@@ -32,7 +33,40 @@ WHISPER_DIR.mkdir(parents=True, exist_ok=True)
 # Track failed video IDs so we don't retry them endlessly
 FAILED_LOG = DATA_DIR / "whisper_failed.json"
 
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
+# Providers: "groq" (whisper-large-v3-turbo, ~9x cheaper, fast) or "openai" (whisper-1)
+PROVIDER = os.environ.get("WHISPER_PROVIDER", "groq").lower()
+
+
+def _read_keyfile(name: str) -> str:
+    p = REPO_ROOT / name
+    if p.exists():
+        for ln in p.read_text(encoding="utf-8").splitlines():
+            ln = ln.strip()
+            if ln and not ln.startswith("#"):
+                return ln
+    return ""
+
+
+def get_transcription_client():
+    """Return (client, model) for the configured provider."""
+    if PROVIDER == "groq":
+        key = os.environ.get("GROQ_API_KEY", "") or _read_keyfile(".groq_key")
+        if not key:
+            print("ERROR: Set GROQ_API_KEY env var or place key in .groq_key file")
+            sys.exit(1)
+        client = OpenAI(base_url="https://api.groq.com/openai/v1", api_key=key)
+        model = os.environ.get("WHISPER_MODEL", "whisper-large-v3-turbo")
+        return client, model
+    if PROVIDER == "openai":
+        key = os.environ.get("OPENAI_API_KEY", "") or _read_keyfile(".openai_key")
+        if not key:
+            print("ERROR: Set OPENAI_API_KEY env var or place key in .openai_key file")
+            sys.exit(1)
+        client = OpenAI(api_key=key)
+        model = os.environ.get("WHISPER_MODEL", "whisper-1")
+        return client, model
+    print(f"ERROR: unknown WHISPER_PROVIDER={PROVIDER!r} (use 'groq' or 'openai')")
+    sys.exit(1)
 
 
 def load_raw_videos():
@@ -78,18 +112,19 @@ def download_video(url, output_path, timeout=60):
     return result.returncode == 0
 
 
-def transcribe_audio(client, audio_path):
-    """Send audio file to OpenAI Whisper API and return transcript text."""
+def transcribe_audio(client, model, audio_path):
+    """Send audio file to Whisper API (Groq or OpenAI) and return transcript text."""
     with open(audio_path, "rb") as f:
         response = client.audio.transcriptions.create(
-            model="whisper-1",
+            model=model,
             file=f,
             response_format="text",
         )
-    return response.strip()
+    # OpenAI client returns a plain string for response_format="text"
+    return str(response).strip()
 
 
-def process_one(pid, url, client):
+def process_one(pid, url, client, model):
     """Download + transcribe a single video. Returns (pid, success, error_msg)."""
     transcript_path = WHISPER_DIR / f"{pid}.txt"
 
@@ -121,7 +156,7 @@ def process_one(pid, url, client):
 
         # Step 2: Transcribe via Whisper API (accepts mp4 directly)
         try:
-            text = transcribe_audio(client, video_path)
+            text = transcribe_audio(client, model, video_path)
             if text:
                 transcript_path.write_text(text, encoding="utf-8")
                 return (pid, True, None)
@@ -132,11 +167,8 @@ def process_one(pid, url, client):
 
 
 def run_transcription(workers=5, max_videos=None):
-    if not OPENAI_API_KEY:
-        print("ERROR: Set OPENAI_API_KEY environment variable")
-        sys.exit(1)
-
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client, model = get_transcription_client()
+    print(f"Provider: {PROVIDER}, model: {model}")
 
     print("Loading raw videos...")
     videos = load_raw_videos()
@@ -167,7 +199,7 @@ def run_transcription(workers=5, max_videos=None):
     with ThreadPoolExecutor(max_workers=workers) as executor:
         futures = {}
         for pid, url in missing:
-            future = executor.submit(process_one, pid, url, client)
+            future = executor.submit(process_one, pid, url, client, model)
             futures[future] = pid
 
         for i, future in enumerate(as_completed(futures), 1):

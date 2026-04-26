@@ -1,0 +1,14 @@
+.openrouter_keys
+*.openrouter_keys
+.groq_key
+.openai_key
+.*_key
+.env
+*/data/raw/*.json
+*/data/*_filter_llm_progress.json
+*/data/*_progress.json
+tiktok/data/filter_llm_progress.json
+*/data/whisper_transcripts/*
+*/data/tiktok_transcripts/*
+__pycache__/
+*.pyc

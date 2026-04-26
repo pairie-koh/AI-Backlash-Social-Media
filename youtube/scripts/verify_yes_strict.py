@@ -1,12 +1,13 @@
 """
-Filter YouTube videos for AI backlash using LLM classification.
+Second-pass verifier for YES-classified videos.
 
-Deduplicates raw Bright Data output, then uses an LLM to classify each
-video as expressing AI backlash (YES) or not (NO).
+Reads youtube_ai_backlash_filtered.csv, re-classifies only the rows where
+_backlash == YES with a stricter prompt that targets the false-positive
+patterns found in the audit (marketing tags, clickbait pro-AI content,
+tangential AI mentions, etc.). Writes a new CSV with the v2 label.
 
 Usage:
-    export OPENROUTER_API_KEY=...
-    python youtube/scripts/filter_by_topic.py
+    python youtube/scripts/verify_yes_strict.py
 """
 
 import csv
@@ -20,17 +21,18 @@ from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
+csv.field_size_limit(2**31 - 1)
+
 if sys.stdout.encoding != "utf-8":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
-RAW_JSON = DATA_DIR / "raw" / "youtube_raw.json"
-OUTPUT_CSV = DATA_DIR / "youtube_ai_backlash_filtered.csv"
-PROGRESS_FILE = DATA_DIR / "youtube_filter_llm_progress.json"
+INPUT_CSV = DATA_DIR / "youtube_ai_backlash_filtered.csv"
+OUTPUT_CSV = DATA_DIR / "youtube_ai_backlash_verified.csv"
+PROGRESS_FILE = DATA_DIR / "youtube_verify_v2_progress.json"
 KEYS_FILE = REPO_ROOT / ".openrouter_keys"
 
-# --- API setup ---
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
 OPENROUTER_API_KEYS = os.environ.get("OPENROUTER_API_KEYS", "")
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
@@ -38,34 +40,34 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 LLM_MODEL = os.environ.get("LLM_MODEL", "anthropic/claude-sonnet-4")
 WORKERS_PER_KEY = int(os.environ.get("WORKERS_PER_KEY", "3"))
 
-BACKLASH_PROMPT = """A YouTube video was found by searching for AI-related keywords. Does this video express criticism, concern, or backlash about AI?
+VERIFY_PROMPT = """A first-pass classifier flagged this YouTube video as expressing AI backlash. Verify whether that label is correct.
 
-YES — The video expresses negativity, worry, or criticism about AI. This includes:
-- Fear of job displacement or automation replacing workers
-- Concern about AI's environmental impact (energy, water, data centers, carbon)
-- Criticism of AI-generated art, music, or writing (art theft, creative displacement)
-- Privacy or surveillance concerns related to AI
-- Deepfake, misinformation, or manipulation worries
-- AI in education concerns (cheating, plagiarism, deskilling)
-- Calls to regulate, ban, or slow down AI
-- Existential risk, safety, or alignment concerns
-- Complaints about AI slop, spam, or low-quality AI content flooding the internet
-- Frustration with AI customer service replacing human support
-- Criticism that AI products are getting worse (ChatGPT, Copilot, Google AI, etc.)
-- AI ruining search results or making the internet worse
-- General anti-AI sentiment or tech backlash
-- Personal stories about being negatively affected by AI
-- Celebrating human-made work as resistance to AI ("no AI used", "real artist")
+Answer YES only if the video genuinely expresses criticism, concern, fear, or negativity about AI as its actual subject or stance — backed by what the creator says, not just keywords in the title.
 
-NO — The video mentions AI but is NOT expressing backlash. This includes:
-- AI tutorials, tips, or how-to content
-- Positive AI product reviews or demos
-- AI hype or excitement content
-- Neutral news reporting about AI without critical angle
-- Using AI tools in the video (but not criticizing them)
-- AI memes or humor without a critical message
-- Marketing or promotional AI content
-- General tech content that happens to mention AI
+Valid YES (real backlash):
+- Fear of job displacement, layoffs, or automation replacing workers (and the creator agrees this is bad)
+- Concern about AI's environmental impact (energy, water, carbon)
+- Criticism of AI-generated art, music, writing — art theft, training on artists without consent
+- Privacy, surveillance, deepfake, misinformation, or manipulation worries
+- AI in education concerns (cheating, deskilling) framed critically
+- Calls to regulate, ban, or slow AI; existential / safety / alignment concerns
+- Complaints about AI slop, AI making products worse, AI ruining search/internet
+- Anti-AI sentiment, "no AI used" as a deliberate stance against AI in art
+- Personal stories of being negatively affected by AI
+
+Answer NO (false positive — common patterns to reject):
+- "No AI" / "#noAI" used as a marketing/quality badge in non-AI content (longevity videos, vintage music compilations, recipes, wellness, nature footage) where AI is not the topic
+- Pro-AI hype, marketing, or product demos with clickbait scary titles ("AI is replacing workers!" but content says AI is your friendly helper)
+- Tutorials, reviews, or how-to content using AI tools, even if the title sounds skeptical
+- Investment / stock content asking "AI bubble or boom?" that ultimately recommends investing in AI
+- AI-generated music, videos, or art uploaded by AI hobbyists (the creator is using AI, not criticizing it)
+- Game AI, NPC AI, or fictional robot AI in entertainment (Minecraft mods, FNaF analysis, sci-fi)
+- Videos where "AI" appears in title/description but the actual content is about something unrelated (counterfeit gadgets, unrelated news, music videos that matched a keyword in lyrics)
+- Neutral interviews or reporting that mentions concerns without endorsing them
+- Sponsored content for AI products, even if framed as "honest review"
+- Videos that briefly mention AI worry as a small part of a broader topic
+
+Decision rule: if the creator's overall stance is neutral, positive, or off-topic, answer NO — even if the title contains "danger", "ruin", "stop", "hate", "replace", "destroy", etc. The keyword in the title is not enough.
 
 Respond with exactly one word: YES or NO
 
@@ -131,41 +133,20 @@ def llm_call(client, model, prompt, max_tokens=10):
         return resp.choices[0].message.content.strip()
 
 
-def get_transcript(video):
-    """Extract transcript from YouTube video data."""
-    ft = video.get("formatted_transcript")
-    if ft and isinstance(ft, list) and len(ft) > 0:
-        parts = []
-        for item in ft:
-            if isinstance(item, dict):
-                parts.append(item.get("text", "") or "")
-            elif isinstance(item, str):
-                parts.append(item)
-        text = " ".join(parts).strip()
-        if text:
-            return text
-
-    t = video.get("transcript", "")
-    if t and isinstance(t, str) and len(t) > 10:
-        return t.strip()
-
-    return ""
+def load_yes_rows():
+    """Load all rows from the v1 CSV; return (all_rows, yes_indices)."""
+    all_rows = []
+    yes_idx = []
+    with INPUT_CSV.open("r", encoding="utf-8", newline="") as f:
+        reader = csv.DictReader(f)
+        for i, row in enumerate(reader):
+            all_rows.append(row)
+            if (row.get("_backlash") or "").strip().upper() == "YES":
+                yes_idx.append(i)
+    return all_rows, yes_idx
 
 
-def deduplicate(raw_videos):
-    """Deduplicate by video_id."""
-    seen = set()
-    deduped = []
-    for v in raw_videos:
-        vid = v.get("video_id", "")
-        if vid and vid not in seen:
-            seen.add(vid)
-            deduped.append(v)
-    return deduped
-
-
-def classify_backlash(videos):
-    """Use LLM to classify each video as backlash or not (concurrent, key-pooled)."""
+def verify_yes(all_rows, yes_idx):
     clients = get_llm_clients()
     n_keys = len(clients)
     n_workers = max(1, n_keys * WORKERS_PER_KEY)
@@ -173,37 +154,37 @@ def classify_backlash(videos):
 
     print(f"  Using model: {model}")
     print(f"  Keys: {n_keys}, workers: {n_workers} ({WORKERS_PER_KEY} per key)")
-    print(f"  Videos to classify: {len(videos)}")
+    print(f"  YES rows to verify: {len(yes_idx)}")
 
     already_done = {}
     if PROGRESS_FILE.exists():
         with open(PROGRESS_FILE, encoding="utf-8") as f:
             already_done = json.load(f)
-        print(f"  Resuming: {len(already_done)} already classified")
+        print(f"  Resuming: {len(already_done)} already verified")
 
     pending = []
-    for v in videos:
-        vid = v.get("video_id", "")
-        v["_transcript_text"] = get_transcript(v)
+    for i in yes_idx:
+        vid = all_rows[i].get("video_id", "")
         if vid in already_done:
-            v["_backlash"] = already_done[vid]
+            all_rows[i]["_backlash_v2"] = already_done[vid]
             continue
-        pending.append(v)
-    print(f"  Pending: {len(pending)} (skipping {len(videos) - len(pending)} already classified)")
+        pending.append(i)
+    print(f"  Pending: {len(pending)} (skipping {len(yes_idx) - len(pending)} cached)")
 
     state_lock = threading.Lock()
     counters = {"api_calls": 0, "errors": 0, "completed": 0}
     start = time.time()
 
-    def classify_one(idx_v):
-        idx, v = idx_v
+    def verify_one(work):
+        idx_in_pending, row_idx = work
+        v = all_rows[row_idx]
         vid = v.get("video_id", "")
-        client, model_ = clients[idx % n_keys]
+        client, model_ = clients[idx_in_pending % n_keys]
 
         title = (v.get("title", "") or "")[:300]
         description = (v.get("description", "") or "")[:500]
         transcript_text = (v.get("_transcript_text", "") or "")[:1500]
-        prompt = BACKLASH_PROMPT.format(
+        prompt = VERIFY_PROMPT.format(
             title=title, description=description, transcript=transcript_text,
         )
 
@@ -224,7 +205,7 @@ def classify_backlash(videos):
             print(f"    Error on {vid}: {e}")
             result = "UNKNOWN"
 
-        v["_backlash"] = result
+        v["_backlash_v2"] = result
         with state_lock:
             already_done[vid] = result
             counters["completed"] += 1
@@ -238,14 +219,13 @@ def classify_backlash(videos):
                 eta = (len(pending) - done) / rate if rate > 0 else float("inf")
                 print(
                     f"    [{done}/{len(pending)}] {rate:.1f}/s | "
-                    f"YES: {yes_count} NO: {no_count} | "
+                    f"confirmed YES: {yes_count} demoted NO: {no_count} | "
                     f"errors: {counters['errors']} | "
                     f"ETA: {eta/60:.1f}m"
                 )
-        return v
 
     with ThreadPoolExecutor(max_workers=n_workers) as ex:
-        futures = [ex.submit(classify_one, (i, v)) for i, v in enumerate(pending)]
+        futures = [ex.submit(verify_one, (i, idx)) for i, idx in enumerate(pending)]
         for fut in as_completed(futures):
             try:
                 fut.result()
@@ -257,63 +237,51 @@ def classify_backlash(videos):
 
     elapsed = int(time.time() - start)
     print(f"\n  Done in {elapsed//60}m {elapsed%60}s. API calls: {counters['api_calls']}, errors: {counters['errors']}")
-    topic_counts = Counter(v.get("_backlash", "UNKNOWN") for v in videos)
-    for t, c in topic_counts.most_common():
-        print(f"    {t}: {c} ({c/len(videos)*100:.1f}%)")
-
-    return videos
 
 
-def save_output(videos):
+def save_output(all_rows):
     fieldnames = [
         "video_id", "url", "title", "description", "date_posted",
         "likes", "views", "num_comments", "video_length",
         "youtuber", "channel_url", "subscribers", "verified",
-        "_search_keyword", "_backlash", "_transcript_text",
+        "_search_keyword", "_backlash", "_backlash_v2", "_transcript_text",
     ]
-
-    with open(OUTPUT_CSV, "w", encoding="utf-8", newline="") as f:
+    with OUTPUT_CSV.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
         writer.writeheader()
-        for v in videos:
-            row = {**v}
-            if isinstance(row.get("hashtags"), list):
-                parts = []
-                for h in row["hashtags"]:
-                    if isinstance(h, dict):
-                        parts.append(h.get("hashtag", "") or h.get("name", ""))
-                    else:
-                        parts.append(str(h))
-                row["hashtags"] = ", ".join(parts)
+        for row in all_rows:
+            row.setdefault("_backlash_v2", "")
             writer.writerow(row)
-
-    print(f"\nSaved {len(videos)} videos to {OUTPUT_CSV}")
+    print(f"\nSaved {len(all_rows)} rows to {OUTPUT_CSV}")
 
 
 def main():
-    print("Loading raw data...")
-    with open(RAW_JSON, encoding="utf-8") as f:
-        raw = json.load(f)
-    print(f"  Raw videos: {len(raw)}")
+    print("Loading v1 filtered CSV...")
+    all_rows, yes_idx = load_yes_rows()
+    print(f"  Total rows: {len(all_rows)}  YES rows: {len(yes_idx)}")
 
-    # Deduplicate
-    videos = deduplicate(raw)
-    print(f"  After dedup: {len(videos)} unique videos")
+    print("\n=== Strict v2 verification of YES rows ===")
+    verify_yes(all_rows, yes_idx)
 
-    # LLM backlash classification
-    print("\n=== LLM classification (backlash vs neutral) ===")
-    classified = classify_backlash(videos)
+    save_output(all_rows)
 
-    save_output(classified)
+    confirmed = sum(1 for r in all_rows if r.get("_backlash_v2") == "YES")
+    demoted = sum(1 for r in all_rows if r.get("_backlash_v2") == "NO")
+    unknown = sum(1 for r in all_rows if r.get("_backlash_v2") == "UNKNOWN")
 
-    # Summary
-    yes_vids = [v for v in classified if v.get("_backlash") == "YES"]
-    no_vids = [v for v in classified if v.get("_backlash") == "NO"]
-    yes_views = sum(int(v.get("views", 0) or 0) for v in yes_vids)
-    no_views = sum(int(v.get("views", 0) or 0) for v in no_vids)
-    print(f"\n=== FINAL SUMMARY ===")
-    print(f"  BACKLASH (YES): {len(yes_vids)} videos, {yes_views:,} views")
-    print(f"  NOT BACKLASH (NO): {len(no_vids)} videos, {no_views:,} views")
+    def to_int(x):
+        try: return int(x or 0)
+        except: return 0
+
+    confirmed_views = sum(to_int(r.get("views")) for r in all_rows if r.get("_backlash_v2") == "YES")
+    demoted_views = sum(to_int(r.get("views")) for r in all_rows if r.get("_backlash_v2") == "NO")
+
+    print("\n=== VERIFICATION SUMMARY ===")
+    print(f"  Confirmed BACKLASH: {confirmed} videos, {confirmed_views:,} views")
+    print(f"  Demoted (was YES, now NO): {demoted} videos, {demoted_views:,} views")
+    print(f"  Unknown / errors: {unknown}")
+    if (confirmed + demoted) > 0:
+        print(f"  V1 precision estimate: {confirmed / (confirmed + demoted) * 100:.1f}%")
 
 
 if __name__ == "__main__":
