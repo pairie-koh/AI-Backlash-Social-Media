@@ -1,0 +1,14 @@
+# AI Sentiment on Social Media — Positive vs. Backlash Memo (2026 only)
+
+**Date:** 2026-05-21
+**Corpora:** TikTok + YouTube, posts dated 2026-01-01 onward (collection cutoff 2026-04-26), collected via Bright Data using parallel keyword lists (`KEYWORDS.md` for backlash, `KEYWORDS_positive.md` for positive). Restricted to 2026 posts to sidestep the recency-skew in the scrape.
+
+---
+
+## AI Backlash
+
+We found 3,668 videos for AI backlash across TikTok and YouTube in 2026 with five themes accounting for more than ~80% of all AI backlash content: jobs/displacement, deepfakes/misinformation, art/creative theft, environment/energy and general anti-AI sentiment. There is a clear difference in content across platforms — TikTok AI backlash content is art-dominant (29% of TikTok backlash) and is driven by the #noAI and #stopAIart artist community. YouTube is jobs- and deepfake-led, with jobs (24%) and deepfakes (20%) together accounting for nearly half of YouTube backlash. Interestingly, we found that existential-risk content is only 4.3% of the total content. In terms of engagement, general anti-AI content reaches the broadest audience across both platforms. The key caveat is that our scraping algorithm skews towards recent posts because the search algorithms surface engagement-recent content first; restricting to 2026 mitigates but does not fully remove this.
+
+## AI Positive Sentiment
+
+We found 7,099 videos for AI positive sentiment across TikTok and YouTube in 2026 — roughly twice the volume of the backlash corpus — with four themes accounting for more than ~83% of all positive content: career and productivity wins (vibe coding, agent demos, ChatGPT productivity), creative-tool use (Midjourney, Suno, Sora), synthetic-media play (funny AI videos, lip sync, animation) and education and learning. There is a clear difference in content across platforms. TikTok positive content is more balanced across career (28%), synthetic-media play (22%) and creative tools (18%), and carries a notable AI-companion slice (AI girlfriend, character.ai, "Claude is my therapist") at 8.8%. While YouTube is dominated by career-productivity and creative-tool content together making up over two-thirds of the corpus. Interestingly, we found that breakthrough-science content (medical AI, scientific AI wins) is only 2.1% of total positive content — the rough mirror of existential-risk's 4.3% share on the backlash side. In terms of engagement, synthetic-media play reaches the broadest audience on TikTok while creative-tool and career-productivity content dominate reach on YouTube. The key caveat is that the positive corpus is heavily promotional — affiliate marketing, course funnels, sponsored AI tool content — so any "AI is well-loved" framing should be restricted to the genuine-sentiment subset before publication.
