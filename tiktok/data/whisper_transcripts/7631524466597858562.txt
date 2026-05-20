@@ -1,0 +1,1 @@
+There is a massive spike for broad terms like AI systems, while specific, high-risk categories like frontier AI and open-weight models barely register. Regulating AI using only generic definitions creates a blind spot. It restricts the ability to effectively enforce downstream liability on specific, high-risk systems with dual-use potential.

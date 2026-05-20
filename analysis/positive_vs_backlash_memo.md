@@ -1,0 +1,14 @@
+# AI Sentiment on Social Media — Positive vs. Backlash Memo
+
+**Date:** 2026-05-12
+**Corpora:** TikTok + YouTube, 12-month window (April 2025 – April 2026), collected via Bright Data using parallel keyword lists (`KEYWORDS.md` for backlash, `KEYWORDS_positive.md` for positive)
+
+---
+
+## AI Backlash
+
+We found 8,353 videos for AI backlash across TikTok and YouTube with four themes accounting for more than ~75% of all AI backlash content: art/creative theft, deepfakes/misinformation, jobs/displacement and general anti-AI sentiment. There is a clear difference in content across platforms — TikTok AI backlash content is art-dominant across the entire 12-month period and is driven by the #noAI and #stopAIart artist community. YouTube shifted from art-led in 2024 to jobs and deepfakes centered content by 2026. Interestingly, we found that existential-risk content is only ~4% of the total content. In terms of engagement, general anti-AI content reaches the broadest audience across both platforms. The key caveat is that our scraping algorithm skews towards recent posts because the search algorithms surface engagement-recent content first.
+
+## AI Positive Sentiment
+
+We found 16,944 videos for AI positive sentiment across TikTok and YouTube — roughly twice the volume of the backlash corpus — with four themes accounting for more than ~80% of all positive content: creative-tool use (Midjourney, Suno, Sora), career and productivity wins (vibe coding, agent demos, ChatGPT productivity), synthetic-media play (funny AI videos, lip sync, animation), and education and learning. There is a clear difference in content across platforms — TikTok positive content is more balanced across career, creative, and synthetic-media themes and carries a notable AI-companion slice (AI girlfriend, character.ai, "Claude is my therapist") at 12%, while YouTube is dominated by creative-tool and career-productivity content together making up two-thirds of the corpus. YouTube shifted from creative-tool-led in 2022–2025 to career and productivity centered content by 2026, as agent-demo and vibe-coding content surged. Interestingly, we found that breakthrough-science content (medical AI, scientific AI wins) is only ~2% of total positive content — the rough mirror of existential-risk's 4% share on the backlash side. In terms of engagement, brand-official content from AI companies' own channels reaches the broadest audience on YouTube, while viral synthetic-media play reaches the broadest audience on TikTok. The key caveat is that the positive corpus is heavily promotional — 53% of YouTube positive content is creator promo (affiliate marketing, course funnels, sponsored AI tools) versus only 32% on TikTok — so any "is AI well-loved on YouTube" framing should be restricted to the genuine-sentiment subset before publication.

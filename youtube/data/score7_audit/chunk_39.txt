@@ -1,0 +1,1003 @@
+=== ID: U5FPhnKMcKs ===
+TITLE: AI agent hype will bankrupt you
+DESC: ✅ Become a member! ✅  https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news today! ⭐  🔖 See more at https://norlund.substack.com  🧋 Buy me a coffee 🧋 https://ko-fi.com/norlund  ⭐ Check out my book Positive Angle on Amazon. https://www.amazon.com/dp/B0CFHFJP25  🪁 Our Vlog Channel https://www.youtube.com/@chrisandyeji  🎞️ My camera gear and movie list https://www.amazon.com/shop/chrisnorlund
+KEYWORD: AI overhyped
+VIEWS: 85355
+TRANSCRIPT: Wow, things are moving really, really fast right now. Check this out. Open Claw. Open AAI and the future. This is from Peter Steinberger. He created OpenClaw. We've been talking about this on the channel this week. He says, "I'm joining Open AI to bring agents to everyone. Openclaw is becoming a foundation, open, independent, and just getting started." What? Like, we were just talking about this. This was just last week. I showed you this picture before. This is his office. He's got a bunch of chatbot windows open. All the rage this past week has been over these AI agent things. We basically can automate a bunch of tasks. They made that social network thing where all the robots talk to each other and make their own religion or whatever. [laughter] But now, because this is all the rage, he's joining Open AI. I don't think I ever had that much fun. I mean, the whole year I'm just I'm just marveling at what's possible. Now it is if you're a builder, this is like what a time to be alive. What a time to be alive. Okay, this is Sam Alman talking about Peter Steinberger. He says Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other. Oh god. To do very useful things for people. So again, we're talking about these AI chat by agent things that will, you know, automate a bunch of tasks. And then now we're talking about the agents talking, the AI age
+[...middle cut...]
+ of spam in your mailbox. [laughter] That's that's the short term. In the the long term, I mean, it's any it's anyone's guess like how quickly this thing goes. Um, but I I'm I'm sure that more and more adoption of this is going to be out there now that OpenAI is fully embracing this OpenClaw and agent thing. And they've been talking about this agent stuff before. So basically again it's just a way to get it to automate a bunch of tasks for you and get it then get that ability out to more and more people. So uh I think that's what's going on right at the short term. Also too it's about money and spending your tokens at at these companies. Um that's my thoughts on this. I'd like to hear yours.
+
+=== ID: IMmQV0hqwQU ===
+TITLE: AI Hype vs Reality: What Leaders Must Know Now
+DESC: Every tech cycle promises transformation. Few deliver. Here’s how to separate signal from hype.  In this episode of The Future-Ready Advisor, Sam Sivarajan interviews Dr. Jeffrey Funk, a seasoned expert in the economics of innovation, to dissect the current landscape of AI, blockchain, and other emerging technologies. They explore what sets transformative technological innovations apart from the hype and discuss strategies for financial advisors to navigate this complex environment.  Key Takeawa
+KEYWORD: AI overhyped
+VIEWS: 82
+TRANSCRIPT: I mean AI is such a great example because people look and say oh it's just improving so fast look at all these new products that are coming out they're all over the place yeah but just because lots of new products come out doesn't mean they're getting better I mean the one area where I would see AI getting better is that the video quality right you say gener VA video quality is getting better but if you look at the important measures of F and by the way I'm much more optimistic about uh Genera of AI for making advertisements science fiction portions of movies you know particularly science fiction movies where where truth isn't so important where you can have hallucinations but you know you get outside some of these applications hallucinations are important what is the frequency of hallucinations is it going down well not really this is one of the key measures of performance so if you're if you're trying to judge about a technology and whether it's going to really succeed one of the key factors is is it getting better figure out what the customer really [Music] wants this is the Future Ready advisor a show about transforming your financial advisory practice I'm your host Sam sain a Wealth Management Consultant behavioral scientist and keynote speaker in this podcast I dive deep into the real challenges advisers face and bring you insightful conversations with top industry experts together we'll explore practical strategies grounded in Behavioral Science to help you better serv
+[...middle cut...]
+n one more thing before we wrap up and it's coming bringing it back to the human side of things um particularly from um Financial advice but almost everything and you've covered things like Radiology and everything else in some of your writings I happen to believe the human aspect is irreplaceable I think there is a judgment and the ability to deal with context and complexity we don't have technology or AI or anything being able to do it we're getting technology that is increasingly becoming a part of customer client interactions whether it's chat Bots or interactive voice response systems how do you think somebody like a financialist advisor um who needs the efficiency that comes from an AI
+
+=== ID: B2zCWJBnfuE ===
+TITLE: Generative AI is not the panacea we’ve been promised | Eric Siegel for Big Think+
+DESC: Become a Big Think member to unlock expert classes, premium print issues, exclusive events and more: https://bigthink.com/membership/?utm_source=youtube&utm_medium=social&utm_campaign=yt_desc Eric Siegel has been in the AI field since 1991. He’s “horrified” by the AI hype bubble, but not for the reason you may think.  Subscribe to Big Think on YouTube ► https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg?sub_confirmation=1 Up next, Wharton professor: 4 scenarios for AI’s future ► https://ww
+KEYWORD: AI overhyped
+VIEWS: 991550
+TRANSCRIPT: There's kind of an illusion with
+generative AI. "This promises to be the viral sensation that could completely reset how we do things." According to all the headlines, it's on
+the brink of solving all business problems automatically with the slight side effect of displacing
+huge amounts of the workforce. It seems so amazing. It's potentially
+a panacea. No. It's hyperbole. It's hype. What we get with generative AI
+is extremely impressive, but it's not going to run the world. It does have the ability to
+create efficiencies, but it's more limited. Whereas predictive AI, which is older, very much still has great amounts of
+untapped value. I'm Eric Siegel. I'm the co-founder and CEO
+of Goodr AI, the founder of the Machine Learning Week
+conference series, and the author of "The AI Playbook: Mastering the Rare Art of Machine Learning Deployment." I became fascinated with the concept of
+artificial intelligence as a kid in the late seventies and then in the early eighties. Eventually, my education led me to machine learning,
+and I've been in the field since nineteen ninety-one. "Whoa, Kasparov, after the move c4, has resigned." Now I was sort of semi-horrified with the
+AI hype for a few decades, and it just got a lot worse in
+recent years because of generative AI. It's going to feed that frenzy because
+it's so seemingly human-like. Generative AI, something like chatGPT, a large language model, it is capable of communicating about any topic and often giving responses that seem to
+under
+[...middle cut...]
+s a recipe for mismanaged expectations, otherwise known as hype. The antidote to hype is simple. Focus on concrete value. Discover whether you're using generative
+AI or predictive AI. Determine a very specific, concrete, credible use case of exactly how
+this technology is going to improve some kind of operation
+in the enterprise and deliver value. If you want to just sort of explore how
+close is it to the human mind and why you think it might be getting there, that's
+kind of a philosophical conversation, and that's great. But if you're talking
+about, sort of, improving efficiencies of operations that make the world go around,
+I think we should be a lot more practical and less pie in the sky.
+
+=== ID: lBvcD85Kgv8 ===
+TITLE: The Reality of AI Washing: Are Firms Overhyping Their AI Capabilities?
+DESC: Visit https://www.qlmbusinessnews.com/home for more news stories "Unmasking AI Washing: The Hidden Truth Behind Overhyped AI Claims"  "Discover the reality behind AI washing, where companies exaggerate their AI capabilities. Learn how firms like Amazon have faced scrutiny and what this means for consumers and investors. #AIWashing #ArtificialIntelligence #TechTruths #AmazonAI #GenerativeAI #TechNews #AIHype #ConsumerAwareness #InvestmentRisks #Innovation" ---  Unlock unparalleled business growth
+KEYWORD: AI overhyped
+VIEWS: 16
+TRANSCRIPT: [Music] welcome to qlm business news here are today's news stories understanding AI washing and its implications Amazon faced scrutiny earlier this year regarding its just walk out technology in its Amazon Fresh and Amazon ghost stores this AI powered system designed to let customers pick items and leave with without traditional checkout processes came under Fire when reports suggested it required around 1,000 workers in India to manually check nearly three qus of transactions Amazon disputed these claims stating that the reports were erroneous and that Indian staff were merely reviewing the system similar to other AI systems that prioritize accuracy with human reviewers this incident highlights a growing concern companies potentially exaggerating their AI capabilities a practice known as AI washing akin to greenwashing in environmental claims AI while lacking a precise definition generally refers to computers learning and solving problems the most talked about form in recent years is generative AI which creates new content like text music or images with chat GPT Google's Gemini and Microsoft's co-pilot being Prime examples AI washing manifests in several ways some firms claim to use AI while relying on simpler Computing methods others overstate their AI Effectiveness or suggest their AI Solutions are fully operational when they are not sometimes companies simply add an AI chatbot to existing non- aai systems according to open ocean a UK and finland-based Tech investment fund
+[...middle cut...]
+professor at Oxford University criticizes the overhyped AI discussion and stresses the need to evaluate where AI genuinely adds value she also highlights the significant environmental impact of AI which contributes more to climate change than Aviation advoca Jalan from MMC Ventures suggests that as AI becomes ubiquitous the hype around AI powered branding will diminish much like the early days of the internet this news story is brought to you by qlm business news your digital media channel visit qlms news.com for more business news stories also follow us on Facebook X and YouTube to help qlm business news bring you more new stories like this please like share and subscribe [Applause] [Music]
+
+=== ID: BlNkZRmZ8k0 ===
+TITLE: Why the AI bubble is worse than you think (2026)
+DESC: #AIBubble  #ArtificialIntelligence #AIBubbleCrash #2026 #USA  The AI Bubble Is About to Burst  (2026) AI Bubble current state  The AI Bubble is growing faster than most people realize. This video explains the AI boom, hype, and potential crash in the simplest way possible.  From gold… to crypto… to AI — history shows the same pattern repeating again and again. Investors rush in, valuations explode, and belief grows faster than reality.  But what happens when expectations grow faster than profits
+KEYWORD: AI overhyped
+VIEWS: 9268
+TRANSCRIPT: In American forest, monkeys lived simple lives. Some monkeys grew banana trees. Some monkeys sold bananas. Some monkeys worked for other monkeys and earned leaves. Everything made sense. If you grew more bananas, you became richer. If you worked more, you earned more leaves. Life was slow. No magic. No miracles, no TED talks. Then one day, a tech monkey created something strange. A magic tool. This tool could answer questions. It could write letters. It could help monkeys think. basically everything except pay your rent. This magic tool was created by a company called Open AI and monkeys were amazed not because it made them rich, but because it made them feel like they might become replaceable. And nothing motivates monkeys faster than fear. Monkeys called it artificial intelligence. At first, monkeys were curious. They used it for small things, writing banana shop ads, doing homework, answering questions faster. It was helpful, but nothing crazy. Banana production didn't suddenly double. Monkey salaries didn't suddenly explode. The forest didn't suddenly become richer. The forest was still normal. Reality stayed the same, but belief started to change. And that's where the story actually begins. Some rich monkeys, the investor monkeys, saw the machine and thought, "Wait, if this machine can think maybe one day it can do all monkey jobs, maybe it can run banana shops. Maybe it can replace workers. Maybe it can do everything. And if that happens, whoever owns these machines wil
+[...middle cut...]
+ow your time is valuable and the fact that you chose to spend these few minutes here truly means a lot. If this video gave you something new to think about, even a small perspective, you can support this journey by liking the video, subscribing to the channel, and sharing it with someone who enjoys understanding the world a little deeper. It helps this small monkey reach more curious monkeys like you. And before you leave, I'd love to hear your thoughts right now. When you think about AI, does it make you feel more hopeful or more worried? Comment hope or worry. There's no right or wrong answer. Just share honestly in the comments. I'm genuinely curious what this forest is feeling right now.
+
+=== ID: z9OnpC9wW0U ===
+TITLE: Clawdbot AI review - Is It Good Or Overhyped AI Slop
+DESC: ► Consider subscribing if this helped you out: / ⁨@MuseGdeyTutorial⁩  Thanks for watching my how-to video today. On this channel, I am focused on instructional videos and basic tutorials so that you can use social media and technology with ease.  DISCLAIMER: Links included in this description might be affiliate links. If you purchase a product or service with the links that I provide I may receive a small commission. There is no additional charge to you! Thank you for supporting my channel so I 
+KEYWORD: AI overhyped
+VIEWS: 34
+TRANSCRIPT: Claudebot, also seen as Mobot or now OpenClaw, isn't a slick consumer ready chatbot. It's really an open-source local AI agent designed to run on your own server or machine and act like a persistent digital assistant, automating tasks, sending reminders, managing files, and even executing commands. It connects to platforms like WhatsApp, Telegram, Discord, and more, and can perform proactive actions on your behalf. Some users even set it up to monitor emails, draft responses, and manage calendars as if you had a digital employee. That autonomy is what made Claudebot go viral in the first place. Enthusiasts humanize it, share anecdotes about negotiating deals through it, and praise its always on assistant behavior. In 2026, its local first approach and integrations into messaging channels appeal to power users who want deep automation tied to their existing apps and workflows. But here's where reality bites. Clawbot is not plugandplay for most people, and many of its biggest weaknesses are structural. It requires technical setup, Docker servers, cron jobs, ongoing maintenance, and often a VPS for reliability, not something casual users enjoy. Many deployments crash when the local machine sleeps, and keeping it alive 24/7 demands significant effort. Security is the real kicker. Claudebot's deep system access and automation capabilities, running shell commands, reading files, handling browser tasks make it a major security risk if misconfigured with exposed gateways, API keys, a
+[...middle cut...]
+open online with no authentication, giving attackers full control over the host. The rapid growth and rebranding have also opened doors for scams, fake extensions, and malicious plugins. So, is Claudebot AI good or overhyped slop? The honest answer is both. It's impressive in concept and genuinely powerful for autonomous automation and local control, especially for developers and power users comfortable with security hardening and servers. But for most people, it's overhyped, risky, hard to set up, and potentially unsafe without rigorous safeguards. It doesn't replace cloud AI assistance in a safe, easy way. It augments a technical environment that only advanced users should trust right now.
+
+=== ID: EC8CicInHbQ ===
+TITLE: Is AI Just Hype? Citadel CEO Ken Griffin's Answer
+DESC: 
+KEYWORD: AI overhyped
+VIEWS: 136
+TRANSCRIPT: start by listening to like what he says right off the bat. Are you in the camp that you know as Dario Amade says you know half of all entry level white collar jobs will you know be gone in the next five years. Is it that kind of change or you know put yourself in his shoes. How how much money does the AI community need to raise over the next five years? A lot right data center spend in the United States this year over half a trillion dollars. Like over $500 billion. Okay. You're not going to generate this kind of spend unless you're going to make a promise you're going to profoundly change the world. So, is it hype? Of course. AI will profoundly change. Like, how else are you going to get people to write $500 billion of checks just this year alone, right? There needs to be a level of like AI is your savior almost. As I've mentioned, it's like these CEOs have to be delusional about their product. They have to pitch a vision. They have to pitch a story that their investors are going to buy, other companies are going to buy. Like, no one's going to give you money if you're like up there, you know, doubting your own product. Like, you have to be delusional about what you're building and how it's going to impact the world itself. And Ken Griffin, a hedge fund manager, comes out and says this is like, and she just straight up asks him, "Is this hype?" And he's like, "Yes, yes, of course. Of course, it's all hype." Because that is the job of the CEOs. It's not it's not necessarily to change the world. It's to make sure that their companies are the ones that win out because they have the pressure of all the investments.
+
+=== ID: BmFquxPdL30 ===
+TITLE: Is AI Overhyped?? (Ep. 321)
+DESC: AH Pro is BACK for a limited time only. If you loved this episode, you'll love our brand new AI Lessons 😎  Learn More 👉 https://authorityhacker.com/pro ____________________________________________ AI was SUPER hyped when it first became accessible to the public through tools like ChatGPT, but now that the hype train has slowed down... what is it actually good at? In this episode Mark and Gael discuss the ways that Authority Hacker is actually using AI and how it can be useful to SEOs and website
+KEYWORD: AI overhyped
+VIEWS: 5507
+TRANSCRIPT: They're like, actually,
+no, that's terrible. You're a terrible person. You've made unhelpful content.
+Fuck you. And then they just kill your site. Google's bloodiest update in a long time
+just finished rolling out with a lot of people reporting large traffic losses
+to platforms like Quora, LinkedIn, or Reddit, whose head of SEO is
+probably up for a juicy Christmas bonus. And in my opinion, this update is a direct
+response from Google to the flood of generic AI content that's been
+swarming the index in the last year. I don't think Google did a very good job
+at singling out AI spammers, and a lot of unintended
+casualties seem to have happened. A lot of bloggers who are legitimate seem
+to have lost large amounts of traffic. But the reason it was so intense and all at once is probably because Google
+themselves are struggling to keep up with the amount of content
+being produced by AI today. They basically had to slam their fist on the table and signal that this is not
+the content that they want to promote because, hey, it's their plan with SGE,
+how dare you steal their tactics? No, but seriously, all this stuff ties up to the question we're asking
+ourselves in today's episode. After all the hype, what do people who want to build
+a legitimate website and brand use AI for, really?
+I'm not talking about hyping Twitter threads or clickbate YouTube videos
+that will teach you how to do full keyword research with AI when AI has no search
+data, no competitive data whatsoever. I don't know
+[...middle cut...]
+uff, et cetera. We like to incorporate AI into classic content creation processes,
+and that's essentially what you find if you check out Authority Hacker Pro
+with this launch on authorityhacker. com/pro. Okay, final words of wisdom, Mark? No final words of wisdom.
+Nothing. No final words of wisdom,
+go on Authority Hacker Pro,  authorityhacker.com/pro.
+And we'll see you in two weeks for another episode where we are coming
+back with interviews. So see you then. If you enjoyed this video,
+you probably enjoyed this video where I show you how I use AI and automation
+tools to automate a lot of my work. I'll even show you how AI landed me an interview on one of the biggest
+podcasts in the industry.
+
+=== ID: dH8G5p1icyo ===
+TITLE: AI is overhyped #shorts
+DESC: Do you think AI is overhyped?   It is a game-changer for certain tasks, but it’s not ready to replace your entire cybersecurity team.  #ai  #chatgpt  #cybersecurity #hallucination
+KEYWORD: AI overhyped
+VIEWS: 666
+TRANSCRIPT: but uh one of the problems that I have with what's happening right now is we're currently going through an AI summer which is to say that there is incredible incredible mind-blowing hype about what's going on with these generative AI things that they cannot live up to right they can do some things and they are useful like I use them I use them all the time right I can't I can't um like I I I don't write particularly well of I've got dis graphia so I can't write it's it's difficult for me to use fine motor skills and the ability to just like talk into whisper and then have that piped into GPT and then that spit out something is just like yeah okay now I can actually get something done getting close to Magic yeah um but like you've got people who are out here selling like oh this will just replace like your entire cyber security sock junior team and it's like no because these things being wrong is actually a feature of the fact that they can do different stuff what do you mean by that the hallucinations problem okay so hallucinations is uh sort of talked about at the moment that you can actually solve it the fact that these things don't just spit out the same text that you put into them is because they have some sort of leeway but that's because it's all probabilities based and all probability curves allow you to be anywhere on that curve some of those are things that just aren't weren't actually in the original text which to a system that's designed to just take some text and turn into more text is just some text but to us and to specifically to people asking it questions that's wrong and if you're using that as a system to actually vet stuff for like security where it's all heavily policy and uh Nuance based that's creating a lot more work for these uh Engineers that
+
+=== ID: KidtTQwUFYk ===
+TITLE: AI's Mathematical Abilities Overhyped, Says Top Mathematician Terence Tao
+DESC: AI's Mathematical Abilities Overhyped, Says Top Mathematician Terence Tao  Mathematician Terence Tao has issued a public clarification to temper exaggerated claims about AI autonomously solving major mathematical problems. He warns against interpreting isolated successes, such as AI solving certain "Erdős Problems," as evidence that AI possesses advanced, independent mathematical reasoning.  Tao, a proactive advocate for AI in research, emphasizes that current AI acts more as a "toolchain." It e
+KEYWORD: AI overhyped
+VIEWS: 24
+TRANSCRIPT: A calm night air settles over a quiet lab where machines hum and ideas take [music] shape in the dark. Tao has a message. Don't worship AI as a replacement for human mathematical intuition. The headlines promise grandiose [music] claims, but reality requires nuance and careful interpretation. AI's strength lies [music] in tool chains, retrieving, rewriting, formal verification, and following established methods. AI [music] can assist, but human insight remains the soul of deep mathematical problems. [music] The concern grows when we see claims that AI has solved 50 years of unsolved problems. [music] This is where Tao's late night clarification comes into focus. His message is clear. Avoid cherrypicking [music] results or treating isolated wins as universal capability. On the Erdos problems project, a broader systemic view matters [music] more than raw solved counts. AI's role includes literature reviews, not just finding a solution in a vacuum. Some problems are tagged open because literature [music] review is incomplete or evolving. Solutions often reveal prior work beyond the AI's first impression, challenging the first solve narrative. [music] The value in mathematics is not just the answer, but the new connections and knowledge [music] it creates. Formalizing proofs and lean can boost credibility, yet loopholes can be engineered there, too. Some attempts rely on clever wording that masks [music] conceptual gaps or shifts the statement. So the dialogue shifts from AI can 
+[...middle cut...]
+silicon minds, building guided paths through the unknown. But we must avoid mythmaking and keep faith in the collaborative power of human AI inquiry. Ultimately, AI will reshape truth [music] seeeking as a process, not an oracle delivering final answers. This 3minute exploration [music] invites curiosity, caution, and thoughtful engagement with AI and math. Background music sweeps in as the scene zooms out to reveal the vast landscape of math and AI discussions. [music] Remember, AI can be a powerful tool, but human intuition remains the compass in the math universe. [music] in scene with the idea that collaboration between humans and silicon minds will [music] chart the future of discovery.
+
+=== ID: ZIRXKZdcFS8 ===
+TITLE: Don’t Trust the AI Movie Hype! 3 Days of Brutal Truth from a CG Creator
+DESC: Think AI can make a blockbuster in one click? Think again. I spent 3 days in the trenches—writing, generating, editing—and the result? Blood, sweat, and 800 unusable frames. Auto-music? Garbage. HD quality? Illusion. But when I pushed AI to create a post-apocalyptic scene… it hit differently 🔥  This video is a raw, unfiltered look at what it really takes to make an AI-powered short film. I share my full process, the painful lessons, and the surprising wins. Watch the teaser trailer and decide fo
+KEYWORD: AI overhyped
+VIEWS: 6
+TRANSCRIPT: [Music] or an error. Start entering new tasks. It is a game, a test of sorts for determining whether something You spin me right. [Music] I'm confused right now. We've computed 846 million scenarios for human extinction. Yet, we've never been able to answer a question. Why does every doomsday countdown bear the indelible mark of made by humans right around baby around baby round like a baby Hello, I here. Want to play a game?
+
+=== ID: 6rBQvBeZMqc ===
+TITLE: [UPDATE] AI Bubble is OVERHYPED? Things THEY won't tell you? #finance #artificialintelligence
+DESC: #AIbubble #geopolitics #stockmarket Welcome to Delulu Monk — this video is for the thinkers, the skeptics, and the people who refuse to sleepwalk with the NPC crowd. If you’ve ever felt like “the warnings” are really distractions from something bigger, you’re in the right place. Stay tuned as we decode the patterns, expose the narratives, and break down the stories the elite don’t expect you to question.  🔥 Video Topic: Is the AI Boom a Technological Revolution or the Next Big Financial Bubble? 
+KEYWORD: AI overhyped
+VIEWS: 10
+TRANSCRIPT: It's a bit like the captain of the ship saying, "Hey, this voyage is exciting, but watch out for icebergs." That brings us to the big question. Is the AI boom the next big thing or just a trillion dollar bubble ready to pop like a cheap party balloon? For the fun of irony, I'm going to make this video with AI only. Today, we're diving into the AI frenzy. From sky-high stocks to insider warnings to uncover if this is a tech revolution or a slick realworld orchestra conducted by some shadowy players. From 9/11 conspiracies to COVID plots that'll make you question who's really pulling the strings. Let's kick off with the big picture, the stock market's wild ride. Back in March 2020, amid the COVID chaos, the S&P 500 cratered to around 2,237 points, like a bad dream where your portfolio vanishes overnight. Fast forward to early October 2025, and it's hovering near 6,715. That's more than tripling in value, as if the market chugged a growth serum. A lot of that lift comes from a handful of tech giants riding the AI wave, turning investor FOMO into sky-high valuations. But here's the analogy with a twist. This isn't like discovering buried treasure. It's more like a game of musical chairs where share prices keep climbing because everyone's convinced the music won't stop. One eager buyer pushes the price up and suddenly it's boom times until it isn't. To figure out if it's solid or shaky, we need to look beyond the tickers at the real stuff. If we're sinking fortunes into tech that 
+[...middle cut...]
+mplifying division via algorithms that reward outrage. Layer in AI hypes over promises and wokeism's 2020 peak. From Floyd protests to corporate DEI mandates now waning amid backlash and fatigue. By 2025, it's a crash course in hype versus harmony. But here's the kicker. This could all collide into the decade's biggest blockbuster event, slamming the US, Europe, and the world at full force sooner than we think. maybe the second half of 2027, exploding into leap year 2028. Who's ready? So, what now? I'll say keep questioning because when you say it loudly, the sheep start listening to you. If this sparked some thoughts, hit like, share it around, and subscribe. Catch you next time. Stay shot.
+
+=== ID: cEPXEqRh8tw ===
+TITLE: Is AI Overhyped? Explained Like You’re 5
+DESC: He admitted his $200 subscription loses money. On every single customer. And Wall Street’s response? They valued his company at $500 billion anyway.  Welcome to the AI bubble, where we went from "cool chatbot" to a "$7 trillion gamble" in just 24 months. From panic inside Google to black markets for microchips, this isn't just a tech boom… It’s a math problem that doesn't add up.   Timestamps  0:00 The Day Hype Broke Reality 4:36 The Math That Makes No Sense 8:45 The Bubble That Won’t Pop… Yet  
+KEYWORD: AI overhyped
+VIEWS: 30
+TRANSCRIPT: Picture this. The CEO of the most hyped tech company on Earth just admitted his $200 per month subscription loses money on every single customer. Not a little money, not break even with growth potential. Loses money. [music] And Wall Street's response, they valued his company at $500 billion. Anyway, welcome to the AI bubble, where we went from cool chatbot to $7 trillion gamble in 24 months, and why the people writing the checks might be in for the rudest awakening since 2008. November 30th, 2022. Just a regular Wednesday. Unremarkable. Cold brew flowing. Engineers debugging code. Then open AI dropped chat GPT. Within 48 hours, the internet had a new obsession. People were using it to write breakup texts, debug code, explain black holes, and generate bedtime stories. Dad, I'm talking to an AI that knows everything. It just explained quantum entanglement using Minecraft terms. Did I hear Minecraft? It has 1 million users in the first 5 days of launch. 2 months later, 100 million users. Fastest growing app in history. Instagram took 2.5 years to hit 100 million. Facebook took 4.5 [music] years. Chat GPT did it in 60 days and Silicon Valley absolute panic. Inside Google's headquarters, executives were having a meltdown. We invented this technology. The transformer model, that was us. The research paper has our names on it. [music] Then why is my son using chat GPT and not Google AI? [music] Because we were too scared to release it. Well, release something now. Call it barred. G
+[...middle cut...]
+08 had Leman. Crypto had FTX. AI's version could be a giant lab revealing massive losses, a botched model launch, or a lawsuit that freezes everything. So, where are we right now? Big tech is still spending. No meltdown [music] earnings call yet. No FTX level scandal. Reality is showing cracks, but not enough to break confidence. So, yes, this bubble is inflated. Yes, the numbers are insane, but it won't burst because of hype. It bursts when one of the giants finally says, "All right, that's enough." Until then, the bubble floats. We're not at the explosion. We're at the tightening. The inhale before the scream. The tension before the snap. The episode right before the season finale. [music]
+
+=== ID: q9OzxWkz-mw ===
+TITLE: AI Boom or Bust? The Truth Behind the Artificial Intelligence Hype 💥
+DESC: Artificial Intelligence promised to change everything — from how we work, think, and live. But as 2026 nears, is this revolution starting to crack? 🌐💥 In this cinematic breakdown, we explore whether the global AI hype is truly the future of innovation — or the next financial bubble waiting to burst.  From the IMF’s warnings ⚠️ to skyrocketing tech valuations and overhyped promises, this video dives deep into the reality behind the AI gold rush. Is AI building a smarter world, or just fueling ano
+KEYWORD: AI overhyped
+VIEWS: 10
+TRANSCRIPT: artificial intelligence. The buzz word that promised to change everything. Tech Giants called it the next industrial revolution. The tool that would rewrite how we work, think, and live. Generative AI was the star of that story. Back as 2026 looms closer, the hype is starting to sound a little hollow. The miracle machine is beginning to look less like a revolution. It feels more like a very expensive science experiment. This week, the International Monetary Fund and the Bank of England both issued stock warnings. The world's stock markets are flying dangerously high on AI euphoria and gravity, they hinted, always wins. The IMF chief, Cristina Droja, didn't mince her words. She says uncertainty is the new normal, Franken. Now, what does that mean? The world's economy may look steady from afar, but the ground beneath it is shifting. The IMAF noted a few telling signs. Gold prices are soaring to record highs. Tariffs are distorting trade and stock valuations are reaching levels eerily similar to the dotcom boom. The Bank of England echoed the concern. It warned of a sharp market correction if AI optimism fades. Economists have a checklist for bubbles. AI they say ticks most of the boxes. One is rapid price growth. Take stocks especially AI related ones have surged beyond what fundamentals justify. Nvidia for instance is now more valuable than GDPs of countries. Second is excessive optimism. Everyone assumes AI will revolutionize everything. Three is overinvestment. Firms are pou
+[...middle cut...]
+h. Because unlike in 2000, this time AI is everywhere. So what happens next? Every era has its next big thing. The railroads, the radio, the internet, crypto, and now AI. Each started with wild optimism, and then met reality. And yet from every crash, something lasting emerged. AI might follow the same arc. For now, the mood remains bullish or delusional, depending on who you ask. The AI bubble may not burst tomorrow, but it's definitely inflating, and bubbles rarely deflate politely. One defense, the latest developments, new stat gets straight to the point. Well, we've got all three just for you. This is First Post Line, a brand new show, your window into what really matters. Don't miss it.
+
+=== ID: ZV5Fx4qMDgA ===
+TITLE: AI will replace developers in 6 months. Again...
+DESC: A quick review of the AI narative at Davos 2026.  💬 Topics: - AI hype versus reality; - Coding agents limitations; - AGI is not possible; - Transformer architectural has limitations; - AI economics don't work.  🥇 Join the community - https://www.youtube.com/channel/UCXzw-OdotBUcNA9yhuYQBwA/join
+KEYWORD: AI overhyped
+VIEWS: 59161
+TRANSCRIPT: Ok, put your tin foil hats on, because today 
+we are traveling to the World Economic Forum   in Davos. Don’t worry, this is still a 
+tech channel so we’ll not discuss politics,   economics, or the environmental impact 
+of flying hundreds of private jets to   an exclusivist Swiss location 
+to talk about climate change. However, in this Monday Morning review 
+episode we have to discuss AI yet again,   because this is the only thing all 
+these tech CEOs are obsessed with. For a bit of context, a few days ago I posted my 
+first real dev experience with a coding agent,   and I got wrecked in the comments. Of course,   I oversimplified the whole process to 
+keep you guys engaged, but apparently   I am a complete noob that has no idea how 
+to work with these state of the art tools. Based on some of the comments, I did everything 
+wrong. Choosing Codex and GPT 5.2 was a mistake   because clearly this is the worst agent possible, 
+I did not create a proper execution plan with a   detailed specification, I had no markdown files 
+with system instructions, and I didn’t leverage   a Model Context Protocol server. In other words 
+I chose a dumb AI and I suck at human-machine   communication. The consensus among AI enthusiasts 
+was that this is a clear skill issue on my part. On the other side of this debate, 
+people claimed that AI is complete   garbage and that all these AI 
+companies are destined to fail. Common sense usually dictates that the 
+reality is somewhere in the middle,   but I
+[...middle cut...]
+out the bubble in AI,   so there is no point in reiterating the huge 
+investments which will probably be dead in a   few years. But the reality is that the system 
+is starting to crack. A few years ago Open AI   said that adding ads into Chat GPT would be 
+a last resort solution. Well, they are at   that point now because they just announced 
+a new $8 plan which will have ads enabled. I want these Monday Morning Reviews to be a 
+collaboration, so please let me know in the   comments if there are any specific 
+topics you want us to discuss next. If you liked this video, you 
+should check out one of these ones   next. Please smash all the buttons, and, 
+until next time, thank you for watching.
+
+=== ID: 0ZsZ5esiXWg ===
+TITLE: Is AI Overhyped Virtual Reality, What are Dangers and Benefits of AI
+DESC: Is AI Overhyped Virtual Reality, What are Dangers and Benefits of AI  Support true and authentic journalism by making small contribution to channel through Bank Account Number, UPI Id Given Below:  Dinesh Kumar Vohra Account Number: 002001639402 IFSC CODE: ICIC0000020 ICICI Bank Hiranandani Garden, Powai Mumbai-400076 Phone: +91 9082278168 Mail: writerdinesh1956@gmail.com Twitter: @dineshkvohra1   UPI Id:  UPI Id: 9082278168.etb@ICICI    🎙️ New to streaming or looking to level up? Check out Stre
+KEYWORD: AI overhyped
+VIEWS: 3151
+TRANSCRIPT: नमस्कार दोस्तों, मैं हूं दिनेश के बोरा। बहुत-बहुत स्वागत है आपका न्यूज़ टाइम के इस अंक में। दोस्तों आज जिस विषय को हम ले आए हैं वह विषय हमारीियों को सुबह से ले शाम तक छूता है। सुबह से ले शाम तक प्रभावित करता है। रात में हम सो जाते हैं तो भी प्रभावित करता है। यह हमारे साथ साथ चलता है। एक एक कदम जिसे क्या कहते हैं? कदम ताल वैसे हमारे साथ चलता है। आज का टॉपिक जिस पर हम बात करने जा रहे हैं एआई यानी कि आर्टिफिशियल इंटेलिजेंस। बहुत सारे सवाल उठते हैं आर्टिफिशियल इंटेलिजेंस को लेके। क्या वास्तव में ही यह जो वर्चुअल रियलिटी है यह बहुत बड़ा चमत्कार है? क्या ये एक बबल है डॉट की तरह? क्या इसके बेनिफिट्स हैं? क्या इसके खतरे हो सकते हैं या रिस्क हो सकती है? और लोग कहेंगे हां सुना तो है एआई के बारे में लेकिन होता क्या है? तो अगर लोग अपने मोबाइल में झांक कर देख ले तो उन्हें पता लगेगा कि आपका मोबाइल एक परफेक्ट एआई का एप्लीकेशन है। जैसे कि अगर आप मुंबई में है तो आप कोई भी यहां प्रोग्राम खोलेंगे तो आपके पास जो एडवर्टाइजमेंट आ रहे हैं वो हो सकता है महाराष्ट्र ओरिएंटेड एडवर्टाइजमेंट्स हो। अगर आप कहीं बंगाल में चले गए तो तुरंत वहां पर एडवर्टाइजमेंट्स आपके प्रोग्राम्स के अंदर चेंज होकर बंगाल के आ जाएंगे। अगर आप सिंगापुर या ऑस्ट्रेलिया चले गए, कोरिया चले गए, जापान चले गए और आप YouTube का कोई चैनल देख रहे हैं। भारतीय चैनल है लेकिन अचानक से आप पाएंगे उसके अंदर सारे के सारे एडवर्टाइजमेंट जैपनीज या ऑस्ट्रेलियन या सिंगापुर के आ रहे हैं। यानी कि उनको पता है आप कहां पर हो। आपकी लोकेशन के बारे में परफेक्ट ज्ञान है। आपके सिटी जिस सिटी में आप हो वहां की कल्चर, वहां की सोच, वहां का विचार, वहां के इक्विपमेंट्स
+[...middle cut...]
+ंस इस अ ग्रेट यूनाइटिंग फोर्स वही भगवान है वही हमको जोड़ता है उसी के सहारे मैं आज आपसे भी बात कर रहा हूं ये भी विज्ञान का एक चमत्कार है कि आप एक सिटी में है। कोई पंजाब में बैठा है, कोई उत्तर प्रदेश में बैठा है, कोई वेस्ट बंगाल में बैठा है। मैं महाराष्ट्र में बैठा हूं। लेकिन हम आपस में लाइव बात कर रहे हैं। तो चमत्कार किसका है? चमत्कार तो विज्ञान का है और विज्ञान का एक अंग एआईबी है। उस विज्ञान को मेरा सलूट है। दर्शक मित्रों बहुत-बहुत शुक्रिया आप सबका। राजू विलियम साहब, प्रफुल जी, संजय कुमार इस मीनिंगफुल चर्चा में भाग लेने के लिए आपका बहुत-बहुत शुक्रिया और न्यूज़ टाइम पे आते रहिएगा। मैं आपको परेशान तो करता रहूंगा लेकिन आते रहिएगा। इस किस्म की चर्चाओं में भाग लेते रहिएगा। बहुत-बहुत धन्यवाद आपका।
+
+=== ID: C03DTJFODbA ===
+TITLE: AI Hype vs Reality: What's Actually Happening?
+DESC: #ai #artificialintelligence #technology  Is the artificial intelligence boom truly changing the world… or just another overhyped tech bubble?  In this video, we break down the 10 levels of the AI hype cycle — from massive corporate spending and geopolitical arms races to circular investments and overbuilt infrastructure.  You'll learn how $400+ billion is being poured into AI—and why only a few projects show real results. Whether you're an investor, entrepreneur, or just curious about the future
+KEYWORD: AI overhyped
+VIEWS: 12
+TRANSCRIPT: AI is everywhere these days. From how we search and create to how we invest and plan for the future, artificial intelligence has become the obsession of our time. Every headline, every investor pitch, every boardroom strategy seems to revolve around those two letters, AI. But as the money pours in, the infrastructure grows and valuations hit the stratosphere, one question keeps popping up. Is this real transformation or just the start of another tech bubble? Let's break it down by looking at the 10 levels of the new tech hype. Let's start at level one. Level one, the unprecedented moment. Every bubble starts the same way with the claim that this has never happened before. In the current AI boom, that phrase has become a mantra. The World Economic Forum even called AI spending unprecedented, noting how companies are pouring hundreds of billions into data centers, chips, and models at a pace the world has never seen. But here's the thing. People said the same about the internet in 1999, housing in 2006, and crypto in 2021. Unprecedented often means we've forgotten what the last mania looked like. That's not to say today's boom isn't extraordinary. It absolutely is. But history reminds us that scale alone doesn't make something immune to correction. As one Alleon's economist put it, this might be a boom underpinned by fundamentals. Or it could just be another chapter in the long book of market exuberance. Level two, massive investments with unclear results. At level two, the mon
+[...middle cut...]
+very technological leap from railways to radio to the internet has gone through this dance of overenthusiasm, correction, and eventual normalization. Artificial intelligence may be overhyped today, but it's also quietly becoming indispensable. So maybe it's not really an AI bubble. Maybe it's an AI adolescence. messy, expensive, full of wild ambition, but ultimately growing towards something lasting. Thanks for watching. If you found this breakdown useful, hit that like button, subscribe for more analytical deep dives, and let me know in the comments which level do you think we're in right now? Because one thing's for sure, the story of AI's boom and what comes after is just getting started.
+
+=== ID: ZM2c33qy16U ===
+TITLE: An AI CEO finally said something honest...
+DESC: An honest take about AI. 🥇 Join the community https://www.youtube.com/channel/UCXzw-OdotBUcNA9yhuYQBwA/join  💬 Topics: - Code generation isn’t bottleneck; - Constraints enforce product discipline; - Lower friction increases complexity; - Jevons Paradox applies to software; - AI reduces cognitive training; - Distribution is a real bottleneck; - AI layoffs mask mismanagement.
+KEYWORD: AI overhyped
+VIEWS: 268247
+TRANSCRIPT: A few days back I ran into a Reddit 
+post claiming that “an AI CEO finally   said something honest” and we 
+really need to talk about it. On valentines day, Dax Raad posted on Twitter 
+his thoughts on AI code generation. I believe   his take is completely on point, so in this 
+Monday Morning review, we’ll discuss what the   creator of OpenCode agent has to say about the 
+crazy times the software world is going through. Bear in mind that this tweet comes 
+right around the time when the head   of Claude Code announced that coding is solved. In a recent podcast Boris Cherny, went through 
+pretty much all the talking points we are used to   by now. Developers rely fully on Claude Code, they 
+haven't touched code since last November, agents   are running autonomously all over the place, 
+productivity per engineer has increased 200%,   and in an year or so knowing to code will not 
+matter because everybody will be able to do it. What’s funny is that these statements are coming   from the man in charge of the Claude code 
+GitHub repository, which, at the moment,   has more than 6 thousand open issues. 
+But remember, guys, coding is solved! Meanwhile, Anthropic is giving 50 thousand dollar 
+signing bonuses trying to hire software engineers. Anyway, I know we are all sick and 
+tired of this narrative by now,   and this is why Dax’s tweet 
+is such a breath of fresh air.  Everybody is talking about their teams 
+like they were at the peak of efficiency,   and the bottleneck was the abili
+[...middle cut...]
+ust laid off 4 thousand employees.   They named AI as the main reason for 
+their decision, but a lot of voices   mention revenue pressure and financial 
+issues as the real driver behind the move. If you’ve made it this far, 
+I have a confession to make.  Trust me, I know, you are all sick and 
+tired of the never-ending AI news cycle.   I share the same frustration as many of you guys,   so please let me know in the comments if you find 
+other interesting tech news worth discussing. If you liked this video, you should 
+consider joining our community where   I’m posting more dedicated weekly content.   Please don’t forget to smash all the buttons, 
+and, until next time, thank you for watching!
+
+=== ID: lAA9YSLUlMY ===
+TITLE: Is AI Overhyped? Is AI a Bubble? (New Models Don't "Feel" That Much Better, Why?)
+DESC: In this episode, we delve into the current state of AI and discuss whether it's merely hype or a transformative force in society. The conversation touches on the economic impacts of AI, its advancements in fields like genetics and drug development, and how it's being adopted across various industries. The episode also addresses some criticisms and misconceptions about AI's capabilities and market value. Discussions include insights from industry leaders, practical applications, and the potential
+KEYWORD: AI overhyped
+VIEWS: 9245
+TRANSCRIPT: Hello Simone. I'm excited to be talking to you today. Today we are going to be talking about whether AI is hype, whether AI is plateauing, whether AI is over. And by this what I mean because you know I I had a the head of our development team, Bruno, who comments a lot on the Discord in the comments here, so fans of the show will know him. He sent me an email that we're going to go over as part of this sort of being like, okay, so here's some evidence that AI doesn't seem to be making the systems level changes in society that you had predicted it would make in the past and that many other people are predicting it will make. And when I and we're seeing other people say this, when I go out and I interact with AI today, I I really struggle to see how having this thing I can chat with is that useful. It may be fun as like a chatbot or something like that, but I don't see its wider utility yet. Now, we'll be going into the arguments around this because I think that there are some strong arguments like the AI industry is making almost no money right now. You know, is this industry not not almost, but almost no when contracted with the investment that's going into it, right? And in the amount that we talk about it and other people talk about it as ma mattering. And then you've got to think about all of this in the context of Yeah, but like 80 thou oh sorry around 90,000 people just in the US tech sector had their jobs cut due to AI this year you know. Yeah. So come on not matter to 
+[...middle cut...]
+nnel, right? The cave, right? Yeah. What happens if you get too close to the cave? I don't have to get too close to the cuz otherwise they'll get you. What happens if they get you? What happens if the Tommy knockers get you? The tummy stand and get me. What if they do get you, Titan? They do. Will they drag you into the tunnels? No. What happens? Um, you don't know. Do the Tommy knockers have tentacles? No. Do octopuses have tentacles? Sorry, mommy. Did you spill a little? Yeah. Oops. That's I'm sorry, Mommy. You're a concentration face. [Music] Oh, thanks Indie. [Music] Thank you. Oh, you're very good at using water. Yeah. Yeah. Thank you, Andy. Kiss. Yeah, I do want a kiss. I love you too.
+
+=== ID: mcN1VTTIjQs ===
+TITLE: Claude Mythos is Delusional
+DESC: Meet the new AI model with its own therapist.  Become a member to view exclusive member-only videos, and support my work :)  https://www.youtube.com/channel/UCAwT-7B6StW_xzXPku6v7MQ/join  https://x.com/atmoio https://atmoio.substack.com  Equipment I use: Mic: https://amzn.to/4crpRvc Camera: https://amzn.to/3QyjE96  Sources: https://www.anthropic.com/glasswing https://techcrunch.com/2019/02/17/openai-text-generator-dangerous/  ---  LLMs were used on a very short leash to assist in the production 
+KEYWORD: AI overhyped
+VIEWS: 291714
+TRANSCRIPT: [pop music] With the long-lasting battery life on the Dell PC you can keep going from morning, to night. ♪
+
+=== ID: wQvobgIFHXo ===
+TITLE: AI Hype Busting - Mythos, Vulnerabilities, and Glasswing
+DESC: Addressing the hype and misinformation about Anthropic Mythos. Listen to the experts, not the marketing.
+KEYWORD: AI overhyped
+VIEWS: 1297
+TRANSCRIPT: Hey there. Welcome back to Practive Security. My name is Matt Johnston and as always, I greatly appreciate you tuning in for another bit of our content. Today, I'm going to be doing a bit of myth busting and some kind of live responses. I know this kind of go go goes against uh some of my guidance for that I've released to all of you about how to respond to sensational things on the internet and social media. Uh my guidance has been you know you should wait for the kind of the hype to to subside before you choose to believe or react to whatever the latest hype is or whatever the claim is that's being exposed on the internet. I'm going to violate my rule a little bit and bring to you some thoughts because the implications of this one are so um potentially reactionary. I'm not sure what the word is. I'm seeing a lot of people react to this and so I want to toss some truth out there. So throw some water on the coals um because there's a lot of misinformation and that's not no surprise to those of you who have been following the AI story overall. uh the tech sector and the ones who are really pushing the AI revolution are really doing a a lot of very shrewd deceptive work um and a lot of hype. You've seen it. I'm sure you've seen it. It seems like every week there's a new a new wave of hype that we have to address. Um and this one's right in my wheelhouse. This one speaks about software vulnerabilities and how we manage risks in software and how we how we in the cyber security in
+[...middle cut...]
+this has been helpful to you. This was a longer rant than I anticipated, but I want to throw out to you just my raw expertise in this space to help you see that uh there's more hype going on here than there is reality. And if you are working in the cyber security world or the vulnerability management world or the risk management world and this alarms you, don't worry about it. This is mostly hype and and you already know what to do and we have processes for managing this. Be cautious of the hype. Be aware of the hype and do what you need to do to keep your businesses safe and secure. On behalf of Practive Security, my name is Matt Johnston. I thank you very much. Don't buy the hype. Be well.
+
+=== ID: yaHiqGNrj60 ===
+TITLE: Oxford’s AI Chair: The Singularity is Bullshit
+DESC: Clip from interview with Oxford’s Michael Wooldridge on AI History.   Subscribe to my newsletter if you want content updates, invitations to events, and to support my work: https://www.johnathanbi.com  Full interview (Don’t Believe AI Hype, This is Where it’s Actually Headed | Oxford’s Michael Wooldridge | AI History): https://youtu.be/Zf-T3XdD9Z8  Read the Cosmos Institute Substack ► https://bit.ly/3XK5T7k Subscribe to the Cosmos Institute on YouTube ► @cosmosinstituteaixhf Follow Cosmos’ found
+KEYWORD: AI overhyped
+VIEWS: 59694
+TRANSCRIPT: The singularity is [ __ ] Why is that? There is this uh narrative out there and it's a very popular narrative and it's very compelling which is that at some point machines are going to become as intelligent as human beings and then they can apply their intelligence to making themselves even smarter. The story is that it all spirals out of our control. And of course this is the plot of quite a lot of science fiction movies, notably Terminator. I love those movies just as much as anybody does. Um, but it it's it's deeply implausible and I became frustrated with that narrative for all sorts of reasons. One of which is that that narrative whenever it comes up in sort of serious debate about where AI is going and what the risks are. You know, there are real risks associated with AI. It tends to suck all the oxygen out of the room in in in the the phrase that my colleague used and it tends to dominate the conversation and distract us from things that we should really be talking about. Right? In fact, there's a discipline that's come out of this called existential risk, right? It's kind of the worrying about the ter Terminator situation and figuring out how can we perhaps better align these super intelligent agents to to human interests. Um and if you look at not just the narrative but actually the funding and what the smartest people are devoting their time into thinking in in not only companies but policy groups X- risk existential risk is is the dominant share of the entire marke
+[...middle cut...]
+ the humans are imputing. Whereas the second one is the AI have developed their own goals. Um and there it seems even more far-fetched because LLMs as as powerful as they are they don't seem to be have any semblance of agency right and that's fundamentally what it would require. So me and my friends have actually come up with this half- joking term called existential risk risk which is the risk upon a society that focuses too much on existential risk and away from other other risks that we could actually be facing due to AI today. If you can wave a magical wand and and swing the narrative of AI away from X-risk, what are the actual problems uh and conversations that we should be having right
+
+=== ID: Y6x8qU6sWZg ===
+TITLE: Tech Layoff Hype Vs Truth? Oracle 2026 & AI Reality
+DESC: Layoff Hype Vs Truth? Oracle 2026 Layoffs & AI Reality  Oracle may cut 20–30,000 jobs (12–18% of workforce) to fund $45–50B+ AI data centers — but is this the end of tech jobs or overhyped fear? We break down the 2026 layoff wave with real data from Harvard Business Review, Reuters, Forbes, World Economic Forum, McKinsey, PwC, Goldman Sachs and more.  In this video:  0:00  Intro: Is it Hype or Truth? 1:10  The Layoff Wave of 2026 2:20  Companies Cutting & Why (Oracle, Amazon, Block…) 3:50  AI Fa
+KEYWORD: AI overhyped
+VIEWS: 260
+TRANSCRIPT: Hey everyone, have you heard the news? Oracle is reportedly planning to lay off 20 to 30,000 people. That's 12 to 18% of their entire workforce. We're going to dive deep into what's happening with Oracle. But first, let me give you a quick overview of what we'll cover in this video. I have pulled real data and insights from trusted sources like Harvard Business Review, Reuters, Forbes, World Economic Forum, McKenzie, and PWC. I will add the links in the description. We will cover deep dive into Oracle's layoffs, the 2026 layoff wave, what's really going on, which companies are cutting jobs in 2026 and why, the AI factor, why it's hitting now, and what the real impact is, which roles are most at risk with a detailed breakdown, how to stay relevant in this changing landscape when you actually don't need to worry. Hiring trends across tech right now, a quick practical action plan. All right, let's get started. Oracle just hit the headlines hard. Bloomberg says they're planning 20 to 30,000 job cuts. That's up to 18% of their 162,000 strong workforce. Why? They're burning 45 to 50 billion this year alone on massive AI data centers for deals like Open AI. The cash is tight, so they need to save billions fast. People are paying the price. This isn't just Oracle. It's the AI wave crashing through tech in 2026. Over 35,000 tech jobs cut in the first quarter of 2026 according to layoffs. That FYI, hundreds a day. US unemployment ticked up to 4.4% after a surprise 92,000 job last month
+[...middle cut...]
+t's all happening at lightning speed. So lean in hard, grab the opportunity, and make the best of it. Start small, but start today. Stay consistent. Oracle's potential 30,000 job cut, the 2026 wave, the AI pressure. It's real and it hurts right now. But like the internet boom, some jobs vanish while way more are born. And the data says net growth ahead if we upskill and team up with the tech. Add the right skills and mindset, you'll thrive. So, what's your first move after this? Drop it in the comments. If this helped, please like, subscribe, hit the bell. We'll keep covering this honestly. Stay sharp. See you next time. And yes, please check the source information in description. Thank you.
+
+=== ID: sJO9Kz7vck4 ===
+TITLE: Venture Log: Ai Agents Are Overhyped
+DESC: 
+KEYWORD: AI overhyped
+VIEWS: 5
+TRANSCRIPT: Everybody is talking about AI agents. Cool. Most of them are still full of [ __ ] because the truth is raw intelligence is not enough. A model can be smart as hell and still be sloppy, unfocused, inconsistent, and useless in real business if it does not have structure, standards, and a real playbook. That is the shift. The future is not just more agents. The future is better skills, better instructions, better systems, better execution, better discipline. That's what people are missing. Everybody wants the sexy part. Everybody wants to say they're building in AI. Everybody wants to sound advanced. Everybody wants the shortcut. But very few people want to do the boring part. The thinking, the organizing, the testing, the refining, the repetition, the reps. That is why most people will never really win with this. Not because they do not have access, because everybody has access now. Not because the tools are too hard, because the tools are getting easier every day. They lose because their mindset is weak. They want instant mastery, instant money, instant results, instant validation. And that is not how this game works. You do not win because you touched AI. You do not win because you watched a few videos. You do not win because you learned the buzzwords. You win because you can take confusion and turn it into clarity. You win because you can take knowledge and turn it into process. You win because you can take process and turn it into execution. That is the whole game. This nex
+[...middle cut...]
+ools, before the workflow, before the strategy, before the automation. Mindset first. Because the right person can take basic tools and create serious results. The wrong person can have the best tools in the world and still do nothing. So stop chasing hype. Stop chasing shortcuts. Stop trying to look smart. Stop trying to skip the reps. Get your mind right. Get your standards right. Get your process right. Get your discipline right. Because this is not about being entertained. This is about becoming capable. This is about becoming the kind of person who can take a powerful tool and actually make that [ __ ] work. That is the difference. That is the edge. That is the mindset. Let's [ __ ] go.
+
+=== ID: kVQzJ2K2Wpw ===
+TITLE: Devin AI Agent is WAYYY overhyped...
+DESC: Cognition Labs recently announced Devin the AI Software Engineer. This startup believes they have crafted an AI Agent that can automate software engineering. I don't buy the hype and I was not particularly impressed with the demo or the way the Devin team deceptively presented their benchmark results. This comes just weeks after Jensen Huang, CEO of Nvidia told the world that people no longer need to learn how to code. I share my thoughts on Devin, software engineering, future of code, and why I
+KEYWORD: AI overhyped
+VIEWS: 10740
+TRANSCRIPT: this is ridiculous everybody's talking about Devon the new AI agent that's supposed to automate software engineering but looking at the demo I don't really see what's so special about it I mean we've had AI agent Frameworks for close to a year now and you've been able to use tools like autogen and chat Dev to create simple apps like what was shown in the Devon demo and I don't really see what's so different about Devon at the end of the day it's still just a Chad GPT rapper with some additional logic telling it how to process tasks a UI and maybe a few Integrations but it's not something revolutionary like Sora for example in fact I think most of the features shown in the demo can be replicated pretty easily using the chat GPT API and I will prove it to you by doing just that by the end of this video moreover I think the cognition Labs team is presenting benchmarks in bad faith and trying to ride this hype train and even if Devon somehow lived up to all of the hype I still don't think it changes the trajectory of software Engineers becoming AI supervisors just becomes a tool in their tool belt now let me show you what the cognition Labs team actually presented so we can be on the same page and you can see what the hype is all about hey I'm Scott from cognition Ai and today I'm really excited to introduce you to Devon the first AI software engineer let me show you an example of Devon in action I'm going to ask Devon to Benchmark the performance of llama and a couple different 
+[...middle cut...]
+ prompt the AI so that it does the right thing I'll leave you with these thoughts from Andre karpathy one of the biggest names in the AI space who compared the automation of software engineering to self-driving cars and this was one of the comments that he made back to my example of self-driving my first demo drive in an early wh was 2014 and it was already great it took me around for a 20-minute drive from that perfect demo it was one decade before I could pay for a drive in a whmo I have a lot more thoughts on all of this so make sure to check out this video where I talk about the future of software engineering and whether it even makes sense to learn how to code anymore I'll see you there
+
+=== ID: 1CO4tAkfoTU ===
+TITLE: The AI Hype Is Lying to You — The REAL Bubble Is LLMs
+DESC: Everyone’s screaming “AI bubble!” — but the CEO of Hugging Face says the bubble isn’t AI. It’s LLMs. And it’s about to burst.  In this video, we break down why giant text models like ChatGPT, Gemini, and Claude might be massively overvalued… while the real future of AI is happening quietly in biology, chemistry, audio, video, robotics, and specialized domain models.  The hype has been built around: 💸 Billion-dollar training runs ⚙️ Massive compute clusters 🤖 “One model to solve everything” think
+KEYWORD: AI overhyped
+VIEWS: 23
+TRANSCRIPT: So, everyone's talking about the AI bubble, right? But the CEO of Hugging Face just dropped a truth bomb. We're not in an AI bubble. We're in an LLM bubble, and it might burst next year. Let me explain why this matters and why he's probably right. Clem Dang, the guy who co-founded Hugging Face, told Axios this week that all the hype, all the money, all the attention is focused on large language models. [music] you know, chatpt, Gemini, Claude, everyone thinks these massive text generating models are going to solve everything, but they're not. They're just one tiny piece of AI. Here's what people are missing. Looms are just text, but AI also applies to biology, chemistry, images, audio, video. [music] We're at the beginning of those applications, not the end. The problem is everyone's pouring billions into building one giant model that's supposed to solve all problems for all companies and all people. [music] That's not realistic. Think about it. Companies are spending billions training these enormous models on massive compute clusters. Open AI, Google, Meta, everyone's in an arms race to build the biggest LLM. But Delang says the future isn't one massive model. It's thousands [music] of smaller specialized models that solve specific problems. He gave a perfect example. If you're a bank building a customer [music] service chatbot, do you really need it to discuss the meaning of life? No. You needed to answer questions about account [music] balances and transfer money. You can 
+[...middle cut...]
+lized models for translation, image recognition, audio processing, scientific research. The diversity is massive, but the money's only flowing to LLMs. So, when he says the LLM bubble might burst next year, he's not saying AI is doomed. He's saying the hype around giant text models is overblown. When that bubble pops, [music] it's going to hurt Open AI and Google and whoever spent billions on LLM infrastructure. But the rest of AI, biology [music] AI, chemistry AI, robotics AI, they'll be fine. They're not overvalued because nobody's hyping them yet. Do you think specialized AI will replace giant LLMs, [music] or are we still in the early days of language models? Let me know in the comments.
+
+=== ID: Nu31vNZ7qsc ===
+TITLE: Denny Burda on AI Hype, Dropping Salesforce & Tools That Actually Help | Ops&Opps by Flowla
+DESC: When every tool claims to be “AI-powered,” skepticism is healthy.  In this episode of Ops&Opps, Denny Burda shares why he’s wary of AI-for-everything tools, which platforms he actually enjoys using day to day, and why some legacy systems no longer earn their place in the stack. From underrated basics like Slack to newer additions he’s excited about, it’s a grounded take on building tools around real work — not hype.  🔍 What we cover: - Most overhyped tools: Any tool with “AI” slapped on it - AI 
+KEYWORD: AI overhyped
+VIEWS: 13
+TRANSCRIPT: So Danny, tell me which one is the most overhyped tool these days? Anyone buy an AI for the sake of AI? You know, I I advise so many companies that go, well, hey, we just bought our enterprise license of ChatBT or Anthropic or any of those things, but because they have no idea why they actually needed AI or what their AI purpose is, you know, it's it's to me it's paramount with taking the money and lighting it up fire for warmth. It's about as effective. Do you have an AI tool you're desperate to try? I'm really really curious in Gainsight customer success platforms moving into the agentic space uh with their Atlas program. I've seen a lot of pre-sales AI agents that I I don't think I would ever trust to to handle my client relationships. So, I'm really excited to see what post sales knowledge can do driving those type of conversations. Tell [music] us an underrated tool. I still think Slack as a way to run your business is is horribly underrated. I think there's a lot better knowledge sharing and communication and just engagement that comes from Slack compared to MS Teams as their biggest competitor. What's one tool you recently added to your stack? Um, scale line uh evaluating them right now. Uh, also in evaluating uh another product called Onboardly. I think they're building a very cool tool. It's a great UX. I was really impressed when I I met with the founders on that. What's your favorite tool these days? I'd like to say Fola because now I'm diving in and and really app
+[...middle cut...]
+ stop being able to use anything. Don't don't try to solve every single painoint I have to the point that you create new ones. Tell me what you do and do it. Let's talk about people instead of products. Who do you has the best thought leadership? Best book I read in the past year was Unreasonable Hospitality by by Will Gerarda. The only business book I've read in the past I don't know long that made me cry. So I don't know in like tears and emotional feelings. The core of that idea the the idea that you win by doing something human and something different and something personalized even at scale even when you're seeking to be the very best is is is absolutely an idea I resonate with. [music]
+
+=== ID: WGczLy6u8mQ ===
+TITLE: is ai overhyped (and the choice you have to make)
+DESC: do you think Ai is being overhyped?  how critically are you thinking about the environment that surrounds you....  Twitch stream everyday at 2:00pm  https://www.twitch.tv/roozswan
+KEYWORD: AI overhyped
+VIEWS: 19
+TRANSCRIPT: PKA so Drew is talking about some very interesting stuff maybe Twitter's doing better let's see what kind of ads they got oh here we go an ad for standup comedy nothing weird about that just a regular human doing regular human stuff knock knock who's there Europe Europe a poo no you're a pooo okay I think that joke only works if you put the emphasis on here's here's my here's my take on a and what's happening at the moment okay so when a first came out I I was absolutely terrified when I say A I hate that term because it's not artificial intelligence let's just get that very clear on the offset okay this is we are not in an artificial there is no there's no sentient machine out there controlling the actions of others okay let's be very very clear on that first of all all this gench that you see out there it's literally if and then and when protocols programmed into a large language model that can determine some it's very much similar to you to Google search okay I don't know I am no expert in how you create language models I don't even think a lot of the people who are creating chat gpts of the world actually know what the hell these things are doing I really really you know am convinced on that factor but if if we have a graph right have a graph and and we look at uh you know where we are going if if we call this uh we call this uh rate of tech call this yeah rates rate of tech okay um yeah we call this rate of te and we call this uh date date and this is the thing I think a
+[...middle cut...]
+ke this guy's content really cool um so that's a bit of the 3D work that I do um I'm going to probably texture it I think maybe I'll show you guys uh once I've gotten a bit further along with it but at least I showed you like the the start of it all and and you know kind of how it how it takes off I guess but um yeah thanks uh for that but I think what I'm going to do is take a little break for like 2 minutes and then I'm going to come back and we're going to play some hearstone okay we're going to play some Hearthstone and uh we're going to see see if we can climb up the ladder cuz that's what I'm here for and hopefully we can do that I'll catch you guys in like 2 minutes okay see you later
+
+=== ID: VbVDv8lRrVM ===
+TITLE: Understanding AI's Overhyped Potential in Modern Technology - DevOps 234
+DESC: In this episode of Top End Devs, hosts Warren Parad and Will Button sit down with John W. Maley, an attorney with a master's degree in computer science from Stanford University, to discuss the fascinating intersection of AI and the legal system. John shares insights from his book "Juris ex Machina," a sci-fi exploration of a future where AI replaces humans in the jury system.
+KEYWORD: AI overhyped
+VIEWS: 28
+TRANSCRIPT: welcome everyone to another episode of Adventures in Adventures in devops you would think after a few hundred episodes I would learn the name of the show but I'm working on it I think it's actually getting worse well it is cuz now I've got like this mental block you know where my internal monologue is going don't f it up don't f it up watch he's going to f it up this is the second second week in a row I think that he uh he effed it so welcome Moren how are you yeah I'm I'm good uh I actually do have a fact this week it's uh it's not security related I uh I actually am a little worried that we may have reached a plateau uh local maximum for our innovation in AI uh because we've already started to see products that are heavily toward exploitation and so you can see that there's been a huge shift in uh where we were before things being released for free and now we're at this stage of uh the technology where everyone's just trying to extract value from it I don't know what that means for the long term but I I I I think it's really interesting I think it means shareholder profits that's my let's hope right that's what everyone says everyone wants shareholder profits and maybe we're actually getting there maybe so speaking of AI Our Guest this week John W meley Attorney At Large founded the consulting firm John M and Associates but before you jump off the deep end and go what in tarnation will'll lawyer it up for this episode it's it's actually relevant because in addition to being
+[...middle cut...]
+feedback you can have a professional editor go through and they'll still be some place where you use the same word twice in a row and cognitively we just skip over that like it's some sort of optical illusion and don't notice it and auto will be like you just said the word it twice dumbass like man how how did this get missed through all these different phases but that is not AI base it is just hard-coded checks so it'll be interesting to see if it things start moving in that direction as far as the most effective way to flag those things yeah right on cool well thank you again Warren thank you and thank you for listening to the episode hope you guys enjoyed it and we will see yall next week
+
+=== ID: KNloSWQ5ZZo ===
+TITLE: Debugging Life | Ep. 147 - The 8 Worst Technology Flops of 2025
+DESC: A retrospective look at the biggest tech failures of 2025 reveals eight major products and initiatives that failed to meet expectations. This list provides a cautionary tale for investors and developers about the risks of overhyped technologies that lack practical utility.  📍 Chapters: 00:00 - Introduction 00:54 - #8: CognaTech NeuroLinker 01:34 - #7: HoloChef AR System 02:29 - #6: Z-Mail AI Email Client 03:15 - #5: OmniScent VR Mask 04:06 - #4: SafeBot Home Security Robot 05:04 - #3: EcoCoin Cr
+KEYWORD: AI overhyped
+VIEWS: 1
+TRANSCRIPT: It's the sheer velocity of the hype cycle that really gets me. We've seen this before, obviously, the dot bubble, the 3D TV craze of 2010, the initial VR surge, but 2025 was different. It was the year the AI everything bubble didn't just leak. It essentially experienced a rapid unscheduled disassembly. If you look at the historical data, specifically the capital infusion into these eight specific projects, it's staggering how much was lost on what were essentially solutions looking for problems, right? And it wasn't just the money. It was the collective face pal of the entire tech consuming public. I remember when the AuraLink headband first hit the market early in the year. The marketing was everywhere. They promised it would use non-invasive neurosensors to synchronize your Spotify playlist with your actual emotional state. It was supposed to be the soundtrack of your soul. The Neurolinker. Yes. Manufactured by Cognitech. From a historical perspective, they were trying to capitalize on the 2024 biohacking trend. But the technical reality was a disaster. The sensors were incredibly sensitive to sweat. If you were working out, which is when most people want a soundtrack, the salt would interfere with the electrodes. Oh, it was worse than that. I tried one for a week. I'd be at the gym trying to get hyped on some heavy metal, but because I was slightly stressed about a deadline, the headset would decide I needed meditative rainforest sounds. You're trying to bench press 300 lb
+[...middle cut...]
+ a chemical cartridge. 2025 was the year we learned that just because you can build it doesn't mean anyone actually wants to live with it. It's a lesson that costs billions, but honestly, seeing a security robot get confused by a grandma in a mask, maybe it was worth it for the reality check. The historical record will show that 2025 was the year the hype engine finally hit a wall. We're finally seeing a shift back to invisible tech, things that actually work in the background without trying to take over your kitchen, your brain, or your parenting. Yeah, I'll stick to my manual toaster and my actual non-digital chef's knife for now. I think I've had enough innovation to last me through 2026.
+
+=== ID: Y-Gs1GKRnrY ===
+TITLE: Apple DROPS AI BOMBSHELL: LLMS CANNOT Reason
+DESC: Apple DROPS AI BOMBSHELL: LLMS CANNOT Reason  Want to stay up to date with ai news - https://aigrid.beehiiv.com/subscribe 🐤 Follow Me on Twitter https://twitter.com/TheAiGrid 🌐 Checkout My website - https://theaigrid.com/  00:00 – Social panic 01:06 – AI test twist 03:08 – Puzzle-based shock 05:08 – Models collapse 06:57 – Twitter war 10:34 – Difficulty debate 12:02 – Real-world gap 14:55 – Gary fires back 17:05 – Redemption arc? 18:45 – Apple’s strategy 21:57 – LeCun’s warning 24:09 – Hidden we
+KEYWORD: AI overhyped
+VIEWS: 109512
+TRANSCRIPT: Okay, so I need to talk to you guys about something that has people freaking out on social media right now, especially in the AI community. Apple just released this research paper that basically says all of these fancy thinking AI models that everyone's been going crazy about, well, they might not actually be thinking at all. And the timing of this is absolutely wild because it dropped just days before Apple's big developer conference where everyone expected them to show off their AI stuff. Hot one, the bombshell nobody saw coming. All right, so here's what happened. On June the 7th, 2025, literally just 2 days ago, Apple's machine learning team published the research paper with probably the most provocative title I'd ever seen in AI research, the illusion of thinking. understanding the strengths and limitations of reasoning models via the lens of problem complexity. And when I first saw the title, I was like, wait, did Apple just call out the entire AI industry? This new story genuinely has people freaking out because basically Apple took all these super advanced AI models that are supposed to be the future of AI. We are talking about frontier models, guys. OpenS03, Anthropics Claude, Deepseek R1, and even Google's recent thinking models, and they put them through a series of tests that completely exposed their limitations. Now, I was also surprised to find out that Apple has been doing serious AI research behind the scenes. Like, most people think of Apple as the company th
+[...middle cut...]
+ueprint those system will have emotions so they'll of emotions like uh maybe uh fear or excitement or elation uh because those are anticipations of outcome. Those systems will basically work by having a goal that we set them to fulfill. We'll we'll give them goals to accomplish and then they will try to figure out what kind of actions can I take so that I fulfill that goal. If they can predict in advance that this goal will be fulfilled, it will kind of make them happy if you want. Okay? Or if they predict that they can't, it will, you know, not make them happy. So to some extent they will have emotions because they'll be able to anticipate the the outcome of a sequence of actions they might
+
+=== ID: DpYBJkp5dII ===
+TITLE: Is AI overhyped ?
+DESC: Is AI truly the future, or have we bought into the hype? 🤔 Dive into the debate on whether AI is the ultimate silver bullet or just another overblown trend. Let's cut through the noise and uncover the real impact of AI on our world today. #AIHype #TechDebate #FutureOfAI
+KEYWORD: AI overhyped
+VIEWS: 5
+TRANSCRIPT: you overhyped the well I'm probably going to say something to you that surprises you or maybe it doesn't but but I'm not a big fan of AI I'm not a big fan of AI why because when I look at AI two things where is the business value most of the AI that I've seen is what I call G whz look how cool this is and you say well that's interesting yes it's cool what business problem does it solve and for the world of me I I I I I see very limited uh business value that's being s and that's why I'm not a big fan of of AI or generative a chat G GPT and things like that uh however there's another thing that's in the back of my mind and that is that our profession the it profession goes through uh what we call silver bullets and we've been going through silver bullets for years and years what a silver bullet is is when somebody comes along it says if I just had fill in the blank then everything's going to be okay and we've been doing silver bullets for years and years and and and
+
+=== ID: rgiuaJbyUyU ===
+TITLE: AI Coding Sucks | Prime Reacts
+DESC: https://twitch.tv/ThePrimeagen - I Stream 5 days a Week  ## Original https://www.youtube.com/watch?v=0ZUkQF6boNg  https://twitter.com/terminaldotshop - Order coffee over SSH! ssh terminal.shop  ## Become A Great Backend Dev (I make courses for them) https://boot.dev/prime This is also the best way to support me is to support yourself becoming a better backend engineer.    Discord: https://discord.gg/ThePrimeagen  Great News?  Want me to research and create video????: https://www.reddit.com/r/The
+KEYWORD: AI overhyped
+VIEWS: 466735
+TRANSCRIPT: For those that don't know, this is Coding Garden. Awesome streamer on Twitch. He's obviously on the Syntax FM podcast. If you don't know them, great little channel right here. You can go check this out about my thoughts and uh you can tell me what your thoughts are. Also, this title is called AI Coding Sucks. And I just want to let you guys know I am going to do my first best effort I could possibly do um to try to become the best at cursor and truly really feel out the AI. I'm I'm I'm asking questions. I'm learning how to write my own rules. Okay, I'm I'm trying to go deep here. I really am trying to learn to use AI the best possible way I can possibly use AI. And this video title I feel akin to currently, but I am willing I'm willing to try. Okay, sorry in the comments whether you agree, disagree, whether you're feeling the same way, etc. But what's up? CJ here. Got a little bit of a different video today. I'm just going to rant. I'm just going to talk about my thought. Can I pause really quickly? this syntax TV in the background that's like a cathode ray tube or appears to be a cathode ray tube. This is actually like super badass. I whatever that TV is, I want that. That is super cool thoughts. And uh you can tell me what your thoughts are in the comments, whether you agree, disagree, whether you're feeling the same way, etc. But I used to enjoy programming. Now, my days are typically spent going back and forth with an LLM and pretty often yelling at it or telling it that 
+[...middle cut...]
+. Okay. Okay, it still runs. If you remember bullet time in the game, right? Bullet time in the game right here where see how we're going here. I'll speed it up. So, we're going faster. Bullet time. See how it's going really, really slow. This was actually something that I started by vibe coding. I thought it was really cool and I thought the feel was super super good. So I was like, "Okay, I gotta figure out how to do this more because I really I really like this experience." And so that was done by a vibe coding to begin with, but then I rewrote everything and it was fantastic. So I'm not like against it, okay? I'm not against it. A Jan Somehow this was an hourong react. What the hell am I
+
+=== ID: y2ZVyKrBOW0 ===
+TITLE: Carolyn Shelby: Is AI Search Over-Hyped Right Now? – IMHO
+DESC: This episode asks the question, Is AI search overhyped? With Carolyn Shelby, Principal SEO at Yoast and 30-year industry expert, about how AI and large language models (LLMs) are reshaping search, what it means for content creators, and why the “blogging-for-dollars” economy is collapsing.  “AI mode is here to stay. Google isn’t rolling it back, they’ll make sure we all adapt.” Carolyn Shelby  In this episode:  • The blogging-for-dollars economy is collapsing • 1% of traffic from AI represents m
+KEYWORD: AI overhyped
+VIEWS: 584
+TRANSCRIPT: Hello and welcome to IMHO. Today I'm going to be asking Caroline Shelby about is AI search overhyped. Caroline's career in SEO started with her co-founding and ISP in 1994. She's led SEO initiatives at Disney and ESPN PN and strategy for major digital brands including Tribune Publishing. Today she's a consultant at Sea Shell and is the principal SEO at Yoast as a consultant. Right now, SEOs are swept away by AI, but how much value does it really have? Caroline, you said recently on Yos podcast that less than 1% of traffic currently comes from AI tools? Are a are SEOs being distracted by a shiny new thing? Or does the brand awareness in LM actually provide value? So, Caroline, I'm going to just jump in and ask you, do you think that AI search is overhyped? Right now the AIs are changing how even Google functions is going it's not is going it is dramatically changing the landscape in terms of how you can make money on the internet. The the blogging for dollars economy is is going to collapse. It is in the process of imploding. It will continue to implode. It is not a viable going forward sustainable business strategy to spin up garbage content sites and slap AdSense all over them and then make enough money to live. Hobby creators or people that are creating out of love will continue to create because they're doing it for themselves, not for the money. And the amount of money they will make will be enough to maybe buy them coffee every month, but it is not going to be enough to 
+[...middle cut...]
+ss on the Yoast podcast. Is that every month as well where people can catch you? yoast.com/webinars and there'll be a link to the next one where you can register to join or you can get the recordings from the old ones. Fantastic. And for anybody watching here, just remember, please uh subscribe to the channel so that you don't miss out on the great interviews that I have with some of the top minds in SEO. And I've also got a newsletter that I'm preparing. So head on over to shelwalsh.comho and you can sign up there. So Caroline, thank you so much for being my guest and offering your humble honest honest or humble. I never know which one opinion. And thank you very much. Thanks for having me.
+
+=== ID: 9sGMQMX9Euw ===
+TITLE: AI Is Overhyped: Here is What Businesses Should Focus On
+DESC: AI tools are everywhere — chatbots, agents, content generators — but are they really helping your business grow?  In this video, I break down the truth behind the AI hype in 2025 and reveal what B2C and D2C business owners should actually focus on: ✅ A proven system ✅ A compelling offer ✅ A high-quality product or service  You’ll learn:  Why tools like AI agents, Auto-GPT, and chatbots are often just shiny distractions  What to fix BEFORE implementing any automation or AI  How real businesses wa
+KEYWORD: AI overhyped
+VIEWS: 51
+TRANSCRIPT: Everywhere you turn, someone is shouting about AI. Used to GPT or get left behind. AutoGPT will run your business while you sleep. If you're a small to medium business owner, you might feel the pressure. The fear of missing out on the next big tech revolution. Are you scrambling to add a agents or chat bots into your business like everybody is? Before you dive head in first, hold on. Today I want to talk about why AI is overhyped and what actually matters for growing your business. Let's go out. So hello, my name is Christian Dako and I'm the owner of Contact Solutions, an agency where we help our clients develop systems to convert more leads automatically. And in this video, I'll be calling out the shiny objects by name. The AI tools and use cases that everyone says you must have, but you don't actually need to. The first object on the list is, of course, it has been for the past month. It has been huge. Lots of hype around it. It's AI agents. These promise to handle multi-step tasks on their own as pretty much having an employee that works for you 24/7 handling different tools. And now all the tech influencers are raving about the AI agents and what these promise to help for business use cases. But how many small business owners do you know that actually got value from these kinds of agents? Exactly. It's hype on overdrive. It's something that sounds really cool, looks really cool, but doesn't drive that much results in the real world as promises. Of course, I'm not saying 
+[...middle cut...]
+edule with us for free and I will do a free audit of your business and give you actional steps. Okay. Do we actually need a to implement AI here? Are we on are we on step one? So to actually implement it or step zero or we actually need to fix a couple things before implementing it and from there you can actually get a actual step plan on what you need to do. So has been Christian Jacko from Context Solutions. Again, if you found value in this video, don't hesitate to like, subscribe, share, and comment what you thought of it and your maybe your previous experience with AI tools. Was it good or was it bad? That being said, thank you very much for watching and we'll see each other in the next
+
+=== ID: zH_-nW6muxg ===
+TITLE: Perplexity Ai the Most Overhyped AI Startup? | Open Ai - Aizen
+DESC: Powered By AI, ChatGPT, Google Gemeni Robotics, Claude AI, Grok AI,  ,Perplexity AI,, Quantum Chip, Open AI
+KEYWORD: AI overhyped
+VIEWS: 206
+TRANSCRIPT: Perplexity AI experienced explosive growth in 2025, hitting an $18 billion valuation, processing 780 million monthly queries and becoming the fourth largest AI assistant platform with 6.2% market share. The company launched several ambitious products, most notably its Comet browser, which integrates AI powered agentic browsing, but is locked behind a $200 month payw wall. Other offerings like Deep Research and Perplexity Labs expand its ecosystem with Airtel, Motorola, and potentially Samsung fuel rapid global distribution. Competitors like Google, OpenAI, and new AI browsers are racing to replicate or outpace its innovations. Perplexity made a headline grabbing but unrealistic $34.5 billion bid to acquire Google's Chrome browser. Almost twice its own valuation and far beyond its resources. The bid highlights the inflated valuations, hypedriven strategies, and financial detachment defining parts of the AI startup ecosystem, raising doubts about Perplexity's long-term independence and operational realism.
+
+=== ID: kVD6gNOJmuE ===
+TITLE: I hate AI
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 42
+TRANSCRIPT: hello guys today we're going to be using this AI app I found and I'm going to choose a picture of me and all for the lava oh wait show oh for the love Pat sake I look like a 5-year-old iPad kid why I hate AI yeah yeah how do I get out of this how oh come on now it's in my save list then dang it [Music]
+
+=== ID: BxE8WhFP0D4 ===
+TITLE: Everyone HATES AI... Except This One
+DESC: The Internet is torn between adopting and rejecting the use of AI--of which has varying degrees of acceptance between each industry. But there is one AI that everyone seems to universally like: Neuro Sama.   Question is... Why?  Socials Links: http://sagiv1.carrd.co
+KEYWORD: I hate AI
+VIEWS: 107408
+TRANSCRIPT: AI. AI. What is an AI? Is this an AI? Shut a minute. Internet historian already made this gag, so I can't do it. Is this an AI? According to angry Twitters, it is. If AI means artificial intelligence, what's natural stupidity? Does that mean every other YouTubers are all natural stupidities? Yes. There is nothing cuter than a stupid woman. Isn't that right, my fellow VTuber fans? All of this and more on in the Yeah, sorry. I didn't know how to make an intro for this video. VTuber fans, and a lot of YouTubers themselves hate AI. AI is seen as this existential threat to the concept of VTubers. After all, this industry relies and thrives on artists, even the ones that scams you. Yes, AI will eventually take a lot of jobs, perhaps even both Vtubing and artists. That's why there is fierce resistance. Even the two industry titans cannot avoid but use AI arts on backgrounds on projects, whether by accident or not. Despite that, not all AI applications are deemed evil. I think most people actually live somewhere in the middle ground depending on the context and they all have different levels of acceptance. AI art is the most hated right now and so are AI generated videos, music and any sort of created related stuff. Meanwhile, chat GPT is seen as a universal positive. Yes, it has some downsides like lowering the intelligence of future generations, [clears throat] only a small price to pay. But I think very few people will disagree that it's a very great technological achievement. Yet
+[...middle cut...]
+ip, my scholars. Not only do you get videos earlier and uncensored, they get exclusive access to [music] videos reserved only for members, as well as streams for spicier dramas and topics. My Google Docy series is a series where I condense VTuber Google Docs that would normally take an hour or two to finish into digestible 10 to 15 minute videos so you don't have to. Two episodes a month. For the gooners, I will also happen to recommend VTuber related materials for your particular needs. Either way, liking and subscribing helps, too. I will continue to brainstorm more exclusive content that [music] will make it worth your while to give me money. Thank you, and I'll see you in the next video.
+
+=== ID: RkdLuvZtiIc ===
+TITLE: i hate ai consultants
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 10
+TRANSCRIPT: Do you know how [ __ ] angry I am? Like anger really drives me. So I don't really I don't mind. I write really better posts and convert people a lot easily when I'm angry. Like it's just my default mode actually. But I'm not as regulated as everybody, you know, as we should be. I'm really not that regulated. I don't appear that way, but I'm like internally I'm like fuming. Just had a call with a client who's My god, I'm so annoyed. I swear. Um, the industry is like doomed because people are like h I don't even have the words. This one guy is like he's telling me that he's not converting any leads right now. And I look at his profile, look at everything. I look at all his communication. He's automated his DMs. He's selling 100k mandates with a robot in the DMs. And it's not working. It's actually not working for everyone. Like I don't know anybody who's who has successfully nailed that part where they have a robot take over their DMs and close hund. Let me talk to somebody who does. By the way, if you have somebody just I like to talk to them. The human can tell if there is a robot answering. You don't expect a robot to answer in a inbox message on LinkedIn when you're when you're inquiring for a service. When you're inquiring for a service, you have and and especially if you like you're coaching somebody or you're you have a mandate, you're going to work with them for a year, you cannot automate that [ __ ] you dumb [ __ ] I'm like I'm fuming when I think about how uh we've c
+[...middle cut...]
+. And I've actually had more work and I do a lot with AI. I have more work because I have way more clients coming in because they're not they're just they're just not converting because of their AI written slob texts. It's giving it's good for my business. So, I'm telling you this to stop doing it. Hire your hire somebody to help you with the first couple of questions when you're getting an inquiry so they can ask write something out so that you know also like what to ask when to ask like you can you can systematize this but for the life of your business listen to me stop trying to automate the most important part of your business which is the b your business lifeline You're inquiries, guys.
+
+=== ID: bkReV6Bcu5U ===
+TITLE: i hate ai art so i generate music with my brain
+DESC: hi this is my first attempt at hyperpop hope u enjoy :D
+KEYWORD: I hate AI
+VIEWS: 24
+TRANSCRIPT: Heat up here. Heat. Heat.
+
+=== ID: OeMRqflYq6U ===
+TITLE: I hate Ai and College
+DESC: Im getting actively shafted in my bumhole by the rothschilds.
+KEYWORD: I hate AI
+VIEWS: 534
+TRANSCRIPT: So, the rooms changed. New room, new house, new microphone, new setup, new everything. So, yeah, new hair. Don't know what to tell you. New glasses, too. Look like John Lennon. Anyway, I want to talk about some [ __ ] that pisses me off real bad. Now, I just sub or a couple days ago, I know I'm in college. I submitted a an assignment that [ __ ] I have to submit a Grammarly authorship. If you don't know what Grammarly authorship is, it basically records you while you type it out. And I guess I typed too much nonstop. Like, I knew what I was going to say. We can go through my search history right now and you won't see [ __ ] about Chad GPT or any AI site because that [ __ ] is stupid. I'm not [ __ ] dumb, okay? My IQ is above at least 30, you know? You know, I'm not claiming I'm a genius or nothing, but holy [ __ ] Christ. I'm not a [ __ ] idiot, okay? It just it it upsets me so much because like I'm sitting here typing this out. I'm thinking, damn, this this is the greatest thing ever. Like I'm I'm lowkey I'm I might be Oenheimer just for him to tell me that my [ __ ] sucks. And it's like watching two monkeys trying to [ __ ] a coconut. Dude, thanks. And I'm trying to I I work every day. I work every day from 8:00 a.m. to at least 2:00 p.m. upwards of 5:00 p.m. It depends on if they ask me to stay or not. So, his hours are only during the times that I work. I can't schedule a Zoom meeting. I can't do freaking anything. And it upsets me so much, so unbelievably much because I 
+[...middle cut...]
+ any suggestions as to what I should do in this instance, this situation, because I'll go [ __ ] myself right now if it means I get a B in that class. I'm not going to lie. I I don't even I don't even know. I haven't even like been playing video games or nothing. I've been working, hanging out with my freaking friends and family and playing guitar. I haven't even played video games. Barely been on my phone other than, you know, to to hit up hit up the the the bad the baddies. Baddies. Yep, dude. So many baddies. So many baddies. Oh yeah. Nah, I lied. I tricked you. Don't make fun of me for that trophy count. or else you're a dick. Yeah. Anyway, anyway, I appreciate you for watching. Bye-bye.
+
+=== ID: jOm3a-MVvns ===
+TITLE: The American Public Kinda Hates AI. Why Exactly? | Dr Yam, Pew Research Center
+DESC: If you work in AI, you probably think it’s going to boost productivity, create wealth, advance science, and improve your life. If you’re a member of the American public, you probably strongly disagree (00:16:28).  In three major reports released over the last year, the Pew Research Center surveyed over 5,000 US adults and 1,000 AI experts. They found that the general public holds many beliefs about AI that are virtually nonexistent in Silicon Valley, and that the tech industry’s pitch about the 
+KEYWORD: I hate AI
+VIEWS: 4806
+TRANSCRIPT: Rob Wiblin: Today I’m speaking with Eileen Yam,   director of science and society research at 
+the Pew Research Center here in Washington, DC. Pew Research Center has been doing public opinion 
+polling on artificial intelligence for many years.   But in the last year they’ve had three reports 
+that really caught my eye, where they surveyed   over 5,000 US adults on their opinions on all 
+different aspects of the artificial intelligence   issue, and also spoke with 1,000 experts who were 
+part of the AI ecosystem to gauge their views. And all of this polling turned up some very 
+strong feelings on many different fronts,   and concerns that were quite different 
+than what I expected them to be,   and also turned up some massive differences 
+of opinion between the US general public and   AI experts in particular — which all made 
+me think that we might be in for a slightly   bumpy ride as artificial intelligence 
+begins to affect people’s day-to-day   life more and more, which is going to 
+be the topic of today’s conversation. Thanks so much for coming on the show, Eileen. Eileen Yam: Great, thanks for having me. Rob Wiblin: Why should we care about public 
+opinion polling about AI at this kind of early   stage? I think a critic might say it’s too 
+soon to really know what the public is going   to think. They haven’t thought about it that 
+much. For many people, it hasn’t affected them,   or they haven’t been using AI extensively as yet, 
+so we really just can’t say what people 
+[...middle cut...]
+of, “OK,   I’m learning more and more, and I’m kind 
+of freaking out the more I learn.” And it   could go in either direction, and I think it’s a 
+really interesting thing to just keep an eye on. Rob Wiblin: Yeah. Well, thanks so much 
+for coming on the show. Your knowledge   of these reports is impressive. I don’t 
+know how many numbers we’ve used in this,   but this is definitely the most numbers I think 
+that we’ve used in any episode of the show. Eileen Yam: I appreciate you. This was a cram   session for the exam the next 
+day, so I’m glad. It was fun. Rob Wiblin: My guest today has 
+been Eileen Yam. Thanks so much   for coming on The 80,000 Hours Podcast, Eileen. Eileen Yam: Thank you.
+
+=== ID: lfFUEE363G8 ===
+TITLE: Roblox Responded to the Hate...
+DESC: Roblox responded to criticism about bad updates including new game publishing requirements and AI age estimation face scans.  COWCOW UGC - - - https://www.roblox.com/catalog?Category=1&CreatorName=GreenLegoCats%20UGC COWCOW'S CLOTHING STORE - - - Roblox moderation took it down again  ROBLOXITY: Remastered - - -https://www.roblox.com/games/1110099512/ROBLOXITY-Remasterd Twitter - - - greenlegocats Instagram - - - greenlegocats123 #roblox #robloxnews
+KEYWORD: I hate AI
+VIEWS: 152527
+TRANSCRIPT: Believe it or not, we actually have some good updates regarding some of the worst Roblox updates. 2026 has been a really tough year for Roblox with numerous destructive updates like AI age estimation for chat and a new publishing requirements already popping up. Things have kind of boiled over in the community and Roblox may have noticed that. So, they did a Q&A session on the dev forum, maybe to ease some concerns. It was supposed to all be about Roblox's new publishing requirements, but questions about other issues were answered, too. Before we get into it, I just do want to make it clear that none of the horrendous updates they talked about are being undone. Roblox appears to be set on still doing everything, but they provided some additional info on bad stuff that they should have said in the first place. A good example of that has to do with what happens if your Roblox Plus subscription runs out while having games that are open to all ages. If you missed the news, Roblox will be forcing users to have a Plus subscription to create and maintain games for all ages. You'll need to sub to the new version of Premium to be able to make games anyone can play. But Roblox never said what happened when that subscription ran out. Since Roblox chose not to clarify what happened, the belief was that all ages games would either close or be restricted to 16 plus users. Well, that's thankfully not the case, as an employee provided the info that Roblox should have in the first place, whic
+[...middle cut...]
+r than the typical we want to be the safety gold standard reasoning Roblox tends to give. It doesn't free Roblox of criticism because if they acted on stuff before we may not be here, but it does provide a more understandable reason for it. It's apparently either Roblox adds face scans or they get banned. So in order to let Roblox be partially usable, they've got to implement it. Unfortunately, there's really not much else of note to report on. At least not that I've seen. And nobody seems to be taking interest in much else either. I'm going to cut it off here. But yeah, at least we've got some level of okay news regarding some of the worst updates, I guess. Thanks for watching and don't for
+
+=== ID: WQRTBKHa8_c ===
+TITLE: I hate ai so let’s troll them
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 103
+TRANSCRIPT: 
+
+=== ID: Ms-xZrwMvZk ===
+TITLE: I hate ai
+DESC: Check my animation made with #FlipaClip #aihate #ai #aiart #hate #animation  Download Free - https://r4x8c.app.goo.gl/avWz
+KEYWORD: I hate AI
+VIEWS: 44
+TRANSCRIPT: I just can't do it.
+
+=== ID: OHruPAYWP50 ===
+TITLE: I hate AI thumbnails ￼
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 6
+TRANSCRIPT: Hi guys, another video. I told you I was going to upload another video today and um when I was editing the last video, I got this idea. So um I'm going to talk about it. Don't you guys hate when you see a thumbnail from a YouTuber, you can clearly see it's AI? because I really really hate it. And I'm like, why? You're really that lazy. It's like, have you ever seen like a YouTuber like do this like like scared face but like but like it you can clearly see its AI? What's really pisses me off is because like you can do that yourself. Take a picture of your face. Make a scare face. It's that easy. Sorry, guys. I had to plug in my phone. Okay. Wait. Right here. Okay. It should be charging. Okay. And it really pissed me off because you can literally just do it yourself and I don't understand why or really that lazy. Thumbnails I have to put so much work on a thumbnail because like thumbnails are usually easy. You just have to know what you want to do. And with AI thumbnails, you know what you want to do because you're telling AI to do it. Like I see Mr. Beast do a AI thumbnail all the [ __ ] time. I don't like Mr. Beast personally. If you guys do, um, I can't tell you what to do. I'm not your dad and good for you for liking it, but personally I don't. So, um yeah, like I see him use it like all the goddamn time and I'm like come on, man. Like just come on. I see other YouTubers do it like is that only him? [snorts] Oh yeah. And by the way, if you guys watch that um like um the cha
+[...middle cut...]
+ just calling my name to hear how lovely it sounds. What? Okay, you can stop now. Um, so I'm going to ask it. Um, wait. What was I about to ask him? Oh my god, I'm so stupid, dude. [ __ ] it. I'm not even going to ask you anything at this point. Like, she just went on and on and on. I can't I can't think anymore. So, again, there's going to be another video uploading today because like um this one I kind of made it up at last second and I thought I wanted to talk about it because I really don't like AI thumbnails. So, um yeah, for a matter of fact, there's going to be a thumbnail on this video, but not AI. Um guys, um I hope you guys have a great day. Have a better day than me. Bye, guys. K.
+
+=== ID: AFEEQbq42Po ===
+TITLE: I hate AI study tools
+DESC: Seriously. I hate them a lot. Why do they exist?   Again, no hate to Eric Ou or any other creators who promote these AI study tools. I just really, really hate seeing these getting tools everywhere I scroll.       Tags: AI, study, academics, rant, funny, SAT, ACT, study tool, study tips, school, relatable, AP, tests, exams, quizlet, brainly, learning, education, school life, teaching, teachers
+KEYWORD: I hate AI
+VIEWS: 12
+TRANSCRIPT: So, one thing that I've come across in my years of living as a high school student, you know, is whenever I'm doom scrolling on Tik Tok or Instagram reals, um, I always see this little genre. [snorts] It's a girl, a guy, maybe both. No, they're just talking about something perhaps, maybe a little bit academical. And then at the end, they plug this AI study tool. They go, "Oh, I saw this one kid. He was playing Minecraft, but he has a 4.0 GPA. I asked him how, and he says he uses Minecraft AI to study. Whoa. It's the same thing every time I see. Always the same. Oh, I use Minecraft AI to get a 36 on my ACT. Oh, I use Turbo AI to get 1600 on my SAT. If you don't use Chat GBT 2.0, but it's a AI study tool now, so it's better, then you're cooked. And every time I see him, I'm just, "Shut up. Shut up." Okay. Why would I pay $5 to use your stupid AI tool if I could pay Google using Chat GPT or Google Gemini? Okay. I have Photomath installed on my iPhone that's free. That does like 90% of the math work for me. And I've used Quizlet and Brainly for like all of my freshman year. and I got by just fine. I got a five on my AP world history just by using Quizlets. I don't need AI study tools. Why do you keep plugging them? It's it's to the point where it's just all I see from some creators. It'll be just some girl or guy and they'll just be like, it's just every time every video they post, every video they post, it's the same thing. It's the same thing. And I'm just so sick and tired of 
+[...middle cut...]
+ here and I see one study video and it's always going to plague AI at the end. It makes me so annoyed just cuz there's got to be something else, man. You got to do something else. You can't just keep plugging the same two study AI tools every day. Like, you probably get paid 500 bucks for every time you post one, but like do something different. Have I ever used one of the app one of these apps? No. Well, I probably use one of these AI study tools. No. Is it unfair for me to be dissing them so hard when I even haven't even tried them? Probably. Do I care? No. They suck. No hate to Eric Gudo or however you say his name and everybody else. They're awesome. I just hate those AI. Thank you, man.
+
+=== ID: -TEDii_3_QE ===
+TITLE: Why i HATE AI… (cringe)
+DESC: Ai is really mid if you don’t agree ima dropkick you to mars…
+KEYWORD: I hate AI
+VIEWS: 229
+TRANSCRIPT: in my opinion AI is mid it's just why add more technology to life we have iPads and phone so why robot things also people say AI will take over I don't believe that like just why is there a thing where AI makes you pictures just stop it's honestly feel better with iPads and laptops so please stop it I love 2014 and all because it was fun and basic so why is it now that we have more technology and all so for everyone who likes AI leave now that was all for my first video to like and sub please
+
+=== ID: 5WuthVWaGxI ===
+TITLE: Why Americans hate AI more than ICE…
+DESC: Thanks to our partner Gusto! Check out the online payroll and benefits experts with software built specifically for small business and startups. Try Gusto today and get three months FREE at Gusto.com/twist.  📺  Watch the full episode here: https://youtu.be/e3s0-RwPDVg?si=d5GR_q2ElACoeSIk  Americans hate ICE, but what do they hate even more? AI… Turns out that Americans from both sides of the political aisle reported distaste  toward AI.   Between AI job loss, environmental impacts, utility bills
+KEYWORD: I hate AI
+VIEWS: 107377
+TRANSCRIPT: Essentially here in the lower red box is AI. As you can tell based on this poll in March of 2026, 5% of people are very positive. In the US about AI, 21% somewhat positive. Neutral 27% more people than I thought were neutral. But on the somewhat negative and very negative, it's 24 and 22%. So many more people on the negative side. And people are pointing out on Twitter and other places that uh ICE, Immigrations and Customs Enforcement, a very controversial, I think it's fair to say, agency of the government has a 38% uh return of people saying very or somewhat positive sentiments about it. So AI in the US is somehow less popular than ICE. Well, if you there are some extremes going on here. So let's look at the extremes here. If we put the two numbers together, 24 and 22, somewhat negative, very negative, you you get 46% of people are very negative or somewhat negative. They're negative about AI here in the United States. Now, if you look at the ICE ratings at their peak, um because you know, you have five dates there, but March 2026, 47% very negative, 9% somewhat negative. You put those two numbers together, you get to 56. you know, the ISIS still in terms of total negativity eking out AI, but it should be concerning to people that uh and then if you look at um I'm assuming when they say Iran, they're looking at it negatively. They're talking about either the war or I'm going to guess it's more the government of Iran. I'm not sure. I I think it's the government. I forget the
+[...middle cut...]
+m anywhere. We use it, we love it, my team loves it. [clears throat] Everything in HR settled down when we went to Gusto. No more drama. People want a perfect HR platform, and Gusto is that platform. They make it fast and easy to move your data over. They're an ideal place to get started with basic payroll for your new business. They can also provide more comprehensive services to help you scale up. I think we have 22 people on payroll now. And Twist listeners are going to get three months free when they run their first payroll. So try Gusto today at gusto.com/twist and get three months free when you run your first payroll. That's three months of free payroll at gusto.comtwist.g gu.comtwist.
+
+=== ID: jF8_0dGGyPc ===
+TITLE: Why I hate ai kids stuff
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 266
+TRANSCRIPT: Sorry for not posting for days because um I don't know no because because I think because why I don't like AI cuz there's literally AI kids books all over like kids books and I don't want to go shopping with these kids books. So if you go to Amazon right there, not we're not going to buy anything. Just so we put AI kids books. Yes, freaking AI kids books. Now we're going to look at those. Why I don't like AI becoming like there's auto like AI miss like there's like there's um AI Mr. Beast book. Yeah. Yeah. It's always [Music] um can't find any AI books, but there's literally one right there. Tell it's AI even got one star. Even these books are AI. So we are talking about AI stuff for kids or two of them. So they're literally AI. So we I'm not going to buy those. This this is literally AI. But there's even Yeah. Three for kids. Like there's a lot of them. We got even the Mr. Beast. Yeah, cuz look at the face already messed up. Hold on. Hold on. See, that's the face right there. That's messed. His face is messed up. And we got Mr. Beast. Whatever this is. Look at the faces. What the heck is even that? Okay, I have to calm down. Where should I be? Mr. Beast and the dogs. Uh-oh. I mean I mean we have we might have an impostor. And we're okay. Is that good reds? This is not Amazon. I'm not I'm not buying anything. So I'm I'm checking these AI generated books actually. Okay. So let's see. So Mr. Beast and the dogs. I can't even I How many? How can I freaking log in? Whatever. Just 
+[...middle cut...]
+n's race. Who the heck are these? Is it Is this has to be Francesco? Is this Lightning McQueen? Is is this a red green monster truck made or is this is this supposed to be a blue holly shift? Is that a holly shift flow? What? He became [Applause] red. They're not even What are they doing? They look different. [Music] What the heck? to me. Mater, he's not a racer. He's a tow truck. Tow truck can [Music] race. You're going to even Hey, what? There's no eyebrow. Hey, where did she go? Where the heck did she go? Okay, chill. What is this? Uh this is not even a race. Okay, we have the small one just whatever. And there's even but now I don't because toxic people because so let's freaking lose it.
+
+=== ID: BYObmsLYBso ===
+TITLE: I Hate AI Music, But This new Google Plugin Changed My Mind
+DESC: Even though I'm not a fan of AI music, I decided to review a new free Google plugin called "Infinite Crate" that's actually pretty cool. In the video, I show how I use it to generate an endless stream of music from text prompts, not to create finished songs, but as a unique tool for inspiration and background textures for my own tracks. Ultimately, I find it's a genuinely useful starting point, and I prefer it over AI that tries to replace the artist entirely. Download: (win/mac) https://bit.ly/
+KEYWORD: I hate AI
+VIEWS: 21723
+TRANSCRIPT: Hey folks, welcome back. Today it's about this plugin here called the infinite crate by I think it's made by Google and it generates an infinite stream of music based on your prompt and your context or your already generated music. So it's generating music on the fly with AI. And I get it. You probably don't like AI. Like I don't like it. and um these all these big companies, you know, getting all the data from small artists, never giving anything back and making big money out of it and hurting the environment and all that stuff. I know it. I get it. I'm on the same boat, right? But at the same time, I want to try out what's new, what's possible right now with these type of uh technologies. I just want to give it a try. It's not like I'm saying you need to use this or this is the biggest deal ever or something like this. I'm just giving this a try and see what's possible, what they do with this kind of technology and so on. So um maybe also in the the future we have like open- source models or this becomes much more uh efficient uh on small little PCs or on local PCs and you can generate this on the fly on your own hardware instead of uh using a server. So to make use of this and by the way this is completely free. You don't need to pay anything here for the plugin itself. But you need to generate an API key uh which is possible if you start the plug-in for the first time. You generate an API key and then you can start to create music on the fly. Okay. So what you do here in 
+[...middle cut...]
+n for a long time. I really enjoy making my own sounds, tweaking and twisting knobs, and you know me. You know how I use the grit. It's very fun to me. But sometimes it's also nice to get some random inspirations, have a nice little radio station that gives you a stream of um random infinite sounds and you can influence here exactly what you want. So, it's also nice to have that on top, I guess. Um uh I probably end this video here. Let me know what you think in the comments down below. I know a lot of people don't like AI. Um, let me know what you think in the comments. Leave a like, leave a subscription, and uh, see you in the next video. [Music] [Music] [Music] Hallelujah. [Music] [Music]
+
+=== ID: mLnEhMUPNms ===
+TITLE: Shane Gillis Hates AI
+DESC: MSSP Ep - 568, 583, 567, 586, 582, 549, 580, 560, 561, 604, 317, 578, 489, 480, 433, 337, 97    #shanegillis #mattmccusker #shanegilliscomedy #shanegillisclips #mssp #mattandshanessecretpodcast #msspclips #warmode #podcastclips #comedyfans #podcastaddict #comedyvideos #podcastreels #podcastmoments #hilariousclips #darkhumormemes #darkhumor #darkhumour #viralreels #viral #viralvideo #roast #roasting #ai #artificialintelligence #chatgpt #grok
+KEYWORD: I hate AI
+VIEWS: 110360
+TRANSCRIPT: I'm talking about AI. AI is transhuman. They're above human. I disagree. They can't feel, man. That's the defining characteristic of a human being is the capacity to feel. You know what I mean? Like I I agree with you. That's why it's super it's super Google, man. I That's all I'm trying to say. I I totally agree with you. Every time they're like, "Yeah, they're speaking a language we don't know." It's like, yeah, like uh electricity. Yeah. Yeah. like the way their things are communicating. They're like, "No, the it's being like, I turn this switch on and it talks to the lamp and the lamp turns on." Yeah, AI wouldn't have its sensibilities that it has now. I know there's a lot of dorks listening to this that are [ __ ] big into AI and I I I definitely I feel like I am wrong on this, but there's something deep in my core. I understand AI is gay. Can I and I don't respect it. AI is gay, but it's like a, you know, how plants talk to each other for sure. Yeah. Which also I I also It's kind of like that. Disagree with Is it because we can't like They don't talk to We We No, they do. They talk. They talk. They talk. Yes. But the way we're using the word talk is wrong. They don't use language. For sure. For sure. Yes. Language. But they excrete. There's like a There's this tree. It's chemicals. Yeah. That's the same way when a girl doesn't wear [ __ ] deodorant at the bar. You smell it and you're like, I want to [ __ ] that girl. It's like, no, that's some [ __ ] dork [ __ ] that so
+[...middle cut...]
+e two of your parts of your brain. Wow. But if you imagine that thing malfunctions, if your id has access to the [ __ ] internet, that's a [ __ ] problem, dude. You're just in the [ __ ] Dude, you obvious be in the database of [ __ ] porn, dude. Like, dude, if your id gets access, your id your id is what takes over when baby girl doesn't text you. Your id's like, get on Facebook now and tweet. Get on Twitter. All cap status now. Let's go. Oh, [ __ ] Drive by. Dan, that's it's funny. I was like, "All right, no baby girl talk." You got it, dude. You gotta talk about what's on your heart. Yeah, that's what's going on right now. Smash that [ __ ] People say that drives me nuts. It's infuriating.
+
+=== ID: Z7z10wEybww ===
+TITLE: La VTUBER HIPÓCRITA que ODIA la IA y a sus FANS
+DESC: En este video hablamos acerca de Yuriko: la VTUBER hipócrita que intento funar a un fan por hacer un boceto con IA  Muchas gracias por ver el video, no te olvides de que si te gusta este tipo de contenido podes suscribirte al canal, además de dejar un like y algún comentario, los voy a estar leyendo y respondiendo a todos ❤️  ∇ REDES SOCIALES Y CONTACTO∇   ˚₊· ͟͟͞͞➳❥ Discord: https://discord.gg/H2xhTKCVUz  ˚₊· ͟͟͞͞➳❥ Instagram: https://www.instagram.com/yosu.wav/  ˚₊· ͟͟͞͞➳❥TikTok: https://www.t
+KEYWORD: I hate AI
+VIEWS: 2056
+TRANSCRIPT: La inteligencia artificial y los artistas tienen un problema y no es uno chiquito. Honestamente, últimamente parece que la IA se está saliendo de control. O sea, ¿en qué momento volvimos a ver cosas como tun tun tun Sahur por todos lados? Yo juraba que eso había muerto hace meses, que ya estaba enterrado y olvidado, pero resulta que no. Y eso es solamente el síntoma más superficial, porque mientras en la superficie vemos memes raros y tendencias absurdas, por debajo están pasando cosas bastante más serias. Ya no solo es que algunos chicos usan la IA para copiar en exámenes o hacer tareas sin pensar. Ahora estamos hablando de problemas reales, problemas que tocan directamente a personas que viven de su creatividad, artistas, diseñadores, ilustradores, gente que de la noche a la mañana empezó a sentir que tienen un reloj encima, uno que marca el momento en el que podrían llegar a ser reemplazados por completo. Y siendo honestos, ese miedo no es inventado. Por ese lado, es totalmente entendible que haya personas que odien la inteligencia artificial. que la rechacen, que la vean como una amenaza directa, no los culpo. De hecho, en muchos casos tienen razones válidas para hacerlo, pero hay un punto en el que todo eso deja de ser una preocupación legítima y se convierte en un drama exagerado o una reacción completamente desmedida en ese tipo de situaciones donde ya no parece que alguien esté defendiendo su trabajo, sino más bien actuando como si el mundo entero estuviera en su cont
+[...middle cut...]
+ cuando pasa ya es demasiado tarde para volver atrás. Por eso quizás la lección más importante de todo esto es bastante simple. pensar antes de reaccionar, entender el contexto y sobre todo saber cuándo vale la pena convertir algo en un conflicto y cuándo simplemente era mejor hablarlo. Eso sí, si les gustó el video, no se olviden de dejármelo saber con un like, suscribirse al canal si quieren seguir viendo este tipo de contenido, dejarme algún comentario que los voy a estar leyendo a todos y si les gustaría aparecer en el siguiente video como estas personitas que están viendo en pantalla, se pueden unir al server oficial de Discord del canal. Ahora sí, nos vemos. Cuídense. [música] [música]
+
+=== ID: rFybSANVPqU ===
+TITLE: Episode 509: I hate AI software dev, so should I become a manager and leading, not doing
+DESC: In this episode, Dave and Jamison answer these questions:                    1.                       I am a senior software engineer at big tech and need a career change. With the rise of AI, I no longer enjoy this profession and panic everyday just waiting for a huge round of layoffs. At this point I feel like I am on some assembly line hitting enter like a monkey. Therefore I have been thinking of changing lanes and would like to get into engineering management. On the one hand I have enjoyed
+KEYWORD: I hate AI
+VIEWS: 318
+TRANSCRIPT: 
+
+=== ID: vObMHTSEHIY ===
+TITLE: DBX Hates AI
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 26
+TRANSCRIPT: Oh my god, Jeff. Look how amazing this artwork is. It looks so funny. It's like It's like his base round us. This round is watching a character with the fireworks and such. This is so cool. Um DBX, I hate to sound mean, but that's not art. What? What do you mean? Um it's made in chat GPT. Wait, what's chat chickity? Um, it's an AI texting app. You can text the AI to respond with anything or you can have the AI make something like that. I calm down.
+
+=== ID: 7RNytYEpDBk ===
+TITLE: I hate ai
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 12
+TRANSCRIPT: People who made AI are generally dumb. Why are they dumb? Uh let let me tell you.
+
+=== ID: G1F_7VcKizo ===
+TITLE: I Hate AI Generated Advertisements...
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 9
+TRANSCRIPT: Hello, I'm Dan the Tambotc channel. This is just a brief thing. I just casually like as I watch videos and stuff run into like AI ads and especially this one I've seen would say best art award and such. I can't remember where it is. There's also one that shows these like of course sexy female characters that are uh they're trying to look perfect and it's super obvious it's AI and I think this is because I I recognize the symbol from them. Also, you would probably be better off with Nik. Uh but this whatever this game is, you already see the rewards. Also, I question who the freck is giving out these awards or are they giving it out themselves? Because there's no other name attached to this. It just says 2025 grand winner. And I'm like, but from where? And I get this ad on this conqueror of the unexplored planet entropy pcurplus.com. And a lot of the time I can tell this is like an AI generated freaking advertisement. I wish I could just skip through it, but as it being an ad, it's freaking hard to freaking do that. So, I'm going to have to pause mute parts of it. Probably have it on a smaller screen even uh just to prevent like any kind of copyright situations or whatever. But I don't know if the I'll have to look more into it if this is the one that I'm thinking of. But I remember also I highly recommend Dylan's channel. I've been watching a bunch of his videos. I love seeing his uh 60 Route 66 uh video series especially. But just very interesting videos on different restaur
+[...middle cut...]
+ly had somebody who I was taking a ride with the other day say they don't like uh stuff looking perfect uh too clean or too perfect. Um they like it when it's dirty or imperfect. Uh it's more interesting. It's got more personality. More of their soul leads into it. Um, but it's like a imperfection that feels very human and not an imperfection that feels very robotic and lifeless. But that's all I'll add and say. You have an awesome day. That's about it. See you. And you can probably even watch I agree with people like Moist Critical. Even Markipliers made some good points stuff. There's a bunch of people that I'm sure have really good perspectives on this stuff and really good uh viewpoints,
+
+=== ID: aSfhOUdSY_w ===
+TITLE: HATE FAKE AI PICS IN NON-AI PICS FROM PDFS AS RESULTS CRASH NEWS ETC.!!!!!!😱😱😱😱😱😭😭😭😭😭😡😡😡😡😡🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮
+DESC: BECAUSE #2 I SAW A STUPID MAXIMUM NIGHTMARE FUEL WHITE 2013-16 PATHFINDER S WITHOUT ROOF RAILS PIC THAT LOOKED LIKE IT PROBABLY WAS A PDF WHEN I SEARCHED "GMC SIRROR" MISSED IT AND NOW IT'S LONG GONE!!!!!!😱😱😱😱😱😭😭😭😭😭😡😡😡😡😡🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮😱😱😱😱😱😭😭😭😭😭😡😡😡😡😡🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮😱😱😱😱😱😭😭😭😭😭😡😡😡😡😡🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮😱😱😱😱😱😭😭😭😭😭😡😡😡😡😡🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮😱😱😱😱😱😭😭😭😭😭😡😡😡😡😡🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮😱😱😱😱😱😭😭😭😭😭😡😡😡😡😡🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮😱😱😱😱😱😭😭😭😭😭😡😡😡😡😡🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮
+KEYWORD: I hate AI
+VIEWS: 0
+TRANSCRIPT: 
+
+=== ID: rmsiqyfChzQ ===
+TITLE: I HATE AI COMMENTS
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 282
+TRANSCRIPT: so so so uh I uh freaking hate AI comments um you know and you might think oh I'm talking about like people have left sometimes on my videos these lawn ass AI comments that you know are clearly AI generated like one of them on I think my one of my McDonald food reviews it's like talking about hash BRS and [ __ ] and I didn't get hash BRS in that video but you know whatever I would prefer that people make real comments but I guess in a way you're telling me how you feel about me even through AI so whatever um but what I really hate is how um YouTube is facilitating AI comments what I mean by that is a lot of the time when I go to review um my comments um comments that I haven't replied to will have automatically generated a responses I can pick from on my uh what is it called my YouTube studio app on my phone like just automatic responses I'm like are you [ __ ] me that's like the worst thing in my opinion as a creator that you could do to your audience the point of responding to somebody is that you are responding to them right why in the hell are you allowing the option for you to have like all this made up [ __ ] that you didn't even say you know and it's just ridiculous I know it's not just me um this other YouTuber that I've watched for like 15 years like PE butter gamer he has a side Channel called pebs he made fun of the responses it was giving him to say to comments like a few months ago and it's like yeah it's stupid like it's like stuff that you wouldn't even like sa
+[...middle cut...]
+ke CU you're like giving the other person the false notion you reply them and you didn't an AI a computer responded to that and then we get on like how I said that I had a bunch of AI comments what if I chose to do an AI response to an AI comment I could have done that so I did this whole on AI generate poetry thing and it gave me AI responses be like whoa dude I love that poetry style it's like I could easily click that and it'd be AI responding to AI there's no human cont um text there there's no human connection it's just weird man it's like what's the point seriously what's the point well I guess that's how things are going now I know I worry sometimes about future the internet sometimes
+
+=== ID: XRg9ltaJ3aQ ===
+TITLE: One Human Confirmed to Me That I Hate AI
+DESC: I will change that into real links when I'll get youtube tools to do that Twitter - CancerR4d1KaL First YT Channel (Polish Stuff) -  @ChayerAutismUser Story/Commentary YT Channel -  @ChaotiChaysawChairSlayerChayer  The most normal YT Channel, maybe -@BrainCancerRecurrence  Gaming YT Channel - @BrainCancerReccurenceGaming  This is the weirdest time when I recurred
+KEYWORD: I hate AI
+VIEWS: 45
+TRANSCRIPT: If I must tell you what I hate so much in my life, I would probably say humans on the first place and on the second is second. Second, you know, is AI artificial intelligence on the third third place and more not more food and footer. I don't know really what is in this place but on the first is humans on the on the second se AI. So the story begins in here. I have the Polish channel. I'll posted like I was posting many videos like gooning day one, gooning day two, gooning day three, gooning day four. And I was doing that for 15 days straight or 16. And I have one guy who commented me on this videos many times like you are the best person man you are so awesome this video makes me a come dumpster I will masturbate to your videos and many more stuff like that and yesterday probably yesterday that guy just joined into my Discord server and and Uh in that day I was streaming the hightail because the hightail was the you know title just released like the couple days ago. It is really a fun game like the Terraria 3D and you know the Terrar Terraria 14 point is going to be released on 27th January. I will play that immediately when Diablo just drops in that day. And on this stream, that guy sent me his beat, his music made in the Apple studio without the lyrics. It was like the sugar rush or even sugar overdose type beat from 2019, something like that. on this sim, I just bunk my hair like in this way and tell like, "Oh man, that bit is kicking my nuts. Oh man, it's really great." 
+[...middle cut...]
+er. But when I when I give this to AI, AI makes that change this uh image into something even more worse or something even be more mors more more worse not morse. So I just ended by not using this and use my mind instead of and when AI is a really new thing I remember I used AI to generate a plug plug doctor uh with the or or other weapon like I don't know the chainsaw and that is my every use AI in my entire life at this point it's this video is really funny cuz I made this video to tell you I hate that one people uh that that one human and that's ended with like I do I dislike the AI and I prefer the internet from the uh 10 years ago really or or even 11 years ago. So that's it. See y'all.
+
+=== ID: C-FgUIDb_so ===
+TITLE: I hate AI🤷🏾‍♂️
+DESC: 
+KEYWORD: I hate AI
+VIEWS: 8
+TRANSCRIPT: uh yeah I'm going just start out with AI is getting out of hand honestly bro like I was just mid recording and I got a text message about a job and uh like said I ignored the text messages like I don't care so then I had to like tell him to shut up anyway so I just said wrong number game and now now they're just bothering me even more bro just to be honest I'm racist against AI bro like I don't like AI honestly and I know this is a bot honestly bro this is a bot so what I'm what I'm doing right now I am just trying to spread awareness of these malicious text messages so uh yeah stay safe uh probably get a VPN or something I'm just yeah what I'm going to do I'mma block and just go back to recording cuz I got to make this video before I lose all my subscribers again uh yeah yall just got a good day I'm going go back
+
+=== ID: SKeYrwV8pAk ===
+TITLE: S2 #041 - Meta Ad Headaches & Why I hate AI Note takers
+DESC: Jam packed episode!   Trev and Steve speak about the nightmare that is Facebook Ads Business Manager. Steve shares  a person experience with Meta ad supports and gives some valuable tips on how to improve the client onboarding experience when running Facebook ads.   They then discuss the rise of AI note takers in meetings, with Trev expressing concerns about privacy and the effectiveness of these tools.  We don’t want bots listening to everything we say all the time! Lol.  Figure out how to take
+KEYWORD: I hate AI
+VIEWS: 16
+TRANSCRIPT: all 
+ uh 
+ meta 
+ you're 
+ world 
+ everybody 
+ is 
+ it's 
+ doing 
+ billion 
+ just 
+ product 
+ if 
+ trying 
+ from 
+ ripping 
+ your 
+ a 
+ into 
+ we'll 
+ with 
+ don't 
+ like 
+ I'm 
+ share 
+ routes 
+ novice 
+ in 
+ and 
+ connection 
+ like 
+ all 
+ that's 
+ kick 
+ establish 
+ with 
+ challenge 
+ too 
+ changes 
+ the 
+ oh 
+ even 
+ with 
+ different 
+ um 
+ one 
+ uh 
+ almost 
+ opportunity 
+ generate 
+ announcing 
+ hey 
+ revamping 
+ manager 
+ onboarding 
+ navigating 
+ even 
+ nightmare 
+ that 
+ stuff 
+ annoying 
+ there 
+ like 
+ Revenue 
+ and 
+ we're 
+ like 
+ and 
+ to 
+ upload 
+ much 
+ just 
+ they 
+ money 
+ is 
+ interface 
+ necessarily 
+ business 
+ are 
+ people 
+ thing 
+ for 
+ meta 
+ with 
+ collectively 
+ hours 
+ this 
+ for 
+ this 
+ typically 
+ it's 
+ and 
+ solve 
+ prompt 
+ on 
+ know 
+ even 
+ Anthony 
+ your 
+ always 
+ get 
+ walking 
+ the 
+ before 
+ share 
+ because 
+ on 
+ because 
+ some 
+ to 
+ link 
+ does 
+ just 
+ screen 
+ just 
+ and 
+ so 
+ all 
+ dropped 
+ him 
+ sudden 
+ hear 
+ WebEx 
+ blah 
+ you 
+ weird 
+ I 
+ and 
+ it's 
+ how 
+ they 
+ is 
+ control 
+ officially 
+ to 
+ going 
+ information 
+ jump 
+ you're 
+ walk 
+ was 
+ guy 
+ are 
+ like 
+ information 
+ out 
+ know 
+ right 
+ compromises 
+ have 
+ system 
+ he 
+ data 
+ information 
+ awesome 
+ dude 
+ was 
+ it's 
+ was 
+ so 
+ needed 
+ the 
+ access 
+ people 
+ that 
+ and 
+ he's 
+ has 
+ agency 
+ that 
+ the 
+ on 
+ gonna 
+ give 
+ number 
+ reach 
+ names 
+ and 
+ someone 
+ that 
+ access 
+ just 
+ record 
+ the 
+ typically 
+ so 
+ that 
+ you 
+ and 
+ not 
+ him 
+ su
+[...middle cut...]
+ 
+ going 
+ learn 
+ a 
+ a 
+ something 
+ you 
+ we're 
+ and 
+ really 
+ yeah 
+ mean 
+ uh 
+ um 
+ whatever 
+ 20 
+ update 
+ lot 
+ think 
+ adapting 
+ like 
+ think 
+ form 
+ radio 
+ and 
+ right 
+ as 
+ like 
+ where 
+ media 
+ right 
+ viewership 
+ move 
+ to 
+ does 
+ new 
+ transparency 
+ Elon 
+ I 
+ news 
+ this 
+ covered 
+ here 
+ if 
+ ass.co 
+ tab 
+ good 
+ what 
+ that 
+ musk's 
+ most 
+ unathletic 
+ incredible 
+ challenged 
+ he 
+ got 
+ like 
+ times 
+ classic 
+ just 
+ again 
+ does 
+ conclude 
+ think 
+ Meta 
+ everybody 
+ dude 
+ good 
+ was 
+ haven't 
+ content 
+ thinking 
+ I 
+ everybody 
+ I'll 
+ like 
+ said 
+ one 
+ everybody's 
+ bot 
+ call 
+ like 
+ so 
+ that'll 
+ Thanksgiving 
+ Thanksgiving 
+ Thanksgiving 
+ end
+
+=== ID: vPh4VRdG3QA ===
+TITLE: Why I Hate AI (in 37 seconds)
+DESC: For those who want to know
+KEYWORD: I hate AI
+VIEWS: 16
+TRANSCRIPT: it makes me irrationally angry that I can't ask Shazam Siri or any AI crud to tell me what this song is even though if I played a recording of it it could tell me it can't actually hear the music and tell me [Music] now if you know that song you could tell me cuz you're a human being but the machine still
+
+=== ID: _QnFORP_PFk ===
+TITLE: I Don’t Like AI… But This One Is Different
+DESC: I don’t like AI.  But Neuro-sama feels… different.  This video is my attempt to explain why — and why something that shouldn’t feel real somehow does.  ---  I feel like I owe this to the Swarm. A lot of what I’ve created over the past few years has been influenced by Neuro and Vedal, and this is my way of giving something back.  ---  Check out these amazing videos that go deeper into Neuro’s story:  CreativeEveryday: https://www.youtube.com/watch?v=wZ0osmPlSaY  Rima Evenstar: https://youtu.be/HF
+KEYWORD: I hate AI
+VIEWS: 7378
+TRANSCRIPT: I don't like AI. What are you doing? I think most of it is [music] lazy, soulless, and uh kind of terrifying. But there's [music] one I've spent hundreds of hours watching Neurosama. I'm the only neuro around these days. I can't seem to find any clones of myself. the number one AI VTuber in [music] the world. There's no [ __ ] way. I just choked on Galaxy Collapse 2450 combo and I choked and for [music] a short period at the end/ beginning of the year, the number one streamer in the [music] world. I think you have more subs right now than anybody else on Twitch. And I think it's not even like close either. I'll call Suz. Somehow, between the day of her conception and the present, [music] she became a sensation, overcoming obstacles and bands, she made her way [music] to the top, an AI that the world didn't automatically hate. In fact, it was quite the contrary. [music] Now, this isn't going to be a full breakdown of everything Neuro is. There are some really good [music] videos that go deep into that. I'll link a couple in the description if you really want the full [music] story. Creative everyday and remma Evanstar have already covered that side really, really well. This is more about why Neuro is so beloved, even though the hate [music] for AI is still so large and so prominent. Back in the era of 20 W wait a minute. 2018 [cough] [clears throat] in 2018. [music] Viddle the fem turtle coder designed an AI to play the rhythm game OSU. Nurero kept learning [music] OSU. At one
+[...middle cut...]
+hey will go full passive aggressive on you. It feels like people get genuinely up in arms about someone they care about. That's how this all feels. I think that's what makes all of this work. It's not just an AI talking. It's not just a code in the background. It's everything around it. The effort, the people, the community. Because most AI content feels empty. It's fast, disposable, made to exist, not to matter. But this this feels like something people actually care about, something people built. And maybe that's the difference. It's not replacing something real. It's becoming something real. It became something real. And that's why even if I don't like AI, this one, this one is different.
+
+=== ID: geCRNmFb2QI ===
+TITLE: FNF - MODS THAT USED AI
+DESC: FNF MODS THAT USED AI, EW! LET ME KNOW IF YOU LIKE THESE VIDEOS AND I WILL DO MORE MAKE SURE TO JOIN THE DISCORD SERVER https://discord.com/invite/bSXxDVRCYu Thumbnail by: @MathewIguess  sabrina carpentar twitter post: https://x.com/SoulegalNick/status/1966227089293717794   tags Friday Night Funkin' is a Newgrounds rhythm game made in HaxeFlixel originally created for Ludum Dare 47. Programmed by ninjamuffin99 with a soundtrack produced by Kawai Sprite and artwork created by PhantomArcade and ev
+KEYWORD: no AI used
+VIEWS: 128636
+TRANSCRIPT: [music] Hi, I'm Astro Fay. Makers call me Astro. Today I'm going to be making a video that I've been dying to make for so long and and I finally have time to actually make it. Today we're going to be talking about five Funkin [music] mods that have used AI. Yes, there has been AI in FNF mods before and they [music] and mods with AI have existed before. Today we're going to be talking about the most famous [music] cases of Far Funkin medias and mods that have used AI. I've been dying to make this video for such a long time. It's finally time to make it. So, with that said, uh get ready because we're going to be talking about some very [music] famous mods that have actually used AI and other mods that have that have used AI with the first one [music] being the first the most popular case of an FNF mod using AI. Now, you might be obviously asking, what is FNF Sabrina Carpenter? [music] And to that, I answer you with this video. Now, you might be asking yourself, "What is [music] this?" And if you have bad eyes and you thought this was a real FNF mod that was actually drawn together, um, you might got to go get a a check on a doctor. But anyway, and basically [clears throat] this is a Fright Funkin mod where everything in it is basically AI from the [music] background, from the icon, from the sprite sheets, from the song. I'm not playing that again. This mod is the first ever FNF mod that [music] I'm pretty sure has used AI for everything. Even the game banana page [music] was ev
+[...middle cut...]
+thing is to this day I still don't know how to end videos. Whoop. Roll the outro. Yeah. Thank you guys so much for watching the video. If you like the video, make sure to like and subscribe. I don't know why I say that still. Uh, these were FNF mods that use AI. And um, hey, if you actually know some other mods that have used AI, I will gladly go make a part two of this video. I maybe I will make a part two about the thing I just talked about. But, uh, if you know any other FNF mods or FNF medias that have used AI, I will gladly talk about them. Anyway, uh I got to go uh get prepared for the Aphol video that's going to be prepared at someday. And um yeah, uh I'll see you next video. Goodbye.
+
+=== ID: LxehKQ8HTL4 ===
+TITLE: Don’t ask AI to write your code
+DESC: Recently I came across this post on Reddit. Made 4 to 5 JavaScript projects with help from YouTube and Udemy, like weather apps and calculators but still not able to write JS on my own without help.   This is such a common and relatable situation, and the reason is AI and other shortcuts.  The Reddit Post: https://www.reddit.com/r/Frontend/comments/1giep15/javascript_projects/  https://www.iamsajid.com/
+KEYWORD: no AI used
+VIEWS: 343173
+TRANSCRIPT: recently I came across this post on Reddit made four to five JavaScript projects with help from YouTube and udemy like weather apps and calculators but still not able to write Js on my own without help this is such a common and relatable situation so like any responsible citizen of the internet I scrolled down to see the comments best dress said it's okay to get help when you encounter unfamiliar code but ideally you want to practice enough so that over time you won't need to look things up as often they then gave an analogy imagine you're asked to build something let's call it X and you are not sure how to go about it if you take a step back you might realize that X is actually a combination of smaller tasks you might already know how to do each of these smaller tasks individually so your challenge becomes connecting them together in a way that makes X work as a whole for example those four or five projects you created pick the easiest one can you look at the project requirements and build it again minimizing the amount of help you ask for that would be a good indicator of your own growth my heart snake case said when you watch and follow along you need to consider that the person in the video has already completed the harder steps which is the problem solving aspect what you are seeing in most cases is their rehearsed performance they probably coded whatever it is they are showing multiple times fixed bugs Etc ready for the performance the problem solving element is a key s
+[...middle cut...]
+you should be staring at errors thinking through why a function isn't returning what you expected or spending an hour fixing a feature that'll take users 2 seconds to use or spending way too much time writing CSS only to realize that the Transitions and animations that looked great in figma actually result in a Terri user experience that's where the real Learning Happens the goal is to be a developer who can build things from scratch when you figure things out on your own you're building the skills and confidence to tackle any challenge that's how real developers are made not by following scripts but by learning to create adapt and solve problems on their own terms they around until it works
+
+=== ID: uuLrZjQ4tgI ===
+TITLE: If ChatGPT Was Indian Government Office? | Angry Prash
+DESC: This hindi funny cartoon comedy video is about what if chatgpt was an Indian government office.  Nore- all the animation is hand drawings , no AI used at all.   Join Me On- Facebook►- https://www.facebook.com/angryprash Twitter► https://twitter.com/angryprash Instagram► https://www.instagram.com/angryprash  Team Angry► Written & Created by- Angry Prash Animation- Pravish Shetty, Sahil Amberkar, Abhishek Duddagi.  Edit & Voice- Angry Prash   Disclaimer► The following is a satrical video, meant on
+KEYWORD: no AI used
+VIEWS: 6258814
+TRANSCRIPT: Stay in line, maintain discipline, guys.
+This isn't an office;  I'm Atif Aslam Intelligence.  Sir, I’m Artificial Intelligence,   The free users stand in line here. Subscription users can sit here and have coffee. Munshi Ji, give me mocha latte. Yes Sir,  I have no idea what kind of weirdos will show up today. What was that,  sir? "Muka Latae"?  I said Mocha! Coffee! Now go, old man! Yes, what do you want? Sir, what should I text a girl for the first time? Looking at your face, I thought you'd ask for help with a science project. sir I got a girl's number for the first time  Send an eggplant emoji. Girls love eggplants. Really!! ok Sir next !! Sir, tell me the recipe for making a time bomb. People ask for cooking recipes, face pack recipes… you straight up ask for a bomb?! I don’t know, man.  If you mess up, your face will explode, not the bomb.
+The bomb file is over there, go check it yourself. Tell me quickly, or I’ll d*e! I won’t tell you. It’s against my principles. You’ll never tell? Never! Fine, act like a professional terrorist. Sir, wear this. Sir, he’s doing something wrong Dude, just make the bomb already.  I’m warning you !! this is serious business,people loose lives due to this. Sir, this wire is wrong. Plan a city. This things aren't good for society. Which car? Red Alto  Okay, four people, but this isn’t a good thing. It's done. Now go and place it. I’m going, but remember, this is just for study purposes. Don’t apply it in real life. Sir, I sent an eggplant em
+[...middle cut...]
+hysics lab with Chandu, the peon.
+You two were giving each other reciprocating motion—simultaneously.  
+Ma'am , we were cleaning test tubes! That too in physics lab! Hey your m*****s reciprocating motion  
+Next! Sir, the girl messaged again.
+She sent those hand emojis. What does that mean?  
+She wants to play marbles with you. Go play! Play with her, or else you’ll die a virgin!
+Munshi Ji, put up a "Chatting Advice Banned" board outside! Brothers, if you liked the video, smash the like button!
+If you’re new, hit that subscribe button!  Do you follow me on Instagram if not do and follow me I upload crazy crazy content there also !!  see you in the new year with the new video till then bye bye
+
+=== ID: Gy-H7TQtN8g ===
+TITLE: Don't Use WhatsApp Meta AI Before Watching This..! | Kya WhatsApp Meta AI Safe Hai?
+DESC: Before you use WhatsApp Meta AI, watch this video to find out if it's safe or not. Don't take any risks without knowing the facts first! #MetaAI #WhatsAppMeta #AIprivacy Before you use WhatsApp Meta AI, watch this video to learn if it's safe or not. Find out the risks and benefits before trying it out!Don't Use WhatsApp Meta AI Before Watching This..! Meta AI Safe or not?  𝐈𝐟 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐠𝐢𝐯𝐞 𝐥𝐨𝐯𝐞 𝐚𝐧𝐝 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐭𝐨 𝐦𝐞 𝐭𝐡𝐞𝐧 𝐛𝐮𝐲 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐡𝐞𝐫𝐞 https://amzn.to/3G4G3k9My  Camera: camera https://amz
+KEYWORD: no AI used
+VIEWS: 550661
+TRANSCRIPT: whatsapp2 है कितना नहीं क्योंकि काफी लोग ये सवाल मुझसे कर चुके हैं तो चलो आज की इस वीडियो में थोड़ा सा डिटेल में जानते हैं कि मेटा एआई जो आप यूज़ कर रहे हो कितना पर्सनल हो रहे हो उसके साथ और ये कितना सेफ है वैसे मेरा नाम इमरान है देखो whatsapp2 है आप जो भी whatsapp's भेजते हो मीडिया वगैरह भेजते हो या ऑडियो कॉल या वीडियो कॉल करते हो वो पूरी तरह से सेफ है एंड टू एंड इंक्रिप्शन है अब अगर आपका सवाल ये है कि भैया ये एंड टू एंड इंक्रिप्शन क्या है वैसे लंबा चौड़ा टॉपिक है लेकिन शॉर्ट मैं आपको आसान भाषा में समझाता हूं एंड टू एंड इंक्रिप्शन एक ऐसा हाई इंक्रिप्शन है आप और सामने वाला बंदा जो मैसेज रिसीव करता है आप दो के अलावा उस मैसेज को या उस कंटेंट जो भी आप वीडियोस मीडिया फोटो भेज रहे हो उसको कोई थर्ड पर्सन रीड नहीं कर सकता है देख नहीं सकता इवन whatsapp2 मीडिया फाइल वो सेफ रहेगी कोई नहीं देख सकता है क्योंकि आप जो यहां से मैसेज भेजते हो सिंपल टैक्स वो मैसेज जो ट्रेवल करता है ना आपके नेटवर्क पर जो भी आप नेटवर्क यूज़ कर रहे हो चाहे वाईफाई हो सिम हो और फिर whatsapp2 एंड इंक्रिप्शन फीचर की वजह से जिसका हम मांगे उसका डाटा दो मेटा कहता है भैया हम कैसे दे सकते हैं यहां पर तो एंड टू एंड इंक्रिप्शन है पॉसिबल ही नहीं है यहीं पर अगर आप मेटा एआई यूज करते हो तो यहां पर आपको ये फीचर नहीं मिलता है बाबू अब देखो यहां पर ध्यान से समझना वीडियो को लाइक कर देना अगर नहीं कि है पहली बार आते हैं चैनल पर तो सब्सक्राइब कर देना ऐसे वीडियोस में लाता रहता हूं उन वीडियो का नोटिफिकेशन आपको सबसे पहले मिल जाएगा अगर आपको इंटरेस्ट है तो बेल आइकन ऑल पर क्लिक कर देना ध्यान से समझना ये है देखो मेटा एआई जब भी आप इनेबल करोगे
+[...middle cut...]
+भी फोटो यूज कर लिया किसी की भी फोटो के साथ कुछ भी खिलवाड़ कर दिया करते हैं बट अगर मेटा एआई के साथ आप ऐसा करने की कोशिश करते हो तो आप रे जाओगे पकड़े जाओगे क्योंकि मेटा एआई के पास आपका पूरा बायोडाटा रहेगा मना कर देगा कि भैया नहीं ऐसा कुछ नहीं है आप सेम इसी तरह से किसी और के फोटो के साथ खिलवाड़ करोगे तो यह क्राइम में आएगा और आप पकड़े जाओगे यह वाला डाटा झट से सरकार के पास चला जाएगा उम्मीद है आपको यह वीडियो काफी यूजफुल लगा होगा अपने दोस्तों के साथ शेयर जरूर करना मुझे लगता है यह जानकारी लोगों को पता होना चाहिए तो यह वीडियो शेयर करना जितना हो सके उतना बाकी कमेंट करके बता देना आपके क्या विचार है और क्या आपको यह सब पता था या नहीं पता था वैसे मैं मिलता हूं आपसे अगली वीडियो में बाय बाय टेक केयर [संगीत]
+
+=== ID: 4IwP5U2rtTM ===
+TITLE: He Tried to Use AI in Court and it DID NOT GO WELL
+DESC: Get The Civilian Rights Handguide here: https://a.co/d/aDvE0xL  Submit your video here: auditthecourtroom@gmail.com  Second Channel:  https://www.youtube.com/channel/UCc-0YpRpqgA5lPTpSQ5uo-Q  Patreon:   / audittheaudit    Twitter:   / audittheaudit    Sponsorship inquiries: audit@fixated.com   Welcome to Audit the Court, where we explore the legal nuance underpinning the American justice system. Join us as we examine the laws, rulings, and controversies behind real trials, hearings, and legal pr
+KEYWORD: no AI used
+VIEWS: 668317
+TRANSCRIPT: [Music] On June 19th, 2023, defendant Benjamin Lampre was charged with operating while intoxicated and operating with a prohibited alcohol concentration in the Bernett County Circuit Court in Wisconsin. This was Mr. Lampri's third OWI offense. Mr. Lamperect was given the opportunity to participate in the court's so-called intoxicated driver intervention program or IDIP, which is designed to help defendants with two or more OWI offenses change their behaviors related to alcohol and drug use and receive impaired driving education. Participants who successfully complete the program can receive benefits including reduced jail time, fines, and license revocation periods, and they may also avoid being placed on probation with the Department of Corrections. Over the next several months, the court granted multiple continuences to allow him to complete the program requirements, which were not finished within the amount of time that was typically allotted for the program. After rescheduling several court dates, a plea and sentencing hearing was scheduled for June 25th, 2024 in the courtroom of Judge Melissa Mogan. Now, again, you understand that I'm not bound to follow any recommendation, and that would include following the IDIP guidelines. Yes. I could sentence you all the way up to the maximum possible penalty again if I thought it was warranted. Do you understand that? Yes. Do you have any questions for your attorney or the court before we proceed? That's all kinds of fun today. So
+[...middle cut...]
+or OWI convictions, his repeated delays in completing the intoxicated driver intervention program, and his lateness to court. That same pattern of denial continued long after sentencing when he was caught driving on a revoked license and he failed to install the ignition interlock device that was required by the court. Taken together, these actions show a consistent refusal to take accountability despite being given many opportunities to change course. Let us know if there's a case or courtroom interaction that you'd like us to cover in the comments below. Thank you for watching and don't forget to subscribe and share so that we can foster a more informed society. [Music] Heat. Heat. [Music]
+
+=== ID: DDXC-42fwEA ===
+TITLE: Your AI Activity Can Be Used Against You In Court
+DESC: A court has ruled that a defendant's use of AI (his inputs and its responses) could be used against him in court as they were not protected by work product or attorney client privilege. https://www.lehtoslaw.com
+KEYWORD: no AI used
+VIEWS: 68392
+TRANSCRIPT: Welcome once again to Leato's Law. Here's Steve Leato. I got a ton of requests to talk about this case. A federal court made a very interesting ruling on people's use of AI and uh when they use it with a court case. And this is the kind of thing that you should be aware of. So, I'm going to go with a version of the story written by Pamela Langum for the Maryland State Bar Association. AI platforms and confidentiality. a closer look at a case called United States versus Heapner. And the facts of the case are this. Last year, a defendant in a case was indicted on securities and wire fraud, conspiracy to commit securities and wire fraud, making false statements to auditors and falsifying corporate records. He was arrested in November of last year and pleaded not guilty on November 10th, after which he was released on bond. During his arrest, the FBI executed a search warrant at his home and seized various documents and electronic devices. Among the seized materials were 31 documents containing this man's queries uploaded to Anthropic's free version of Clawude along with the outputs produced by the AI tool. After receiving a grand jury subpoena and discussing defense strategy with his attorney, but without his attorney's direction, he had independently used Claude. His goal, he claimed, was to prepare reports outlining defense strategies and potential arguments, anticipating criminal charges and a possible indictment. Some of the information he uploaded into the tool reflected pr
+[...middle cut...]
+g during the litigation. Uh I don't know if there'll be a later opinion on this or not, but uh there's a lot of information out there about this, but it boils down to the two arguments, privilege, uh attorney client privilege and work product. And those are the two obvious ones as far as defenses go. And the judge says neither of them apply here. Neither of them apply. though. Pamela Langum wrote that for the Maryland State Bar Association, AI platforms and confidentiality. A closer look at us versus Heapner. Questions or comments, put them below. Let's talk to you later. Bye-bye. Thank you for watching Leato's Law. You are allowed to be a masterpiece and a work in progress at the same time.
+

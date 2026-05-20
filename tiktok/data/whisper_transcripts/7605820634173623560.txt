@@ -1,0 +1,1 @@
+How do you center a div? Great question. To center a div, I usually consider whether it needs horizontal or vertical centering. For horizontal centering, I use margin auto. For vertical centering, I use flexbox. You're higher. Oh, okay.

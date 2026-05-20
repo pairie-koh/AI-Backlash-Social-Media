@@ -1,0 +1,1 @@
+You don't have to sort trash anymore because this bin does it itself. When throwing the trash into the smart bin, it uses advanced computer vision to analyze exactly what kind of trash it is and sort it into the right compartments. But the best part is it does it with 95% accuracy.

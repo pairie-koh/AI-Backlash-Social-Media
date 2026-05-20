@@ -1,0 +1,1 @@
+Okay, Nautando, how would you design and implement a minimal system? Thanks for the question. The first thing I'll do to design is to find the primary purpose of the minimal system. Okay. Also find the basic integrity.

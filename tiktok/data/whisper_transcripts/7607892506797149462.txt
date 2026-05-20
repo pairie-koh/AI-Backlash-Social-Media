@@ -1,0 +1,1 @@
+Tutorial on this AI lip sync. Get an image of your person ready. Click on the image, then go on lip sync. Click on add audio. Click on extract, then add your sound. Adjust the length of the sound to your liking. Select the vivid model and then click on generate. Wait around a minute for the lip sync to generate.ues

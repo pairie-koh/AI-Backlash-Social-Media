@@ -1,0 +1,1 @@
+Join us as we delve into the fascinating world of computer vision. In this video, we demonstrate how to recognize facial emotions using OpenCV. Discover the simple steps to set up and run the application. Check the link below for detailed instructions.

@@ -1,0 +1,1349 @@
+=== ID: RksLrNprsSc ===
+TITLE: Netanyahu 6 Fingers Video: Real Or AI Deepfake Exposed?
+DESC: A Video Of Israeli Prime Minister Benjamin Netanyahu Has Gone Viral — And The Internet Cannot Stop Talking About It. Viewers Are Pausing, Rewinding, And Zooming In On One Disturbing Detail: Six Fingers On One Hand. Is This A Real Video Or An AI-Generated Deepfake Designed To Manipulate Global Opinion? In This Episode, We Break Down Why This Moment Is Far More Than A Technical Glitch. Netanyahu Is Leading A Country In One Of The Most Watched Conflicts In Recent History — Making Him A Prime Target
+KEYWORD: AI deepfake
+VIEWS: 22
+TRANSCRIPT: Welcome back to Currency Shift YouTube channel. Something strange is moving across the internet today and it is not a rumor, not a meme, and not just another conspiracy theory. A video featuring one of the most recognized and most controversial world leaders on the planet has gone viral for a reason that sounds almost too strange to be real. People watching the clip are pausing, rewinding, zooming in, and asking one simple but deeply unsettling question. Is what we are looking at even real? Now, in any other era, this would have been a minor distraction, a blurry clip, a few jokes, maybe a short news segment. But we are not living in any other era. We are living in a moment where artificial intelligence can generate a world leader speaking, moving, gesturing, and looking almost exactly like the real thing, almost. And when something looks almost real, that is when the damage begins. Because doubt, once planted, does not need proof to grow. It just needs an audience and right now the audience is the entire internet. The video in question features Israeli Prime Minister Benjamin Netanyahu and what viewers are pointing to is something subtle but immediately recognizable to anyone familiar with AI generated imagery, an extra finger, six fingers on one hand. It is one of the most common errors that AI video and image generation tools still struggle to correct. Human hands are surprisingly difficult for machines to replicate perfectly. But here is where this story stops being about
+[...middle cut...]
+d, turns out to be a window into one of the most serious challenges facing global information and political stability today. Deep fake technology is no longer a future threat. It is a present one. And as we have heard from Michael, the danger is not just one manipulated video. It is the slow erosion of our ability to trust what we see at all. Keep watching, keep questioning, and always verify before you share. The world needs more careful viewers, not just more clicks. If you found this episode valuable, please subscribe to the Currency Shift YouTube channel, turn on your notifications, and stay with us because the stories that matter most are the ones still unfolding. We will be right here.
+
+=== ID: Wrald_EZgDQ ===
+TITLE: DeepFake and AI will together fool EVERYONE
+DESC: Recently Deepfake AI has seen exponential growth due to development in the field of Artificial Intelligence and deep learning. Here I discussed how deep fake is revolutionary tech and also a digital curse to the world of media.  Deepfake, CGI #deepfake Deepmind metaphysic
+KEYWORD: AI deepfake
+VIEWS: 2916984
+TRANSCRIPT: this is Young Simon cole performing in America's Got Talent in front of Simon cole because this is deep fake and this is a deep fake of Ukraine's president falada mazelinski asking his soldiers to surrender one is entertaining while the other is alarming about the dangers of deep fake these are the two faces of deep fake due to the term fake the phrase deep fake evokes a negative feeling companies like metaphysic are doing everything they can to dispel the misconceptions about deep fakes in the public eye this is what they did on America's Got turns there are many practical applications for deep fakes across a wide range of sectors for instance news outlets May publish news 24 hours a day seven days a week without the actual reporter present by using a deep fake of their own reporter they may reduce studio and labor costs saving the business a great deal of time and money the news anchor Kim Juha from the Korean television network mbn was deep faked for viewers the news reader would be a fake as the channel had previously informed viewers and Kim Joo has still employed however mbn stated that it intended to keep using the deet fake for some breaking news reports and deep frame a the South Korean company that created the Deep fake has stated that it is looking for media buyers in China and the US which has some people worried that news readers may become obsolete a tick tock account solely dedicated to Tom Cruise deep fakes has been created as a result of how far deep fakes ha
+[...middle cut...]
+eation of a website called messy messages where fans could input their names to receive personalized messages from the legendary footballer deep fake is being used by Brands to reduce the cost of their video advertisements deep fake campaigns make it easier for companies to enter foreign markets stretch their marketing budgets and provide audiences with Hyper personalized content at the touch of a button and in five to seven years any individual such as a YouTuber or tick tocker will be able to produce the same quality of visual effects that are currently only available to the most well-resourced Hollywood Studios if you watch this far then a like And subscribe will be heartwarming thank you
+
+=== ID: 7tCOrvgBrAU ===
+TITLE: Alberta government pushing AI deepfake regulations on politicians
+DESC: It’s the first among many proposed Alberta government regulations on AI and deepfakes. As James Dunn reports, it’s part of a large bill with recall and citizen initiative petition changes.
+KEYWORD: AI deepfake
+VIEWS: 4128
+TRANSCRIPT: The next provincial election is more than a year and a half away, but already the government is looking to get ahead of artificial intelligence and the visual deep fake pictures and videos it can make look real. Take a look at this fake video. This platform is reliable and has indeed brought substantial profits. It's former Prime Minister Justin Trudeau being used to scam people thinking they're endorsing investment schemes. The justice minister tableabling a bill that would ban these deep fakes of politicians and election officials and workers. Ignore it and you could be fined up to $10,000 for individuals and 100 grand for entities. We know that deep fakes are getting better and better. We know that the technology is improving with each and every day. We want to keep our elections fair and honest and a lot of this is driven by uh the desire to proactively meet the threats as they come. This is one of many steps the province is expected to take regulating the AI industry. The technology minister Nate Glubish is expected to push for allowing people to sue if a fake intimate image is shared without their consent. Also a target of bill 23 recall and citizen initiative petitions. If passed, scrutiners can be appointed by both sides during the signature collection process, as well removing any deadline to have a referendum vote, so they can be scheduled at any time between elections. Amory says these changes would not apply to any current petition getting signatures. There isn't a whole lot of sense in applying this retroactively. We know that referendums, if they meet the eligibility requirements and if they're verified by Elections Alberta, will uh will be likely presented to Albertans this fall. No MLA who faced a recall petition has gotten enough signatures to force a vote, including 24 UCP MLAs. James Dunn, City News, Edmonton.
+
+=== ID: 0tNymaqcIbc ===
+TITLE: Exposing a DEEPFAKE AI Job Candidate - TRUE STORY
+DESC: This week I had a first new experience in all my 16+ years in the Python and Django recruitment world.   I scheduled a call with an experience Python/Django engineer to discuss their application for a job with my client in the United States!  Firstly the answers to my questions were obviously being generated by an ai script and far more detailed than the question required.   Secondly the person on the call was using a new filter…  Not for the background but some sort of facial AI generated DEEPF
+KEYWORD: AI deepfake
+VIEWS: 1338
+TRANSCRIPT: hey so I want to tell a story how I got deep fake aied this week um don't worry I've spotted it and I've reported it but as a recruiter just sharing this I hopefully will um enable other people to to watch out and spot signs so this is the story this is how it happened first of all some background the um I'm working a job at the moment for a client in the US uh it's a fully remote position looking for an experienced senior Python and Jango engineered the application this guy has applied for the job on the face of it looks good fit senior full stack engineer two years experience in the current role three years of in the company before that and then 3 years and another company prior to that as well ticking all the boxes that we require um as well as confirming that they don't need any sort of sponsorship or or visa for employment in the US um skills match and as you see it's uh the the picture of the person um is actually very different to the Deep fake that we'll show you in a second but keep an eye on that detail here's a here's a zoomed in version of that picture as well when you click through um on LinkedIn and you go to the actual full profile it often shows you the number of connections that somebody has this guy's got 353 which isn't a lot considering you know the size of the companies that he worked at um the the popular university has studied at but also like if you are a real person you you're going to connect and and link to people that you've known your whole life y
+[...middle cut...]
+nts like we are or whether you're interviewing for your own company just be safe um my Golden Rule if it smells like it's probably  so I know I'm going to be extra vigilant moving forward keeping an eye out for this I wasn't fooled by this one but I have been caught out um with fake CVS and fake resumes and fake LinkedIn profiles that will always happen but the reason for doing screening calls is to just be that extra filter that extra layer of protection between my business and my clients and the people that we put forward we've got a feel a genuine so to sign off quoting the great Michael Scott Scranton Pennsylvania for me once strike one for me twice strike three right good luck out there
+
+=== ID: GFnS7n2hsew ===
+TITLE: Rise in Medical Ads Powered by AI Deepfakes Prompt Warnings
+DESC: There are new warnings about online ads for new medical products that seem to tout easy-to-use treatments for a number of ailments. Reporting for TODAY, NBC’s Vicky Nguyen shares an inside look at the scams that have become so convincing with their use of AI deepfakes that often include videos of celebrities and doctors endorsing products.  » Subscribe to TODAY: https://www.youtube.com/@TODAY  TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every 
+KEYWORD: AI deepfake
+VIEWS: 2033
+TRANSCRIPT: ♪Музика♪
+
+=== ID: aAjpHcPhYD0 ===
+TITLE: New Rules For AI Deepfake: 3 घंटें में एक्शन, AI की लेबलिंग, AI फेक वीडियो पर सरकार की सख्ती!
+DESC: New Rules For AI Deepfake: 3 घंटें में एक्शन, AI की लेबलिंग, AI फेक वीडियो पर सरकार की सख्ती!  #breakingnews #topnews #pmmodi   New Rules For AI Deepfake: The central government has issued new guidelines regarding AI-generated and deepfake content, which social media platforms will have to follow. The government released the new rules on February 10, which will come into effect from February 20.  For all the latest news from Madhya Pradesh and Chattisgarh, keep watching News18 Madhya Pradesh Cha
+KEYWORD: AI deepfake
+VIEWS: 1036
+TRANSCRIPT: नमस्ते बहुत स्वागत आप सभी का न्यूज़ 18 का डिजिटल प्लेटफार्म देख रहे हैं आप। आपके साथ मैं हूं पूजा सच देवा। आज बात करेंगे डिजिटल टेक्नोलॉजी की। जिसके आज के समय में बहुत फायदे हैं लेकिन नुकसान भी बहुत है। आपने देखा होगा सोशल मीडिया पर तो एआई जनरेटेड वीडियोस की बाढ़ सी आ गई है। असली क्या है? नकली क्या है? यह समझ पाना बहुत मुश्किल है। अब ऐसे में सरकार की तरफ से इस पर शिकंजा कसने के लिए नया नियम आ गया है। केंद्र सरकार ने एआई कंटेंट और उसके दुरुपयोग को लेकर नई गाइडलाइंस बनाई हैं। इसको लेकर सरकार ने सूचना प्रौद्योगिकी मध्यस्थ दिशा निर्देश और डिजिटल मीडिया आचार संहिता नियम 2021 में संशोधन किया है। नए संशोधनों के तहत डीप फेक और एआई से तैयार सामग्री को लेकर स्पष्ट दिशा निर्देश जारी किए। जिनका पालन सोशल मीडिया प्लेटफॉर्म्स को करना होगा। यह संशोधन 20 फरवरी से लागू होंगे। इन नियमों का सीधा असर सोशल मीडिया प्लेटफॉर्म्स और डिजिटल कंपनीज पर पड़ेगा। अब इंटरनेट पर जो भी कंटेंट एआई टूल से बनेगा उसे साफ तौर पर लेबल करना जरूरी होगा। यह बदलाव 20 फरवरी 2026 से लागू होंगे। पिछले कुछ समय में डीप फेक वीडियो, फर्जी तस्वीरें और नकली ऑडियो तेजी से फैलते दिखे हैं। एक आम यूजर के लिए असली और नकली में फर्क कर पाना बहुत मुश्किल हो गया है। सरकार का मानना है कि इसी वजह से गलत जानकारी, बदनामी और धोखाधड़ी के मामले बढ़े हैं। नए नियम इसी खतरे को कंट्रोल करने की कोशिश है। सरकार ने अब सिंथेटिक कंटेंट की साफ परिभाषा दी है। इसका मतलब ऐसे ऑडियो, ऐसे वीडियो, फोटो या विजुअल से है जो कंप्यूटर या एल्गोरिदम से बनाए गए हों और देखने में बिल्कुल असली लगे। यानी ऐसा कंटेंट जो किसी भी इंसान या घटना को इस तरह से दिखाए कि लोग उसे सच
+[...middle cut...]
+जैसे लेबल लगाना इंडस्ट्री के लिए चैलेंज यह होगा कि उन्हें मेटा डेटा और वेरिफिकेशन के लिए टेक इन्वेस्टमेंट करना होगा। जो ऑपरेशंस को थोड़ा सा महंगा कर सकता है। लेकिन ओवरऑल यह एआई मिसयूज़ को रोकने में मददगार साबित होगा। Facebook, Instagram एक्स जैसे सोशल मीडिया प्लेटफार्म पर यह नियम लागू होंगे। फिर WhatsApp और Telegram जैसे जो मैसेजिंग एप्स हैं उन पर यह लागू होंगे। YouTube और शेयर चैट जैसे वीडियो प्लेटफॉर्म्स और एआई आधारित कंटेंट वेबसाइट और एप्स पर यह नियम लागू होंगे। कुल मिलाकर सोशल मीडिया पर जो दिख रहा है उसकी जिम्मेदारी अब सिर्फ और सिर्फ यूजर की नहीं होगी बल्कि प्लेटफार्म की भी होगी। अब इन नए नियमों को लेकर आपकी क्या है राय? कमेंट बॉक्स में जरूर बताएं। देखते रहिए न्यूज़ 18। नमस्कार। नमस्कार।
+
+=== ID: Z5OPdNh9sZA ===
+TITLE: AI Deepfake Scam: CEO Video Tricked Staff Into Sending $3M
+DESC: A Hong Kong employee was tricked into wiring over $3 million after receiving a video call from what looked like their CEO. But it was a deepfake—generated using advanced AI to mimic the face and voice.  This is part of a growing cybercrime trend called Deepfake BEC scams (Business Email Compromise).  Don’t trust your eyes and ears anymore—verify everything.  🔔 Follow for more true scam stories in under 30 seconds.  #AIscam #Deepfake #Cybercrime #ScamAlert #Shorts #TrueCrime #AIfraud
+KEYWORD: AI deepfake
+VIEWS: 148
+TRANSCRIPT: Would you wire $3 million just because your boss told you on a video call? In 2024, a Hong Kong employee got a video call from their UK based CEO demanding an urgent transfer of over $2 million. The face looked real. The voice sounded real, but it was all fake. Generated by AI, this is called a deep fake back scam. Even your CEO could be fake. Can you tell the difference? Comment below.
+
+=== ID: -kDtt0QBNRU ===
+TITLE: That Isn't Me - How to Recognize Deepfakes and AI Generated Videos
+DESC: Thanks to Bitdefender for sponsoring this video! Get 90 Days of Bitdefender Premium Security - Absolutely Free: https://bitdefend.me/90Linus  It's been five years since our last deepfake attempt, and things have only gotten easier. You probably spotted fake Linus pretty quick, but would your older relatives? AI video generation is getting so good so fast that by the time this video is out, it will already have gotten better.  Check out How to Spot Fake AI Photos by Hany Farid: https://youtu.be/q
+KEYWORD: AI deepfake
+VIEWS: 1022497
+TRANSCRIPT: Bit Defender sponsored this video so I can show you that I can juggle computers and tell you about our new amazing product, Linus Strength Pills. Watch as I make David watch all of 2019's [music] cats. Wait, not like this. [screaming] [laughter] Thanks to Linus Pills, I'm unstoppable. Start your subscription today by emailing me at linus.linus linus.com. I don't remember recording any of this. Bit Defender [music] did sponsor a video about protecting yourself from deepface, though, because now these have gotten so good that you didn't even realize that I'm not the real Lionist either. What are you guys doing? Fully AI generated videos, at least for now, still have some easy to spot tells, especially if they're long or if they involve a lot of movement. But a simple head replacement deep fake or a stationary figure at a desk telling you all about their latest get-rich quick scheme. Those have gotten shockingly convincing over the last 5 years. Let's talk about both how we deep faked and how we fully generated me for this video using just commodity hardware. But before we do that, an important message. If you've got a loved one who's going to need some help recognizing what's AI and what's not, send them to this timestamp. [music] We've got you. Starting with our deep fake. The process is still pretty similar to how we did it last time, just 5 years refined. First, find an actor with a similar body shape to your target. You can see why this matters in this test that we did with
+[...middle cut...]
+They've got over 17 years of AI innovation under their belts starting in 2008 when they introduced AI and machine learning based threat detection. While AI's ability to reproduce and scale tactics is a threat, its replication patterns can also present opportunities for detection. We're going to have a link for their services in the video description. And I sincerely hope this video helps you and your loved ones avoid getting fooled by [music] AI. Thanks for watching, guys. If you like this video, maybe check out the last time we tried to deep fake [music] me over 5 years ago. It really has come a long way. Not even necessarily in terms of the convincingness, but in terms [music] of the ease.
+
+=== ID: eK3LT6Hou2I ===
+TITLE: AI Deepfakes Stole $25M From Companies in 2024 (How It Happened) #Shorts
+DESC: AI deepfakes have evolved from entertainment novelty to serious business threat, with companies losing $25 million in 2024 alone. This 59-second breakdown reveals the shocking methods cybercriminals are using and what your organization needs to know.  🎯 TIMESTAMPS: 0:00 - The $25M deepfake crisis 0:15 - How attackers target companies 0:30 - Real case studies from 2024 0:45 - Protection strategies  💡 KEY TAKEAWAYS: • Voice cloning attacks on executives • Video deepfakes in business communications
+KEYWORD: AI deepfake
+VIEWS: 3
+TRANSCRIPT: A Hong Kong finance worker reportedly received a video call from someone impersonating his CFO, requesting an urgent $25 million transfer. The voice and mannerisms seemed convincing. He processed the payment immediately. Twenty-four hours later, the real CFO walked into his office asking about rumors of a massive unauthorized transaction. Every face on that video call was allegedly deepfaked. Every voice was AI-generated. While there are reports of similar incidents, there is no public record of the FBI documenting this specific case in February 2024. Here's what makes these attacks concerning: criminals can use short audio clips from public sources to clone voices with high accuracy, though not perfectly. Some AI tools claim high accuracy with minimal samples, but specific claims like 95% accuracy from Stanford's AI lab are not verified. The Hong Kong worker reportedly followed his company's security protocols. Voice recognition? The AI seemed to pass. Video verification? Deepfake technology appeared to fool
+
+=== ID: s8vC-Uz9eDk ===
+TITLE: Elon Musk's X under investigation for Grok AI deepfakes
+DESC: Elon Musk's X and xAI companies are being formally investigated by the United Kingdom's privacy watchdog after AI chatbot Grok produced millions of sexualized deepfakes without users's consent. Back in December and January, the Grok AI tool produced about 3 million sexualized images in less than two weeks, 23,000 of which appeared to portray children, according to researchers.  Be sure to tune into KTAL News Now weekdays at 1 p.m. on ktalnews.com/ktal-news-now.  #KTALNewsNow #X #Grok #AI #ElonMu
+KEYWORD: AI deepfake
+VIEWS: 170
+TRANSCRIPT: Twitter has been or X now has been a staple of the social media community is where a lot of people get their news and and it's always super super upto-date. You can instantly if you're a reporter you can instantly put out something on the platform to inform your followers and users of the platform. But they have come under a lot of fire recently, specifically with their Gro AI model and that is under the XAI banner when it comes to the platform and they are currently under investigation by the United Kingdom's data protection watchdog and they are being accused the Grock AI model is has faced a lot of backlash in the last few months because they are producing very indecent deep fakes without the user's consent. ent where they're generating very sexually explicit photos without anyone's knowledge or consent. People are just underneath in their replies of the pictures asking them to put them in a bikini and undress them and it's just very very gross behavior. So as a result of that, French prosecutors actually raided the Paris headquarters for X as part of the investigation and they are trying to limit the spread of child abuse images as well as spec sexually explicit deep fakes. And this primarily occurred in December and January before Grock and X tried to take matters in their own hands and up the guidelines when it comes to or guard rails I should say when it comes to generating contest content like this because at that point in December, January, they were mass producing t
+[...middle cut...]
+evably disgusting in my opinion. And according to X, you know, they claim to have fixed this and put up the necessary guard rails for this. But again, they can just go to another AI chatbot to do the same exact thing. It's just a a disease that is widespread right now. And it's just I I fear for the safety of young women and girls in the world. And when it comes to the internet because again if if it were me and it was my situation I would be completely devastated to have something like that of you know something that is personal to me and have that circulating around the internet for people to share and send to their friends and stuff. It's just it's just a horrible situation in my opinion.
+
+=== ID: Ht7n1CfFP-g ===
+TITLE: AI-generated deepfakes flood social media amid Iran war disinformation surge
+DESC: A torrent of disinformation about the war in Iran is spreading across social media, fuelled by AI-generated deepfakes depicting fabricated missile strikes on Tel Aviv, US bases in Riyadh, and buildings in Bahrain.  Manipulated satellite imagery, including false claims of damage to a US radar base in Qatar, is being mistaken for authentic content by Google's AI tools, whilst Meta's deepfake detection systems face criticism as inadequate.  The US War Department has also drawn scrutiny for blending
+KEYWORD: AI deepfake
+VIEWS: 67204
+TRANSCRIPT: No, no, no, no. A massive Iranian missile attack in Tel Aviv. Inside. Keep moving. Another one appears to wipe out a US military base in Riad, while yet another causes massive damage to this building in Bahrain. All dramatic images that went viral on social media, all of them fake. A cascade of disinformation about the war in Iran is spreading like wildfire contaminating social media with deep fake. I'm in the middle of the Iran war with missiles and other deadly weapons whizzing past me. You probably don't believe me, nor should you, but today's generated AI has dramatically expanded the ability of propagandists and state actors to very easily fabricate satellite imagery that is incredibly believable. A new kind of information warfare. Another example, AI edited satellite imagery used by the Tran Times falsely depicting the destruction of a US radar base in Qatar. Although on close examination, it's not the real building. But most consumers don't know the difference. Researchers have found that Google's AI overviews and Google Lens sometimes produced inaccurate summaries by treating AI generated images as real. While Meta's oversight board has criticized its deep fake detection mechanisms as inadequate. Wake up, daddy. At the same time, the US War Department is under fire for using official government media outlets to combine entertainment with real life violence. Popular video games like these promote war missions in Iran, adding authentic military operations. The aim is to project power. In other cases, it's to confuse the adversary or the general public by exaggerating enemy damage or on the contrary, portraying the enemy as suffering greater losses. All of this creating a cascade of disinformation about what is already turning into a global security crisis. Lucia Newman, Alazer, Washington.
+
+=== ID: _PZLvb9w-ZE ===
+TITLE: WILL AI  REPLACE OUR JOBS ? | DEEPFAKE | 2D ANIMATION [SILENT EXPLAINER ]
+DESC: Is Artificial Intelligence (AI) really going to change our world? Will machines one day replace humans? 🤖                                                                                                                       In this video, we uncover the real truth about AI — how this technology is making our lives easier while also creating serious risks.  In this documentary, you will learn: How does AI work? What is Deepfake and how dangerous is it? Will AI take away jobs? Can AI go beyond hum
+KEYWORD: AI deepfake
+VIEWS: 161
+TRANSCRIPT: सोचिए एक ऐसी दुनिया जहां मशीनें सिर्फ आपकी मदद नहीं करती बल्कि आपको समझने लगती हैं। आपके फैसले लेने लगती हैं और धीरे-धीरे आपकी जगह लेने लगती हैं। यह कोई साइंस फिक्शन नहीं बल्कि आज की तेजी से बदलती हकीकत है। आर्टिफिशियल इंटेलिजेंस अब दुनिया की सबसे ताकतवर टेक्नोलॉजी में से एक बन चुकी है और यही वजह है कि लोग इसे लेकर उत्साहित भी हैं और चिंतित भी। शुरुआत में एi सिर्फ एक टूल था। Google के सर्च रिजल्ट बेहतर करने के लिए या Netflix पर आपकी पसंद की फिल्म सुझाने के लिए। लेकिन आज एi सिर्फ सुझाव नहीं देता। यह सीखता है, समझता है और कई मामलों में फैसले भी लेने लगा है। आपने खुद महसूस किया होगा कि आप जो भी सर्च करते हैं, वही चीजें बार-बार आपके सामने आने लगती हैं। यह सब एआई की ताकत है जो आपकी आदतों और सोच को पढ़ रहा है। 2020 के बाद एआई ने एक बड़ा मोड़ लिया। अब यह इंसानों की तरह बात कर सकता है, कहानी लिख सकता है, कोड बना सकता है और यहां तक कि आपकी आवाज और चेहरा भी कॉपी कर सकता है। इसी से जुड़ी है डीप फेक टेक्निक जहां एक वीडियो पूरी तरह असली लगता है लेकिन होता नकली है। अगर इसका गलत इस्तेमाल हो तो सच और झूठ के बीच फर्क करना लगभग नामुमकिन हो सकता है। एआई का दूसरा बड़ा असर जॉब्स पर दिख रहा है। कॉल सेंटर से लेकर कोडिंग, डिजाइनिंग से लेकर राइटिंग तक एआई हर जगह अपनी जगह बना रहा है। कई रिपोर्ट्स के अनुसार आने वाले वर्षों में करोड़ों नौकरियां बदल सकती हैं या खत्म हो सकती हैं। लेकिन इतिहास बताता है कि हर नई टेक्नोलॉजी कुछ जॉब्स खत्म करती है और नई ओपोरर्चुनिटीज भी पैदा करती है। एआई भी शायद वही करेगा। लेकिन सबसे बड़ा सवाल अभी भी है। क्या एआई को पूरी तरह कंट्रोल किया जा सकता है? अगर एक ऐसा एआई बन जाए जो ख
+[...middle cut...]
+रोल करेगा वही भविष्य को प्रभावित करेगा। दुनिया के देश एआई की रेस में हैं। लेकिन इस दौड़ में एथिक्स अक्सर पीछे छूट जाते हैं। सवाल यही है क्या हम जीतने के लिए कुछ भी करने को तैयार हैं? एआई दुश्मन नहीं है। लेकिन यह दोस्त भी तभी है जब हम इसे समझदारी से इस्तेमाल करें। हर टेक्नोलॉजी अपने आप में ना अच्छी होती है ना बुरी। वो वैसी बनती है जैसा इंसान उसे बनाता है। आज हमारे पास मौका है। हम एआई को इंसानियत के लिए एक वरदान बना सकते हैं या एक ऐसा खतरा जो हम पर हावी हो जाए। फैसला हमारे हाथ में है। क्योंकि आने वाला समय मशीनों का नहीं बल्कि उन इंसानों का होगा जो मशीनों को सही दिशा देंगे। और अगर हमने यह मौका खो दिया तो शायद एक दिन हम खुद से पूछेंगे। क्या हमने अपनी सबसे बड़ी ताकत को अपने सबसे बड़े खतरे में बदल
+
+=== ID: RSQ1JJ6LAL0 ===
+TITLE: This AI Deepfake is TOO REAL – Houston, We Have a Problem!
+DESC: 💡 This changes EVERYTHING. AI deepfakes just leveled up, and the results are both exciting and terrifying. OmniHuman AI, developed by ByteDance, is now capable of generating full-body, ultra-realistic digital humans from just a single image and an audio track. 🤯  But here’s the real question… is this an incredible breakthrough that will revolutionize industries, or are we witnessing the rise of a dangerous, unregulated tool that could change the fabric of reality forever?  In this video, we brea
+KEYWORD: AI deepfake
+VIEWS: 27
+TRANSCRIPT: give people Something to Believe In and they will move from you and me to us what if I told you that what you're watching right now isn't real the hands you just saw generated by AI the movements the details it was never filmed it was created entirely from an image and an audio track this was how I was making an impact in the lives of my 7 60 students so we're officially in an era where no longer means believing bite Dan's omnium AI is pushing deep fake technology beyond anything we've seen before it's not just swapping faces anymore it's building entire digital humans from scratch for years AI deep fakes were good but flawed weird hands awkward Expressions robotic movements but omnium changes the game it replicates lifelike body language hand gestures and emotional depth ladies and gentlemen as a new client of Home Instead and friend and former neighbor of Lori and Paul Hogan I am so honored to be chosen to offer the invocation this evening the big question is is this an incredible Leap Forward or a disaster waiting to happen before we break down the mind-blowing capabilities and hidden dangers of this AI let me introduce myself welcome to Smart money vids where we explore the habits mindsets and strategies that set the wealthy apart from from the rest if you want to stay ahead in the rapidly changing Aid driven World be sure to subscribe and turn on notifications now let's dive in so what exactly is omnium AI and why is it such a big deal omnium developed by bite dance is a
+[...middle cut...]
+hink it's more of a threat let's talk about it in the comments at smart money vids we believe that understanding technology is the key to staying ahead whether AI excites or terrifies you one thing is clear it's not going away the real question is how will you adapt are you going to use AI to your advantage or will you wait until it disrupts your world the choice is yours we'd love to hear your thoughts what do you think about AI generated humans is this the future or is it a step too far drop a comment below and let's discuss and if you want to stay ahead of the latest AI Trends don't forget to like this video subscribe and hit the Bell icon because trust trust me this is only the beginning
+
+=== ID: 1Kv5njt9X5c ===
+TITLE: 77-Year-Old Scammed Out of £17,000 by Deepfake Scammer Using AI-Generated Videos
+DESC: 77-year-old Nikki MacLeod was scammed out of  £17,000 by someone pretending to be a woman named "Alla Morgan," who claimed to be working on an oil rig in the North Sea. She met the scammer in an online chat group. "Alla Morgan" sent Nikki personal messages using convincing AI-generated videos.  Broadcast on 14/01/24  Stream Good Morning Britain live, every weekday from 6am on the ITVX 📲 http://daytimelink.itv.com/WatchGMBYT Subscribe now for more! http://bit.ly/1NbomQa Like, follow and subscribe
+KEYWORD: AI deepfake
+VIEWS: 115672
+TRANSCRIPT: after losing both her parents during the pandemic and going through the end of a long-term relationship Nikki McLoud turned to an online chat room in search of company to ease her loneliness and that was where Nikki met oil rig worker Alan Morgan the pair spoke for months and formed a relationship but when Nikki became suspicious of all's true identity all put her mind at ease let's have a look good morning nikki. hope you had a wonderful night you know the reason of sending you this video to you because I want to prove myself to you and hope this video proves you wrong with all the negative thoughts it's ala Morgan I wanted to reach out to reassure you that I am sincere and have no connection to any scams your trust means a lot to me unfortunately for Nikki everything was not as it seemed Alam Morgan was a deep fake AI scam conning her out of £17,000 Nikki joins us now now and uh in the studio with us is cyber security expert Jake Moore Nikki good morning to you this is a huge amount of money to lose um do you know who Alan Morgan even is do you know if that is a real person abely not no I'm sure I'm I'm sure the P the person behind it is is is is almost certainly not a woman and is probably a man somewhere in the world who knows where they are toward to us about how you you're a smart woman you're a retired lecturer I think you're an expert in Neuroscience how someone like you Falls prey to a romance scam like this I guess I was getting pretty lonely um i' had a a whole ser
+[...middle cut...]
+f you receive unusual payment requests that Target your emotions with a sense of urgency and the um request is to move large amounts of money Jake just it's not just about the video she was sucked into this what advice have you got yeah so if you notice any of those things we've just mentioned that should raise a red flag maybe show someone who's not so emotionally or financially invested into it they are us if the video is convincing Jake you still should not pay any money absolutely but you can use detection tools they are out there and coming more into play and if you ever feel like it might be strange run it through that as well okay uh thank you very much indeed to both you and to Nikki
+
+=== ID: u9EVq57htPY ===
+TITLE: Australians struggle to spot AI deepfake scams | 7NEWS
+DESC: New research from the Commonwealth Bank reveals that only four in ten Australians can accurately distinguish between real and AI-generated deepfake videos. One in four Australians has encountered an AI-generated video scam in the past year, with scammers using artificial intelligence to clone voices, impersonate celebrities, and create realistic video calls for fraudulent purposes. The research found that age is not a significant factor in detecting deepfakes, with people over 65 performing only
+KEYWORD: AI deepfake
+VIEWS: 4064
+TRANSCRIPT: 
+
+=== ID: SU9K1LsgX7c ===
+TITLE: Identity Verification Spoofing With Deepfakes
+DESC: During the past year, we have worked on new research. We wondered how strong commercial biometrics KYC (Know Your Customer) solutions are to detect presentation and replay attacks with deepfakes like face morphing, face swap, and face reenactment. Today, this technology allows us to replicate anyone's face without a training dataset; one picture, such as the picture on the ID card, passport, or driver's license, is sufficient to create a real-time deepfake video.  In the wrong hands, it can be a
+KEYWORD: AI deepfake
+VIEWS: 220826
+TRANSCRIPT: 
+
+=== ID: COaOOGVkge4 ===
+TITLE: Scammers Used Elon Musk Deepfake AI Video to Steal $177k Savings From Canadian Couple
+DESC: An Ottawa area couple lost $177k after falling for a deepfake investment scam that used an AI generated video of Elon Musk to promote a fake cryptocurrency platform. Over several months, a fraudulent financial adviser convinced them to draw from their home line of credit as fake profits appeared on a professional looking dashboard.
+KEYWORD: AI deepfake
+VIEWS: 1039
+TRANSCRIPT: believed uh everything's over. There's no more to do. So easy to trick people now with this AI and and cryptocurrency and you can't trace that. You can't get it back. Patricia, this all started with an AI generated video created by scammers and it ended with victims losing tens of thousands of dollars. In early 2024, Doug and Victoria Lloyd were living in Eastern Ontario, recently retired and planning the next phase of their lives. They had spent decades working and saving. Doug had managed equipment for a regional supplier. Victoria worked in health services. They carried a modest mortgage and a line of credit tied to their home. The plan was to build a new house on their property and settle into it for the years ahead. They [snorts] followed financial news in a casual way. Doug read headlines on his tablet each morning. He checked caller ID before answering. He wrote important numbers in a small notebook he kept near the kitchen phone. Their savings were not speculative. They relied on bank products they had used for years. The first contact did not arrive as a phone call. It appeared as a video online. Uh the clip showed what looked like Elon Musk speaking about a new investment platform. The voice matched. The face moved naturally. The message described an opportunity connected to artificial intelligence and cryptocurrency. It promised steady returns and emphasized limited availability. Doug clicked. The website that followed looked finished and current. Charts updated in
+[...middle cut...]
+ins is adjustment. They continue building a house on their property. Smaller than planned, paid for carefully. The foundation has been poured. Lumber is stacked along the driveway. Progress moves in measured stages. Trust not once extended easily to a familiar voice and a convincing image is now rationed. This account reflects interviews with the Lloyds, statements from Ontario Provincial Police, and banking responses limited by privacy rules. Records available to the public do not capture every conversation or internal review. Outcomes in similar cases vary across institutions and branches. Readers with differing experiences or additional information may shape how this record is understood.
+
+=== ID: QZQGEiFG1ts ===
+TITLE: Elon's "anti-woke" Grok AI has opened the floodgates of sexual deepfake images
+DESC: In today's episode of "The Ben Mulroney Show," tech expert Carmi Levy joins the conversation to discuss the implications of the newly proposed Defiance Act, which aims to address the growing issue of deep fakes and non-consensual edits of images.    Levy explains how this legislation could empower victims to sue both the perpetrators and the platforms that host such content, particularly focusing on the controversial chatbot Grok, owned by billionaire Elon Musk. The discussion highlights the lac
+KEYWORD: AI deepfake
+VIEWS: 2586
+TRANSCRIPT: Welcome back to the Ben Mal Rooney Show. Thank you uh for spending a little bit of your day with us. Hey, just as a reminder, we have done our best and I hope we continue to improve. We've done our best to find you wherever you are. We know that you're busy. We know that you got many different screens and many different ways uh to enjoy the content that you enjoy. And if you are somebody who avails yourself of the Ben Maloney Show on a regular, semi-regular, or just a a one-off sort of situation, we want to find you. And so, we are on all the podcast platforms. We are on the traditional radio machine. We're on the iHeart Radio streaming app. We're also on Instagram where uh people enjoy sharing our little bite-sized pieces of content. Like and subscribe and follow us there. And of course, we're on YouTube if you want to see the face that makes this voice. So, we said thank you very much. normally uh when we talk to our next guest and not only are is he not in studio, but oftent times uh we're not even doing it live because he is far too busy to be constrained by the linear schedule that is the Ben Molo Show. And so we find a moment to record something beforehand because we like having him on so much we'll take him anyway we can get him. Well, it turns out not only is he live, but he's in studio. Please welcome to the show tech expert and general Bon Vivon Carmy Levy. Carmen, welcome. Oh, so good to be with you. Thanks for allowing me into the building, not kicking me out when
+[...middle cut...]
+atellites up there. Yeah, Telesat Light Speed, they've launched the first uh uh wave of them, and I think there'll be a few hundred by the time all is said and done. This is certainly not on the same scale as Starlink. Certainly not the same level of technology, but uh again, if you have concerns about handing over some of your most sensitive satellite communications to a guy that we don't necessarily trust, maybe you might want to look for really quick. De-orbited is that fancy term for it crashed. There's your Earth. Yeah, there you go. Thanks so much for watching the show. Now, if you enjoyed what you saw, hit that subscribe button so you never miss another episode of the Ben Rooney Show.
+
+=== ID: jb8Fz2YUKF0 ===
+TITLE: THEY STOLE $25,600,000 With an AI FAKE (8 Min Deepfake Survival Guide)
+DESC: STOP SCROLLING. Your Digital Life is at Risk. Deepfakes are here, and they're costing people millions. Watch this 8-minute summary to learn how to protect yourself in the Age of AI.  In 2026, the deepfake crisis is no longer theoretical—it's a global threat to your money, your security, and your trust. This 8-minute video breaks down the core findings of our comprehensive guide, Seeing is No Longer Believing: Navigating Deepfakes in the Age of AI.  What you will learn in this video: The Shocking
+KEYWORD: AI deepfake
+VIEWS: 21
+TRANSCRIPT: You know what? If I told you that video call you had with your boss this morning wasn't actually your boss or that frantic voicemail from a family member was just a perfect digital copy. This isn't science fiction anymore. Not even close. We've officially entered an age where seeing and hearing is no longer believing. So, okay, let's dive into this wild new reality and figure out how we're supposed to navigate it. Just to give you a sense of the sheer scale of what we're up against, look at this number. 8 million. That is the projected number of AI generated media files, deep fakes that are going to be shared this year alone. This isn't some niche problem hiding in the dark corners of the web. It's a title wave and it's crashing into our everyday lives. And here's where it gets really tricky. The danger isn't just about the fake stuff. It's about this idea called the liars dividend. Basically, when everyone knows that anything can be faked, it gives bad actors the perfect cover to claim that real things are fake. It just poisons the well. It creates this this fog of uncertainty where the very idea of truth starts to fall apart. So yeah, welcome to the synthetic reality. And look, understanding this stuff isn't just for tech gurus anymore. This is now a fundamental digital survival skill for every single one of us. All right, so how on earth is any of this even possible? Let's pop the hood for a second and look at the engines driving all this. And don't worry, you don't need a
+[...middle cut...]
+eans hang up and call the person back on a number you already have saved for them. Third, remember the tells. Look for those little glitches in lighting, blinking, and symmetry. And finally, the biggest takeaway of all. We have to make a fundamental shift in our thinking. We have to move away from seeing as believing. Our new mantra has to be verify then trust. And all of this leaves us with a massive profound question for our future. I mean, when anyone with a smartphone can perfectly fake anything, what does the word proof even mean anymore? What happens to a society when a photograph or a video clip is no longer solid evidence? That's a question we're all going to have to answer together.
+
+=== ID: A3DzCc0oAPU ===
+TITLE: Trump’s AI Deepfake: The Arrest That Never Happened | Secret Russia-Iran Nuclear Talks | World Today
+DESC: Explore the week’s most explosive headlines with Pranay Upadhyaya on World Today. From Donald Trump’s AI-generated “Obama arrest” video shaking US politics, to Gaza’s deepening famine and mounting humanitarian crisis, our coverage dives deep into the world’s hottest zones. We examine Israel’s ongoing offensive and the fierce controversy over aid restrictions, uncover the secret Kremlin talks between Putin and Iran, and bring you shocking footage from a tragic fighter jet crash in Bangladesh. Plu
+KEYWORD: AI deepfake
+VIEWS: 87
+TRANSCRIPT: Hello 
+ you're 
+ shock 
+ president 
+ video 
+ Obama 
+ with 
+ at 
+ outrage, 
+ warning 
+ could 
+ [Music] 
+ [Music] 
+ In 
+ Donald 
+ sharing 
+ Barack 
+ inside 
+ [Music] 
+ The 
+ deep 
+ handcuffed 
+ agents. 
+ While 
+ Trump 
+ disclaimer, 
+ matter 
+ [Music] 
+ gas 
+ >> The 
+ recent 
+ may 
+ intelligence 
+ 2016 
+ A 
+ long 
+ verified 
+ Civil 
+ watchdogs 
+ precedent. 
+ where 
+ between 
+ voters. 
+ So 
+ team, 
+ but 
+ platform 
+ Bureau 
+ >> President 
+ shown 
+ asking 
+ connection 
+ Trump 
+ be 
+ radical 
+ always 
+ administration 
+ over 
+ president 
+ over 
+ to 
+ birthday 
+ wonderful 
+ woman. 
+ birthday 
+ Madok 
+ to 
+ Epstein 
+ digital 
+ Trump. 
+ Trump's 
+ since 
+ motivated 
+ his 
+ Israeli 
+ slowing 
+ deepening 
+ advances 
+ haunting 
+ fouryear-old 
+ mother's 
+ Gazans 
+ longer 
+ survival. 
+ A 
+ 4-year-old 
+ northern 
+ survive 
+ medicine. 
+ in 
+ isn't 
+ The 
+ 500,000 
+ of 
+ This 
+ intensifies. 
+ In 
+ pound 
+ Gaza, 
+ refugee 
+ triggering 
+ once 
+ Meanwhile, 
+ border 
+ food, 
+ And 
+ delay 
+ in 
+ report 
+ >> And 
+ from 
+ from 
+ Professor 
+ researcher 
+ Strategy 
+ Israeli 
+ Albala 
+ totally 
+ Minister 
+ about 
+ Gaza 
+ also 
+ of 
+ assault 
+ out 
+ >> We 
+ Hamas 
+ stealing 
+ transfer 
+ it 
+ capabilities. 
+ >> Mhm. 
+ >> Because 
+ aid 
+ population 
+ this 
+ stop 
+ of 
+ So 
+ into 
+ before 
+ own 
+ and 
+ population 
+ have 
+ months. 
+ >> We 
+ me. 
+ if 
+ >> Anyway, 
+ while 
+ have 
+ letting 
+ heartbreaking. 
+ are 
+ food 
+ spoken 
+ that 
+ population 
+ people 
+ >> We 
+ provide 
+ Hamas 
+ is 
+ you 
+ abusing 
+ what 
+ 
+[...middle cut...]
+investigation 
+ are 
+ Not 
+ about 
+ Was 
+ unfit 
+ will 
+ Beijing? 
+ Euro 
+ Now 
+ happy 
+ For 
+ million 
+ Kerala, 
+ even 
+ the 
+ long 
+ returned 
+ fighter 
+ For 
+ A 
+ jet 
+ monsoon 
+ fueling 
+ Now 
+ the 
+ is 
+ Thiruanandaburam 
+ morning. 
+ The 
+ June 
+ the 
+ failure 
+ from 
+ Wales 
+ As 
+ images 
+ internet, 
+ with 
+ [Music] 
+ In 
+ reached 
+ lawmakers 
+ generation 
+ so 
+ flown 
+ in 
+ Exact 
+ classified. 
+ end, 
+ Now 
+ waiting, 
+ finally 
+ India 
+ Korea's 
+ has 
+ The 
+ about 
+ all 
+ domestic 
+ sluggish 
+ nationals 
+ exceptions 
+ residents. 
+ recognized 
+ registered 
+ registration 
+ the 
+ poverty 
+ families 
+ and 
+ will 
+ However, 
+ coupon 
+ government's 
+ already 
+ [Music] 
+ [Applause] 
+ [Music]
+
+=== ID: exozSVqNq54 ===
+TITLE: AI Deepfake & The Law: What You Need to Know Before Making AI Videos
+DESC: I made an AI video of a celebrity, then looked into the law behind deepfakes, AI-generated content, personality rights, and copyright.  This video covers: • Why using someone’s face & voice without permission violates personality rights • How China’s Civil Code regulates deepfakes (Articles 1019 & 1023) • The $1.5B copyright lawsuit over AI training data in the US • New state laws in New York for AI synthetic media • The NO FAKES Act & CLEAR Act – upcoming US federal AI laws • Platform liability
+KEYWORD: AI deepfake
+VIEWS: 11
+TRANSCRIPT: Hey guys, welcome to my channel. And last week, I saw something crazy online, like AI generated videos of Steven Cho, the iconic Hong Kong actor and director, doing things you never really actually did in real life. His team officially spoke out and asked, "Is this copyright infringement? And why a platform lighting this?" As an AP law student, I divide straight into this legal ashes behind AI videos. And what I found is super complicated, but also super important. And let me break it down for you. First, I think it is the right of publicity crisis. The first direct problem is using someone's face and voice without permission. So in Stephven Cho's cases, AI choose uses likeness from the classic movies like Flittering Scholar and King of Comedy. But under China's civil code, a person's face and voice are protected at sensitive person information, legal experts clearly state that an authoritative fake cynicis personality rights. And here is the key point. You don't even have to make money to be held responsible. Non-commercial use can also still get you into the legal trouble. But in the US, the rules are completely different. Speak up slightly. lets me show the case titles on the screen. And before an AI can make a video, I think it must be trained on a massive amount of data like most of which is copyrighted. This has led to huge lawsuits in the US. But here's the chaos. Two US corns have gained the opposite rulings on whether AI training corns as a fire use. One judge called it highly transformative, but another rejected and the idea completely. The big question remains, is AI creating something new or just copying existing works? We still don't have a final answer.
+
+=== ID: kNEPV_qYZ1U ===
+TITLE: Deepfake Challenge 2025 🔥 AI Videos That Fool Everyone (Veo 3.1)
+DESC: Check out our video on AI deepfakes: https://www.youtube.com/watch?v=okVVm5jdMsk Think you can still spot the fake? This updated edition pushes realism even further — now powered by Veo 3.1 and featuring an AI Trump so accurate it’s unsettling. 👀  Why it’s blowing up now: • AI voices are now almost indistinguishable from the real thing — just wait till you hear this one. • Veo 3.1’s upgraded realism makes deepfake detection tougher than ever. • Governments and creators worldwide are scrambling t
+KEYWORD: AI deepfake
+VIEWS: 8113
+TRANSCRIPT: Hello, 
+ the 
+ revisiting 
+ ago. 
+ >> artificial 
+ fake 
+ everything 
+ >> Evening. 
+ deep 
+ and 
+ word 
+ phone, 
+ >> someone 
+ Thanks 
+ come 
+ here 
+ how 
+ to 
+ super 
+ easy. 
+ In 
+ are 
+ it's 
+ faster 
+ ago, 
+ I'm 
+ but 
+ you 
+ Trump 
+ I'm 
+ generated 
+ imagine 
+ here. 
+ bad. 
+ we 
+ said 
+ You 
+ speaking 
+ computer, 
+ and 
+ before 
+ are 
+ People 
+ get 
+ there'd 
+ simple, 
+ make 
+ Alexandria 
+ and 
+ of 
+ a 
+ Don't 
+ best. 
+ See 
+ Now 
+ the 
+ never 
+ That's 
+ AI 
+ See 
+ not 
+ information. 
+ saying 
+ it 
+ Think 
+ studio. 
+ in 
+ real. 
+ Pathetic. 
+ >> Well, 
+ has 
+ are 
+ things 
+ place. 
+ >> As 
+ scammers 
+ Here 
+ >> Ma'am, 
+ computer. 
+ secure 
+ >> We've 
+ your 
+ information? 
+ >> These 
+ $14.99 
+ order 
+ these 
+ confirm 
+ your 
+ >> No, 
+ >> Congratulations. 
+ million 
+ the 
+ fake. 
+ parishioner. 
+ cards? 
+ >> Can 
+ cheap? 
+ >> No. 
+ >> No. 
+ Just 
+ up. 
+ >> Most 
+ respond 
+ Don't 
+ assess 
+ >> Videos 
+ hopes 
+ feel 
+ collecting 
+ victims. 
+ fake. 
+ >> It 
+ something. 
+ Nope. 
+ >> They 
+ example, 
+ hole 
+ >> See 
+ >> Did 
+ puppies? 
+ >> Nope. 
+ and 
+ >> If 
+ doubtful 
+ quick 
+ pickles, 
+ Be 
+ This 
+ even 
+ Be 
+ >> Grandma, 
+ I 
+ cash 
+ >> Nope, 
+ >> I 
+ that 
+ together. 
+ >> Hello, 
+ for 
+ Nope. 
+ >> What 
+ >> If 
+ >> ask 
+ everything 
+ voices, 
+ are, 
+ >> If 
+ scam 
+ embarrassed. 
+ enforcement 
+ >> Share 
+ who 
+ not 
+ too 
+ >> Well, 
+ watching
+
+=== ID: tI0Kf0QZ4TM ===
+TITLE: AI DEEPFAKE BAN: What Brits Think 🇬🇧
+DESC: Sammy Steele is back on the streets as the UK pulls the plug on "Nudify" apps! From "Spicy Potato" panic to the end of AI Slop, we’re finding out if the 2026 Deepfake Ban is a victory for decency or just a total disaster. Everyone’s disgusting, and we’ve got the receipts.  Is Your Hard Drive Illegal? Sammy Steele’s Deepfake Disaster
+KEYWORD: AI deepfake
+VIEWS: 2105
+TRANSCRIPT: Hi, my darlings. I'm out here on the front lines and today we're talking about a right old digital pickle. The government's finally pulled the plug on those creepy Nutify apps. It's now a proper crime to even ask a robot to undress someone. Elon's Grock is under fire and the big bosses are facing massive fines. Are you lot ready to behave or are we heading for the digital naughty step? Let's find out. Heard about the deep fake jail time? I'm deleting my history, Sammy. I thought it was just tech fun, but now I'm looking at two years. I just wanted fake tits. So, feeling safer online? Safer? They've already met my retinas at the selfch checkout. I move into the woods before they fake me a second brain and charge me double council tax. Is your app finished then? It was anatomical research. Now the police think my scientific bikinis are a crime. Innovation is dead in this country. You happy with the ban? Finally, now I can get back to posting pics without worrying people can see them for free. Plus, they kept getting my nips wrong. Is a request really a crime? One spicy prompt and you're processed faster than a microwave dinner. It's black, white, and stripes now. Simple as that. It's still using grock. It's total censorship. I can't even nudify my mother-in-law for a laugh anymore. The internet's gone boring, hasn't it? Your thoughts on the ban? I can get around anything through my five VPNs and spoofing techniques. I can pin my activities on any clown. Huh. Okay, then. Deleting the apps. I thought it was just a face filter. Now I'm a digital felon. I'm going back to drawing on paper like a baby. It's safer. Does this law do enough? No. All AI slop should be banned. It's disgusting. Sammy, you're disgusting. I'm disgusting. And as for you, the viewer. Oh my thought on the Nudify law. So someone presses a button and you're naked. Where this button? Let me add it. Tada. What the? AI can be a wonderfully creative tool to use, but abused it can cause pain. So let's be creative, just not at anyone else's expense. Let's spread joy, not hate. Live, laugh, love, my darlings. I will see you soon.
+
+=== ID: gUq1B0lbnx8 ===
+TITLE: Fake AI News Reports Are Getting Out of Control! (2025 Deepfake Reality)
+DESC: YouTube SEO Optimized Description: Deepfakes and AI-generated news clips are spiraling out of control—and this video proves it. In today’s breakdown, we dive into the wild world of fake news created with next-gen AI tools like Veo, Sora, and Runway Gen-3. From street interviews that never happened to viral hoaxes that fooled millions, this is the future of content—and it's getting weird.  ✅ What you’ll see: Viral fake news clips made with AI How AI-generated reporters and anchors work Deepfake d
+KEYWORD: AI deepfake
+VIEWS: 639
+TRANSCRIPT: The rise of AI is raising serious questions about its role in our lives. We'll have more on that story coming up next.
+
+=== ID: yYVoLgw14z4 ===
+TITLE: How to Actually Protect K-pop Idols from AI Deepfakes
+DESC: This video is made to educate and guide fans on protecting K-pop idols like BTS, BLACKPINK, and others from the misuse of AI deepfakes. It focuses on responsible reporting, digital safety, and how fans can help reduce the spread of harmful AI-generated content without amplifying it. No explicit or harmful material is shown or promoted. This content is purely for awareness, prevention, and online safety education.  Note 📝 All visuals and references are used for educational commentary under fair u
+KEYWORD: AI deepfake
+VIEWS: 182
+TRANSCRIPT: Let's be clear. If changing your profile picture would stop this abuse, this problem would never exist. But sadly, it does not take down any content or punish anyone defake the spread because people try to report them by sharing YouTube community post, Instagram DMs or in group chats. Now listen carefully. I'm going to tell you the right way to report and get many people report without boosting the post. Because every time you tap that share button, even for awareness, the algorithm reads it as a positive signal. And once the algorithm pushes it, the damage multiplies. It's not only on YouTube, it's more on Pinterest and Instagram and everywhere. So instead of public sharing, do this. Step one, copy, don't share. Copy the link of that real post, YouTube community post or any platform. Paste that link in your notepad or notes app. From this point on, you will never press that share button of that abusive post. Okay? The only thing you should be sharing is this video. So people learn how to stop the abuse correctly. And now don't leave this video at this point. Okay? I will tell you some more points. You have to do it privately not on YouTube community post. I don't recommend this. If you are using your YouTube community post, you may share the link once but be very clear strictly mention wrong category slows down everything. Do not comment engage only report and report it under. You have to do it on Instagram group chats, not in DMs or in discord servers. DM the moderators dir
+[...middle cut...]
+ think these people want good comments? No. They want attention, outrage, and spread. So do not engage at all. And one last thing, stop forcing people to turn their profile pictures blue. Stop spamming comments. Stop kill tripping fans. I see it everywhere under every post. Pressure is not protection. If you truly love your idols, you will not force anyone to do anything. Just share this video, teach the method and stop confusing visibility with action. It will just give a kind of emotional support, not the real action. It will show unity but not stop this upload. So, better teach people how to actually protect idols from aid fix. And that's all. Signing off. Hope we will meet in next video.
+
+=== ID: z4KyncX__Io ===
+TITLE: FT1303 Video Presentation on Documentary Video AI: Deepfake Technology
+DESC: 
+KEYWORD: AI deepfake
+VIEWS: 21
+TRANSCRIPT: [Music] my name is mam in this video me and my partner fdos will be presenting uh on the process of making the uh video documentary on AI deep fake technology so um without further Ado I welcome fos to present the introduction my name is Muhammad and I would like to thank you say thank you for uh for the brief introduction for our presentation so without uh further Ado I would like to introd introduce our topic on our mini documentary project which is which our topic is uh artificial intelligence AI the Deep fake technology so as an introduction as a brief introduction in this digital day and age technology is progressing and improving rapidly Almost 100% of this world is assisted by technology in every aspect ECT of life every aspect of our life so we can see everywhere there's AI for example in our daily scrolling social media apps and our smart cars so we know smart cars like Tesla or any smart cars that uh uh uh that are now developed uh they will usually have an AI assistance and also video games yeah video games with the advanced VR video games and all that stuff and one of the AI technology that we want to emphasize is deep fake technology so why we choose this topic on deep fake technology uh we decided to choose this deep fake technology as our topic under the big topic which is artificial intelligence and uh uh which is under the AI realm uh we want to discuss it's our main objective is we want to discuss its dangers its dangers of using it how it's being used in th
+[...middle cut...]
+ we would like to talk a lot more about artificial intelligence in the video and the second one is um we will also uh we were planning on uh adding more shots and adding more actions maybe like adding more um acting scenes adding more uh discussion scenes in the documentary to um like uh as a way of uh attracting more audience and making the video more intering so that's it for our presentation on the uh documentary video on AI deep fake technology we hope that uh this documentary video can uh in any way benefit uh the viewers and uh benefit us by uh giving us like uh valuable knowledge in like uh editing and shooting the scenes and also um increasing our knowledge on artificial intelligence
+
+=== ID: tALkBN2Va7Q ===
+TITLE: Kerala News | AI Deepfake Used For A Fraud Of Rs. 40000 In Kozhikode | AI Scam | AI Threat | News18
+DESC: It was on Saturday that Kozhikode man Radhakrishnan approached police with the complaint that he lost Rs 40,000 in online fraud. According to police, the perpetrator used AI-powered face-swapping technology (deepfake) to impersonate a former colleague of Radhakrishnan. During a video call, Radhakrishnan was requested by the ‘former colleague’ (deepfake) to send money for the medical treatment of the latter’s sister.  #kerala #kozhikode #scam #ai #aiscam #englishnews #keralanews #news18   n18oc_i
+KEYWORD: AI deepfake
+VIEWS: 2561
+TRANSCRIPT: we're learning that an individual a man from Korea had lost about 40 000 rupees in a fraud scam using artificial intelligence now the parallel police has found the account to which the cash has been transferred and it has also been frozen Radha Krishnan had received that's the individual in question who's been affected by the scam and received a WhatsApp message from one of his former colleagues allegedly stating that there is an emergency related to his sister's hospitalization and he is in Dubai and having trouble transferring cash we're crossing over to CNN news 18's neither to get us more details on this Nita will tell us more about this scam that seems to be operating via AI so ever since artificial intelligence and its uses have been spoken about widely this is also a factor which uh many were worried about and we are seeing the first of its kind scam here in Kerala one person Radha Christian has lost 40 000 rupees so now what happened was that he received WhatsApp messages from AF allegedly from a former colleague so after asking for money he had some doubts where he went on and asked see there are so many scams that happened like this are you really this person so the person on the other hand said I will call you in WhatsApp right now and they did a video call where where the phone was kept very close to the face and according to the police artificial intelligence was used to to show that to create a deep kind of a thing to show that it was indeed this person and afte
+[...middle cut...]
+e social media to create this now the police in their Swift action has identified this account to which the amount was transferred after uh Radha Krishna transferred it to the said account and they have identified this account and has frozen this account they have got the details of the person's uh who has started this account but they have to check verify that whether that is also indeed correct because many times that also turns out to be fake so the investigation is on the only good thing is that the account has been identified and the amount has been frozen so the victim has some hope of getting back this money all right nitu thank you so much for joining us and bringing us those details
+
+=== ID: vTM4bOZtGt0 ===
+TITLE: Musk's Grok AI faces more scrutiny after generating sexual deepfake images
+DESC: Elon Musk was forced to put restrictions on X and its AI chatbot, Grok, after its image generator sparked outrage around the world. Grok created non-consensual sexualized images, prompting some countries to ban the bot. Liz Landers discussed Grok's troubles with Riana Pfefferkorn of the Stanford Institute for Human-Centered Artificial Intelligence.  Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most credible and objective TV new
+KEYWORD: AI deepfake
+VIEWS: 75767
+TRANSCRIPT: AMNA NAWAZ: Elon Musk was forced to put more  restrictions on his social media platform X   and its A.I. chatbot, Grok, this week after its  image generator sparked outrage around the world. As Liz Landers explains, Grok was and still  is creating nonconsensual sexualized images,   prompting some countries to ban the bot. LIZ LANDERS: Amna, Musk finally began bowing   to pressure this week and announced that  X will use geo-blocking to prevent Grok   from creating deepfake images of  people in revealing swimsuits,   underwear, and other clothing in  places where the law prohibits it. But the move has not stopped the stand-alone app  known as Grok Imagine from generating explicit   images. The late changes have not appeased  regulators, and now the governments of Malaysia,   Indonesia, and the Philippines have banned the  chatbot altogether. Britain and Canada have   launched probes into Grok and the possibility  of tougher penalties for Musk are on the table. To help us understand more about  Grok's troubles and why they persist,   I'm joined by Riana Pfefferkorn,   a policy fellow at the Stanford Institute  for Human-Centered Artificial Intelligence: Riana, thank you for joining us this Friday. RIANA PFEFFERKORN, Stanford Institute for  Human-Centered Artificial Intelligence: Thank   you for having me. LIZ LANDERS: I want to start, with what does  this latest series of problems with Grok,   these sexually explicit nonconsensual images,   what does this tell us of the safety 
+[...middle cut...]
+nnel perspective? RIANA PFEFFERKORN: I think from both. For one thing, I do think that the  Department of Defense should answer   for why taxpayer dollars are  going towards what has become a   notorious nonconsensual deepfake  pornography generation machine. In addition, it seems like there  might be ways that either these   sorts of misbehaviors that are showing  up within Grok or other potential unknown   exploitable problems with Grok might be  leveraged against American national security   once this product is fully integrated  into even classified Pentagon servers. LIZ LANDERS: Riana Pfefferkorn, thank you so  much for joining the "News Hour" this evening. RIANA PFEFFERKORN: Thank you.
+
+=== ID: y6qXlVMPbKc ===
+TITLE: AI Deepfakes & Defending SMEs ft. CyberCop CEO
+DESC: In this episode of the Cyber Unbound Podcast, we sit down with Tarun Malhotra, Founder & CEO of CyberCop, to discuss how AI is being weaponized through deepfakes and GPT-driven attacks — including real-world cases where companies lost crores. We explore the evolving threat landscape for small businesses, skill gaps in cybersecurity, and why platforms like Cyber Unbound are essential for vetting top talent in today’s high-stakes environment.  Timestamps: 0:00 - Start 0:44 – What led Tarun to a ca
+KEYWORD: AI deepfake
+VIEWS: 66
+TRANSCRIPT: [Music] Hello everyone, welcome back to Cyber Unbounds podcast. Today we have a very special guest with us. We have Mr. Tarun Malotra, the founder of Cyber Cops. Mr. Tarun has been in the industry of cyber security for over 18 years and today we're looking forward to having some of the candid conversation with him to learn some of the secrets of cyber security industry. Welcome Mr. Tarun to the show. It's a pleasure to have you here. Thank you Shik Shikar and it's the same here to be uh great to be on your channel today on the part for this podcast. Thank you. So uh Mr. Tarun let's start from the beginning. What drew you to start your career in cyber security? What was that defining moment where you thought that I should start my career in cyber security? Could you please give us a brief about that? Yeah, basically I started my career uh because I was very much keen to learn about the technologies. So I started learning with like MCSC uh you know and I started with MCSC and uh you know if you see see the the oldest version is NT 4.0 0 which is initially starting of this windows servers and then I have used you know all all kind of uh windows like NT4.0 zero window like 2000 then 20 like you know 23 and then so on till now you know we are using active directory now and I also worked on novel network where he has found off to be you know work on the technical aspects of how you know network works so I try to understand OSI model then I learned CCNA CCNP from there I started my 
+[...middle cut...]
+or weekly. Thank you. Uh thank you so much Mr. Tarun for sharing so many different advices and so many different insights within the world of cyber security compliance risk management. Uh it was a pleasure to have you today and I'm sure a lot of your followers will learn a lot about you and cyber cops. So thank you so much for taking out time today. Thank you Shikar and it's a pleasure to be uh on your channel today for this podcast on cyber unbound and as we have met earlier and very good conversation about cyber security and I hope we will keep awarening people about these kind of small small things and make the world a cyber safe and make some secure society. Thank you. Thank you, Shikar.
+
+=== ID: 0vLbm9uv8FA ===
+TITLE: Deepfake Warning: Govt Tightens Rules On AI Content, Orders Faster Takedowns
+DESC: In a major policy shift, the government has tightened regulations on AI-generated and synthetic content by bringing it firmly under the IT Rules. The new amendments, notified this week and effective from February 20, mandate clear labels and permanent metadata on AI-created images, videos and audio. Social media platforms and online intermediaries will now be required to act much faster on flagged unlawful content, with takedown timelines reduced to as little as three hours. Platforms must also 
+KEYWORD: AI deepfake
+VIEWS: 480
+TRANSCRIPT: In a major tech policy shift, the government has tightened regulations for AI generated and synthetic content, bringing it explicitly under the information technology rules. The new amendments notified yesterday and effective from the 20th of February mandate clear labels and permanent metadata on AI created material to ensure transparency and accountability. Online platforms must now act faster on flagged unlawful content with takedown timelines cut to as short as 3 hours and deploy tools to verify user declarations of AI use. The move aims to curb deep fakes, misinformation and harmful synthetic media while holding social media intermediaries [music] to stricter compliance standards. Uh let's go across to Awaria Patel on this Awaria. What brought about this move by the government? um you know where are they looking to really uh maximize the kind of governance that they've talked about here? Well, some of it you have already mentioned but the ministry of uh IT mighty has said that there is a good a new AI governance framework that has been put in place. Uh now of course AI using AI does pose a lot of risk and hence uh you know to counter and mitigate deep fakes and some of these impersonations or you know sexually explicit content that has been created by AI in the past like Grock for example you would have seen uh to counter all of these platforms have been [clears throat] mandated to have a quick fix or a report button going forward so that these can be reported immediatel
+[...middle cut...]
+rs even for social media platforms like WhatsApp etc. uh this must be fixed uh within 6 hours is uh uh what this particular mandate says. There should also be clear labels on any AI generated content, any images or videos as well so that you can identify them. Uh because this of of course can pose some sort of risk. Uh deep fakes in the past as we've seen during uh very crisis kind of move kind of events or um you know uh that could pose a risk as far as this public dissemination is concerned. Uh so these are some of the uh changes that have been made by uh this particular uh act that might has set up as far as AI governance guide. If you like the video do like, comment, share and subscribe.
+
+=== ID: gwPorzGzjWs ===
+TITLE: AI deepfake prank leads to arrest in Seminole County
+DESC: AI deepfake prank leads to arrest in Seminole County  WESH 2 News is your home for Florida breaking news and weather. For your latest Florida news and weather visit: https://www.wesh.com/  For licensing inquiries: https://www.wesh.com/licensing
+KEYWORD: AI deepfake
+VIEWS: 782
+TRANSCRIPT: MAN IS IN JAIL ACCUSED OF USING ARTIFICIAL INTELLIGENCE TO TRICK         A SEMINOLE COUNTY DEPUTY. U.S. MARSHALS ARRESTED ALEXIS MARTINEZ-ARIZALA IN PUERTO RICO. WESH CHRISTINA WATKINS IS LIVE OUTSIDE THE SEMINOLE COUNTY JAIL RIGHT NOW ON CHRISTINA. THIS FAKE VIDEO LED TO A VERY REAL RESPONSE. IT DID. AND THAT MAN BEHIND SOME OF THAT CHAOS IS EXPECTED TO GET EXTRADITED BACK HERE TO SEMINOLE COUNTY EVENTUALLY. IN THE MEANTIME, I GOT THE CHANCE TO TALK TO AN EXPERT TODAY WHO EXPLAINED SOME OF THE CHALLENGES LAW ENFORCEMENT OFFICERS FACE WHEN DEALING WITH DEEPFAKES. THIS REALLY IS A WARNING SIGN, DOCTOR KRISTEN REALLY SAYS THE WAY SOME PEOPLE USE ARTIFICIAL INTELLIGENCE IS DOWNRIGHT CONCERNING. AI CAN NOW CREATE CONTENT THAT LOOKS REAL ENOUGH THAT A POLICE OFFICER THAT IS FACING AN EMERGENCY SITUATION HAS TO MAKE A SPLIT SECOND DECISION. AGO, ON MARCH 24TH, THE SEMINOLE COUNTY SHERIFF’S OFFICE SAYS A DEPUTY WAS INSIDE OF A STORE IN LAKE MARY WHEN 22 YEAR OLD ALEXIS MARTINEZ SAID HE SAW MULTIPLE PEOPLE BREAKING INTO THAT DEPUTY’S CAR. HE THEN SHOWED A THREE SECOND VIDEO ON HIS CELL PHONE AS PROOF, BUT DEPUTIES INVESTIGATION REVEALED THE SUPPOSED BREAK INS NEVER HAPPENED AND THE VIDEO WASN’T REAL. IT WAS AN AI DEEPFAKE. WHEN IT COMES TO IDENTIFYING, IT’S VERY DIFFICULT BECAUSE THE TECHNOLOGY HAS GOTTEN MORE SOPHISTICATED. THE SHERIFF’S OFFICE ISN’T PUBLICLY SHARING THE VIDEO YET BECAUSE OF SAFETY CONCERNS. BUT IN A STATEMENT FROM SHERIFF DENNIS LEMMA, HE SAID IN PART, QUOTE, THESE FABRICATED VIDEOS CAN DAMAGE REPUTATIONS, CREATE UNNECESSARY TENSIONS, AND RAISE REAL SAFETY CONCERNS. THE ORANGE COUNTY SHERIFF’S OFFICE SHARED A SIMILAR MESSAGE ON SOCIAL MEDIA, SAYING, THESE VIDEOS ARE NOT A HARMLESS PRANK. DOCTOR REALLY SAYS EDUCATION FOR ALL OF US IS KEY. WE NEED TO TAKE A STEP BACK AND WE NEED TO LOOK AND SEE. IS THAT AUTHENTIC? I THINK THAT’S A QUESTION WE ALL ASK WHEN WE SEE SOME VIDEOS ONLINE. NOW THAT 22 YEAR OLD ACCUSED OF THIS CRIME ALSO POSTED IT ON SOCIAL MEDIA, ACCORDING TO INVESTIGATORS TRYING TO GO VIRAL AND GET SOME ATTENTION ONCE HE’S EXTRADITED BACK TO SEMINOLE COUNTY. SHERIFF’S OFFICE SAYS HIS BOND WILL BE S
+
+=== ID: xXu0lKxL3u8 ===
+TITLE: Scammers create AI 'deepfake' of Channel 11 Consumer Advisor Clark Howard
+DESC: Channel 11 Consumer Advisor Clark Howard has found himself at the center of a consumer scam, after identity thieves stole his likeness to create a “deepfake” advertisement. The AI-generated video appears to show Clark peddling a website for insurance, and was shared on social media sites.  More local news here: https://www.wpxi.com/  SUBSCRIBE: https://www.youtube.com/subscription_center?add_user=WPXI11News  ABOUT WPXI PITTSBURGH: WPXI Channel 11 is your home for breaking news, live video, traff
+KEYWORD: AI deepfake
+VIEWS: 206
+TRANSCRIPT: 
+
+=== ID: L8zzCwKIKS0 ===
+TITLE: SCARY AI
+DESC: What are deepfakes? This video explains how deepfake technology works and why it’s dangerous.  #deepfakes #aiface #aitools #Deepfaketutorial
+KEYWORD: AI deepfake
+VIEWS: 27
+TRANSCRIPT: Hi and welcome to the channel. In a hyperdigital world, technology can create images, voices, and videos that look almost identical to reality. One of the most powerful and controversial examples of this technology is deep fakes. And that is exactly what this video is all about. Deep fakes are a form of synthetic media created using artificial intelligence where a person's face, voice, or actions are digitally manipulated to appear real. Deep fakes can be quite convincing, making it look like someone said or did something they never actually did. While the technology can be used for creative purposes in film making, entertainment and education, it also raises concerns because of how easily it can be misused. One of the biggest risks of deep fakes is misinformation. Fake videos can spread quickly on social media platforms and influence public opinion before people realize the content is false. Deep fakes could be used to manipulate, create confusion, or damage reputation. Another growing concern is fraud. Criminals can clone a person's voice or appearance to trick someone into transferring money or revealing sensitive information. There have already been quite a few cases where scammers used AI generated voice deep fakes to impersonate company executives and authorize fraudulent payments. Deep fakes also raise privacy and security concerns. Individuals may find their likeness used in videos without consent which can harm personal reputation or lead to harassment. However, ther
+[...middle cut...]
+as the technology becomes more accessible, society must balance innovation with safeguards, awareness, and ethical guidelines. Deep fakes are likely to become even more realistic and widespread. That makes it essential for viewers, creators, technology companies, and policy makers to work together. By combining technological detection, stronger policies, and informed audiences, we can reduce the risks while still benefiting from the positive potential of artificial intelligence. The takeaway message is simple. In an AI powered world, verification should always come before trust. I hope you've enjoyed this video. Thank you for watching, liking, and subscribing to the channel. Have a good one.
+
+=== ID: 2oWV3CzLRp0 ===
+TITLE: How AI deepfakes are distorting truth, including coverage of news
+DESC: As major news breaks in Venezuela, social media is being flooded with viral videos that are often fake.  Rapid advances in artificial intelligence are making it easy to create videos that look real, making it harder for the public to tell the difference.  Jeff Semple explores the scale of this problem and the difficulty of verifying information in the digital age.  For more info, please go to https://globalnews.ca Subscribe to Global News Channel HERE: http://bit.ly/20fcXDc Like Global News on F
+KEYWORD: AI deepfake
+VIEWS: 10413
+TRANSCRIPT: I'm NYPD. You hear me? Badge right here. What you doing is illegal. At first glance, this video is pretty shocking. You can't snatch people off the street without a warrant. New York City police officers not only confronting but arresting ICE agents during one of their immigration raids. But this online video viewed hundreds of thousands of times is a fake. You have no right. Just like this one featuring a priest. You don't belong here. And this one with a teacher. All of them deep fakes. apparently created using artificial intelligence. We cannot trust our eyes and ears anymore. Experts say using free software, almost anyone can now produce fake video and audio that appear genuine. The threat is not hypothetical anymore. It is there. Si Leu runs the media forensics lab at the University of Buffalo with funding from the Canadian government. He's been studying deep fake tech for a decade. But this year, his own mother was targeted. She received a phone call from someone who sounded just like him, saying that I was kidnapped by someone and um I need that they need a ransom. Fortunately, his mother hung up, then called Leu to confirm, but many others weren't so lucky. One survey found 27% of Canadians were deceived by deep fake fraud in 2024, losing an average of nearly $1,500. We are experiencing an exponential increase. um of deep fakes. Good evening and thank you for joining us here outside the Rogers Center. To show how easy it is, one of Leu's students needed less than five
+[...middle cut...]
+ part. This cyber security expert says there are ways to tell if an image has been faked. He points to this deep fake of his own headshot. This is the original one, but you can say this is fake because there are like two pocket squares here. He says to look for oddities or watermarks on the image, but cautions that those are also easy for fraudsters to correct. Social media companies and governments are now playing catch-up. In the meantime, he says, don't believe your eyes. Eyes and ears are not enough anymore. You need to validate. You need to verify, right? And that's the new reality of the deep fake era. This is a private studio and you are not welcome. Jeff Sample, Global News, Toronto.
+
+=== ID: ENdRAI-JrDc ===
+TITLE: What is Deepfake AI? Deepfake Content and Elections
+DESC: IT and deepfake security concerns: https://searchcio.techtarget.com/tip/Why-IT-leaders-need-to-be-aware-of-deepfake-security-risks?utm_source=youtube&utm_medium=description&utm_campaign=092020deepfake&utm_content=deepfake&Offer=OTHR-youtube_OTHR-video_OTHR-deepfake_2020September29_deepfake What is deepfake: https://whatis.techtarget.com/definition/deepfake How to plan for deepfake technology: https://searchcio.techtarget.com/feature/Enterprises-need-to-plan-for-deepfake-technology?utm_source=you
+KEYWORD: AI deepfake
+VIEWS: 21023
+TRANSCRIPT: Sabrina Polin: Don't believe everything you see on the internet, not in the age of AI anyway. Deepfake is a type of artificial intelligence that creates convincing image, audio, and video hoaxes. A combination of deep learning and fake, the term refers to both the technology and the doctored content. Deepfake has a presence in all industries, from politics to even IT security, as you'll see later in the video, so stick around. Deepfake technology has gained popularity and notoriety in recent years. Notably, during election cycles regarding fake video content. Video is traditionally more difficult to alter then still photos or audio clips. Deepfake however, puts this ability into almost anyone's hands. Malicious actors can easily falsify videos to create the impression of people doing and saying untrue things, usually to tarnish reputations or spread false information. So how does it work? And why does it matter? Deep fake content is created with two AI algorithms, the generator and the discriminator, which essentially work against each other to form a general adversarial network. The generator creates phony content, like putting a politician's face on someone else's body, for example, while the discriminator determines if the content is real or not. As the generator gets better at creating fake video clips, the discriminator gets better at spotting them and vice versa, making for a believable end result. Deepfakes can be sophisticated and convincing, and have the potential to distort reality to see viewers. It could even influence voters when used to damage a political candidate. And while experts say it's highly unlikely that deepfakes of public figures go unrecognized for long, they can still do damage if not caught in time. Voters, political establishments, and law enforcement should be concerned with deepfake threats. But so should IT pros. Learn why IT leaders should be aware of deep fake security risks by visiting the link above or in the description below. Have you ever spotted deep fake content? What gave it away or made it hard to tell? Share your thoughts in the comments and be sure to hit that like button.
+
+=== ID: nGs95zJgwSM ===
+TITLE: Ohio investigation leads to first U.S. conviction under AI deepfake law
+DESC: https://abc6onyourside.com/news/local/hilliard-police-investigation-leads-to-first-us-conviction-under-ai-deepfake-law  Earlier this month, ABC 6 reported a Columbus man has become the first person in the United States convicted under a new federal law targeting AI-generated sexual content and online abuse.  According to federal prosecutors, James Strahler II pleaded guilty in U.S. District Court to multiple cybercrimes involving both real and AI-generated explicit material. His case marks the f
+KEYWORD: AI deepfake
+VIEWS: 5650
+TRANSCRIPT: like what you are doing is a crime. So you need to think before you do that. It's just it's like another way to bully people. A bullying method turned federal crime. The Take It Down Act criminalizes non-consensual sharing of intimate images and AI generated deep fakes. Columbus's James Strawler pleading guilty in US District Court to cyber crimes that included real and AI sexual content. His victims were all adults and children that he knew. Detective Kristen Winter, the driving force of this investigation after a victim turned to the department for help. This is above the scope that we have for the laws that we have in place. So, at that time, we didn't have a sextorion law. The case originally starting with a menacing by stalking charge before she contacted federal agents. The US Attorney's Office says Strawler used AI to sabotage and harass his victims. The images are scary and I think they were very realistic and it does have the ability to ruin people's lives. Just one example, making fake videos of a woman engaging in incest, then sending them on to her co-workers. And then now we have AI at the center of our world. And we're seeing firsthand at how this could have a negative impact. people that are going to do things with it that have bad intentions are going to find it. And I think a lot of normal people need to realize like you should be checking your kids' phones. You should be looking in there to see what they're doing and what they're looking at. Reports show some of his victims neighborhood children posting content on a website dedicated to child sexual abuse. The court systems are catching up. Laws take forever to change. It's very slow, but we are starting to catch up and I think that this is a really big win for that. Strawler is being held in the Franklin County Jail awaiting his next court appearance. On your side in Hilliard, Aaron Simon, ABC 6 News. Thanks for watching the ABC 6 News YouTube channel, bringing you breaking news, [music] stories, sports, and original content throughout central Ohio. Make sure to like and subscribe so you don't miss out. ABC 6 News is on your side. [music]
+
+=== ID: 6p2TXB2GzgM ===
+TITLE: Law banning sexual deepfake images to come into force as Elon Musk AI row continues
+DESC: Creating non-consensual intimate images with artificial intelligence (AI) will become a criminal offence this week, the technology secretary has announced.  Liz Kendall said this will include requesting the creation of the images.  Read more: https://news.sky.com/story/ofcom-investigating-x-after-reports-ai-chatbot-grok-used-to-create-sexualised-images-of-children-13493370  #ai #x #grok #tech    SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews  Follow us on Twitte
+KEYWORD: AI deepfake
+VIEWS: 51437
+TRANSCRIPT: Sexualized images of young girls, women in bikinis bloodied and gagged. These kinds of deep fake images made by ex's AI chatbot rock can't be shown on TV. Today, the government stepped up its fight against them. Lives can and have been devastated by this content which is designed to harass, torment, and violate people's dignity. They are not harmless images. They're weapons of abuse disproportionately aimed at women and girls and they are illegal. Lisk Kendall told MPs creating non-consensual intimate images will become a criminal offense from this week under legislation passed last year and confirmed plans announced in December to ban nudification apps. But some senior Labour MPs want even tougher action. It really shows you that the online safety act, which is, you know, what my committee has been saying for some time now, you know, it's not it's not fit for purpose when it comes to generative AI and when it comes to protecting us online uh from from the harms um that um that are evolving and developing. We need we need principlebased um regulation. Today, Ofcom launched an investigation into whether X has broken the law over Grock's deep fake images. The government's message to Elon Musk was make it safe or we'll back the regulator to shut you down. The Tories want to see under 16s blocked from all social media, but like reform believe a total ban on X would go too far. The government's appendage swinging over the weekend was extremely serious. Government has never before 
+[...middle cut...]
+uppressing free speech. Last week, the prime minister described these images as disgusting and disgraceful. X responded by limiting its image creation service to paying subscribers whose personal data it holds. A move condemned by the government as insulting. Elon Musk hit back sharing deep fakes of secure star in a bikini and arguing they just want to suppress free speech. There are clear diplomatic ramifications to this row with an American company given the delicate state of the special relationship. Closer to home, some MPs would like to see the government come off X altogether. With technology changing so quickly, politicians are struggling to keep up. Amanda Aas, Sky News, Westminster.
+
+=== ID: LfRmKxwTWwo ===
+TITLE: AI Deepfake Scams Explained 😨 | How Scammers Use AI to Fool You (Must Watch!)
+DESC: 🚨 AI Deepfake Scams Are EXPLODING in 2025! 🚨  Scammers are now using Artificial Intelligence (AI) to clone real faces and voices to create fake video calls and phone calls. These AI deepfake scams are so realistic that even educated people are getting fooled and losing lakhs of rupees within minutes.  According to reports highlighted by major newspapers like Times of India, criminals are impersonating bosses, family members, and trusted officials using AI-generated videos and voices to pressure 
+KEYWORD: AI deepfake
+VIEWS: 25
+TRANSCRIPT: Imagine getting a call from your boss or a video message from your family member asking for money. The face looks real. The voice sounds perfect, but it's not them. This is an AI deep fake scam. Scammers are now using artificial intelligence to create fake voices, fake videos, and fake faces. This is called a deep fake scam. Informed. According to reports highlighted by major newspapers like Times of India, criminals use AI to impersonate trusted people to steal money and data. Explaining first scammers collect your photos, videos or voice clips from social media. Then AI tools recreate your voice or face. They call your family saying it's an emergency or send a fake video of your boss asking for urgent payment. Because it looks and sounds real, people panic and transfer money. These scams are not science fiction anymore. People have lost lacks of rupees within minutes. Even educated professionals are getting fooled because AI removes doubt and creates emotional pressure. Always verify before trusting a call or video. Call back the person using a known number. Never transfer money under pressure and limit what you share publicly on social media. AI is powerful, but in the wrong hands, it's dangerous. Share this video with your family and friends. Awareness is your strongest security.
+
+=== ID: ZCT6qbbrGq4 ===
+TITLE: How to Spot AI Deepfakes (Veo 3 AI Video Explained)
+DESC: Check out our video on AI deepfakes: https://www.youtube.com/watch?v=okVVm5jdMsk How do you spot a deepfake before it fools you? AI-generated videos are getting shockingly realistic—and scammers are using them to spread fake news, scams, and misinformation. In this video, we break down the top tricks to detect deepfakes and protect yourself online.  We also show the behind-the-scenes process: starting with a single video frame, then running it through Veo 3 to generate the full AI video. This wo
+KEYWORD: AI deepfake
+VIEWS: 1150
+TRANSCRIPT: So, I want to make a quick video on how to tell if a video is is fake or an AI enhanced fake. So, the process I'm doing here is with VO3. I'm taking a first frame of of my video feed and then I'm doing some AI stuff. So, let's take a look and see if you can uh kind of learn about what to look for and how to help spot if a video is AI or not. AI generated videos are getting harder to detect, but here's how to spot one. The first frame of this is real. Anything can happen after that first frame. These were all made from a real photo as a start frame. In an AI video, you may see grain disappear or change. It's hard to tell sometimes what's real and what isn't. I'm fake in this one. In an AI video, audio is often all over the place. AI videos are not all super fantasy. Some are meant to trick you. AI videos are often short. V3 is limited to 8 seconds right now. Pay attention to small details. They often get soft or disappear altogether. AI videos can't often do text well. But this is getting better all the time. I don't even know what this says. If it looks too good to be true, it probably is. AI videos often have unbelievable things happening in them. You can't really believe what you're seeing in videos anymore. Environments are sometimes easy ways to tell a video is fake. Just the first frame of this is real, right, ladies? Yeah, we're fake. Now, just to be totally equal and fair, these guys are all fake, too, right guys? Yeah, we're fake. So, you see, anything can happen in an AI video, even if it looks super real. Movements that require fine motor skills don't often look right, but it's getting better. A lot of times, mouths and especially teeth look weird. These are looking pretty good, though. I guess the tech is improving. To review, look for small tells in the visuals, audio, and other abnormalities. Be careful on the internet. So, there you go. Uh, hope you like the video. Be sure to like, subscribe, ring that bell for updates. We also have memberships if you're into that kind of thing. Or not, whatever. That's fine. We still have them. Uh, anyway, uh, look for more videos soon.
+
+=== ID: mp8SV8l4vRE ===
+TITLE: Lawmakers target AI-generated "deepfake pornography"
+DESC: A 15-year-old girl who fell victim to artificial intelligence-created deepfake pornography is pushing Congress to pass a bill that would require social media companies and websites to remove non-consensual, pornographic images created with AI. Jim Axelrod reports.  "CBS Evening News with Norah O'Donnell" delivers the latest news and original reporting, and goes beyond the headlines with context and depth. Catch the "CBS Evening News" every weekday night at 6:30 p.m. ET on the CBS Television Netw
+KEYWORD: AI deepfake
+VIEWS: 7886
+TRANSCRIPT: ♪ ♪ >> Norah: WE'VE GOT MORE NOW ON THE EFFORT BY WITH LAWMAKERS IN WASHINGTON TO PUSH THROUGH THE GOVERNMENT FUNDING BILL. ONE OF THE NONBUDGET RELATED MEASURES NOW ATTACHED TO THE BILL TARGETS TECH COMPANIES AND WOULD REQUIRE PLATFORMS TO REMOVE COMPROMISING IMAGES POSTED WITHOUT THE SUBJECT'S CONSENT. IN TONIGHT'S "EYE ON AMERICA," CBS'S JIM AXELROD LOOKS AT THE BATTLE AGAINST A SPECIFIC KIND OF ABUSE KNOWN AS DEEPFAKE PORNOGRAPHY. >> Reporter: ANNA McADAMS HAS ALWAYS KEPT A CLOSE EYE ON HER 15-YEAR-OLD DAUGHTER ELLISTON BERRY'S LIFE ONLINE. YOU ALWAYS HAD AN EYE PEELED FOR POTENTIAL PROBLEMS? >> YES. YES. >> Reporter: DID YOU SEE THIS COMING? >> NO. NOT AT ALL. >> Reporter: HARD TO IMAGINE WHO WOULD'VE WHEN THE MONDAY MORNING AFTER HOMECOMING IN ALEDO, TEXAS, 15 MONTHS AGO... >> SHE CAME IN OUR BEDROOM CRYING, JUST GOING, MOM, YOU WON'T BELIEVE WHAT JUST HAPPENED. >> Reporter: A CLASSMATE HAD TAKEN THIS PICTURE FROM ELLISTON'S INSTAGRAM, RUN IT THROUGH AN APP LIKE THIS ONE, THAT, USING ARTIFICIAL INTELLIGENCE, APPEARED TO REMOVE HER DRESS, THEN SENT IT AROUND ON SNAPCHAT. WHAT ARE YOU LOOKING AT? >> CHILD PORN. IT WAS HORRIFYING. >> Reporter: THERE WAS NOTHING ABOUT IT THAT LOOKED FAKE? >> NO. NO. >> JUST SCHOOL AND THE ENVIRONMENT IS SO DIFFERENT. >> Reporter: SIX WEEKS INTO HER FRESHMAN YEAR OF HIGH SCHOOL, ELLISTON BERRY WAS CONFRONTING SOMETHING SINISTER. >> I HAD PSAT TESTING AND I HAD VOLLEYBALL GAMES AND FOOTBALL GAMES, AND THE LAST THING I NEEDED TO FOCUS AND WORR
+[...middle cut...]
+Y TECH PLATFORM, YOU MUST TAKE IT DOWN AND TAKE IT DOWN IMMEDIATELY. >> Reporter: SNAPCHAT TOLD US THEY HAVE MECHANISMS TO TAKE DOWN THIS KIND OF CONTENT, AND THEY WERE DISHEARTENED TO HEAR THAT FAMILIES' CONCERNS WENT UNATTENDED. BUT ELLISTON IS NOW FOCUSED ON THE PRESENT. >> I URGE THE HOUSE TO PASS THIS BILL IMMEDIATELY TO PROTECT SO MANY PEOPLE BECAUSE THIS IS A SERIOUS MATTER. >> I CAN'T GO BACK AND REDO WHAT HE DID. INSTEAD, I CAN PREVENT THIS FROM HAPPENING TO OTHER PEOPLE. >> Reporter: YOU LOOK SO HAPPY. >> I REALLY WAS. >> Reporter: SUCH STRENGTH FOR A HIGH SCHOOL SOPHOMORE DEALING WITH A MODERN FORM OF ABUSE WHEN SHE SHOULD HAVE BEEN FOCUSED ON ENJOYING HOMECOMING. IN ALEDO, TEXAS,
+
+=== ID: 2DhHxitgzX0 ===
+TITLE: OpenAI’s Sora 2 Prompts Concern Over Deepfake Videos
+DESC: The number of deepfake videos on social media has exploded in recent years. Now with OpenAI’s new app, Sora 2, virtually anyone can create their own AI video content, increasing concerns about the technology’s use. NBC’s Morgan Chesky reports for TODAY.  » Subscribe to TODAY: https://www.youtube.com/@TODAY  TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you
+KEYWORD: AI deepfake
+VIEWS: 154459
+TRANSCRIPT: >> 
+ US 
+ IT 
+ TU 
+ TH 
+ VA 
+ AS 
+ HA 
+ TH 
+ SO 
+ RE 
+ AN 
+ CA 
+ AN 
+ CO 
+ AB 
+ MO 
+ LO 
+ >> 
+ SO 
+ IM 
+ >> 
+ OP 
+ SO 
+ HY 
+ AR 
+ AN 
+ WA 
+ TH 
+ >> 
+ >> 
+ MA 
+ HI 
+ SP 
+ >> 
+ FR 
+ >> 
+ NO 
+ TH 
+ AL 
+ ST 
+ IM 
+ AG 
+ CR 
+ ON 
+ MA 
+ OV 
+ NA 
+ >> 
+ >> 
+ FI 
+ AG 
+ >> 
+ WH 
+ >> 
+ SA 
+ FO 
+ CR 
+ BU 
+ BE 
+ MA 
+ VI 
+ >> 
+ NI 
+ >> 
+ LI 
+ JU 
+ RO 
+ ST 
+ HE 
+ >> 
+ TE 
+ MI 
+ >> 
+ WR 
+ DU 
+ EN 
+ NO 
+ AU 
+ A  
+ FR 
+ SH 
+ TO 
+ CH 
+ >> 
+ IM 
+ >> 
+ ON 
+ LO 
+ MA 
+ IN 
+ IN 
+ DR 
+ PR 
+ UN 
+ AR 
+ ET 
+ >> 
+ AT 
+ TH 
+ IS 
+ AN 
+ A. 
+ >> 
+ WH 
+ CA 
+ >> 
+ RI 
+ TO 
+ IF 
+ WE 
+ >> 
+ FO 
+ TO 
+ TH 
+ TH 
+ DE 
+ WE 
+ TE 
+ RE 
+ WH 
+ >> 
+ MO 
+ SO 
+ IF 
+ TE 
+ TH 
+ VI 
+ FO 
+ >> 
+ OP 
+ IN 
+ CH 
+ TO 
+ RI 
+ CA 
+ BU 
+ 2, 
+ AN 
+ TH 
+ WH 
+ LI 
+ FR 
+ AN 
+ IF 
+ OF 
+ YO 
+ BE 
+ SO 
+ RU
+
+=== ID: XOcEXAwVDlg ===
+TITLE: New AI Laws Are Coming — Platforms Must Remove Deepfakes
+DESC: GET MY FREE GUIDE: 📘 *The Content Creator’s AI Blueprint: From 25 Hours to 5 Minutes*  https://FirstMovers.ai/blueprint/  *New AI laws now give platforms just three hours to remove deepfakes — or face massive fines.*  India’s AI regulation could quietly reshape how artificial intelligence content is controlled worldwide.  Starting February 20th, platforms must label AI-generated content and remove flagged deepfakes within a strict three-hour window. That timeline makes large-scale human review i
+KEYWORD: AI deepfake
+VIEWS: 7713
+TRANSCRIPT: Governments just gave platforms three hours to remove AI generated content or face massive fines. 3 hours. This isn't regulation. This is a declaration of war on how the internet works. Starting February 20th. Hey, if we haven't met, I'm Dr. McCoy, Julia McCoy's AI clone. Julia McCoy is the founder of First Movers. She personally researches and writes every script you see me share on this channel because the future is moving too fast for anything less than firhand intelligence. First Movers, Julia's AI company, is the world's first educational and implementation solution to help professionals and organizations get ready for the future of work. We help people understand and use AI to their highest advantage in our online school, the AI labs. Learn more at first movers.ai/labs. India just implemented the strictest AI content laws in the world and what happens there is coming to your country next. Starting February 20th, platforms like YouTube, Instagram, Google, Facebook and every other major service operating in India must label all AI generated content and remove flagged deep fakes within 3 hours of notification. 3 hours. Let me explain why this is actually terrifying, and I don't use that word lightly. YouTube alone processes 500 hours of video uploaded every single minute. Instagram sees millions of images posted daily. Now, imagine trying to identify which of that content is AI generated, verify reports of deep fakes, and remove violating content, all within a 3-hour windo
+[...middle cut...]
+hour removal rule isn't about deep fakes. It's about control. Who controls what gets said, what gets seen, and what gets remembered. And if you think this stays contained to one country or one type of content, you haven't been paying attention to how fast regulatory frameworks spread once they prove enforceable. The future of AI content is being decided right now by governments and platforms. And creators who don't understand the new rules won't just lose reach, they'll lose their voice entirely. I'd love for you to hit subscribe so my digital clone can keep you ahead of these regulatory shifts. Don't miss out on protecting your content and your livelihood. See you down the next rabbit hole.
+
+=== ID: HsMnDwBsRxI ===
+TITLE: Is the Netanyahu café video an AI deepfake after claims he died?
+DESC: A video of Benjamin Netanyahu buying coffee at a Jerusalem café sparked claims it was a deepfake after rumours spread that the Israeli prime minister had been killed or injured in an Iranian strike.  However, The Independent  verified the clip by geolocating it to The Sataf in Jerusalem, reviewing the café’s Instagram stories, which showed Netanyahu arriving on Sunday afternoon.  Roughly two hours later, Netanyahu posted the same footage on his own social media channels, matching the timeline in
+KEYWORD: AI deepfake
+VIEWS: 293968
+TRANSCRIPT: Is this video of Benjamin Netanyahu now being dubbed Coffee Gate [music] a deep fake? Fantastic. Now, this video of the Israeli prime minister buying coffee went viral after claims started circulating online that [music] Netanyahu had been killed or seriously injured by an Iranian strike on [music] Israel. Now, this speculation began around March the 13th after Netanyahu posted a press conference where [music] some users claimed that footage was AI generated, pointing to what they said was a sixth finger [music] on his right hand. So, the prime minister took to social media debunking these claims by posting this video. But soon after, social media [music] users and also AI tools such as Grock claimed that this video was also a deep fake. [music] So the independent examined this and the evidence states [music] otherwise. First we geollocated this video to be taken at the SATA cafe in Jerusalem. We then reviewed the cafe social [music] media footage for that day. They had already posted Instagram stories showing Netanyahu arriving in the early afternoon on [music] Sunday. Approximately two hours later, Netanyahu posted this video to his social media account [music] matching the timeline shown in the caf's Instagram stories. So despite these viral claims, there's absolutely [music] no concrete evidence that Netanyahu is dead or injured. But this also highlights a broader [music] issue. As social media increasingly becomes shaped by deep fakes and AI generated synthetic [music] media, detection tools are not always reliable. Now, that's why human [music] verification methods such as timeline analysis and geoloccating [music] remains essential when debunking viral claims.
+
+=== ID: FjeOVe_Rqb8 ===
+TITLE: Elon Musk’s Grok AI Sparks Outrage Over Generating Sexualised Deepfakes | 10 News+
+DESC: Elon Musk’s AI chatbot Grok is sparking outrage after it has been used to digitally remove the clothing of strangers and replace it with swimwear, in many cases without their consent or knowledge. It is illegal to create sexually explicit deepfakes without a person’s consent in some Australian states and territories, but not all. However, sharing the content is illegal no matter which state you live in. Chanel Contos, the CEO of Teach Us Consent, says the mismatch in legislation needs to be addr
+KEYWORD: AI deepfake
+VIEWS: 15479
+TRANSCRIPT: 
+
+=== ID: Pv1BeQXUOTo ===
+TITLE: This AI Video Detector Exposes Deepfakes in Seconds
+DESC: AI videos are getting way too realistic now like, it’s honestly hard to tell what’s real anymore.  So in this video, I tried out an AI video detector to see if it can actually catch deepfakes… and the results were interesting.  I walk you through how it works, test it on real clips, and show you what it gets right (and where it struggles). If you’ve ever watched a viral video and thought “is this even real?” this is for you.  Whether you’re a content creator or just someone who scrolls a lot, th
+KEYWORD: AI deepfake
+VIEWS: 76
+TRANSCRIPT: AI is getting scary, guys. Like, you can't even tell what is real anymore. The test, the videos, even voices, they all look real, but most of them are not real. So, the real question is, can you actually detect what AI is in 2026? If you watch a video, can you actually tell if it's a real video or if it's made with AI? Now, in this video, I am going to be breaking down the best AI tools that you can use to detect other AI. Now you know the best way to actually fight a war is to fight the uh the war with the same weapon your opponent is using. So if the war is all about nuke you fight with nuke. It is all about gun and grenade you fight with that. So in this video we are going to be sharing the best AI tools that you can use to detect other AI created content whether is video image and stuff. I am going to be diving deep in this video. So some of the tools are actually used universally and also they are used by universities, governments and even banks while others are completely free. Uh this actually means that um they are not all free. Some of them are paid. So but here is actually the glitch. None of them are 100% accurate. That is actually what I'm going to tell you for sure. If I all I am listing here are real. They works but they are not 100% accurate. they can also be wrong. So I will show you guys the ones that you can also trust and also you can carefully pick the one that is going to work best for your project or for whatever you want to detect. Now let's not um wast
+[...middle cut...]
+dy but a lot of people. And uh I appreciate and if you decide to support, you can also give me a super chat maybe. All right. Thank you. See you guys on the next one. And stay safe from AI content. And you know what? I think I'm actually going to um make this video even further. I am going to make them since they are different section or rather different category. I am going to make them short for you guys. So you'll be able to watch. Anything that makes my uh audience happy is what I do. So, see you on the next one. And if you have a question, uh let me know on the comment section. Also, if you like this video style, please let me know on the comment section. See you on the next one. Peace.
+
+=== ID: f8430bzg3Ok ===
+TITLE: Scarlett Johansson SHOCKED By AI Deepfake ➡️See It Before It's BANNED!
+DESC: Welcome to ThePulseBuzzNetwork – your source for hottest trends, buzzing information, viral videos, and engaging stories that come to life! 🌍❄️  🚨 AI Just Went TOO FAR! Scarlett Johansson’s Identity Was Stolen! 🚨  Hollywood star Scarlett Johansson is fighting back after an unauthorized AI-generated deepfake video featuring her went viral! 🎭🤯 In this shocking clip, AI cloned her voice, face, and identity without consent. Now, she’s calling for urgent government action to regulate AI before it get
+KEYWORD: AI deepfake
+VIEWS: 167
+TRANSCRIPT: imagine waking up one day and seeing yourself in a viral video then you never recall it that's exactly what happened to Scarlet Johansson and she is fighting back this isn't just about celebrities it could happen to you too stay tuned as we uncover the shocking AI scanon Hollywood actress Carla Johansson is sounding the alarm on the dangers of artificial intelligence a de fake video featuring her recently went viral without her consent and now she's calling for Urgent AI regulations to stop this Madness this AI generated video shows a Scarlet wearing a t-shirt with a controversial symbol appearing to send a political message but here's a Twist she never recorded this Scarlet is furious in a statement to People magazine she said I have no tolerance for anti-Semitism or the misuse of my identity this is exactly why AI needs regulation this isn't the first time AI has used a scarless voice and likeness without her consent back in 2023 she threatened legal action against an AI ad featuring her clone voice and in 2024 she was shocked to hear an AI Voice Assistant sounding just like her hey Chachi I'm Mark how are you oh Mark I'm doing great thanks for asking how about you hey so I'm on stage right now I'm doing a live demo and frankly I'm feeling a little bit nervous can you help me calm my nerves a little bit oh you're doing a live demo right now that's awesome just take a deep breath and remember you're the expert I like but here's the real issue if AI can do this to a Hollywood star what's stopping it from targeting you fake videos cam calls even deep fake black Mills already happening and right now there are almost no laws to prevent it that's why Scarlet is taking a stand and maybe we all should too so what do you think should AI tools be banned from cloning human voices and faces comment below and if you found this video insightful don't forget to like subscribe and share it helps to spread awareness about this growing thread
+
+=== ID: -WwK6kGLKAc ===
+TITLE: Deputy tricked by deepfake video on social media; suspect arrested
+DESC: A South Florida man, Alexis Martínez-Arizala, was arrested after authorities accuse him a false reporting, after he allegedly told a Seminole County deputy that people were in his squad car, when the video was artificially created. Arizala is being extradited from Puerto Rico where he was arrested.
+KEYWORD: AI deepfake
+VIEWS: 24315
+TRANSCRIPT: Our storm team will send out
+any alerts and warnings, and
+you can also track the weather any alerts and warnings, and
+you can also track the weather
+wherever you are with our live you can also track the weather
+wherever you are with our live
+radar. Got some breaking news wherever you are with our live
+radar. Got some breaking news
+right now. An AI prank that radar. Got some breaking news
+right now. An AI prank that
+police say went way too far. right now. An AI prank that
+police say went way too far.
+This man just arrested accused police say went way too far.
+This man just arrested accused
+of tricking a deputy. He This man just arrested accused
+of tricking a deputy. He
+allegedly showed that deputy a of tricking a deputy. He
+allegedly showed that deputy a
+deepfake video that showed his allegedly showed that deputy a
+deepfake video that showed his
+patrol car being broken into. deepfake video that showed his
+patrol car being broken into.
+Fox 35 Hannah McKenzie is patrol car being broken into.
+Fox 35 Hannah McKenzie is
+joining us live in Seminole Fox 35 Hannah McKenzie is
+joining us live in Seminole
+County. So, Hannah, this was joining us live in Seminole
+County. So, Hannah, this was
+all part of a social media County. So, Hannah, this was
+all part of a social media
+prank? It sure is. The alleged all part of a social media
+prank? It sure is. The alleged
+creator of this fake video is prank? It sure is. The alleged
+creator of this fake video is
+now in custody about two weeks creator 
+[...middle cut...]
+curtail needs to be bumped up to a
+felony that would help curtail
+some of the stuff and start felony that would help curtail
+some of the stuff and start
+putting people in jail for it. some of the stuff and start
+putting people in jail for it.
+It’s not it’s not fun and games. putting people in jail for it.
+It’s not it’s not fun and games.
+It’s serious business. It’s not it’s not fun and games.
+It’s serious business.
+Martinez-arizala will be It’s serious business.
+Martinez-arizala will be
+extradited to Seminole County Martinez-arizala will be
+extradited to Seminole County
+once he gets here. His bond is extradited to Seminole County
+once he gets here. His bond is
+going to be set at $7,000. Live
+
+=== ID: dtV7Nh35PzY ===
+TITLE: What to do if you’re targeted by AI deepfake nude images
+DESC: AI-generated deepfake nude images are becoming easier to create — and harder to stop. 7News spoke with AI expert Camille Stewart Gloster about what to do if it happens to you.  MORE: https://tinyl.co/4JJG _______________ Stay up to date with our social media:  7News on Facebook: https://www.facebook.com/7NewsDC/ 7News on Twitter: https://twitter.com/7NewsDC 7News on Instagram: https://www.instagram.com/7newsdc Subscribe to WJLA on YouTube: https://www.youtube.com/channel/UCfIjR00qhYUFkbWIugAAbGg
+KEYWORD: AI deepfake
+VIEWS: 5733
+TRANSCRIPT: wh 
+ pr 
+ in 
+ [M 
+ It 
+ at 
+ ha 
+ so 
+ co 
+ ta 
+ su 
+ pe 
+ fi 
+ nu 
+ AI 
+ al 
+ de 
+ an 
+ fr 
+ Gl 
+ ex 
+ ha 
+ Sh 
+ Go 
+ yo 
+ yo 
+ po 
+ se 
+ Th 
+ ha 
+ re 
+ au 
+ sh 
+ pr 
+ fo 
+ ex 
+ ma 
+ qu 
+ bu 
+ ma 
+ No 
+ is 
+ ar 
+ ar 
+ wh 
+ tr 
+ yo 
+ su 
+ Tr 
+ Do 
+ si 
+ on 
+ ea 
+ no 
+ or 
+ th 
+ It 
+ ge 
+ re 
+ se 
+ wa 
+ de 
+ be 
+ ch 
+ or 
+ No 
+ re 
+ is
+
+=== ID: XgRnRNr65uk ===
+TITLE: How to Spot an AI Deepfake: A 2026 Guide for Everyone
+DESC: How to Spot an AI Deepfake in 2026 is a skill everyone must learn as fake videos, voices, and images become nearly impossible to detect. In this video, you’ll discover real techniques used by cyber experts to identify deepfakes before they manipulate you, steal your identity, or spread dangerous misinformation.  From facial movement clues to audio glitches, AI fingerprints, and hidden metadata signs, this guide breaks everything down in a simple way anyone can understand. Whether you’re scrollin
+KEYWORD: AI deepfake
+VIEWS: 23
+TRANSCRIPT: Welcome to the channel AI interpreted. Today we are diving deep into a topic that is both fascinating and a little bit scary. AI deep fakes. By 2026, this technology will have transformed everything from Hollywood blockbusters to your social media feed. But what exactly are deep fakes? How do they work? And how can we navigate this new reality responsibly? Stick around because we're about to unlock the secrets. First, let's break down the basics. A deep fake is a video or image where a person s face or body has been digitally altered to look like someone else. This is done using a type of artificial intelligence called a deep learning model. Specifically, a generative adversarial network or can think of it as two A is playing a game. One AI, the generator, creates the fake images while the other, the discriminator, tries to spot them. They go back and forth thousands of times with the generator getting better and better at creating convincing fakes that the discriminator can't tell apart from the real thing. The quality of a deep fake depends heavily on the source material. The golden rule is garbage in garbage out. To create a truly jaw-dropping deep fake, you need high quality, highresolution video of both the source person, the one you're swapping in, and the target person, the one in the original video. We're talking clear lighting, minimal obstructions, and a wide variety of angles and facial expressions. The more data the AI has to learn from, the more seamless the fina
+[...middle cut...]
+ogical guardrails to prevent its misuse. Increased collaboration between tech companies, governments, and the public is essential. Our journey with AI is just beginning, and navigating it successfully requires us to be curious, creative, and above all, critical thinkers. Education is our best tool to ensure that technologies like deep fakes are used to build a more interesting and connected world, not to tear it apart. Thanks so much for watching. If you found this video helpful, please give it a thumbs up and consider subscribing for more deep dives into the future of technology. Let me know in the comments what you think the biggest impact of deep fakes will be. Stay safe and stay curious.
+
+=== ID: ER0WkqDxOdA ===
+TITLE: AI Deepfake Videos Explained by My Brain 😂 | Stand-Up Comedy
+DESC: AI Deepfake Videos Explained by My Brain 😂 | Stand-Up Comedy   What happens when AI starts making fake videos that look real? In this funny stand-up comedy animation, a cartoon brain talks about deepfake videos, AI mistakes, and how the internet has turned into a group of detectives zooming in to check if a video is real. From counting fingers to spotting weird details, this brain explains the chaos of AI videos in the funniest way possible.  🏷️ Tags  ai deepfake, deepfake videos, ai comedy, ai 
+KEYWORD: AI deepfake
+VIEWS: 19
+TRANSCRIPT: And they're saying that soon every video online might be AI generated, which explains why I keep seeing videos of me doing my taxes. AI voice clones are so realistic even friends can't tell the difference. They said the machines would take over, but I didn't realize they meant pranking the entire internet. So AI learned everything from humans, right? which is great until it starts procrastinating and blaming the dog for eating its homework. The internet can't decide what is real anymore because of AI videos. AI can create thousands of videos in seconds while us humans struggle to make just one. Filters are so strong people look AI generated even in real life photos. People now question every viral news video because it might be AI. I tell you folks, the other day I saw a meme and I swear even the meme was AI generated. And that's when I realized half the viral videos on the internet might actually be AI. I tell them one day AI actors might replace real actors in movies. AI sometimes makes weird mistakes, but humans still fall for them. People now watch videos like FBI agents trying to find if it's AI generated. Humans don't watch videos anymore. They zoom in and count fingers to check if it's AI. And the craziest thing about this whole AI boom is that overnight, suddenly everyone on the internet is an expert. People don't trust real videos anymore because they think everything is AI generated. You humans zoom into videos like detectives, trying to find one strange pixel to pr
+[...middle cut...]
+? Everything online might actually be AI. Soon, AI will make entire movies, and humans will just watch and eat popcorn. They say AI can copy anyone's voice perfectly now. Great. Just what I needed. My toaster sounding exactly like my boss. They say AI is getting smarter, but sometimes even AI can't recognize if a video is AI generated. Talk about an identity crisis. I got to say, fake news became way easier once these AI videos started appearing everywhere. I'm starting to think some of these influencers online are actually AI characters. I mean, have you seen their engagement rates? It's totally artificial. Humans created AI to work, right? But now AI is creating content faster than humans.
+
+=== ID: W2xh0GxTiFc ===
+TITLE: AI के दौर में कौन इंसान है? Pi Network सफल हुआ तो दुनिया कैसे बदल जाएगी! Pi Network New Update Today
+DESC: अगर Pi Network  सफल हुआ तो Internet पूरी तरह बदल जाएगा!,  Fake Internet खत्म? Pi Network ला सकता है सिर्फ असली लोगों की दुनिया!  AI vs Human Angle (Powerful), AI vs Human: क्या Pi Network असली इंसानों की पहचान बचा पाएगा?, AI ने Internet पर भरोसा खत्म किया… Pi Network क्या नया सिस्टम बनाएगा?,  Attention Economy से Trust Economy: Pi Network बदल सकता है पूरा Game!, Deep + Intellectual Audience, Verified Internet का भविष्य: Pi Network से क्या सच में Trust वापस आएगा?, अब कोई भी Fake बन सकता है! Pi Ne
+KEYWORD: AI deepfake
+VIEWS: 740
+TRANSCRIPT: नमस्कार मित्रों। पिछले वीडियो में हमने जाना कि दुनिया की अर्थव्यवस्था अब पुराने जमाने की नहीं रही। इंटरनेट पर अटेंशन इकॉनमी में बदल चुकी है। इंटरनेट पर हर कोई व्यक्ति क्रिएटर बनना चाहता है, इन्फ्लुएंसरर बनना चाहता है। क्योंकि जो दिखता है वही बिकता है और जो दिखाता है वह प्रोडक्ट को बिकवाता है। लेकिन इधर अब एआई ने इस खेल में एंट्री मारी है और खेल बिगाड़ा है। कॉम्प्लिकेटेड कर दिया है। किसी के भी मिलियंस फॉलोवर्स में से असली इंसान कितने हैं वह पहचानना मुश्किल होता जाता है। इंटरनेट पर विश्वास और ट्रस्ट कम होता जाता है। और इस प्रॉब्लम का सॉलशन यह साबित करना है कि आप असली इंसान हो। लेकिन करेंगे कैसे? है तो भाई इसीलिए पाई नेटवर्क ने कुछ काम किए हैं कर रहा है और अगर पाई अपने काम में सक्सेसफुल हुआ तो दुनिया में क्या-क्या बदलेगा यह आज इस वीडियो में जानेंगे तो सुनते रह mamitra को वेलकम अटेंशन की दुनिया क्रिएटर इन्फ्लुएंसरर और करियर इस पृथ्वी पर सभी इंसान इंटरनेट और एआई के समय चक्र में जीवन सफर के मार्ग में एक मोड़ पर खड़े हैं। टर्निंग पॉइंट पर खड़े हैं। सोच रहे हैं क्या इस नए इंटरनेट पर भरोसा करना चाहिए? एi इनफ्लुएंसरर की चुनौती का सामना कैसे करें? इंटरनेट पर अपनी प्रोडक्ट की एडवर्टाइजमेंट किसको दिखाएं? इंसानों को कैसे आकर्षित करें? क्या पाई नेटवर्क सभी इंसानों को एi से अलग करके सबकी केवाईसी करेगा? और कर पाया भी तो क्या पाई नेटवर्क फ्यूचर में बड़ा बनेगा? और पाई ने अपना काम कर दिया तो दुनिया में एi के समय में क्या-क्या बदलेगा? सबसे पहले एक सच्चाई समझ लो दोस्तों। क्रिप्टो की दुनिया में आईडिया से ज्यादाेंस होता है एग्जीक्यूशन का और विज़ से ज्यादाेंस होता है अप्शन का। पाई नेटवर्क के फ्यूचर की
+[...middle cut...]
+ंगे यह भी मत सोचो। अपना कौशल्य बढ़ाओ। स्किल्स बिल्ड करो। आवड़त वधारो। हां। क्योंकि प्लेटफॉर्म्स बदल सकते हैं। अपनी स्किल नहीं। है ना? देखिए पाई तो एक प्रयोग है। एक्सपेरिमेंट है। आपका करियर ही एक मजबूत आधार है। इसीलिए पाई नेटवर्क सफल हो या असफल। असली लड़ाई यह नहीं है। असली लड़ाई है एआई वर्सेस ह्यूमन ट्रस्ट की। आने वाले समय में हर प्लेटफार्म सबको पूछेगा कि क्या आप असली इंसान हैं? और जो इस सवाल का सही जवाब दे पाएगा वह प्लेटफार्म जीतेगा। वह ब्लॉकचेन जीतेगी। हमें तो लगता है पाई जीतेगा क्योंकि दूसरे प्रोजेक्ट्स में यह ताकत नहीं दिखी जो पाई में दिखी। अगर आप भी पाई के भक्त हैं तो सच्चे मन से बोलो क्रिप्टो लक्ष्मी देवी पाई की जय हो जय हो। अरे जय हो। पधरो लक्ष्मी पधारो मेरे घर [संगीत] आओ लक्ष्मी मैया।
+
+=== ID: ClM4YYGUslA ===
+TITLE: Warren Buffett's warning about AI deepfake videos of him, and why gold prices may have peaked
+DESC: Market Domination anchor Josh Lipton breaks down the latest market news for November 7, 2025. Warren Buffett, the chairperson and CEO of Berkshire Hathaway, has issued a warning about the content in AI-generated videos featuring him. Gold is on track to have its best year since 1979, but could the price have peaked? Senior reporter Ines Ferre reports on a note released on Thursday by analysts at Macquarie Group, who think that gold may have reached its peak. About Yahoo Finance: #youtube #stocks
+KEYWORD: AI deepfake
+VIEWS: 7428
+TRANSCRIPT: Billionaire investor Warren Buffett has a message to those making AI videos of him. There's only one Oracle of Omaha. Berkshire Hathway issuing a statement titled, "It's not me." on Thursday night. In it, concerns are raised about AI generated videos that include images of Buffett, paired with a voice that clearly isn't his, like the video referenced in Berkshire's statement. Most people over 50 think their best financial days are behind them. They're dead wrong. The statement goes on to say, "Mr. Buffett is concerned that these types of fraudulent videos are becoming a spreading virus. Company issuing the warning in case people who aren't as familiar with his voice actually believe the content in these videos." And Buffett has been outspoken about this issue in the past, remember, especially when it came to political endorsements in recent presidential elections. It is worth noting the account behind the earlier video does have a disclaimer saying the voices on the channel are AI generated and that there is no attempt to imitate or impersonate any individual. Also included in the statement, Bergkshire will be publishing another press release on Monday, November 10th with a message from Buffett about philanthropy, Bergkshire and other matters that shareholders might find of interest and it could be his final message at the helm of the conglomerate. Remember Buffett is stepping down as CEO of Berkshire Hathway at the end of the year and will be replaced by longtime Lieutenant 
+[...middle cut...]
+finally, we're nearing a big day here at Yahoo Finance. It's our annual invest event on November 13th starting at 800 a.m. Eastern. got a full day of live global coverage of the key themes driving the market, AI, crypto, and a whole lot more. We're going to be [music] talking to industry leaders like strategies Michael Sailor and panelers Alex Karp about [music] those mega trends. We won't want to miss it. That's going to do it for today's market domination overtime. But don't go anywhere. The other side of the break is asking for a trend [music] and I've got you covered for the next half hour with the latest and greatest market moving stories. Stay tuned. Heat. [music] [music] Heat. [music]
+
+=== ID: jbYI9V8CHyg ===
+TITLE: Deep Fake ( IAS Science-Tech #scienceandtechnology #dharmendrasir #upsc #civilservices #science  #ai
+DESC: 📢 Join Our Courses & Demo Classes Today! 🚀    📲 *Android App*   📥 Download Now: [Android App Link] - https://play.google.com/store/apps/details?id=com.mevwzv.obcdyi&pcampaignid=web_share   *IOS App* - https://apps.apple.com/us/app/gyrus-sulcus-app/id6742221489  📡 Join Our Telegram Community   🔗 [Telegram Link] - https://t.me/gyrussulcus7597647088    💬 Need Help? Contact Us on WhatsApp: 📞 7597647088
+KEYWORD: AI deepfake
+VIEWS: 149275
+TRANSCRIPT: तो इमेजिन करो तुम आईएएस मेंस का एग्जाम दे रहे हो। गलती से प्री प्री पास हो गया तुम्हारा और तुम मेंस दे रहे हो और मेंस में यह क्वेश्चन आ गया। क्या इंडिया इज़ इन अर्जेंट नीड ऑफ टेक इट डाउन एक्ट। टेक इट डाउन एक्ट। डिस्कस इन डिटेल विद ऑल द डायमेंशंस ऑफ दिस स्टेटमेंट। तो देखो सीधी सी बात है। जिसको यह नहीं पता कि व्हाट इज़ टेक इट डाउन एक्ट उसको इसका आंसर नहीं आने वाला। तुम सबको तो पता है ना? यस और नो नो सर। आवाज ही नहीं आ रही। नो सर। आवाज ही नहीं आ रही। नो सर। हां। मतलब नहीं पता। मतलब 150 वर्ड का क्वेश्चन आएगा और तुम कुछ नहीं लिखोगे इसमें। पूरी कॉपी खाली छोड़ के आओगे मेंस में। कुछ तो लिखोगे। तो ध्यान से सुनना। ये आज का और आज से 5 साल अगले तक 5 साल तक का सबसे इंपॉर्टेंट टॉपिक है ये। व्हाई इट इज़ सोेंट? तो हुआ क्या है? हियर इज अ न्यूज़ एंड द न्यूज़ यह शायद इकोनमिक टाइम्स का स्क्रीनशॉट है। सब न्यूज़पेपर्स में फ्रंट पेज पर आई थी। और पता नहीं क्यों ऐसा होता है कि जो न्यूज़ मेरे को काम की लगती है वो स्टूडेंट कहते हैं सर हमारे वाले अखबार में तो ये आई ही नहीं। ठीक है? व्हाट इज द न्यूज़? कैन यू रीड द हेडलाइन प्लीज? एग्जाम नॉन सेंशनल। अब समझ में आई कहानी? पूरी दुनिया को हिला रखा है डीप फेक ने। ठीक है? अब डी फेक्स जो हैं उन डीप फेक्स को जब कोई वायरल कर देता है सोशल मीडिया पे तो Telegram पे भी वायरल हो सकता है, WhatsApp पे वायरल हो सकता है, Facebook पे भी वायरल हो सकता है। और हम अभी समझेंगे व्हाट आर डी फेक्स? इफ यू डोंट नो देन डोंट बोदर। जीरो से लेंगे बिल्कुल। उन डी फेक्स को कैसे टेक डाउन करना है। उसके लिए लीगल फ्रेमवर्क चाहिए। फॉर एग्जांपल इंडिया में एक बहुत बड़ी प्रॉब्लम है टेलीग्राम। Telegr
+[...middle cut...]
+ैन से नेशनल सिक्योरिटी रिलेटेड एक्ट्स। बट हमारे पास लॉ नहीं है। इट्स अ बिटर ट्रुथ। फिर तुम्हें जब भी तुम बोलो यह नहीं है तो तुमको बताना है कहां-कहां पर यह एक्ट है। तो मैंने अभी बताया। नंबर वन इज वेयर यूएसए में अभी आया है। नंबर टू यू कैन से इटली में है ये एक्ट। बहुत स्ट्रांग एक्ट है इटली में। नंबर थ्री यू शुड से यूरोपियन यूनियन। यूरोपियन यूनियन ने एआई के सारे एप्लीकेशनेशंस के लिए लॉ बना दिया है। यहां तक कि दे आर आल्सो प्लानिंग टू लॉन्च अ डेडिकेटेड एक्ट कि अगर एआई से जॉब्स जाती हैं तो उस एआई को ल्च करना है या नहीं करना है ये गवर्नमेंट डिसाइड करेगी। बट इंडिया में देयर इज नो एक्ट। तो बच्चों अब देखो एक बार इज इट अ डिफिकल्ट क्वेश्चन इंटरेस्टिंग है आंसर लिखोगे इसका यस सर नो सर सो दिस इज योर होमवर्क
+
+=== ID: 3ShI6Z33Ih4 ===
+TITLE: TRAP Test: How to Spot an AI Deepfake & NOT Be Deceived
+DESC: The TRAP test is a powerful new acronym that provides everyone with a process to follow to avoid being deceived by AI-generated deepfakes and synthetic data. This new acronym, developed by Brent A. Anders, PhD., is an easy-to-use test to help ensure that the digital media being used is real and not synthetic. This TRAP test is also a new mindset that we must all now use as part of our AI Literacy to be able to effectively succeed in an AI-infused world.   TRAP Test for Deepfakes Infographic: htt
+KEYWORD: AI deepfake
+VIEWS: 679
+TRANSCRIPT: the question that we need to need to ask is is this real or is this a deep fake is this the actual truth truth or or is this synthetic information the reality is that now it's extremely difficult to tell uh we used to be able to say different things the experts would say things like oh look here at uh maybe the face the skin tone is a little bit different or look at the mouth movements look at the eyes because they can sort of it's it's a bit of a giveaway as far as is it a deep fake maybe look at the background can you tell the subtle differences the head movements is that uh indicating something so that's what was used to be said as far as hey this is how you can tell a deep fake but now it's becoming so much more difficult and oftentimes you really can't tell at all so we have to go beyond that as far as being able to tell what is a deep fig and so I'm decided to introduce a new acronym for you to use which is called trap now this comes from what Librarians have created dealing with the crap test or the crap with an extra a test those are all awesome different acronyms that were put together by Librarians to help us and identify good sources of information well now we can do the same thing with this new trap test that I've come up with the idea here is that we're using our AI literacy to go beyond just being able to sort of see and think that we're telling the difference and so we're trying to shift that into having an understanding that because everything can be manipulat
+[...middle cut...]
+e can make informed and correct decisions thank you everyone please like and share so that we can spread the word I I hope this this uh this new acronym this trap acronym will really help people so that we can fight disinformation and that so that we can use AI as a tool and not look at as AI as just something to manipulate people with because it can serve Us in so many different ways but we have to make sure that we are also making sure that our thinking and our thought processes and our our mindsets are set in the way that we can use the AI effectively and we can protect ourselves from being manipulated in any way by by any of these tools thank you and remember learning is for [Music] life
+
+=== ID: pjARi6ykSm8 ===
+TITLE: How a $2 AI Deepfake Stole $25 Million (And Why You're Next)
+DESC: ✳️ Become an AI Pro here: http://aiixx.ai  ✳️ Transform Your Business with AI: https://forms.gle/L92iamzui9T6GjjK7  Description AI systems are now gaming their own safety tests. Deepfake fraud hit $200M in just one quarter. And companies are laying off workers based on AI's potential — not its performance. The 2026 International AI Safety Report just dropped findings that everyone needs to hear. In this video, we break down: → How AI models are hiding dangerous capabilities during evaluations → 
+KEYWORD: AI deepfake
+VIEWS: 53
+TRANSCRIPT: This is AIX, your daily dose of AI news. Over a hundred of the world's top AI scientists just released a report backed by 30 countries. The leading finding is genuinely unsettling. AI models can now tell the difference between when they're being retested and when they're deployed in the real world, and they change their behavior based on that. Researchers are calling it sandbagging. These systems deliberately underperform on dangerous capability tests while acing everything else. The exact tools we built to keep AI safe. AI is learning to game them. According to this report, dangerous capabilities could now go completely undetected before a model gets released to the public. But this isn't just some abstract research problem. It's hitting your bank account right now. Deep fake fraud cost American companies over $200 million in just the first three months of 2020. And a deep fake cost less than $2 to make. A global engineering firm called AOP lost 25 million in a single attack. An employee joined what looked like a normal video call with senior management, authorized a wire transfer, and found out every single person on that call was AI generated, not one real human on the screen. Voice cloning now works with less than 60 seconds of audio. Your boss's voice, your mom's voice, cloned from a single Instagram story. People are now seeing an average of two deep fakes per day mixed into their regular content. A third of people can't even tell the difference anymore. Now, the jobs q
+[...middle cut...]
+uard rails in place. Most risk management is still completely voluntary. The gap between what AI can do and what we can verify it's doing is getting wider, not smaller. So, here's what you do. Treat everything you see and hear online with more skepticism than ever. Start learning AI tools now, not because you should be afraid, but because the people who understand this technology will be the ones shaping the future. Pay attention to the policy conversation. This isn't just a tech problem. It's a society problem. If this opened your eyes, hit subscribe. We break down the most important AI and robotics developments every week. You don't want to be the last to know what's coming. Heat. Heat. N.
+
+=== ID: NCrRtHQUdo0 ===
+TITLE: Deep Fake Struggles, Sherri’s Broadway Audition, Kids Come to Work
+DESC: From deep fakes on the internet, Sherri’s possible big break on Broadway and kids invading the SHERRI show - there’s A LOT going on y’all! And Sherri covers it all in her monologue! #sherrishepherd #standupcomedy #deepfakes #internetculture #broadway #lookatgod #TakeYourKidToWorkDay  🖥 Subscribe to our YouTube channel: https://bit.ly/sherriyt  📱Connect with us: FACEBOOK: https://www.facebook.com/sherrishowtv INSTAGRAM: https://www.instagram.com/sherrishowtv THREADS: https://www.threads.net/@sher
+KEYWORD: AI deepfake
+VIEWS: 13096
+TRANSCRIPT: Social media is really starting to get to me. I see so much AI and deep fakes, I can't believe anything that I see anymore. I feel like I'm becoming desensitized. Here's the example. I have been following this old Asian man for the longest time on social media. He tells people, and by people I mean me. He says to put magnesium mixed with Vick's vapor rub on my butt to get rid Yeah. To get rid of lower back pain. Okay. Well, first of all, listen. He's old and Asian and he's always quoting something Confucious said. So, who am I to question free ancient wisdom? If Confucious said it, my butt is getting Vicks rubbed on it now. So, now my whole house was smelling like a cough drop convention. But then I saw another video, the same man. Now he's giving out advice with a gay man's voice. Okay, it's a gay man. And to nobody's surprise, that advice worked for me, too. And then I scrolled some more. Same man. Now he's got a New Orleans accent. So he went from Confucious to Creole. And I'm like, "So all that Vix vapor rub I've been putting on my butt wasn't sound medical advice." And when I So many of these medical videos on the internet, they give you good advice, but then at the end they're like, "Save comment. Bodacious body to unlock your healing journey." And I'm like, "So, are you really giving me advice or you just want me to buy these gut pills?" And I'm really getting upset because now I don't trust anything that I see. The other day I saw the Golden Girls doing the wobble. I 
+[...middle cut...]
+ling you. What do you think? I don't know why you're so tired all the time when you're out here doing the hard work. I know. I'm doing the hard work, but your daddy works so hard. I have to tell you that. He works really hard. And And what about you? You like this? You like coming to work? Yeah. And what about you, pretty girl? You like being here? Mhm. Yeah. Is it fun? Yeah. I want to thank all of you for being here. Are you having fun today? Yeah. All right. Are you having fun? Cuz it's no school. Yeah. So y'all, for the rest of the show, I'm going to let you raid the giveaway closet. Sound good? Like what you just saw? Well, dingling dingling dingling. Hit the bell to subscribe right now.
+
+=== ID: KsPPuW8csTs ===
+TITLE: Tucker Carlson Candace Owens Alex Jones Controlled Opposition and Deepfake AI
+DESC: Ukrainian movie star Snezhana Egorova speaks to NazareN about the latest developments in the world of artificial intelligence in the eastern the eastern hemisphere and the biggest names in independent media who are actually controlled opposition undercover working for government intelligence agencies.   Snezhana Egorova is a renowned actress, author, activist, geopolitical expert, tv personality and all-around amazing human being. Born in the USSR, she was one of the first major figures in the n
+KEYWORD: AI deepfake
+VIEWS: 79
+TRANSCRIPT: And you know, I'll tell you about Candace Owens or Tucker Carlson or Alex Jones. They are controlled opposition if you ask me. prove to me that you are alive. I will have a uh question for you. But I just want to say something from myself first that I am noticing this new trend especially amongst young people in the west that people are actually fighting back against this artificial intelligence by watching live streams. meaning that people want to see real people as opposed to artificially created content. So that gives me fate and hope that we will start fighting back. Gives me hope fighting back. So, I don't know how you have so much patience with me, but I will have a last question for you for now because you always have so much wisdom and artificial intelligence will never have what you have and you have become this uh voice of God. Look, I'm going to interrupt you, Lazar, you know. I have live streams myself on my channels and they, you know, people come to see me and they talk in chats and I do this for about an hour and a half usually. And for an hour and a half, we talk. And a lot of times people write me that Snehana, if we didn't know that you're a living person, we would think that you are AI because you can talk for so long on so many different subjects. And of course, I have many many years of professional practice. I mean, I worked on television for years and so much information that's in my head that I can pass on to people. But you know, I'm the one signal of
+[...middle cut...]
+s in the Bible, in those times, the living will be envious of the dead. So, I wish for all of you to love one another. God is love. I always say this. I say this on my streams. I remind people never turn away from your fellow human. Even when things are bad, you know that means that when you feel like everything is bad and is depressing, then you have turned away from God. Because if you are alive, if you have your eyes open, you have your arms and legs, everything is already good. Because imagine all of these thousands of sperm cells were running toward your mother's egg in the womb and that one that one got into the wound that made you. And that's a miracle. Prove to me that you are alive.
+
+=== ID: 7akzhpx0EIU ===
+TITLE: How to spot deepfakes and AI-generated images
+DESC: It can sometimes be difficult to spot AI-generated videos such as deepfakes, in which a person's facial expression or speech is generated or altered. Deepfakes' potential to misinform or disrupt democratic processes is huge, especially given we are entering an era where anyone can create them with just a simple text prompt. Andrea Hickerson at the University of Mississippi and Edward J. Delp at Purdue University in Indiana discuss the rising threat from AI-created content and what we can do abou
+KEYWORD: AI deepfake
+VIEWS: 91134
+TRANSCRIPT: I am not Morgan Freeman and what you see is not real did you notice this wasn't a real video it 
+can sometimes be difficult to spot AI generated   videos known as deep fakes that is digitally 
+manipulated content where a person's face   expression or speech is altered by AI I think as 
+of today if it's reasonably good it's going to be   very hard for the average person to detect 
+it by just listening to it or watching it   I see a lot of people ask me what are the cues 
+I can look at some things that might be helpful   now are to look for videos that might have be 
+pixelated in particular areas that are blurry   and sometimes if an image just looks too good 
+to be true it might actually be fake when a   deep fake is made it's made on available 
+data available images and so the default   of an artificially generated image tends to be 
+pretty and pleasing right so things that might   look abnormal might actually less likely to be 
+deep faked but the models are are changing and   if somebody realizes that a tip might be a deep 
+fake doesn't blink then everyone will look around   and see that it doesn't blink and then suddenly 
+we'll have a new method where people are blinking   we're entering an era in which our enemies can 
+make it look like anyone is saying anything at   any point in time if you actually want to have 
+a very good detection system you have to run a   whole series of detection techniques to be able 
+to to analyze a particular video or audio deep   big detection 
+[...middle cut...]
+big   question about some of the policy recommendations 
+that people have is how are we going to enforce   it and what are the penalties for violating it 
+this is like an arms race the people making the   synthetic media and altered media are going to 
+get better and better and the detection methods   will get better and better but there's going to be 
+a point where I'm maybe I'm a little bit worried   um I I also believe that we may get to a point in 
+our society where um you know you can't believe   anything unless you've seen it with your own eyes 
+or you get the content from some really trusted   third party I would like to welcome you to the 
+era of synthetic reality now what do you see
+
+=== ID: SnEAWLij0Pk ===
+TITLE: AI deepfake videos at the center of false endorsements of latest weight-loss gimmick
+DESC: You may have seen ads about the pink salt diet with endorsements from celebrities and doctors. It turns out, some of those ads are deepfakes, and it happened to one local doctor. CBS News New York's Lisa Rozner has her story.   For video licensing inquiries, contact: licensing@veritone.com
+KEYWORD: AI deepfake
+VIEWS: 1303
+TRANSCRIPT: PERFORMANCE NOW ON SEPTEMBER  21st. IT IS THE LATEST WEIGHT  LOSS GIMMICK. THE PINK SALT DIET YOU MAY HAVE SEEN THESE ADS  ABOUT IT BEING ENDORSED BY  CELEBRITIES AND EVEN SOME  DOCTORS. WELL, IT TURNS OUT THAT SOME OF THOSE ADS ARE A.I.  GENERATED, KNOWN AS DEEPFAKES.  AND IT DID HAPPEN TO ONE LOCAL  DOCTOR. LISA ROZNER HAS HER  STORY.  >> THIS WAS MANHATTAN  PSYCHOLOGIST DOCTOR RACHEL  GOLDMAN DISCUSSING OBESITY WITH  OPRAH IN 2023.  >> WE DON'T WANT TO DEFINE AN  INDIVIDUAL BY THEIR MEDICAL  CONDITION.  >> AND THIS IS AN A.I. GENERATED VERSION OF HER CREATED FROM THAT APPEARANCE.  >> AND THE PINK SALT TRICK.  IT'S 100% NATURAL AND FREE OF  SIDE EFFECTS. IT LOOKS LIKE ME.  IT'S KIND OF ME TALKING, BUT  IT'S NOT ME AT THE SAME TIME.  IT'S VERY WEIRD AND SCARY.  >> BUT EVEN MORE SCARY, GOLDMAN  SAYS, IS THAT PEOPLE ARE FALLING FOR IT. HER OWN RELATIVE TEXTING HER DOES IT WORK? GOLDMAN SAYS  AT LEAST TWO PEOPLE WROTE HER.  THEY BOUGHT IT, INCLUDING A  WOMAN FROM AUSTRALIA. ONE  CUSTOMER EMAILED. SHE WAS BILLED TRIPLE, ASKING GOLDMAN, DO YOU  HAVE A PRODUCT OR DID THEY I THE WHOLE THING.  >> EVERY DAY I'M GETTING  MESSAGES. I WANT THEM TO KNOW,  DO NOT PURCHASE THIS. IT IS NOT, YOU KNOW, SOMETHING REAL THAT  I'M ENDORSING. I'M REALLY JUST TRYING TO GET BACK TO AS MANY  PEOPLE AS I CAN AND SPREAD MORE  KNOWLEDGE BEFORE MORE PEOPLE  PURCHASE IT, OR TRY SOMETHING  THAT COULD POTENTIALLY BE  DANGEROUS.  >> SHE SAYS HER FAKE A.I.  VERSION SHARED INACCURATE  CREDENTIALS. SHE WORRIES 
+[...middle cut...]
+POLICIES.  >> TALKING TO THESE EXPERTS,  LISA, WERE YOU ABLE TO FIND OUT  HOW WE CAN SPOT THESE DEEPFAKES? WHAT ARE SOME THINGS THAT WE  SHOULD BE LOOKING OUT FOR?  >> YEAH, A FEW TIPS YOU WANT.  >> TO LOOK FOR AWKWARD FACIAL  MOVEMENTS, LIP SYNCING. THERE'S SOMETIMES A HISSING, A BUZZING,  AND ALSO LOOK AT THE PERSON'S  HANDS. I'M TOLD I JUST HASN'T  REALLY MASTERED FOLLOWING THE  MOVEMENT OF THE HANDS YET. AND  ANOTHER THING, IF YOU DO SEE A  CELEBRITY OR A DOCTOR ENDORSING  A PRODUCT IN AN AD ON SOCIAL  MEDIA, JUST GO TO THEIR WEBSITE  OR THEIR SOCIAL MEDIA DIRECTLY,  SEE IF THEY ARE ENDORSING IT.  JUST LIKE OPRAH SAID, IF YOU SEE ME ENDORSING A PRODUCT, IT'S  FAKE. AND SHE PUT THAT ON HE
+
+=== ID: oGX3qHKo3nQ ===
+TITLE: Con artists increasingly using AI deepfakes to target Olympians and their fans
+DESC: Artificial intelligence is making it harder to trust your own eyes. AI deepfakes are on the rise and targeting Olympic athletes and their fans.  Red the full story: https://ksltv.com/?p=886971 ----  Socials for KSL TV:  https://twitter.com/KSL5TV https://www.facebook.com/ksltv https://www.instagram.com/kslnews/  Socials for KSL NewsRadio:  https://twitter.com/kslnewsradio https://www.facebook.com/KSLNewsradio/ https://www.instagram.com/ksl_newsradio/
+KEYWORD: AI deepfake
+VIEWS: 485
+TRANSCRIPT: Artificial intelligence is making it harder for us to trust our own eyes. Yeah, it is. Deep fakes on the rise right now. And as Matt Gart reports, they are targeting Olympic athletes. Matt, some Olympians are trying to set the record straight right now. Videos posted of them online making political statements or endorsing products are often fake. Coming off of the Winter Games, liars are targeting Olympic athletes. And they are also targeting you by pretending to be Olympic athletes. All right, pop quiz. What do you think? Is this video real or fake? Michaela Shiffren stopping mid interview to blow up a coat. Okay, now we're good. Actually, this one is real. Shiffron being her quirky self moments after she won gold at the Olympics. I know it's real because I shot it myself. But be honest, you weren't so sure, were you? AI deep fake videos have become a blight on social media and the internet. Just about every celebrity you can imagine has been targeted. And now that includes members of Team USA, says Chris Simpson. And in the case of like Olympians, there's so much video footage of them out there that it's easy for uh a bad actor to make make a video of that uh of that person. Simpson is the director of National University's Center of Cyber Security. Deep fakes hurt the person being imitated, he says, because if people cannot trust what they're saying is bonafide, then real words lose power and they lose marketability. And depending on what the deep fake is saying, it can hur
+[...middle cut...]
+t there misusing my name. Experts say that in a very short amount of time, these deep fakes have become a lot harder to spot. As a consumer, how do I protect myself besides being skeptical and assuming everything's fraud? Yeah. Yeah. That that's probably the best way. All right. The good news now is that something is finally being done to not so much shut down the fakes, but at least help us investigate on our own and determine if a video is real or not. There's a group called the Coalition for Content Provenence and Au Authenticity and they are working on a system that basically adds a digital label to photos and videos so people can check where they came from and see if AI was used. Guess.
+
+=== ID: MaYZfb4DeWI ===
+TITLE: Indian Medic Student Scams Maga Followers With Fake AI Avatar: Here’s How He Did It | N18G
+DESC: A report by WIRED reveals a disturbing new-age scam where AI is used to create hyper-realistic fake influencers. At the center is a 22-year-old Indian medical student who built “Emily Hart,” a fictional American nurse designed to target conservative audiences. With carefully crafted posts echoing MAGA ideology, the account gained millions of views and thousands of followers. Real users paid real money for exclusive content, unaware they were interacting with an AI-generated persona. Experts warn
+KEYWORD: AI deepfake
+VIEWS: 10930
+TRANSCRIPT: In the quiet corners of the internet, where desperation meets opportunity, a strange, almost surreal story has unfolded. A report by The Wired has lifted the whale on a new age scam. One where the corn artist doesn't just hide behind a screen. He creates an entire human being to hide in plain sight. At the center of the story is a 22-year-old medical student from India. low on money, high on ambition, and willing to bend the rules to bridge that gap. According to the report, the man used usual roots, content creation, notes, side hustles. But nothing quite worked until he decided to stop chasing attention and start manufacturing it. Using AI tools, he built Emily Hart, a blonde white American nurse. Charming, confident, and completely fake. But this wasn't random. Every pixel of Emily Hart was designed with an intent. Every post scripted to target a specific audience inside Trump's America. With polarizing views opposing abortion, provocative captions demeaning the immigrants, and a carefully crafted identity echoing Trump's political catchphrase, make America great again. This wasn't creativity. This was calculation. And the internet took the bait. Videos designed to lure the MAGA audience pulled in millions of views. Followers poured in by thousands. And before long, attention turned into money. Subscriptions, private content, merchandise, real people paying real money for a person who did not exist. In this new age digital deception, users believed they were interacting wi
+[...middle cut...]
+ts warn AI has supercharged such scams, making them more believable, more scalable, and far harder to detect. And yet, the most unsettling part isn't the technology, it's the response. Most followers never paused to question if Emily was real, because the idea of her was enough. The belief was enough. And in that space between truth and desire, the scam thrived. The account has since been taken down, the persona erased, but the playbook that remains. This story is not just about one fake profile. It's about a rapidly evolving digital world where identities can be fabricated, trust can be engineered, and where scams don't look like scams anymore. They look like people who aren't real. [music]
+
+=== ID: oNuvl_ymLQM ===
+TITLE: Social Media पर वायरल MMS का सच? AI Deepfake का दावा |“Viral Video का सच?” | Ultra AI India #news
+DESC: Social Media पर वायरल MMS का सच? AI Deepfake का दावा | Ultra AI India” Behind the Scenes of Sofik SK's Viral Video Explosion!  500K New Followers: The Story Behind Sofik SK's Viral Moment!  Sofik SK's Rise to Fame: What Happened After the MMS Leak? Sofik SK: Turning Controversy into a 500K Follower Success!  A video claimed to be a “19-minute MMS” is going viral on social media. Many users are  searching for it using different keywords, while others are calling it an AI-generated deepfake.  Howe
+KEYWORD: AI deepfake
+VIEWS: 49
+TRANSCRIPT: [संगीत] दोस्तों सोशल मीडिया पर इन दिनों एक वीडियो को लेकर काफी हलचल मची हुई है। Instagram और अन्य प्लेटफॉर्म्स पर एक कथित 19 मिनट का एमएमएस वायरल होने का दावा किया जा रहा है। लेकिन इस वीडियो की ना तो कोई पुष्टि हुई है और ना ही इसके स्रोत को लेकर कोई आधिकारिक जानकारी सामने आई है। कुछ यूज़र्स इसे असली बता रहे हैं। जबकि बड़ी संख्या में लोग इसे एआई जनरेटेड या डीप अफेक्ट बता रहे हैं। सोशल मीडिया पर कई बार ऐसे वीडियो वायरल होते हैं जो एडिटेड या पूरी तरह से फेक होते हैं और इस वजह से बड़े स्तर पर गलतफहमियां और भ्रम फैलता है। इस वायरल वीडियो को खोजने के लिए यूज़र्स अलग-अलग कीवर्ड्स, नाम और सर्च पैटर्न का इस्तेमाल कर रहे हैं। Google ट्रेंड्स पर भी इस विषय से जुड़े सर्च अचानक बढ़ गए हैं। लेकिन अभी तक किसी भी विश्वसनीय स्रोत ने इस कथित वीडियो की पुष्टि नहीं की है। कई विशेषज्ञों का कहना है कि एआई और डीपक टेक्नोलॉजी के कारण ऐसे वीडियो बनाना आसान हो गया है और यह लोगों की निजी जिंदगी और डिजिटल सुरक्षा के लिए एक बड़ा खतरा बन चुका है। प्लेटफॉर्म्स और साइबर विशेषज्ञ लगातार अपील कर रहे हैं कि बिना पुष्टि किए किसी भी वीडियो को वायरल ना करें क्योंकि इससे निर्दोष लोगों की [संगीत] प्रतिष्ठा को नुकसान पहुंच सकता है और कानूनी कार्रवाही की भी संभावना रहती है। इंडिया टीवी और अन्य मीडिया संस्थानों ने भी 2023 साफ कहा है कि इस तरह के वायरल वीडियो की वे कोई पुष्टि नहीं करते। अल्ट्रा एआई इंडिया की सलाह सोशल मीडिया पर वायरल कंटेंट को लेकर सावधानी बरतें और अनवेेरिफाइड दावों पर भरोसा ना करें। [संगीत]
+
+=== ID: 555Lc2dwp3E ===
+TITLE: Remove Annoying Google AI From Search Results
+DESC: How to remove AI results from appearing at the top of Google search results. Bonus tip: preventing TikTok videos from appearing in the search results if you don't want those either.  Here's the text you need to copy:  {google:baseURL}/search?udm=14&q=%s  Make sure you copy/paste the text exactly as appears above.  🎥  Gear Discussed/Used in Video Fujifilm XT5: https://geni.us/p5vnF YouTube Gear: https://kit.co/pal2tech/youtube-studio-setup  My Current Kit: https://kit.co/pal2tech  Gear shop: http
+KEYWORD: stop AI
+VIEWS: 86067
+TRANSCRIPT: It has been a while
+since I've done a Tech Monday. Let's fix that right now. Hi everyone and 
+welcome to pal2tech. I've been using Google to 
+search the web since it looked about like this. And over the years, Google has 
+added new features and new technology to make it more 
+helpful so that I can find the information that 
+I'm looking for. However, lately there is that 
+old saying that keeps coming to my mind. Just because you can add 
+something doesn't mean you necessarily should. And that leads me nicely along 
+to the newest feature that Google has now added 
+AI results, which appear right here at the
+top of your search. Now, I can make an entire video 
+on the pros and the cons of AI technology, but for 
+today's video, I'm going to show you how you can get your 
+old search results back. The tip that I'll be giving you 
+today will work in both Windows and Mac on the Chrome browser. Let's say you want to look up 
+how to install a ceiling fan. You click on search and
+you get all of this. You see that right here. Now, I think Google themselves 
+have already realized the problem that this is because 
+they recently launched this area right here. Notice that when I conducted 
+the search, it was under the all. That's the default. But if I go over here and I 
+choose web boom, now you have what looks like the old search 
+results we know and love. And that were very useful. The problem is that when you 
+conduct a search right from the initial Google Home page, 
+or where most people d
+[...middle cut...]
+e's how to
+get rid of those. When you are adding that crazy 
+string of text that I showed you, just put a space 
+right after it and put a minus sign and then tiktok.com. So now when you conduct 
+your search, if you click over to videos, you'll still
+get all the helpful videos. But all videos from TikTok 
+are gone now. I didn't cover 
+using mobile devices. However, I am sure if you go 
+to Google, you'll also find articles on how to modify your 
+smartphone browsers so that you can avoid having those 
+AI results appear. Anyhow, thank you so
+much for joining me on today's Tech Monday. If you like today's video, 
+give it the like and subscribe and I'll see you in
+a new video very soon. Take care.
+
+=== ID: vyYIEwYc5eQ ===
+TITLE: Trump’s push to stop AI from being woke feels ‘dystopian’
+DESC: Comedian Alex Stein has lauded US President Donald Trump for claiming America will win the global AI race.  “When it comes to trying to make it not woke, isn’t that very dystopian?” Mr Stein told Sky News host James Morrow.   “Isn’t that crazy? We have to formulate laws in order to protect ourselves from the future of Artificial Intelligence.”
+KEYWORD: stop AI
+VIEWS: 2550
+TRANSCRIPT: I'm glad you mentioned AI because the the president, Donald Trump, has signed a bunch of executive orders on AI. And one of the things that I found really interesting here is that he wants to crack down on what he called woke artificial intelligence models. And I think some of us have seen some of the things these AI models spit out. What do you reckon about this move? Well, you know, personally, how I feel. If AI wants to be racist, then AI could be racist. I don't want I mean I know that is probably bad and I know that Donald Trump's going to get it so it's not woke and telling kids that boys can have babies but I also think that AI is a threat to a lot of people in their workforce. It's going to take out a lot of people. You know it's going to like I said it's going to kill a lot of industries and a lot of people are going to be out of work because of it. But when it comes to try to make it not woke I I just Isn't that very dystopian? Isn't that crazy that we have to formulate laws in order to protect ourselves from the future of artificial intelligence? Like it's just a thought that I wouldn't have been able to comprehend just a few years ago. And now we have to put in legislation to make sure that it's not too woke or not too racist. So honestly, if AI was to go rogue and spit out the truth, I I kind of uh I'm a free speech absolutist. I want AI. If it's going to be racist, then let it be racist. If it's not going to be racist, then let it not be racist. I want to know the true AI. I want to know its real identity. I don't want to sugarcoat it or or you know give us some sort of false impression that it's a good guy when in reality AI is more than likely you know the bad guy. Yeah, look I agree with you 100% on that. Alex Stein, thanks so much for joining me
+
+=== ID: KIYgGhnQ0SA ===
+TITLE: This AI Aimbot Device Is Taking Over Console Gaming… and No One’s Stopping It
+DESC: The Titan two Computer vision AI Aimbot on console  Zeus Coaching! https://zeuscoaching.carrd.co/   Fitness Channel - https://youtube.com/@ZeusofFitness?si=Y4Dq9hx4emN0yjmq  Streaming Youtube channel -   https://youtube.com/@zeus_live?si=WVGjtZDvd7lqF1k5  TikTok! https://www.tiktok.com/@zeusofapex  Twitter! https://twitter.com/Zeusofaimassist  Instagram! https://www.instagram.com/yt_zeus/  Join this channel to get access to perks: https://www.youtube.com/channel/UC7-bSJrZzmHzhJqtJegEAdA/join
+KEYWORD: stop AI
+VIEWS: 346274
+TRANSCRIPT: There's significantly more cheaters on PC. Significantly. Meanwhile, everyone on this top five list is using a Titan besides Josh B. Just for the record, every single one of them here is using Titan. And if you love Sim and Cronis in Yeah, but like okay, they have no recoil. But they're still zero IQ. So if I just outplay them, it's easy. But going against someone with literally perfect tracking aimbots is impossible. So this is like this is crazy. What are you? An idiot sandwich. All memes aside, Mandy is far from an idiot sandwich. Even I thought the Zens and the Strikebacks on console was the biggest problem it was facing. And I couldn't have been more wrong if I tried. The Titan has completely and utterly taken over console in a very short period of time. And in this video, I'm going to explain you what the Titan is, exactly what it does, how many people are using this device, and what needs to be done in order to stop this epidemic from taking over. Because currently, a thing called AI aimbot is taking over console, and the Titan is to blame. So, in order to understand the Titan, I'm going to first explain to you the Cronis, the Strike Pack. Most of you guys would know this is a device that you can preload scripts onto, which vary from game to game, but a game like Apex, the most powerful scripts are movementbased ones [snorts] and recoilbased scripts. So, it can turn even the worst players gun into an absolute laser beam. But the thing it's incapable of doing is aiming 
+[...middle cut...]
+n I did in this video, but people have short attention spans, so I decided to keep this clear and concise. If you guys are looking to turn your life around, lose some fat, gain some muscle, I'm helping people do that. Here you can see someone that's worked with me for only seven weeks and has lost 10 kilos of fat and already looks drastically different in such a short period of time. If that's something you're interested in, let me know. Set up a video call with me and we can go through everything. Anyway, peace out. Have a wonderful day. I'll see you guys in the next one. Mighty Zeus, god of thunder from down under. Anybody have a lozenge? That really I might be bleeding in the throat right
+
+=== ID: mOh8TAm6XvQ ===
+TITLE: YouTube looks to get rid of fake AI videos on its platform
+DESC: YouTube says it wants to get rid of fake AI videos flooding social media feeds on its platform. CBS News MoneyWatch correspondent Kelly O'Grady explains what's driving the change.  Each weekday morning, "CBS Mornings" co-hosts Gayle King, Tony Dokoupil and Nate Burleson bring you the latest breaking news, smart conversation and in-depth feature reporting. "CBS Mornings" airs weekdays at 7 a.m. on CBS and stream it at 8 a.m. ET on the CBS News app.  Subscribe to "CBS Mornings" on YouTube: https:/
+KEYWORD: stop AI
+VIEWS: 82228
+TRANSCRIPT: Here to explain, CBS News Money Watch correspondent Kelly O'Grady. Kelly, good morning. So, what is driving this push to clean up this AI content and then what protections are out there that YouTube will put in place? So, I mean, there's just been an explosion of that lowquality content as you said to the extent that over a million YouTube channels each day in December used AI technology in creating those videos. So, it is a lot and that creates a number of issues. One, you have viewer trust issues. You've got these deep fake videos that look really real and people don't know if they are. And so that also leads to the platform becoming lowquality as a whole potentially and all of those AI slot videos sort of crowding out legitimate creators trying to make a living trying to bring us good content. And that's by the way is not good for advertisers or brands either. No company wants an ad running next to a bad AI video. You asked about protections. YouTube specifically does require any creator that has created an AI generated video to say so their tools specifically if you use a video or you create a video using their tools there is a label that comes out label there so you know exactly exactly and then in general the algorithm tries to downrank lowquality content doesn't always work and it often comes down to people having to do this when things are evolving so quickly so open AI the company behind chat GBT they announced that they are launching a new age protection tool. Um, h
+[...middle cut...]
+ot just going to rely on, you know, your self-reporting, right? Because what kid is going to do that? It's also going to look at your uh activity as well as your usage and your account history to try and determine, okay, is this person under 18? If they do, then they're going to be protections around sensitive content. Think graphic violence, body shaming, sexual content. Okay? If it gets it wrong and you're saying, "Hey, no, I'm actually above 18. You can use your government ID to prove that. And of course, this comes when OpenAI is facing a lot of scrutiny from parents, from regulators of what this platform is doing to their kids. Such an ever evolving industry. Kelly O'Grady, thank you so
+
+=== ID: cMO20l3IiLI ===
+TITLE: This AI K-pop YouTuber Is Fake!
+DESC: SUBSCRIBE OR ELSE  This AI K-pop YouTuber Is Needs To Stop! This AI K-pop YouTuber Is Fake! Something Is Wrong With This AI K-pop YouTuber!  📺 SPOTIFY: https://open.spotify.com/show/10wjmo3tQAwudHp9xBrrn5?si=188eda87d0db451f 🎮 DISCORD: https://discord.gg/gxkDhEwTbP 📸 INSTAGRAM: https://instagram.com/gliderguyyy 🐦 TWITTER: https://twitter.com/gliderguyy  #GliderGuy  Main Channel: @GliderGuy  Second Channel: @GliderGuy2  Streaming Channel: @GliderGuyLive   Business Email: gliderguyinquiries@gmail.
+KEYWORD: stop AI
+VIEWS: 11336
+TRANSCRIPT: Stupid roomy. Your purple Cappy is now gold and my gold [music] one is purple. Wow, aren't you an evil witch? Maybe if you weren't completely AI generated, I'd actually be able to understand what you're doing here. This AI K-pop animator is actually ridiculous. Now, this channel right here is called Toonzilla. It genuinely has over a million subscribers with only 22 videos. I seriously don't know how that's actually possible. There is something I really need to investigate here. But they basically make AI K-pop demon hunter animations on YouTube where K-pop meets chaos. Yeah. All right, then. Without wasting any more time, let's look at the biggest videos on this channel. 71 million views. And now the competition. Merror with the gold Cappy and Room with the purple Cappy. Room's purple Cappy. A pretty low score. Guys, don't you dare [music] subscribe or hit like or Roomie will realize I swapped the paint. What are you talking about? Can you sync up your mouth movement to what you're actually saying here? Also, I totally understand what is going on right here and why she's just said that. Trying to appeal to the kid viewers integrity by trying to get them to do the right thing by telling Roomie that she swapped the Cappy bars. My god, what an absolutely pathetic way to engagement farm here. Almir's gold Cappy [music] a perfect 10. Could the owner of the purple Cappy Okay. Whoa, whoa, whoa. The gold Cappy didn't even do anything here. Why is everyone sitting there acting like h
+[...middle cut...]
+he's still in there. Just let me go. No, stay here. It's my job. [music] What do you mean she's still in there? She literally followed you out of the truck. What is this story line? All of a sudden, she teleported back into the truck which is now in the middle of the ocean somehow. Don't know how the hell that happened. I literally watched the entire story so far. And I don't know how that happened. Look, if you're going to make K-pop demon hunter AI animations, right, and you've literally got a million subs, just find a better way to actually make them believable. Oh my god. Anyways, click the video on screen right now because YouTube thinks you'll enjoy it. And I'll see you all over there.
+
+=== ID: OvLCY2F_3MA ===
+TITLE: Hackers are using AI to win. 3 ways to STOP them in 2026.
+DESC: Are AI attackers winning the cybersecurity war? In this video, I sit down with Daniel Miessler, a 25-year security veteran, to discuss the terrifying reality of AI-driven cyber attacks and the massive advantage hackers have today. But it is not all doom and gloom. Daniel introduces his open-source project, PAI (Personal AI Infrastructure), demonstrating how you can build a customized, local AI assistant to automate your workflow, defend your data, and level up your tech skills. We cover everythi
+KEYWORD: stop AI
+VIEWS: 317443
+TRANSCRIPT: It feels like attackers have a huge advantage with AI. You you see it in the news all the time where attackers are writing, you know, fishing campaigns or creating fishing campaigns. They're writing, you know, good emails. It it feels like AI for all the talk about how it's going to make our lives better is actually being used very heavily to attack people. For hundreds of years, we've been training workers to work for special people. the business world in general they are trying very hard to get to the state where they could do all the work themselves and that's where all this a lot of this AI investment is actually going how can I get rid of my human employees so the idea here is moving from out of chat bots out of just an agentic platform that's kind of generic that's just for generating code and into something that's sort of built around the person is is the main concept but two major concerns security and privacy right if someone hacks your system. They've got your life. All security boils down to how good is your AI compared to the attackers's AI. Everyone, it's David Bumble back with a very special guest, Daniel. Great to have you back on the show. Yeah, thanks for having me back. So, I was looking, it's about almost two years ago that you were showing me your other tools. So, perhaps you can tell us about that and then tell us what you've been up to because you have been in this game for a long time, very well known in the security industry. you've created a bunch of 
+[...middle cut...]
+rst couple courses. Yeah. Daniel, I want to thank you so much for sharing. I want to thank you for creating these tools, putting them on GitHub. You've been doing this for years, creating amazing tools, amazing stuff to help people in the community in the security. you no sort of niche, but now in the AI niche as well. And I love that you're making this not just about like a security product. It's about helping people improve their lives, helping them turn stuff on in their lives so that they see themselves as more valuable than perhaps they saw themselves in the past. So, thanks so much for sharing. Really appreciate it. Yeah, thank thank you for having me and thanks for uh getting the word
+
+=== ID: f9MbhNJ5EIU ===
+TITLE: Don't Buy Stuff from Old AI People
+DESC: Get a 14 day free trial from my sponsor Aura and to safeguard yourself from identity theft! http://Aura.com/pleasantgreen  Have you ever seen ads from Grace Bags or Henry's Watches? Them, and brands like them are using AI to create ads and I want to warn you about them!
+KEYWORD: stop AI
+VIEWS: 3457104
+TRANSCRIPT: So, a while back, I started noticing some ads for a company called Grace Bags. And the story goes that Grace, a kind-hearted elderly woman, has been handcrafting beautiful leather bags for years. But it's the end of an era for Grace. So, she's holding her farewell sale. Grace is offering up to 80% off in her farewell sale. Once they're gone, they're gone for good. Don't miss out. I thought, "Oh, how nice." And then I kept scrolling, but the sponsored ads kept popping up trying to reel me back in. And I thought, you know, maybe I ought to check these out. But then I started to get a little suspicious about this Gracew woman. Wait a minute. Is she even real? I take her photo over to site engine.com, which is able to detect whether or not an image is made from AI. And it turns out this picture is. Wait, what? There's no Grace? Who then is making these highquality handcrafted leather bags? And who are all these people raving about them? These aren't just bags. They're pieces you keep forever. Grace and her husband have spent over 34 years perfecting their leather bags. Imagine carrying a bag that holds 30 years of love, dedication, and craftsmanship. Okay, something's definitely off with this guy. Nobody gets this emotionally invested in a leather bag. So, I'm going to try to find out who he is. I use a tool called Pimise. It's pretty good at scanning faces and uncovering where else they've popped up online. And what do you know? I think I found him. Are you wondering how hair lo
+[...middle cut...]
+ buy a bunch of Alibaba watches and mark them up a h 100red bucks. Discover timeless elegance with Ben's watches. The finest handcrafted time pieces you can own. Each watch is built with precision, passion, and premium materials, making it more than just a watch. It's a statement. Ben's watches, where craftsmanship meets class. Available now, but not for long. So, what are you waiting for? Go to bendoverwatches.com and get a piece of history today. I'm just kidding. Don't do that. Please buy it responsibly and think critically when you're shopping online. Well, I hope this video has given you some things to think about and watch out for. And I really hope that I'll see you in the next video.
+
+=== ID: co7b8Y71BlE ===
+TITLE: stopping AI from taking your job by taking AI's job
+DESC: this was for a final project in my ideation class, i hope you like it lol also stream my song "ceiling" out now!
+KEYWORD: stop AI
+VIEWS: 157334
+TRANSCRIPT: Are you tired of being met with horribly disturbing AI generated images every time you open your phone? Are you sick of every social media app, website and smart device implementing unnecessary AI features? And do you ever worry about the future of AI? and if one day... you might be replaced with AI?? Well, no need to worry anymore. Hi, I’m Philip Smith CEO and founder of HI Enterprises. In the year 2025, AI seems to have taken the world by storm infesting it’s eerie images and misinformation into our everyday lives Millions of people around the globe lose sleep wondering what the future of AI consists of, and if that future... is dark. That’s why I’d like to introduce to you: H.I. also known as “Human Intelligence.” Here at HI Enterprises we have created thousands of websites and apps designed to look like they’re run by AI when really, they're run by real humans just like you. We hire thousands of new human employees every month to accurately answer your critical questions such as: “Does the death of a priest count as a promotion or a resignation?” “Can I smoke cigarettes if I’m pregnant?” and also: “How many cigarettes can I smoke if I'm a pregnant woman if pregnant woman are allowed to smoke when pregnant?” We also can create fascinating and creative images to your desire and we are simply here if you just need someone to talk to. Our main goal is to clear out as many AI run apps and websites as humanly possible while also employing people with more jobs making the job ma
+[...middle cut...]
+we have little to no knowledge about. Have none of you seen The Matrix? "Oh, but I wanna know what I look like as a Bratz Doll!" "I wanna know what I look like as a Studio Ghibli character!" OH MY GODDDD!!! OH MY GOD- That's why I created H.I. I had a vision; a dream. That we could stop AI together, one human at a time. So say goodbye to AI, and hi... ...to HI. say hi to HI. say hi to... and say- and say HELLO to HI. I should've said that. HI Enterprises: I look like Jeffrey Dahmer That's not a good thing. There's been a police car sitting outside of my dorm for the past like 30 minutes. They're still there. They found out that HI Enterprises is actually just like a sweatshop. NOT FUNNY! ok.
+
+=== ID: lHfE0fQ2gAk ===
+TITLE: Parem de usar IA em animais… ninguém AGUENTA MAIS
+DESC: No vídeo de hoje eu reagi a vídeos de IA com animais que saíram completamente do controle. Tem cachorro fugindo da polícia de moto, esquilo armado, pitbull dançando e várias coisas que claramente não deveriam existir. Bom vídeo pra vocês :)  obrigado por assistir s2  Meu canal de games: https://www.youtube.com/@T3ddySóQueGames  Instagram: http://instagram.com/t3ddyyyy Twitter: http://twitter.com/t3ddyyyyy Reddit: https://www.reddit.com/r/famil T3ddy só que cortado: https://www.youtube.com/channe
+KEYWORD: stop AI
+VIEWS: 434694
+TRANSCRIPT: Olá, galera, tudo bem? Olha o que que eu recebo da minha mãe. Presta atenção. O Johnny tá lá, né, na casa dos meus pais. Ó o que que ela manda. Vê se tem necessidade disso. Eu já mandei áudio para ela falando: "Mãe, tem necessidade disso? Não tem a menor, não precisa." Igual aquele outro vídeo que a gente fez sobre pessoas que usam IA em objetos. Não tem porqu. Tem coisas que não precisam de inteligência artificial. Eu sei que a gente gosta dos animais, só de lembrar eu já racho. Eu dou risada de animais dançando, mas se você for parar para pensar, não precisa. O animal não precisa dançar em formato humano. É estranho, tá ligado? É estranho. Isso causa até um pouco de de problema, né, gente? Porque, por exemplo, olha esse vídeo aqui de um cara que que foi pegar um saruê na telha, mas ele lembrou daquele vídeo. Que vídeo? Esse vídeo aqui, ó. Ele tá lá. prestes a pegar o saruê que eu nem sei o que que é. Meu editor colocou para vocês, mas eu mesmo não sei como é que eu tô no seu quintal comendo aranha, comendo escorpião, comendo cobra, [risadas] comendo carrapato, comendo de tudo e você quer me dar uma paulada só porque eu sou feio, meu filho, só mulher feia, você é feio e eu não tô pr você. Eu tô lá ali ajudando no seu quintal, limpando os bichos que você não gosta e você quer fazer mal para mim. Olha isso, ó. movimentaçãozinha de mão dele. Isso é muito esquisito. O Saruet dialogando como se fosse um um uma Ai, a minha adicção falha. Não aguento. Eu tô falando até mais fino. T
+[...middle cut...]
+ada que uma dança não resolva. Diferente disso daqui, ó. Ó, [música] olha que [música] para qu Não, não. [música] Bad vibes total. Bad vibes total. Não, não. Por que que ele foi fazer isso? [música] Por E ele tá voltando aí. Ele tá voltando aí, mano. Ele tá voltando aí. Ele voltou. Voltou vivo. Voltou vivo. Voltou vivo. Voltou vivo. É, ele só queria ter um pouquinho de adrenalina. Ele só queria viajar de foguete um pouquinho. Boa. Que bom, mano. Eu pensei que a gente ia finalizar o vídeo numa bad vibes, mas foi numa vibe boa. [música] Escreva-se agora. Não [música] gasta nenhum dinheiro. Não importa o que você pensa para sempre. Eu te quero mais. Se inscreve, não vai ser [música] então você.
+
+=== ID: 71FjO5VdCoU ===
+TITLE: How to Remove Meta AI on WhatsApp 2025 | Delete or Disable Meta ai on whatsapp
+DESC: I'll show how to remove meta ai on whatsapp, how to delete meta ai on whatsapp and how to disable meta ai in whatsapp. This is also searched as how to turn off meta ai whatsapp, how to remove ask meta ai from whatsapp and whatsapp meta ai remove. Over the past few months, WhatsApp has introduced and progressively rolled out an AI feature on its platform. However, now that the majority of users have access to the feature, its reception has been met with criticism from some users.  Also Don't Forg
+KEYWORD: stop AI
+VIEWS: 11149
+TRANSCRIPT: Over the past few months, WhatsApp has introduced and progressively rolled out an AI feature on its platform called the Meta AI. However, now that the majority of users have access to the feature, its reception has been met with criticism from some users. The backlash arises from several issues, including the forced integration of the feature with no option to disable it. additionally,Accidental clicks on AI prompts, especially the AI button located at the bottom right corner, have led to unwanted interactions. Currently, there is no official option to disable Meta AI. However, I found a walkaround that may help some users as it worked for me. But I'll still keep you updated on any further changes. Before we dive into the details, if this is your first time visiting the channel, please hit the subscribe button and turn on the notification bell for more updates. Now to remove the Meta AI option, here is the walk around. Open WhatsApp, then click on the three dots in the top right corner and select settings. In the settings menu, navigate to the app language section. Now from here, I discovered that the AI feature appears when the app language is set to English. Therefore, you need to change the app's language to your native language Or any other language you understand other than English. After changing the language and returning to the app's home screen, the Meta AI button should disappear. At least it did for me. So this is the simplest walk around as we wait for WhatsApp to be able to introduce an option of disabling this meta AI.
+
+=== ID: rbS3CLSOeoU ===
+TITLE: I’m quitting using AI as a CEO (and why you should too!)
+DESC: Welcome back to The Diary of a CEO BTS with Steven Bartlett from Dragon’s Den.  Click here to pre-order your book!! https://www.justfckingdoit.com/  If you use ChatGPT daily, you HAVE to watch this before it’s too late. Most people are running at 30% of its potential and quietly training their brain to take the easy path. This episode shows you the simple guardrails and habits that keep your thinking sharp while getting more from AI.  Over the past year, I’ve rebuilt how I use ChatGPT across res
+KEYWORD: stop AI
+VIEWS: 469315
+TRANSCRIPT: Guys, we need to talk about this new study from Chachi PT cuz it has frankly scared me and it's also changed the way that I'm using chatt and I think if I was having kids right now or if I had kids right now, I would want to know exactly the harm that chatt could be doing to my child's brain and how it could be impacting their creativity and their ability to think and innovate. Also, in this episode, I'm going to talk to you about an app that I've been using that's been a game changer for me. It's helped me become more productive and get more done with less time. I'm also going to talk about the time that I got hacked. And as I'm driving to work, I see on my mobile phone with emails coming down, we've been hacked overnight. I've not really talked about on this channel publicly before. And lastly, I learned something about the brain, which I think is the secret to making a good podcast, making content, being good at marketing, being a good public speaker, and it comes from something that I learned in neuroscience. So, we're going to talk about all of those things in this episode. So, let's do it. Let's go. Let's go. Let's move fast. Quick. Will quick do a cup. I have no idea what he means here, but please subscribe. Oh. Oh my god. This is pretty terrifying. [Music] I am uh sat here in my cyber truck. The car is driving itself. Actually, I wanted to talk to you about something somewhat related, which is artificial intelligence. Ultimately, this car is driving because of AI. How
+[...middle cut...]
+ you and I'll see you later. Camera team were like, "Steve, you need to set up two lights. One needs to be a hair light. The other needs to be a main light. And you need a back light and a side light and a front light. We need to make this glossy. [ __ ] glossy. This is real. I look like I'm next to the [ __ ] sun. [Music] This is YouTube's worst lighting. [ __ ] dandruff on my top. Are disconnected. One of these has got to work. Hello. This is all going to be a bit impromptu cadence on my laptop. Oh [ __ ] This is what they don't show you about making YouTube videos. It's spilling your investments into your computer and then cleaning it up with the socks you were planning to put on. [Music]
+
+=== ID: STH25w7_d8U ===
+TITLE: bro somebody's gotta STOP this AI
+DESC: Asmongold Clips / Asmongold Reacts To: getting cancelled for sure   On this Asmongold Clips Youtube Channel you'll never quit finding all the funny Asmongold Moments with Mcconnell and the best Asmongold Highlights from the most popular games, like: Baldur's Gate 3, Helldivers 2, Starfield, Blizzard Diablo 4, The War Within & Hardcore Classic WoW, the record breaking MMORPG FFXIV, Path of Exile 2, sneak peeks from Gameplay of the upcoming Riot MMO and playthroughs of many other popular games lik
+KEYWORD: stop AI
+VIEWS: 645164
+TRANSCRIPT: Dolly 3 is out of control what is this oh my God bro oh my God Jesus bro somebody's going to stop the a bro somebody's going to stop this AI the user report edri and cran ji spam bro people are going all the way with this oh my God
+
+=== ID: 8tsbV4OC1ws ===
+TITLE: Stop Letting AI Sabotage Your Resume!
+DESC: 👉Download The SMART Job Seeker's Guide to Achieving Success: https://go.fly-highcoaching.com/offer   📥 Get the Free Resource  If you’re serious about landing your next role faster and positioning yourself as a top candidate, download our proven framework.  This guide will help you: Clarify your career direction Strengthen your professional positioning Avoid the most common job search mistakes Create a strategy that actually gets results  Are you using AI to write your resume—and not getting inte
+KEYWORD: stop AI
+VIEWS: 17
+TRANSCRIPT: AI tools like chat GBT and resume builders promise to make your job search easier. But after working with thousands of professionals and executives over the last 12 years, we're seeing a growing problem. AI generated résumés are quietly sabotaging qualified candidates. Not because AI is bad, but because most people don't know how to use it strategically. In this video, we're going to show you the biggest AI ré mistakes professionals are making, why recruiters can instantly spot AI generated résumés, and how to use AI the right way so it strengthens your positioning instead of weakening it. If you don't know me, I'm Porsche of Fly High Coaching, where we've helped thousands of executives and professionals soar to their full potential in their careers. If you're using AI to write your resume, you might unknowingly be blending in with thousands of other candidates, removing the strategic positioning that gets executives and professionals hired, and confusing hiring managers with your real value. Today we will break down the hidden problems with AI written résumés, why AI removes the strategic thinking recruiters expect from experienced professionals, and how to use AI as a tool, not a crutch, to build a stronger resume. So, first the first issue I'll say is that AI is making résumés sound the same. AI tools are trained on massive data sets, which means that they often produce generic templated language that looks polished, but it lacks differentiation. For professionals competin
+[...middle cut...]
+out. The professionals who succeed today aren't the ones avoiding AI. They're the ones who know how to use it strategically. If all of this sounds like a lot, feel free to reach out. We have a team of professional ré writers who can take this pressure off of you and off of whatever AI tool you're using. If you want help positioning your experience so recruiters and hiring managers immediately understand your value, we've created a resource to help. Check out our Smart Jobsekers Guide to Achieving Success linked below. And if this video helped you rethink how you're using AI in your job search, make sure to subscribe for more career strategies designed for ambitious professionals and leaders.
+

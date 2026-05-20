@@ -1,14 +1,26 @@
+# --- secrets ---
 .openrouter_keys
 *.openrouter_keys
 .groq_key
 .openai_key
 .*_key
 .env
+.env.*
+*.pem
+
+# --- raw scrapes (>1GB each, also not redistributable) ---
 */data/raw/*.json
-*/data/*_filter_llm_progress.json
-*/data/*_progress.json
-tiktok/data/filter_llm_progress.json
-*/data/whisper_transcripts/*
-*/data/tiktok_transcripts/*
+
+# --- files over GitHub's 100MB per-file hard limit ---
+# Mirror these to Zenodo / Drive / LFS, do not commit to git.
+youtube/data/youtube_ai_backlash_filtered.csv
+youtube/data/youtube_ai_backlash_verified.csv
+youtube/data/youtube_ai_backlash_final.csv
+youtube/data/youtube_positive_positive_filtered.csv
+youtube/data/youtube_positive_classified.csv
+
+# --- python noise ---
 __pycache__/
 *.pyc
+*.pyo
+.ipynb_checkpoints/

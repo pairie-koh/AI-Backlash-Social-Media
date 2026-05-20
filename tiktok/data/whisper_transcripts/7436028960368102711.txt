@@ -1,0 +1,1 @@
+Chad GPT alone processes about 200 million requests daily, consuming over 500,000 kilowatt hours of electricity per day, equivalent to the daily energy use of 17,000 U.S. households. The energy demand for powering A.I. is so substantial that multiple major technology companies are planning to use nuclear reactors to power their A.I. operations.

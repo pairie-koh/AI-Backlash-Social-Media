@@ -1,0 +1,1 @@
+Don't make AI believe things that are false. Like if you say the AI that axiom A and axiom B are both true, but they're not, but it must behave that way, you will make it go insane.

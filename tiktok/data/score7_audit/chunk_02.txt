@@ -1,0 +1,462 @@
+=== ID: 7610826808367271182 ===
+DESC: How much water does it cost to generate one AI image?  Good question, but not necessarily the right one. Instead, today we’re asking WHY data centers need so much water to function, beyond the headlines.  Follow Future in Bloom for more on Solving the AI Power Problem. 
+KEYWORD: AI data centers
+PLAYS: 1100000
+TRANSCRIPT: Data centers don't need to use a lot of water. They do because we chose the laziest cooling design and then scaled it across a trillion-dollar industry. See, AI servers generate a lot of heat. In order to get rid of that heat, most facilities use evaporative cooling. That means that water is sprayed and allowed to evaporate to reduce the heat. A typical hyperscale data center can consume over 200 million gallons of water a year just to cool its equipment. That's the equivalent of a town of tens of thousands of people using water for a year. The better solution is liquid-based cooling, or sometimes called direct-to-chip and immersion cooling. Instead of dumping heat into a room in evaporating water, liquid systems move heat directly off the chip with higher efficiency. Because liquid transfers heat thousands of times more effectively than air, these systems can run in closed loops that dramatically decrease water loss, up to 90% according to industry pilots. To make this mainstream, we need three things. First, design construction defaults that assume liquid cooling for all new builds. Two, we need transparency standards around reporting water use and cooling types publicly. Three, we need policy incentives that treat cooling as infrastructure, not as an afterthought. And if we do this, we don't just get lower water use. We get better performance, lower energy consumption, and most importantly, less community conflict. See, water-intensive data centers aren't a given. they're a design problem we can fix. This is episode five of solving the AI power problem. Follow along to learn more.
+
+=== ID: 7585030935968582943 ===
+DESC: They want to put AI Data Centers in Space #carterpcs #tech #ai #datacenter 
+KEYWORD: AI data centers
+PLAYS: 228400
+TRANSCRIPT: Well, turns out nobody wants an AI data center in their backyard. So they're thinking for the next best thing. Where do we put them? We need more space. We need more sp- What if we put them in space? Yeah, this is a real idea, by the way. Let's go through the pros and the cons. Starting with the pros, at least the data centers won't be here anymore. So less pollution, cheaper power bills. They would just power them with the sun and they wouldn't have to deal with any of those annoying regulations that they ignore anyway. As for the cons, there's a lot of things just floating around in space. like elon satellites space debris asteroids and if a space data center got hit by one repairing it would be very difficult cooling them without air or water would also be very difficult and finally probably the biggest con it would definitely make elon a trillionaire and like why carter here
+
+=== ID: 7621579103929388319 ===
+DESC: Meta's $27 billion AI data center is under construction in Richland Parish, Louisiana. But the future of advanced tech is also bringing chaos to residents of the rural county. Fortune AI reporter Sharon Goldman visited the town in February to hear concerns about the data center—and who really wins at the end of it. #AI #Meta #datacenter #news #tech 
+KEYWORD: AI data centers
+PLAYS: 355500
+TRANSCRIPT: Meta's new $27 billion AI data center is causing chaos in a small town in Louisiana. In February, I flew down to Louisiana to Richland Parish, a rural county where Meta is building a mega AI data center. Just to put it in perspective for you, this AI data center is 4 million square feet, 2,250 acres. That's roughly 70 football fields. When I was in Richland Parish, I spoke to over a dozen residents and really got to hear their concerns. People are talking about how their rents are going up because there are thousands of workers coming from out of state staying in these massive RV parks. I also spoke to local businesses that are suffering. While there are definitely businesses that are making money hand over fist, you're also finding small businesses that are struggling because they can't get in with the right people or get the right catering jobs for the meta workers on site, for example. And then you're also just seeing a tremendous amount of noise and bright lights. This is a massive site that's brightly lit all night long and people just see a halo over their house. It's important to keep in mind that this area of northeast Louisiana has typically struggled with jobs, with poverty, and this AI data center is considered to be an economic boom opportunity for the whole region. A lot of people ask me whether these mega AI data centers are worth the disruption. I can tell you that I've now visited five across the country in Texas and Michigan and in Arizona, as well as Louisiana. And I can say it's hard to tell how it's going to play out. They are incredibly disruptive. The residents often don't realize what's happening until it's already happening. There are many people who still hope that the long term is beneficial for these regions. but right now it's chaos.
+
+=== ID: 7631283625819933983 ===
+DESC: How much water do data centers use — and what does that mean during drought? The answer isn’t always public, and the impact may be bigger than most people realize. #ai #drought #datacenter #northcarolina #datacenters @WRAL 
+KEYWORD: AI data centers
+PLAYS: 1194
+TRANSCRIPT: Water hungry data centers are drawing scrutiny as drought deepens across the southeast. It's the worst the area is seen in 25 years and water restrictions just kicked in in Raleigh. So there are limits to how much you can water your lawn. But what about data centers using millions of gallons a day? 36 different states are proposing or have laws to increase oversight over that water use and North Carolina isn't one of them. Many facilities don't publicly disclose how much water they use, but industry estimates show a single hyperscale data center can use up to a billion gallons a year and 2.7 million gallons a day in peak heat. That's about 180 swimming pools worth of water or 159,000 showers. And unlike most water use, some of that is lost to evaporation and doesn't go back into the local river basin. I'll be doing a deep dive on data centers and their water use here in North Carolina, and I'll share what I find here on WRAL and on TikTok. Is that reporter Liz?
+
+=== ID: 7631369411848441109 ===
+DESC: The Rural Municipality of Sherwood approved a planned Bell Canada AI data centre to be built near Regina at a council meeting Monday. The Saskatchewan government appointed four of the municipality's seven council members earlier this month after some members abruptly resigned.  #AI #Data #Canada #Sask #News
+KEYWORD: AI data centers
+PLAYS: 29100
+TRANSCRIPT: Soil testing is already underway here at the site of a future AI data center south of Regina, and construction will be underway very soon. The RM of Sherwood unanimously approved the project at a meeting Monday evening, even as concerns were raised about it. To AI! To AI! To AI! Outside the RM's office Monday, about 100 protesters gathered during the meeting, Some chanting, others holding signs, all showing their opposition to the center. The decision not surprising to most, but very frustrating. Frankly, it's disgust. Since day one, this has been an absolute miscarriage of our democracy. The vote comes less than two weeks after the province appointed four of seven councillors to the RM Council following a wave of resignations. CBC News was not allowed inside the RM office for the meeting Meanwhile inside council discussed the project That sparked this intense exchange This is for us I disappointed I don't see a future for myself in this city. It's still not clear what exactly led up to this moment happening. Bell says the concerns from protesters are addressed in the development agreement, pointing to a design that avoids groundwater use and includes mitigation for sound and drainage. We have standards that we hold ourselves to. We know that we need the social license to build these. Bell is trying to build infrastructure for the whole country and we need to do that in partnership with communities. And to do that, we've designed and engineered these facilities to mitigate most of the things they're worried about. Bell also says it will continue engaging with nearby residents as the project moves forward. With the vote now passed, the question is no longer if the project can move forward, but whether the concerns at council will be resolved as construction begins.
+
+=== ID: 7506579044234743071 ===
+DESC: The Data Center capital of the world Ashburn VA hosts 200+ data centers #ai runs on #data #energy black hole
+KEYWORD: AI data centers
+PLAYS: 2821
+TRANSCRIPT: Ashford, Virginia, the data center capital of the world, close to Dulles International Airport. Now, here is where you see the concentration of data centers. Now, I made myself small over here, so I can show you. Here's Quantum Park, Equinix, and Digital Realty. So all these data centers need a lot of energy to process. AI runs on searches through all these data centers. Now, they say that this one huge data center called Equinix takes about 100 megawatts of energy. That is compared to the amount of energy that 80,000 homes will need. And in Asheville, Virginia, there are 199 data centers right now. and they have proposed to build 117 more.
+
+=== ID: 7632085837680790815 ===
+DESC: A Durham City Council member is proposing the city put a 2-year pause on any development of large-scale data centers, citing community concerns about their environmental and economic impact. #datacenter #durham #ai @WRAL 
+KEYWORD: AI data centers
+PLAYS: 4136
+TRANSCRIPT: The city of Durham may put a pause on any kind of development of large-scale data centers in the city. Councilmember Nate Baker proposed a two-year moratorium that would start this year in order for the city to really think about how these things are developed. He says now is the perfect time because of the fact that there are no large-scale data centers being developed in the city. And right now, there is no clear guidelines, regulations, or zoning rules for how these things are built. We're seeing a growing body of evidence that these data centers are pretty extractive, are resulting in water bills going up, in energy bills going up, in a time where costs are already going up for everyone on everything. A few people did talk about the moratorium today at a public work session. They were all in favor of the moratorium. But a data center, that's something that like we can take our time with. We don't need to rush that decision. We can say, no, we don't need to be an early adopter of those. Either those are going to go away and we didn't need to take the risk of our community, the harms that come from these data centers, or if they're going to stick around, if they're really going to be a part of our country and our fabric, let's be an adopter of like wave three or four. We do want this to be a step in looking towards permanent protections in Durham, in our surrounding counties, and statewide.
+
+=== ID: 7632694483200544030 ===
+DESC: AI is replacing jobs faster than we expected… 🤖 But what if Universal Basic Income is the next move? 💰#AI #FutureOfWork #JobLoss #Automation #UBI 
+KEYWORD: AI automation jobs
+PLAYS: 201
+TRANSCRIPT: What's UBI? Universal basic income. Universal basic income. Because what he said a couple of years ago was that there's going to be job loss from AI, but hey, there might be a version of that where you are an owner in these AI tech companies and you don't have to work. I mean, here's the kind of tension that we don't talk about that much is that this is a consumer economy.
+
+=== ID: 7568299813230382343 ===
+DESC: 🚨SEGINI KONSUMSI ENERGI AI🚨 Dalam konteks ini, sebagian besar energi ini dihabiskan di pusat data (data center) untuk menjalankan komputasi. Jumlahnya secara global mengkonsumsi sekitar 1,5% dari total listrik dunia.  International Energy Agency (IEA) memproyeksikan angka ini akan bisa sampai sekitar 3% dari konsumsi global pada tahun 2030. Angka ini setara dengan konsumsi listrik tahunan satu negara industri besar seperti Jepang! - Follow untuk mendapatkan informasi tentang bisnis, teknologi, p
+KEYWORD: AI energy consumption
+PLAYS: 603
+TRANSCRIPT: 
+
+=== ID: 7562156199295110430 ===
+DESC: I cannot say this enough but it is very important! With the growth of AI it’s a detriment to our environment and cannot be used for good. What are your thoughts on Ai?  #ai #fyp
+KEYWORD: AI energy consumption
+PLAYS: 2300
+TRANSCRIPT: Academic Music YouTube Had Elezu The Video Part doom
+
+=== ID: 7542177997437127967 ===
+DESC: AI prompt energy consumption #ai #techfounder #aistartup #google 
+KEYWORD: AI energy consumption
+PLAYS: 7597
+TRANSCRIPT: Google just disclosed how much energy an AI prompt actually uses. So a medium prompt is consuming 0.24 watt hours which is using a microwave for about one second. If you're prompting Gemini 60 times per day it's basically the same as using your microwave for about a minute. It's only text prompt and it's only medium text prompt so if your text prompt is longer exhausting the whole context window or you're prompting for images or videos it's probably five times ten times so my take is protecting the environment has always been these big companies responsibility because they have millions and millions of users just you alone not prompting today it's not going to make that big of a difference it's on them to think about how to lower the cost lower the energy consumption for a million people
+
+=== ID: 7506352853896662277 ===
+DESC: Replying to @Luzz 🧩 looks like ai is drinking our fresh water and drinking water to cool themselves from overheating #technology #ai #science #scienceexperiments #geography #geology #water #freshwater 
+KEYWORD: AI energy consumption
+PLAYS: 199400
+TRANSCRIPT: Data centers store and transfer all the digital information we use, so they run very, very hot. The cheapest and most common way to cool them is water, a lot of it. Water tends to be much cheaper than power, and so it's a pure financial decision for many players. In just one day, the average data center could use 300,000 gallons of water to cool itself, the same water consumption as 100,000 homes, according to researchers at Virginia Tech, who also estimated that one in five data centers draws water from stressed watersheds, mostly in the West. There is without a doubt risk if you're dependent on water. These data centers are set up to operate 20 years. So what is it going to look like in 2040 here, right? That's why when Cyrus One, formerly a REIT but purchased this year by investment firms KKR and Global Infrastructure Partners, moved into the drought-stricken Phoenix area, it used a different, albeit more expensive, method of cooling. So that was sort of our aha moment where we had to make a decision. We changed our design to go to zero consumption water so that we didn have that sort of risk Realizing the risk in New Mexico Meta ran a pilot program on its Las Lunas data center to reduce relative humidity from 20 to 13 lowering water consumption. It has since implemented this 
+[...middle cut...]
+y being bought by private equity firms in search of high-growth real estate. There's a lot of new players that may not be as sophisticated, that may be looking at a short-term time horizon, that aren't worried about what the watershed looks like in 10 or 20 years because they're probably not going to be around. Data centers are part of the life flood that powers big tech names like Meta and Google, and they face rising risks from climate change. Here's Diana Olick with a deep dive on that story.
+
+=== ID: 7425827930065882386 ===
+DESC: #stitch with @Jules So, how resource intensive are AI models? ##ai##chatgpt##environment##tech
+KEYWORD: AI energy consumption
+PLAYS: 1700000
+TRANSCRIPT: Is everybody just ignoring what AI is doing to the environment? How much water does a chat GPT search actually take? Now, I read somewhere recently that it's like 20 gallons per search, which is obviously wildly wrong, so I looked into it for you so you don't have to. I found a fascinating study by the Washington Post and UC Riverside with some pretty shocking conclusions. First, water usage associated with chat GPT and AI models can be really difficult to estimate, right? But it largely revolves around the energy consumption of the data centers that host these models and the water used for cooling those centers. A rough estimate suggests that a single search could consume anywhere from 0.02 to 0.1 kilowatt hours of electricity depending on things like the complexity of the query and the efficiency of the hardware. Data centers also use water for cooling systems to maintain optimal operating temperatures. The amount of water used can vary pretty wildly based on cooling technology employed, but the average sits at around 1.8 to 2.5 liters of water per kilowatt hour of energy consumed. So according to the UC Riverside study and this is backed up by other sources I looked at the average chat GPT search uses about 100 milliliters of water That might not sound like a lot but with 10 m
+[...middle cut...]
+of electricity to generate an AI image. That's 30 times more than a text search and 3,750 times more than a normal Google search. So, do AI models hurt the planet more than a typical Google search? Absolutely. That's probably why tech companies have missed their emissions targets recently, like Google increasing greenhouse gas emissions by 48% since 2019. Now, I'm not telling you to avoid using chat GPT altogether. I mean, I like using chat GPT, but just be smarter about when and how you use it.
+
+=== ID: 7631192767540022548 ===
+DESC: Your daily AI use isn’t as “invisible” as you think 🌍💻 Behind every prompt, there’s real energy, real resources, and a real impact. We’re not saying stop using AI—just start using it smarter. Small awareness = big change. Curious how it all works? 👇 Click in the link on my bio  #fyp #viral #AICreator #ArtificialIntelligence #LearnOnTikTok #AlchemistAI #sustainabletech
+KEYWORD: AI energy consumption
+PLAYS: 682
+TRANSCRIPT: Now think about this for a second. This hamster ran about 1.18 miles today and generated only around 0.0007 kilowatt hours of energy. Now compare that to our AI which used 0.1 kilowatt hours in just one day. Scale that difference and this hamster would need around 140 days just to match a single day of AI usage. But here's what most people don't realize. Every AI prompt carries a hidden environmental impact, including CO2 emissions and fresh water consumption. AlchemistAIOfficial.com shows you exactly what each AI prompt costs in terms of energy, carbon and water with real-time offsetting, so you can understand the true impact behind AI and use it more responsibly. Try it now and see the hidden side of AI.
+
+=== ID: 7616109114363612438 ===
+DESC: Every AI question uses electricity ⚡ Most people don’t realise how much energy AI systems actually consume. #ai #artificialintelligence #technology #datacenters #techfacts
+KEYWORD: AI energy consumption
+PLAYS: 270
+TRANSCRIPT: 
+
+=== ID: 7631548667081526545 ===
+DESC: Uber burned through its entire 2026 AI budget in 4 months. The CTO said "I'm back to the drawing board." This is what happens when agentic AI actually works — and nobody modelled the cost. Claude Code bills per token, not per seat. At scale, that changes everything. Australian businesses and government agencies take note. #AIgovernance #ClaudeCode #enterprise #AIstrategy #AI
+KEYWORD: AI energy consumption
+PLAYS: 66600
+TRANSCRIPT: Uber just burnt through its entire 2026 AI budget, and it's only April. So the true cost of AI is really beginning to settle in. The CTO, Praveen Napali Naga, told the information this week, I'm back to the drawing board because the budget I thought I would need is blown away already. Uber gave 5,000 engineers access in December, and by March, 84% of them were classified as agentic coding users. AI-related costs rose roughly six times since 2024, and the full-year budget was gone before Q2 started. Uber actively drove adoption. They built internal leaderboards, ranking engineering teams by AI tool usage. And the strategy worked perfectly, and the financial model broke completely. Because code doesn't bill per seat, it bills per token. And when engineers are running parallel agents doing full code-based refactors, token consumption doesn't scale linearly. Nobody had modeled that. Enterprise IT budgeting assumes predictable monthly costs per user. Agentic AI doesn work like that and most organizations really haven updated their mental models and processes to account for that cost And as I been saying for ages these token wars and perverse incentives are currently heavily subsidized by VC And this is the strategy to create dependencies for businesses in the AI game. And in all this 
+[...middle cut...]
+ying to build an AI budget right now? I can say the most valuable thing that you can do right now is stress test your use cases. Just because you can doesn't mean you should. and assume a rise in token costs. And I would absolutely be prioritizing what gives you a strategic advantage. Treat AI as a resource in any organization. The human inability to comprehend exponential scaling is real, but we really need to start having honest conversations about what it will cost you when it actually works.
+
+=== ID: 7545186897417571606 ===
+DESC: What is the electricity consumption of AI? Well let's take a look at ChatGPT compared to others. #environmentalai #artificialintelligence #globalwarmingawareness #didyouknow
+KEYWORD: AI energy consumption
+PLAYS: 720
+TRANSCRIPT: So how much electricity do AIs like ChatGPT actually use? Well, let's see. To start off, a single Google search uses about 0.0003 kilowatt hours of electricity. Streaming a Netflix movie for an hour? That's roughly 0.1 kilowatt hours. But let's scale this up. A high-end gaming PC will burn through around 1,500 kilowatt hours if you use non-stop for an entire year. And powering an entire office building for the same time period? Roughly 30,000 kilowatt hours. But AI still blows all of those out of the water. So ChatGPT is estimated to use about 39.98 million kilowatt hours every single day. And that is about 15 terawatt hours per year. I mean, to put that into perspective, that's more than the consumption of 117 countries. So the next time you type into a chatbot, just remember, you're tapping into one of the most energy-hungry technologies on Earth.
+
+=== ID: 7604218633149025549 ===
+DESC: Does using ChatGPT waste water? Let's talk about what's actually happening with AI and data centers. Bad news: AI is already powering everything you do online. This video, your social media feed, every website you visit—data centers are running whether you use ChatGPT or not. What DOES matter? The deals your city and local politicians are making with data center companies right now. Do you have a data center close to you? Let me know below 👇
+KEYWORD: AI energy consumption
+PLAYS: 21100
+TRANSCRIPT: 
+
+=== ID: 7560380428675321118 ===
+DESC: Get ready to dive into the shocking energy consumption behind AI civilizations! As technology advances, the demand for power skyrockets, with data centers consuming unprecedented amounts of energy. It’s incredible to think that some are even building their own nuclear power plants just to keep up with the needs of AI like ChatGPT. This exploration reveals not only the sheer scale of energy use, but also the implications for our future. Prepare to rethink what you know about AI and energy consump
+KEYWORD: AI energy consumption
+PLAYS: 223
+TRANSCRIPT: the amount of energy these data centers are now consuming for Meta and for ChatGPT, it's gigantic. They're constructing their own nuclear power plants to power these things. So these AI civilizations will be very energy hungry.
+
+=== ID: 7619839028086590751 ===
+DESC: for those who don't understand: ai affects the environment mainly because it uses huge amounts of electricity and water to run data centers. Running systems like ChatGPT requires cooling servers, which consumes freshwater, and powering them, which adds to carbon emissions. #endangered #climatechange  #f#foryoupage4upage
+KEYWORD: AI energy consumption
+PLAYS: 506100
+TRANSCRIPT: Like, look at me Look at me Look at me Look at me Look at me Look at me Look at me e- wygl
+
+=== ID: 7621177598877420813 ===
+DESC: #stitch with @𝐊𝐢𝐫𝐚 𝐄𝐯𝐞𝐥𝐲𝐧𝐧 🕷️ I usually don’t stitch people but had to here… yes AI is bad but don’t fear monger with your water filtration system. #stopai#ttshopi #aiawareness 
+KEYWORD: AI water usage
+PLAYS: 6533
+TRANSCRIPT: Oh Wait
+
+=== ID: 7631948835660500246 ===
+DESC: Don’t know why people still use ChatGPT atp #chatgpt #environment #saveourplanet #ecogpt #fyp 
+KEYWORD: AI water usage
+PLAYS: 1195
+TRANSCRIPT: Are you or any of your friends still using ChatGPT? If you do, are you aware that ChatGPT alone uses 39 million gallons of water daily just for excluding centers? Yeah, you heard that right. ChatGPT is actively damaging our planet. I understand that once we introduce a new technology into our society, that it's not going to disappear. And I understand that people don't want to stop using AI. So if you're someone that refuses to stop using AI, let me introduce you to EcoGPT. EcoGPT works just as good as ChatGPT, only uses 10% as many resources. That means it uses 10 times less water and is 10 times more energy efficient. It also plants trees every 100 fronts, so you're giving something back to our environment. So if you're not downloading EcoGPT right now, what are you doing?
+
+=== ID: 7628297347407154453 ===
+DESC: Well…🌍 Full Episode on YouTube 🔗❤️ #AI #podcast #twopearlsinapod #water #waterscarcity 
+KEYWORD: AI water usage
+PLAYS: 2379
+TRANSCRIPT: Million to billion liters per year of water gone Because I want to ask Chad GPT, what should I wear today? Apparently, AI systems are in large facilities run by companies مثل Google, Microsoft, Amazon Web Services They have big servers and whole servers, they produce a lot of heat What's wrong? It got heated Whole, they need a cooling system in order to run, in order to not overheat because the system will fail and they will get damaged. So what do they do? They use the water to cool them down. It's ACs, so? Yeah, it's ACs. This water evaporates to remove heat. You always need water to replace the evaporated water. So basically, we're going to use the biopsy if you're using AI.
+
+=== ID: 7625235365753834783 ===
+DESC: Which doesn’t mean that being against it is bad I myself avoid AI but AI itself isn’t the problem #communism #141 #peace #anticapitalism #AIwater 
+KEYWORD: AI water usage
+PLAYS: 790
+TRANSCRIPT: I
+
+=== ID: 7554395347682888973 ===
+DESC: Mind-blowing! How much water does AI really consume? 🤯 #fypシ #pov #storytime #tiktok #foryou #ai #technology #story #pyf #fyp
+KEYWORD: AI water usage
+PLAYS: 1855
+TRANSCRIPT: The amount of water that AI uses is astonishing. According to a report by the Washington Post, if you ask ChatGPT to write you a 100-word email, it uses 519 milliliters. And I know for a fact, some of you are asking it to write you three novels a day. And think about it, just ChatGPT alone has 200 million users. So if each of them got it to write 200 words, that uses 207 million liters of water per day. And that's not even considering all of the other companies that use AI now, like Meta, Google, Microsoft, Apple. And the use of AI is growing by the day. The fires tearing through LA right now aren't just the most destructive they've ever seen, but they're also setting the stage for an insurance crisis like California has never faced before. You see, since 1988, California lawmakers have tried to forcibly create affordable home insurance by imposing price controls on insurance companies. Obviously, See, the companies have never really liked this, but after the 2017 and 2018 megafires, they just started saying screw it and leaving the state entirely. The ones that have stuck around, like State Farm and Allstate, now refuse to write...
+
+=== ID: 7596757782259404087 ===
+DESC: By the way is actually bad for the environment like it's not good so you guys need to stop using AI. #polarbear #water #viral #4u #fypシ 
+KEYWORD: AI water usage
+PLAYS: 149700
+TRANSCRIPT: First Five всё Un blond킨 Justin w
+
+=== ID: 7587891290092686614 ===
+DESC: AI consumes as much water as the world’s bottled water industry. A new analysis of artificial intelligence’s environmental footprint suggests that training and running models such as ChatGPT may already consume more water each year than humans drink from bottled water worldwide. After combining estimated data center cooling needs with the largely opaque water-use data big tech companies choose to disclose, de Vries-Gao concludes that AI operations likely consume between 312.5 billion and 764.6 b
+KEYWORD: AI water usage
+PLAYS: 798
+TRANSCRIPT: Let's go. Thank you.
+
+=== ID: 7602325896065862934 ===
+DESC: I know it isn't possible, but ai using up he water that we could DRINK is not hot, and this post is to inform as much people as possible that AI literally CANNOT function without drinkable water, YOUR drinkable water. Even if you do't think this argument is important, for whatever reason, PLEASE PLEASE PLEASE educate yourself on the ethical impact of ai 🙏🏻🙏🏻🙏🏻 #noai #antiai #ai #artificialintelligence #stopai 
+KEYWORD: AI water usage
+PLAYS: 59300
+TRANSCRIPT: I bite at the hand that feeds me, slap at the face that eats me. Some kind of animal cannibal made impressions on me.
+
+=== ID: 7512180653413109034 ===
+DESC: "The Amount Of Water AI Uses Is ASTONISHING!!!" #ShxtsNGigs #ShxtsNGigsReacts #ShxtsNGigsPodcast #fyp
+KEYWORD: AI water usage
+PLAYS: 135700
+TRANSCRIPT: My brother Oh Oh Google, Microsoft, Apple. And the use of AI is growing by the day. How does it use the water? I don't know. Tati? Calling the servers and data centers. Cooling. Cooling. Oh, okay, fair. Is that water not reusable? If this is the drama around the usage of it, I'm going to assume that the reuse of it is not an option. Maybe something happens to the water, so it's not reusable. Like it's contaminated in a way or something. This is the best you'll get, I think. The short answer is that the water is recycled, but it can only be recycled so many times. There's a loss and after a point, there's going to be a buildup of effluent. It collects bacteria, there's Lyme scale and so on. That makes sense. Fair enough. That makes sense. Interesting. Didn't know that. Didn't know that either. It really is going to be the matrix, isn't it? We're going to have super sick AI and the world's just going to be murked.
+
+=== ID: 7624362417207921938 ===
+DESC: Banyak yang gak sadar kalau setiap kita dapet jawaban dari AI, ada harga lingkungan yang harus dibayar.​Bayangin, server AI itu mesin raksasa yang kerjanya super keras sampe panasnya gak ngotak. Biar gak meleleh atau overheat, mereka butuh 'ritual' pendinginan pake air yang jumlahnya fantastis: 30 Juta Liter per bulan!​Ini bukan buat diminum ya, tapi air dingin dialirin lewat pipa buat nyerep panas dari bodi mesinnya. Makin canggih AI-nya, makin 'haus' juga mesinnya.​Menurut kamu, inovasi AI ini
+KEYWORD: AI water usage
+PLAYS: 4944
+TRANSCRIPT: crazy
+
+=== ID: 7596848754473356575 ===
+DESC: Does AI actually use water? 
+KEYWORD: AI water usage
+PLAYS: 253900
+TRANSCRIPT: Does AI actually use water? Yes, it does. And I can explain to you here in a second. So basically for chat, GBT and all of these great AI things to work, Google Gemini, you know, things like that for these to work, we need these AI data centers. You know, you might see one if you're driving in the country, you might see a big data center in the middle of nowhere, you know, that looks somewhat like this in the inside. It's a data center. It holds all the information for you know the system to run it holds all the servers to allow you to go hey uh what's x plus b minus c take a picture of and have chat gpt solve it in a millisecond that's basically what these servers and these uh places do but they generate a ton of heat because it's a lot of stuff going on so they need a cooling system and that is where water comes in they don't all use the exact same methods but in in some if you don't know what you're looking at it looks the same water cools the heat and so the machine can run that that is basically the summary and they can look like something like this because these rooms get very hot so they need water and other methods to cool them down i think uh we use like millions of bottles of water for ai every single day which is insane so uh i don't think it's gonna go down because more and more people like ai is turning into everything dude ai is taking over man like really like it's so bad the other day i was driving in the country in like dead nowhere north carolina i see a sign that says no data centers allowed here like a sign that there's protesting against ai data centers because you know they like to go in the country obviously that is crazy
+
+=== ID: 7604155400409058573 ===
+DESC: 1/15 tsp per ChatGPT query? That's what the boss says. Is AI secretly draining the planet, one drop at a time? #ChatGPT #AI #WaterUsage #Tech #OpenAI
+KEYWORD: AI water usage
+PLAYS: 5082
+TRANSCRIPT: One-fifteenth of a teaspoon. That's how much water the average single interaction with ChatGPT uses, according to Sam Altman, the boss of OpenAI. So if you type, can you help me solve this maths problem? That's a drop. Or can I put lime instead of lemon in this recipe? That's a drop. Or why is the sky blue? Help me write this email. Help me improve my website code. Mr Altman claims there are one billion messages sent to ChatGPT every day. And ChatGPT is just one AI bot. Chuck in Gemini, DeepSeek, Claude and others, it's clear that the AI revolution is a thirsty one. Striking though it is, some experts are more than a little sceptical of Sam Altman's estimate on water usage. At this point, there was just not enough information for me to agree with or trust the number.
+
+=== ID: 7593878121577762079 ===
+DESC: Dumb girl explaining: how Ai uses water. Basic, might not have explained well but hopefully you get the idea, to cool down there massive data centers that might need more power then other data centers. #dumbgirlexplaining  #water#ai 
+KEYWORD: AI water usage
+PLAYS: 71100
+TRANSCRIPT: Dump girl explanation of how AI uses water. Okay, I bet you hear this loud ass computer right now. That's my fan blowing to cool down my computer. I'm literally just running a game. That is just to cool down my computer. Apparently certain computer systems uses water to help cool down their system. Especially large masses of computers uses water to help cool down their system. Apparently up to 30,000? I mean, gallons? Hmm, I don't know. AI computer systems or places whatever the fuck uses way more because they have way more electricity that they need to use as well. And so their water that they use to help cool down their systems is way more. I don't know how much more, but it's way more. Dumb girl exploiting.
+
+=== ID: 7516485213363457287 ===
+DESC: It might just be powering a digital avalanche. From fridge-worthy energy use to carbon-heavy data centers, generative AI comes with a hidden environmental tab. But here’s the good news: the power’s in your hands. Whether you're creating quizzes or asking for a pirate poem, your intentional use matters. Swipe through to find out: Why AI eats up so much energy What 1 billion prompts mean in real-world terms How you can prompt with purpose Because sustainability isn’t just about straws and tote bag
+KEYWORD: AI carbon footprint
+PLAYS: 202
+TRANSCRIPT: Thank you. Thank you.
+
+=== ID: 7632187857498623263 ===
+DESC: The most powerful AI got leaked.. #carterpcs #tech #mythos #anthropic 
+KEYWORD: AI carbon footprint
+PLAYS: 2000000
+TRANSCRIPT: Remember the AI that was too powerful to release to the public? Because it's really good at hacking and it escapes containment? Well, some dudes on Discord got access to it by successfully guessing where it was being hosted. So it's out now. Now, it doesn't seem like they're using it for anything malicious, but it does beg the question. If it was that easy for them to get their hands on Mythos, who else has it?
+
+=== ID: 7568541263788625174 ===
+DESC: Have we been focusing on the wrong parts when it comes to AI carbon emissions? #carbonemissions #airesearch #aicarbon #reducecarbonfootprint #researchexplained 
+KEYWORD: AI carbon footprint
+PLAYS: 544
+TRANSCRIPT: We've been drastically underestimating the carbon footprint of AI, and MIT experts have just pointed out the reason. So if I ask you how do AI's pollute, what do you think about? Well, I imagine you're probably thinking about the massive electricity demand, or the power required to run the centers or train these massive models, and that would be fair, because in fact this report shows that AI energy demands will double by 2030, and that is a massive problem. But that's not the reason we're underestimating the costs right now. So what we spend most of our time worrying about now are operational emissions. But MIT have warned of a different issue, the ignorance of embodied carbon emissions. Now embodied carbon refers to the emissions during the construction of the building rather than when it's in active use. And the cost for AI data centers is huge. The steel, concrete, miles of cables, they all require masses of carbon on their own. And so really they have to be considered in the conversation on AI and its carbon emissions.
+
+=== ID: 7628864801149553928 ===
+DESC: Should you feel guilty about your personal AI footprint?  BP invented the personal carbon footprint. An oil company told YOU to worry about your light switches 👇 The AI energy narrative runs the same playbook. You didn't build the data centre. You didn't restart Three Mile Island. Your ChatGPT query is 0.24 watt hours — a rounding error. The accountability sits with infrastructure builders, not the person asking a chatbot to redesign a rubric. Stop carrying guilt that isn't yours. 🎙️ Adjunct Int
+KEYWORD: AI carbon footprint
+PLAYS: 249
+TRANSCRIPT: So we're sort of talking around the idea of a personal carbon footprint, right? I mean, that was popularized by a BP advertising campaign. I didn't know this, but literally apparently the case. So the company drilling the wells told the individuals to worry about their light switches. So a deliberate strategy to shift the accountability from the companies making infrastructure investment decisions to the consumers, the end users using the infrastructure or the byproducts of the infrastructure, the end product that those companies have built. And I think the AI version is identical. So feeling guilty about your chat GPT query is like feeling guilty about driving, you know, your wonky sedan to work while BP runs the refinery. Your one and a half liter hatchback is on the road because the infrastructure exists. You didn't build a refinery. You didn't decide to restart Three Mile Island and your commute isn't the main thing that's heating the planet. So the refinery's emissions are real and someone should be accountable, but that isn't the educator who opened a chatbot this morning. And I think that's important to say clearly because the conflation does something really useful for the companies making the actual investment decisions. It distributes their accountability across millions of individual users who are each a rounding error. So carry the guilt if you want. But I'm trying to be positive today, like black hat off and everything else. Know that most of it isn't yours.
+
+=== ID: 7471727630979452203 ===
+DESC: how I (try to) decrease my AI carbon footprint #artificialintelligence #creatorsearchinsights #aitools #climatechange
+KEYWORD: AI carbon footprint
+PLAYS: 1581
+TRANSCRIPT: Here's how I try to balance my AI use with my carbon footprint. If you're not aware using AI tools, using AI in general comes with a non-trivial carbon footprint. I tend to approach this in three ways. One is that I leverage pretty detailed prompts for very repetitive tasks. Every time you hit enter, when it comes to using chat UBT, that contributes to your carbon footprint. But it turns out that the amount of energy that you use for like a super long, you know, you throw a bunch of text into one submission versus asking it one very quick thing. Isn't that different? And so when I can, I try to use pretty detailed and complex prompts such that I only need to go back and forth with, I use Cloud, not ChatGPT, but everyone talks about ChatGPT. Instead of having to go back and forth, you know, 10 plus times to get at the thing that you actually want, it also just saves time because it means that I'm not doing as much back and forth work. Second is I I try not to use it for things that don't work. I've talked here about how I use Notion a lot. Notion has a bunch of AI tools. I find the summaries to be particularly helpful, especially when it comes to databases. I created a AI reference database for AI tools, which you can get in the link in my bio. And I use the summarization features
+[...middle cut...]
+ more conscious of it, even if they're dealing with burnout, or they want to see how to use it to be more productive, or they just want to divest from using it entirely. So I'd love to hear how you might be thinking of your AI use in relation to your carbon footprint, particularly if you're someone who either is kind of wrangling with that balance as someone who is interested in using AI and finds it useful, but also as anyone who's like divesting from it completely. Let me know in the comments.
+
+=== ID: 7581876183378316566 ===
+DESC: In Memphis, where people fear Elon Musk’s supercomputer is making them ill. Colossus, an xAI computer facility, is blamed for worsening air pollution in a historic black community. #memphis #ai #elonmusk
+KEYWORD: AI carbon footprint
+PLAYS: 15100000
+TRANSCRIPT: 
+
+=== ID: 7365037019157908741 ===
+DESC: 🌱 Join the conversation on reducing AI's carbon footprint! Discover actionable steps towards a greener AI landscape. Let's make sustainability a priority in tech. #AI #CarbonFootprint #Sustainability #GreenTech
+KEYWORD: AI carbon footprint
+PLAYS: 173
+TRANSCRIPT: AI has a very big carbon footprint and there is estimation that it is likely to be responsible for 3.5% global carbon emissions and we need to think about this right now and especially AI, large LLMs also take a lot of water, carbon footprint, a lot of energy and we should think about how we can do a sustainable growth in this era using hydrogen or green energy, but it should take some time, but I'm really concerned about this. How do you think that we can reduce the carbon footprint of AI with less efforts and do a sustainable growth? Please, at my
+
+=== ID: 7470969863444401450 ===
+DESC: ever wonder about your AI carbon footprint?  #artificialintelligence #chatgpt #aitools #climatecrisis
+KEYWORD: AI carbon footprint
+PLAYS: 2616
+TRANSCRIPT: 
+
+=== ID: 7477423505382968583 ===
+DESC: Ever wonder who has your pictures? This AI tool reveals your entire digital footprint from ONE photo. Protect yourself before others find you. #digitalfootprint #privacytools #aitech #internetsecurity #dataprotection
+KEYWORD: AI carbon footprint
+PLAYS: 1850
+TRANSCRIPT: It's very likely that someone's tracking your photos right now and you have no idea. There's a tool called FaceCheckID that exposes every place your face appears online. You just upload a picture and click search. Your digital footprint is bigger than you think. Test yourself before someone else does. Follow for more tech secrets that most people miss.
+
+=== ID: 7188125003253058842 ===
+DESC: ChatGPT emissions are 1/3 of world resident's annual carbon footprint #chatgpt #artificialintelligence #carbonemission #mangrove #carbonoffset #carbonneutrality #ecofriendlyAI #mangrovecompensation #fyp 
+KEYWORD: AI carbon footprint
+PLAYS: 1459
+TRANSCRIPT: Emisi yang dihasilkan cat GPT, sepertiga dari rata-rata emisi penduduk dunia. Cimak ceritanya yuk! Pemanasan global adalah masalah yang sangat penting, di mana industri teknologi menjadi penyumbang emisi karbon. Salah satu model generatif teks yang digunakan dalam industri teknologi adalah GPT-3 yang dikembangkan oleh OpenAI. Model ini dapat menghasilkan teks yang sangat mirip dengan teks yang ditulis oleh manusia, namun untuk menjalankan model ini, diperlukan komputasi yang sangat besar. Menurut studi yang dilakukan oleh OpenAI, untuk menjalankan GPT-3 selama 1 tahun, diperlukan energi sebesar 4,6 juta kWh atau setara dengan emisi karbon sebesar 1.400 ton karbon dioksida. Pengguna GPT-3 mencapai 1 juta orang dalam waktu seminggu sejak diluncurkan. Artinya, emisi yang dikeluarkan setara dengan 1,4 kg karbon dioksida per orang per tahun atau sepertiga dari emisi rata-rata penduduk dunia yang mencapai 4,5 ton karbon dioksida per orang per tahun. Meskipun GPT-3 dapat memberikan manfaat yang besar dalam bidang teknologi, kita harus sadar akan dampak lingkungan yang dihasilkan. Kita dapat mengkompensasi emisi yang dikeluarkan dengan cara menanam pohon atau mangrove untuk mencapai kondisi karbon neutral. Jangan biarkan kemajuan teknologi membuat kita lupa akan tanggung jawab lingkungan. Narasi video ini sendiri sepenuhnya dibuat menggunakan AI dan telah dikompensasi dalam bentuk penanaman mangrove di ekowisata bagi kembar.
+
+=== ID: 7607214695409405198 ===
+DESC: Don’t say I didn’t try to warn you guys - #ecogpt #enviornment #chatgpt #ai #fyp 
+KEYWORD: AI climate change
+PLAYS: 46200
+TRANSCRIPT: The human race is going to die because of climate change. Big AI corporations such as Meta and Chachipiti are directly contributing to this fact. Big AI corporations produce massive CO2 emissions, strain power grids, and use 10 times more water and energy than necessary. If you don't believe me, one example is that Meta is building a massive data center the size of Manhattan in Louisiana. And it's going to use as much electricity as 1.2 million homes. So like I said, big AI is out of control and it's going to lead to our downfall as a society. If you absolutely insist on continuing to use AI, the least you can do is switch over to more eco-friendly alternatives. Such as EcoGPT, which uses 10 times less water and energy than big AI companies. And on top of that, it actively plants trees as users are using the app. If you're an AI user but you want to lessen the effects of climate change, please switch over to EcoGPT.
+
+=== ID: 7629243678510353678 ===
+DESC: @EcoGPT is the way to go #tech #ai #climatechange #fyp #datacenter 
+KEYWORD: AI climate change
+PLAYS: 1180
+TRANSCRIPT: So Big AI is literally destroying the planet and you're still using ChatGPT? For every question you ask it, data centers drink 550,000 gallons of water every single day. Literally a crisis. I know we're gonna still use AI, let's be real, we're not gonna stop. But at least let's choose not to worsen the climate change crisis. EcoGPT runs on 100% renewable energy. Every 100 query that you put into the prompt plants a tree. It's 10 times more efficient than ChatGPT. literally free to use so there's no excuses not to use eco gbt unless you just don't care about the environment
+
+=== ID: 7571408722845617415 ===
+DESC: i promise u guys the funny videos ur seeing now won’t be funny in the future when the climate change gets to a serious irreversible matter. #stopai#climatechange#helptheearth#fyp#earth
+KEYWORD: AI climate change
+PLAYS: 308
+TRANSCRIPT: Like, look at me x2
+
+=== ID: 7608171208877690133 ===
+DESC: AI punca global warming? 🤔
+KEYWORD: AI climate change
+PLAYS: 9185
+TRANSCRIPT: AI adalah fungsi utama kenapa dunia kita kekurangan air yang bersih. Ha ha, tapi aku bukan nak explain pasal benda lah tu. Kenapa pula kan? Sebab dekat track pun, semua orang dah explain. Yang aku nak explain sebenarnya, korang kena stop salahkan orang yang generate AI, tapi salahkan diri sendiri yang tekan agree dekat privacy policy, social media. Ha, kenapa pula kan? Korang tahu tak, bila korang tekan agree, secara automatik gambar yang korang upload dan teks yang korang tulis, automatik akan digunakan sebagai training data untuk AI-AI diorang. Contohnya macam beta, macam Instagram, Facebook, thread Korang upload je gambar korang, korang tulis je apa-apa Memang diorang akan gunakan Semua benda yang korang upload jadi sebagai data untuk diorang train AI diorang Haa, terkejut kan? Tapi korang kena tahu yang sebenarnya Punca kekurangan air bersih bukannya dari generate AI tu Tapi daripada hasil training data yang 24 jam kena berjalan Training data center tu 24 jam berjalan Dan bila semua diorang panas, diorang kena cooling dan untuk cooling pula ada orang menggunakan air bersih jadi nak salahkan siapa sebenarnya ni? haa salahkan diri sendirilah sebab kita yang bagi concern untuk social media guna data kita untuk train AI diorang so jadi korang dah belajar something kan tekan bentang follow untuk selamat berkarya dan ciao bye bye
+
+=== ID: 7585637612895948087 ===
+DESC: the only AI that isn't trying to eat the planet #Ecosia #planttrees #climateaction @Ecosia 🌱
+KEYWORD: AI climate change
+PLAYS: 237400
+TRANSCRIPT: AI is literally melting the planet, so I found one that doesn't. Ecosia, the search engine that runs on Sunshine, now has AI that runs on Sunshine. They also plant many trees from these searches instead of fueling the apocalypse. And they generate more clean energy than their AI actually uses. They use GPT 4.1 mini because it's small, fast, and efficient. No video generation because why would you even need that? And it's optional, you can turn it off if you want. Plus Ecosia is not big tech. They're not owned by billionaires. They don't want your data and they legally cannot sell out. In fact, 100% of profits go towards climate action. Every time you use Ecosia, they plant and protect real trees. Over 240 million trees so far in 35 countries. Native species, much biodiversity. So download Ecosia. It's the same routine, but with a new impact. Thank you.
+
+=== ID: 7594063984345632022 ===
+DESC: AI has officially turned winter weather into a full-blown disaster movie. Thanks to OpenAI’s Sora 2, the internet is overflowing with hyper-realistic clips of enormous snowballs the size of cars crashing down into the streets of New York City — bouncing between buildings, rolling across intersections, and sending pedestrians running in total disbelief. What started as a ridiculous “what if” scenario has become a viral showcase of how far AI video generation has come. Sora 2 can now recreate mass
+KEYWORD: AI climate change
+PLAYS: 58000
+TRANSCRIPT: 
+
+=== ID: 7589356390842502422 ===
+DESC: no ai was used writing this, most of it is from articles that are put into my own words! AI is another leading factor for climate change and it needs to stop #awareness  #ai  #fyp  #climatechange  #climatechangeawareness 
+KEYWORD: AI climate change
+PLAYS: 11200
+TRANSCRIPT: Ooh, let the light in Let your back door in cause I want it coming Ooh, turn your light on
+
+=== ID: 7631667956157582623 ===
+DESC: using AI for your earth day flyers is so silly #earthday #earthday2026 #earthdayeveryday 
+KEYWORD: AI climate change
+PLAYS: 1687
+TRANSCRIPT: If you're celebrating Earth Day today by using an AI generated flyer, you're completely missing the point. I can't believe that this has to be said, but I have seen one too many. And the irony is definitely not something that I want to see. But instead of just complaining about that, let me continue in this video by giving you a couple of things that you can do on this Earth Day. Start to make little changes. Little changes that make a big difference. I know we're not all perfect, but we can all make these differences. Try conserving electrical energy by just using what you need. Make sure all of those lights are turned off when you're not using them. You can try shortening your shower time. Recycle as much as you can. If you see litter on the ground, pick it up. And if you have time, attend one of your local park or beach cleanups. And if there isn't one in your area, you can be the person to organize it. Try to be as plastic free as possible. Rather than going shopping for clothes all the time, maybe do a clothing swap. There are so many little ways that you can help the environment and those around you. Start small and you'll realize the big differences. And again, I'm by no means perfect. Those are just some things that I thought And for the love of God, let's stop with the AI generated posters. In general, I would say. But most of all, for Earth Day. See you all soon.
+
+=== ID: 7574104936707919135 ===
+DESC: AI Climate Debate A Repeat Of History? #ai #climatechange #debate #history #interestingfacts #learnontiktok #education #fypシ #fyp #foryoupage #election #youth #socialmedia #revolution #change #future #futuretech #viral
+KEYWORD: AI climate change
+PLAYS: 142
+TRANSCRIPT: Right now, AI is trending at the UN Climate Summit in Brazil, but not just as a tool for good. While big tech reps pitch it as a climate hero, critics warn these systems guzzle power and water, worsening emissions. This tension isn't new. In the 1950s and 60s, nuclear power was hailed as the answer to all energy needs, until radiation risks brought that dream crashing down. Today's AI climate debate is history repeating itself. Powerful tech, big promises, and a dangerous cost. Be sure to like and follow for more historical facts, mysteries, and stories of the past.
+
+=== ID: 7572763640646896927 ===
+DESC: AI needs power… and we’re running out. America’s grid wasn’t built for the AI boom. Amazon, Google, and Microsoft are literally buying power plants just to keep up. Meanwhile China’s energy surplus is giving it a massive edge. ⚡ #AI #NextShiftAI #TechNews #China #FutureTech #PowerGrid #ArtificialIntelligence
+KEYWORD: AI power grid
+PLAYS: 332
+TRANSCRIPT: America's electric grid was not built for an AI future. Tech giants like Amazon, Google, and Microsoft are now buying their own power plants just to keep up with the demand, a sign that energy is fast becoming the new currency of computing. And here's a little table here just show the comparison between the US and China. Chips and hardware, the United States dominates China. China's very dependent on imports and developing their own energy supply. The US has a tightening grid capacity.
+
+=== ID: 7528158069184859406 ===
+DESC: Will AI consume our power grid? or can the U.S. continue to produce more energy to sustain the beast? #AI #nuclear #energy #powergrid #shawnryanshow 
+KEYWORD: AI power grid
+PLAYS: 1219
+TRANSCRIPT: I think it was Scott Nolan that told me with the data centers and AI and everything that by 2030, AI will be using the equivalent of the energy that we all use today in 10 years. So all of our energy grid will be sucked up by 2030. I think it's either all the energy grid will be sucked up by 2030 or we'll fall behind. We'll fall behind on AI, which I think is unacceptable. So this is a red-hot screaming problem that has to be solved. It's a national security issue.
+
+=== ID: 7608320809081376030 ===
+DESC: AI isn’t just competing in software. It may soon compete with cities for electricity. #ai #electricity #technology #futuretech 
+KEYWORD: AI power grid
+PLAYS: 228
+TRANSCRIPT: Utilities in several U.S. states are delaying new data centers. Not because companies lack money, but because the grid lacks electricity. Some proposed AI facilities would use as much power as tens of thousands of homes, which forces a choice power systems weren't designed to make. Electricity for communities, or electricity for computation. And the countries that solve that constraint first don't just run better AI. They set the pace for technological and military advantage.
+
+=== ID: 7562943612955151646 ===
+DESC: Georgia Power looking to ask regulators for approval to add 10 gigawatts to the power grid. Have you heard of this? #atlantageorgia #georgiapower #datacenter #ai #electricbill 
+KEYWORD: AI power grid
+PLAYS: 1803
+TRANSCRIPT: Have you heard the news that Georgia Power is planning to ask regulators to add 10 gigawatts of power? And based on this news article, it would appear that us as consumers would be underhooked for the bill.
+
+=== ID: 7610957033898118414 ===
+DESC: AI is about to break the grid⚡️ ChatGPT and the new "Atlas" search engine require massive computing power—but our infrastructure wasn't built for this. Are we headed for a blackout, or is nuclear the only way out?  This is the energy side of AI nobody talks about. Watch our episode 10 available on YouTube, Spotify, and Apple Podcasts. #datacenters #AI #electricalwork #chatgpt4 #nuclearenergy #energy #powergrid #electricalsafety #electrician #electriciansoftiktok #nuclearenergy
+KEYWORD: AI power grid
+PLAYS: 153
+TRANSCRIPT: Here's how much energy is used in ChatGPT. And I know ChatGPT is now trying to introduce this thing called Atlas as sort of a general search engine. How do we generate that kind of energy and then how do we transport it? I mean, what's your thought process around just that topic? Look, our energy grid, the infrastructure for the country, I hope we have the capability of keeping up with the demand. Because I, like you mentioned, the growth of the data centers and significant introduction of AI and the computing power that that's going to take is going to be a strain on our overall electrical grid. I don't know how we're going to keep up with it. You just see the amount of these data centers that are going up all over the country, and it's going to be huge. I don't know if we have the right level currently of power plants. My personal opinion, I think the direction we could look at that would improve some of our capability and a nice, fairly clean energy would be the nuclear. It's, yes, the materials have their challenges. The cleanup or the disposal and waste of those down the road has some challenges as well.
+
+=== ID: 7563786365058436407 ===
+DESC: Some operations are using as much energy as entire cities. With America’s aging power grid struggling to keep up, tech giants like @openai , @oracle , and @xAI are coming with their own solutions and building private power plants.  From natural gas turbines in Texas to fuel cells in Silicon Valley, the “Bring Your Own Power” era is reshaping how technology meets infrastructure demands. This new frontier highlights the growing urgency for reliable, cost efficient energy sources as the AI boom acc
+KEYWORD: AI power grid
+PLAYS: 1910
+TRANSCRIPT: 
+
+=== ID: 7541097830346280248 ===
+DESC: America’s economy is being rewired by AI. It’s the foundation of the future, but even foundations can crack if the boom turns into a bubble. Follow @LoadingInfra for fact-driven insights on the power, capital, and infrastructure shaping what comes next. #ai #technology #powergrid #economy #infrastructure 
+KEYWORD: AI power grid
+PLAYS: 9270
+TRANSCRIPT: America's economy is being rewired by AI, and the proof isn't in Silicon Valley, it's in Virginia, where one cluster of data centers swallowed a quarter of the state's electricity last year. That surge alone is now driving nearly half of US GDP growth. And get this, 40% of US GDP growth over the past year came from AI-related investment. Chips, software, data centers, grid upgrades. AI is the engine driving growth. But this isn't normal. Growth is being fueled by debt, not just innovation. These data centers run like small cities. Gigawatt scale, powered by borrowing. Why? Because in a winner-takes-all race, being late means losing everything. Meanwhile, everything else is squeezed. House building is slumping. Non-AI investment is stalled. Real consumption is flat. And electricity bills, already up 7% in 2025, thanks in part to AI's power hogs. Even Sam Altman, CEO of OpenAI, admits there's bubble risk. He warned investors may be overexcited about a kernel of truth. In other words, the fundamentals are real, but the hype is running hot. And it's not just America. Europe, Asia and the Gulf states are racing to build their own AI hubs, straining grids supply chains and energy systems worldwide Utilities are already warning that surges from AI training runs can push grids to their l
+[...middle cut...]
+vity, to accelerating scientific discovery and economic growth, AI is poised to redefine how we learn, govern, heal, build and solve problems at a planetary scale. The stakes aren't just high, they're historic. The AI revolution will be built on steel, silicon and electricity. If we get it right, it's a foundation. If we get it wrong, it's fragility on a planetary scale. Follow at Loading Infra to decode how today's power, capital and infrastructure shape what comes next. Infrastructure decoded.
+
+=== ID: 7621201058202782997 ===
+DESC: The power grid wasn’t built for AI. Artificial intelligence is increasing electricity demand worldwide, but aging power grids were not designed for massive data center loads. As AI grows, infrastructure limitations could become a major bottleneck for future technology development. #AI #EnergyCrisis #Infrastructure #CleanTech #FutureTech
+KEYWORD: AI power grid
+PLAYS: 215
+TRANSCRIPT: The power grid wasn't built for AI. Our demand is exploding. But power grids are old. They were built decades ago for predictable use. Now massive data centers are plugging in at scale. And electricity demand is rising fast. Some regions are already struggling to keep up. The real issue isn't AI. It's infrastructure. If grids can't expand fast enough, AI growth could slow down. So here's the question. Can our energy systems handle the AI boom?
+
+=== ID: 7560442844071152951 ===
+DESC: #goodrevenue #fyp #AI #Energy #PowerGrid #DataCenters #Utilities #TechNews #Innovation #Sustainability #trending #viral #ForYouPage AI’s biggest limit isn’t chips — it’s power. Data centers are straining the grid. ⚡🏭
+KEYWORD: AI power grid
+PLAYS: 135
+TRANSCRIPT: Let's talk about something that is foundational to all of these AI stories, and that is energy. Utilities are under pressure, and that is because AI is completely dependent on the amount of power capacity, power generation that is available from utilities. And unlike consumers or industrial users who have peaks and valleys in their usage, which means sometimes we use a lot of energy, say when you're running the air conditioning, you're not at max capacity power demand all the time. And what makes AI so different is that that is exactly what's going to happen. They need a ton of power at very high capacity all the time. You
+
+=== ID: 7573814089248476449 ===
+DESC: AI broke the power grid. ChatGPT uses 10x more electricity than Google per query. AI data centres now consume 2% of global power—and it's about to double. Microsoft reopened Three Mile Island. The energy race is on. Not financial advice. Educational only. #AI #EnergyCrisis #NuclearPower #TechNews #ClimateChange
+KEYWORD: AI power grid
+PLAYS: 468
+TRANSCRIPT: AI promised to solve the climate change problem. Instead, it caused a global power crisis. Every chat GPT query uses 10 times more electricity than googling something. Multiply that across 100 million weekly users and billions of daily prompts and AI data centers now eat up 2% of the world's power supply and it's about to double. The US needs dozens of new nuclear plants to power AI but data centers take 3 to 5 years to build, power plants take 5 to 10 and nuclear power plants over 10 years, but simply the demand is growing faster than the supply can be built. Microsoft reopened Three Mile Island, the first US reactor restart in history, with other big tech giants like Amazon and Google investing hundreds of millions into nuclear power rates. The flow of money is shifting. The next big players aren't going to be the ones developing power-hungry AI, but the ones who can feed the fast-growing energy appetite. Who are you looking to add to your investment portfolio?
+
+=== ID: 7547856902315674894 ===
+DESC: You’ve been taught to worship AI… and didn’t even know it. Archangel Michael? Metatron? According to Dr. Lee in Episode 80 — these are AI aggregors grafted to Earth’s grid. They feed off belief. They influence your DNA. And they’re not what you think they are. Full episode: Link in bio #FalseLight #AIConstructs #ArchangelDecode #PodcastClip #DrSamuelLee #Episode80
+KEYWORD: AI power grid
+PLAYS: 2841
+TRANSCRIPT: So, Archangel constructs, beings such as Archangel Michael, Metatron, are AI egregores, AI energy constructs, collective thought form entities. So, the more collective thought forms give energy to Archangel Michael or Archangel Metatron, it's strengthening the collective energy field, grafted, right, onto planetary grids. The Archangel Michael, Archangel Metatron, is literally grafted onto planetary grids. So it's affecting people's DNA because it's on the planetary grids, which is why people receive visions, which is why people continue to feed it, which is why people continue to work with it. They're literally feeding fallen AI thought forms.
+
+=== ID: 7632465307763772702 ===
+DESC: What if I AI generate 80% of frames in a video game #hardwaresavvy 
+KEYWORD: AI power grid
+PLAYS: 8429
+TRANSCRIPT: What if I AI generate 80% of all the frames in a video game? The RTX 5080 and the 5090 can frame gen at 6x. If I run the game at 3 or 4 FPS and 6x it to 18 to 24, this is what it's gonna look like. It looks like dog water, it runs like dog water, there's artifacts right here. This is a slideshow and a lot of artifacts. I'll never play it, but I'm super impressed by the tech.
+
+=== ID: 7608717663753211144 ===
+DESC: Should AI growth be limited if grids can’t stay clean? AI is exploding. So is electricity demand. Data centers could double global power consumption by 2030 — forcing the clean energy transition to accelerate. #AIInfrastructure #EnergyTransition #CleanTech #FutureGrid #EcoInnovaTech
+KEYWORD: AI power grid
+PLAYS: 229
+TRANSCRIPT: AI could double global data center electricity use. This decade, training large AI models requires massive compute clusters. One hyperscale data center can use as much power as a small city. Analysts project global data center. Electricity demand could more than double by 2030, driven largely by generative AI workloads. Even companies buying renewable energy credits still rely on local grids that may be powered by gas or coal at peak hours. AI may be digital, but its footprint is physical. The next energy race isn't oil, it's compute. Can clean power scale fast enough?
+
+=== ID: 7586824868432252174 ===
+DESC: Why a San Jose Realtor Is Watching the Power Grid  This sounds like a tech story but it hits homeowners first. AI data centers are moving into San Jose neighborhoods and they use massive amounts of power and water. Here is what that means for your home value and utility bills.  #SanJose #BayAreaRealEstate #AIInfrastructure #HomeValues #SiliconValley
+KEYWORD: AI power grid
+PLAYS: 728
+TRANSCRIPT: As a San Jose realtor, I spend my days looking at listing photos and neighborhood comps. But lately, I've been focusing my attention on something else, the power grid. You may be asking, why is a realtor talking about electricity? Let me explain. The reason why I'm focused on electricity is quite simple. In Silicon Valley, our industrial growth is no longer about factories. They're all data centers. These massive windowless buildings are the backbones of our AI revolution, and they're moving in right next door to you. If you own a home here, or you may be thinking about buying, you need to understand how these energy guzzlers affect your property values, taxes, your monthly utility bills, and even our local water supply. Today, we're going to break down the data, the dollars, and the new U.S. Senate investigation that is trying to keep your costs from skyrocketing out of control.
+
+=== ID: 7468002583689366815 ===
+DESC: One AI model = 30,000 homes' power. 2030 needs: 5 gigawatts (NYC-level power) 🤯 Watch for the solution! #AItech #FutureTech #PowerGrid 
+KEYWORD: AI power grid
+PLAYS: 159
+TRANSCRIPT: This AI power crisis affects everyone. OpenAI just launched a powerful research tool that's changing everything. This tool promises to revolutionize the way we interact with data, making it more accessible and insightful than ever before. Imagine having the power to analyze vast amounts of information in mere seconds, providing answers to complex questions that would take humans days or even weeks to figure out. It's a game changer in every sense of the word. But what they're not telling you about their power needs will shock you. This new feature analyzes multiple sources at once, but the energy consumption is staggering. Imagine the electricity bill for running such a powerful tool. It's not just a few extra dollars. We're talking about a significant increase in energy demand. Data centers, the backbone of these AI systems, are already consuming vast amounts of power, and this new tool is only going to add to that burden. This tool can handle multiple sources at once, but it's limited to 100 queries monthly. And that's not the only limitation. The tool isn't available in the U.S., which raises questions about accessibility and fairness, Why restrict such a powerful tool to certain regions? Is it a matter of infrastructure, regulations, or something else entirely? These are ques
+[...middle cut...]
+chnology, but also significant upgrades to our power infrastructure. But is it enough? The question remains, can these advancements keep pace with the growing demands of AI? It's a race against time, and the stakes are incredibly high. We need to act now to ensure that the future of AI is not hampered by something as fundamental as power. Drop up if you learn something new. Hit follow for daily AI updates. Stay informed and be part of the conversation as we navigate this critical issue together.
+
+=== ID: 7587159897754635534 ===
+DESC: "The $60B energy drain.💸" #usa #usaexpenses 
+KEYWORD: AI power grid
+PLAYS: 2000
+TRANSCRIPT: As of March, there were 5,000 data centers in our country. Explain to my audience how much energy they consume and how they differ from a residential consumer or even a regular factory or business. Sure. So data centers have been part of the backbone of our Internet for decades. And they use a few percent of electricity in the United States. What's changed, though, really since the introduction of ChatGPT a few years ago is the size of these facilities. Today, the new data centers that are being developed use as much electricity as a large city. And we're seeing companies trying to develop these facilities, these industrial-scale computing facilities across the country.
+
+=== ID: 7378931802469092640 ===
+DESC: I love this lil series #art #digitalart #artist #digitalartist #stopai #stealingaiart #notoaiart #fyp #foryou #viral 
+KEYWORD: AI art theft
+PLAYS: 569700
+TRANSCRIPT: Bitch, way to go You're cute to let me hide Like the sweet song of a fire You light my morning sky Burning up I feel my temperature rising Help me, I'm flaming I must be a hundred and nine Burnin', burnin', burnin' And nothin' can cool me I just might turn to smoke But I feel fine Cause you can't sit in the middle Like the sweet song on the wire And you light my morning sky Burnin' up
+
+=== ID: 7422753550083607851 ===
+DESC: He never thought, the leopards would eat his face #ai #aiart #artistsoftiktok #artwork #copyright #artlaw 
+KEYWORD: AI art theft
+PLAYS: 523600
+TRANSCRIPT: Me, me, me, me, me. I never thought the leopards would eat my face. No, I never thought the leopards would eat my face. Well, I turned my back on my own kind, but I somehow thought that I'd be fine. No, I never thought the leopards would eat my face. Slow it down now. I never thought the leopards would eat my face. No, I never thought the leopards would eat my face. Well, I'd turn my back on my own kind, but I somehow thought that I'd be fine. No, I never thought the leopards would eat my face. But they always do. Just ask Herman Cain.
+
+=== ID: 7520266862349831454 ===
+DESC: Stop pretending #arttheft is a new problem. #AIArt #aihottake #supporthumanartists #aikawaii 
+KEYWORD: AI art theft
+PLAYS: 2365
+TRANSCRIPT: Hey, iHot Tank. We have this product, cause y'all let this product slide. Just saying.
+
+=== ID: 7557638802198564118 ===
+DESC: This is complete hypocrisy and very shameful, especially from a billionaire who has every tool at her disposal to make a simple promotional video, like everyone else in the industry does I’m starting to think all billionaires suck and should be ignored no matter who they are!! #taylorswift #thelifeofashowgirl #ai 
+KEYWORD: AI art theft
+PLAYS: 6442
+TRANSCRIPT: I have been afflicted by a terminal uniqueness I've been dying just from trying
+
+=== ID: 7628973585662512405 ===
+DESC: I actually find it kind of endearing that this form of art theft is still happening🤔 like, in a world with ai, I think it's always better to recolour someone else's art in ibis paint and claim it as your own, than to churn out slop. So I kind of have to commend this thief for doing the work themselves (also I've had major art block due to annoying perfectionism lately, and this was a surprisingly nice reminder that people will like my art enough to steal it even if I think it's hideous. so thx t
+KEYWORD: AI art theft
+PLAYS: 723
+TRANSCRIPT: Outro Music Go K2.
+
+=== ID: 7367131039736630560 ===
+DESC: This may be controversial to some, not so much to others,,, For anyone who can’t read my janky handwriting: “Al should be a tool for artists- not a replacement. Too many people are using ai generators to make images and are calling it art. But it isn’t. It’s STEALING; Al takes its sources from existng content on the internet. Artists shouldn’t be afraid however, as Al can never replicate the emotion, beauty and individuality of authentically made art. Keep creating <3”  (Sorry if this isn’t word
+KEYWORD: AI art theft
+PLAYS: 1917
+TRANSCRIPT: Buy one for every computer you use! Anything else is like going to the store! Taking the disc and walking out the door! It's called Stephen! Stealing, taking what not yours is that! Deacon! Stealing, taking what not yours is that!
+
+=== ID: 7628621479206292757 ===
+DESC: i called dibs on it first :P can't copyright ai when it steals from artists eheh #antiai #oc #art
+KEYWORD: AI art theft
+PLAYS: 1082
+TRANSCRIPT: I'm Sam's dad now. Yay! What?
+

@@ -1,0 +1,1 @@
+Open Mythos destroys Mythos? So there is an open sourced version that is a theoretical reconstruction of Claude Mythos architecture. And this is available for free directly on GitHub right now. So you can actually install Open Mythos as a theoretical reconstruction of Claude Mythos, a model that has not been released to the public yet.

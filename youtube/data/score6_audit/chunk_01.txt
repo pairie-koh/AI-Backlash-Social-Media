@@ -1,0 +1,858 @@
+=== ID: WRcklQHN1_Y ===
+TITLE: AI Will Replace 99% of Jobs? The Future of Work, Purpose & Spirituality
+DESC: Will artificial intelligence replace most human jobs in the near future? According to AI safety researcher Dr. Roman Yampolskiy, we may be entering a world where up to 99% of jobs could be automated by AI and robotics. From drivers and coders to plumbers and construction workers, advances in AI systems, humanoid robots, and automation technologies could transform the global workforce faster than we ever imagined.  In this video, Gina from Her Cosmic Crown explores this bold prediction and shares
+KEYWORD: AI replacing workers
+VIEWS: 1203
+TRANSCRIPT: Hi everyone, welcome or welcome back to my channel. This is Gina from Her Cosmic Crown. Today we'll be discussing how 99% of the jobs out there will be replaced by AI. I just finished watching a clip from uh Steven Barlet's YouTube channel, A Diary of a CEO, and he had a guest on there who is an expert on AI safety, and his name is Dr. Roman Yampolski. I'm sorry if I'm mispronouncing that name. I'll have a link to that clip in the description box below. But he predicts that AI 5 years from now almost all of the jobs will be replaced. And this is actually including physical labor, not just uh computer jobs and things like that. In the video they also discussed how one of the most prominent jobs that there is uh are drivers and many drivers are becoming slowly but eventually obsolete. We can already see self-driving cars. Um we see Whimo who is like an Uber and that car that company can pick people up, drop them off. In a lot of major cities in the United States, we see way more cars driving. And who's to say that self-driving cars are not going to take over? But yeah, we already know um Tesla is in the process of creating humanoid robots that will eventually cook, clean for us, uh take our dogs for walks. And this leading expert on AI safety is saying that they will eventually take all jobs including plumbing um you know construction work all of these things will eventually be automated. And so if they take over our jobs then what's going to happen? Many people fear how are we going to make money? Um where's the income? And he predicts that the income will be replaced by, you know, we're going to have so many resources and everyone is probably going to live uh we'll have enough resources for everyone where most people can live a, you know, at least decent life where thei
+[...middle cut...]
+not having to survive. We're not having to um hustle as much and have as much wear wear and tear on our bodies, but it's more of a time where we can get closer to the divine or, you know, find purpose and meaning in all of this and do more things that we find interesting. have more time to do those things that give us purpose. Maybe it's artwork. Even though if AI can do it quickly or even better, but you're able to still do that. You're able to still create and show off your creations or um study more or read more books, whatever the case may be. Maybe we'll have more time for that. And uh please write in the comment section what you think is going to happen. Where are we headed as the super intelligence gets smarter and more powerful each day? Let me know down below and I will see you in the next video. Please subscribe to my channel, like and yeah, I'll see you in the next video. Bye.
+
+=== ID: 6GaWpvH7k6I ===
+TITLE: Examining which careers are most at-risk for AI impacts
+DESC: Axios business reporter Nathan Bomey answers the top-searched questions on how AI will impact jobs, whether there's such a thing as an AI-proof job, what industries will be impacted, and what skills to learn now.  –––  Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G  ABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.  Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/d
+KEYWORD: AI replacing workers
+VIEWS: 196156
+TRANSCRIPT: Jobs report shows some job games in industries like healthcare, hospitality, and leisure. But concerns are growing about AI replacing some human workers. Major companies like Microsoft, Walmart, and Business Insider are laying off employees amid the rise of artificial intelligence in the workplace. And business reporter at Axios, Nathan Bowie is here for more on that. Nathan, thanks so much for coming on. You know, our team has tracked down some spikes in AI related questions being asked on search engines. And so we wanted to bring you on to get your take and to be able to give responses to some of that. One of the big questions is what jobs you think will be first to go and what layoffs you've seen so far because of AI. Well, just this week, for example, Proctor and Gamble saying that it'll cut up to 7,000 jobs. Although they did not use the word AI, they used the word digit digitization and automation. So I think that sounds like AI because the positions that are at most risk are going to be positions that involve a lot of repeatable actions, data entry, data analysis, anything that requires you to sort through all sorts of documents at scale. That's something that AI can do really easily. Is there a such thing as an AI proof job? I think that the most AI proof jobs are going to be jobs that involve a lot of human interaction because at the end of the day AI can't really replace those interpersonal aspects of humanity. So just chatting with other people and trying to coordinate, trying to innovate together, those are the the actions that I think AI won't really be able to replace. But if it simply involves just uh wrote memorization or uh the sort of communication that involves um really basic words and and phrases, those are the kinds of things that AI can do very ea
+[...middle cut...]
+they're hearing they're going to be replaced by AI. So what skills should people be learning now to try to get ahead of this? I think it's a really good point. You know, there were was a time when it felt like being a software coder was an insta job and now we're hearing that maybe you're at risk from AI and I think you are. I think the lesson here is that you don't really want to go into college or you know your master's degree and to learn a very specific skill because that could become outdated quickly. What you want to do is to learn how to learn, which means essentially you'll be adaptable no matter where the economy goes because you will be able to uh change yourself and and adapt to whatever happens in the future and you'll be able to learn the skills that'll keep you safe from losing your job to AI. Axio business reporter Nathan Bowie. Nathan, thanks for coming on. Appreciate it.
+
+=== ID: ZDu8Zxhd968 ===
+TITLE: Dark Factories: AI Is Replacing Millions of Jobs
+DESC: Dark Factories: AI Is Replacing Millions of Jobs The manufacturing world is undergoing its biggest transformation since the industrial revolution. Dark factories—fully autonomous facilities that operate 24/7 without human workers or even lighting—are reshaping global supply chains, displacing millions of jobs, and redefining where products are made.   Step into the future of manufacturing with our latest exploration of dark factories—fully automated facilities where machines take center stage. I
+KEYWORD: AI replacing workers
+VIEWS: 32
+TRANSCRIPT: Imagine a factory floor stretching the length of several football fields. Robotic arms move with surgical precision. Autonomous vehicles glide silently between stations. Conveyor belts hum with activity. And not a single human being in sight. No workers, no supervisors, no lights. This isn't science fiction. This is happening right now in facilities across China, Japan, Germany, and increasingly the United States. They're called dark factories, and they represent the most significant shift in manufacturing since Henry Ford invented the assembly line. Today, we're going to explore how these autonomous facilities are reshaping global supply chains, why they could eliminate 12 million jobs in China alone by 2030, and what this means for the future of work and the global economy. Let's dive in. A dark factory, also known as a lights out facility, is a production site where machines handle every task. assembly, inspection, logistics, quality control, all of it automated. The term dark comes from a simple fact. Without human workers, there's no need for lighting, no need for heating or air conditioning, no break rooms, no parking lots filled with employee vehicles, just machines operating around the clock in conditions optimized entirely for efficiency. Now, the concept isn't entirely new. Fanuk, the Japanese robotics giant, has operated lights out facilities since 2001, where robots build other robots with minimal human oversight. But what's changed is the scale, the sophistication, and the speed of adoption. In Beijing, Shyomi has built a fully autonomous smartphone factory capable of producing a device every 3 seconds. The entire manufacturing process from assembly to testing is handled by AIdriven machines. That's not a pilot program. That's full-scale production. Foxcon,
+[...middle cut...]
+manufacturing from human labor at scale. For centuries, where things were made depended on where workers lived. That equation is being rewritten in real time. The facilities operating in darkness today are just the beginning. As AI grows more sophisticated, as robots become more capable, as connectivity becomes more reliable, the boundaries of what can be automated will continue to expand. The question for all of us, workers, business leaders, policy makers, and citizens is how we'll shape this transition. Will it create abundance and opportunity or displacement and disruption? The machines don't care either way. They'll just keep working in the dark. If you found this valuable, consider subscribing for more deep dives into technology and economics. Hit the notification bell so you don't miss our next video exploring how these changes will impact your industry, your job, and your future.
+
+=== ID: g1uBWwUE0dY ===
+TITLE: Artificial Intelligence Replacing Jobs in Radio + Technology Mass Surveillance
+DESC: Angela discusses artificial intelligence replacing jobs w/ iHeartMedia’s layoffs, mass surveillance using technology, and more with Shawn Gunn. Shawn started his career on Wall Street and has created over $1 billion in value for investors as an executive, entrepreneur and investor with brands like Microsoft, NAVTEQ, Hearst, IHS and Nokia. He’s currently focused on leveraging neural computing and deep learning artificial intelligence for gaming with his company PLLAY Labs.  The article referenced
+KEYWORD: AI replacing workers
+VIEWS: 414
+TRANSCRIPT: you've entered the gray area the intersection of culture and technology I'm your host Angela Benton okay welcome to the gray area I have Sean gun with me today and we're talking about all things data go figure that's what I'm interested in right about now but so ok so Shawn you were high level you were at Nokia before you helped take a company public and so you you've actually been in data for quite some time before it was a thing you had another company that was around data privacy for consumers so I'm actually really excited we got a lot to talk about and even guys beforehand we kind of were going over what the conversation I was like oh we can go here we can go here we can go to data nerds to data nerd okay so just give us high level you know kind of how you started yeah I was lucky I start even earlier I was on Wall Street and that was my my goal coming out of Florida in them and loved Wall Street but figured out I was more of a data nerd and tech was like this very sexy unicorn I was out there so I made the change and so what about what year was this this was like 1998 okay 1999 and so fast Ford ended up at a company called traffic calm running all their BT and strategy with a few other leaders and that company went public it was pre ways yep and quickly was acquired by company called navteq Nokia acquired us during that period I learned really that data was the underpinning right kind of everything Internet wise but especially technology whether it was autonomous vehicles we were building Maps we were doing and the location data leader obviously we had hardware and smart devices and so it really showed me how to build an enterprise data business and get the valuations and exit value went on to do a bunch of other things investing and small companies but but ultima
+[...middle cut...]
+long with it of you know why do I need to do this and sure what I benefit I think the last part of that is which I found hopefully it's spun forward is everyone believed that their data was like Puffy's data like it was like what do you mean you're only gonna give me two dollars if somebody buys this and it's like I should be in $2,000 it's like that's not how this works right and so I think telling the monetization story as a volume play yes then you could get to some you know upper limits at some point but you know you're not gonna get it unless you're like Beyonce yeah yeah and I'm gonna end on that note because you're triggering me I'm about to give up all our trade secrets and what we're working on but this has been such a fantastic we're having conversation thank you for coming through especially with the Hebrew Braley okay and so that's it for this episode of the gray area [Music]
+
+=== ID: -hbsQukrnQE ===
+TITLE: They’re Replacing Workers With AI (Here’s why)
+DESC: #Jayyduty #spirituality #subscribe    This Video Is For Educational Purposes Only
+KEYWORD: AI replacing workers
+VIEWS: 3
+TRANSCRIPT: California. That's where the world's first ever fully autonomous AI powered restaurant has opened, complete with burger flipping bots. This automated grill gives the meat its sizzle as this restaurant goes robotic. For this burger, it would take about 120 seconds. Cali Express by Flippy is the world's first AI powered eery. There's new technology outside the kitchen, too. A cheeseburger. Order kiosks. Use facial recognition to remember you, your favorite food, and how you like to pay. Then watch the robots work. No humans required. We can't get enough people to come out to work on friars and and grills and their dangerous jobs. And this uh automation helps solve a lot of those issues. I have someone. 62% of restaurants report being understaffed. Industry experts say most of those unfilled jobs could be done by robots. Your job is literally getting replaced by AI. You are literally forced to start a business. You are literally forced to do it. You have to pursue entrepreneurship. You got to provide some type of high income skill to the world. And you ain't even got to be talented nowadays. The universe don't reward talented people. The universe reward people who have the audacity to show up every single day. Look, AI is taking over, bro. You your job literally going to be replaced by AI. They already in Cali doing it. Y'all seen, bro. Y'all seen the first clip. What you going to do about it? It's nothing you can do about it. The only thing you can honestly do is figure out who you truly are. Figure out figure out what you like to do on a regular basis that fulfills you. provide that high income skill to the world and stay consistent on it every single day. Us entrepreneurs, we ain't got to deal with that. Matter of fact, we using AI. AI is helping us. Chad GBT is helping
+[...middle cut...]
+or you to focus on yourself, though. That's what I'm saying. Like, the best spot to be is is in the house. Like, [ __ ] you in the house. Like, as long as you just in the house and you focused on yourself and you figure out what you want to do, [ __ ] you would be good, [ __ ] All you need is just a [ __ ] desk and a computer. That's all you need. A computer and a desk. Focus on yourself for like what, like 10, like 5 to 10 years, [ __ ] Focus on your dreams for 5 to 10 years, [ __ ] You will be a [ __ ] You know what I'm saying? Y'all let me know what y'all think in the comment, though. I think it's opportunity. I ain't going to lie to you. It's opportunity for you me to become a millionaire. Like, if they if they replace humans with AI all all over the world, it's really an opportunity for you to become a millionaire. That's how I look at it. Anyways, man, I love y'all. I'm out. Peace.
+
+=== ID: AoLTM_wa8rM ===
+TITLE: Will AI replace human workers? | Ian Bremmer Explains
+DESC: Is the AI jobs apocalypse upon us? On Ian Explains, Ian Bremmer breaks down the confusing indicators in today’s labor market and how efficiency gains as well as displacement from AI will affect the global workforce.   Subscribe to GZERO's YouTube channel and turn on notifications (🔔): http://www.youtube.com/@GZEROMedia  Sign up for GZERO's free newsletters on global politics: https://www.gzeromedia.com/subscribe  Is AI coming for your job or … not? On Ian Explains, Ian Bremmer takes a look at wh
+KEYWORD: AI replacing workers
+VIEWS: 551691
+TRANSCRIPT: (pensive music) (rhythmic music) - Is AI coming for your job or not? If you've been doom scrolling headlines to figure out whether an
+algorithm is about to replace you, you might be feeling some whiplash. "AI is not killing jobs." "The era of mega AI layoffs is here." "AI jobs apocalypse is not yet upon us." "The AI apocalypse may already be here." Tech optimists like
+Anthropic CEO Dario Amodei and Bill Gates say an
+AI reckoning is coming. - Will we still need humans? - Not for most things. You know, we'll decide. (chuckles) - Comforting. So what's actually happening? Let's start with the scary stuff. Companies are cutting jobs. Target, UPS, Microsoft, IBM, they've all slashed thousands of roles. Amazon eliminated 14,000 in October, citing AI efficiency gains. Even Jerome Powell, the man whose job is
+literally to stay calm, seems a little worried. - A significant number of
+companies either announcing that they are not going
+to be doing much hiring or actually doing layoffs. And much of the time
+they're talking about AI and what it can do. - But here's the twist. The data doesn't show AI is
+causing mass unemployment, at least not yet. Researchers have looked. The link mostly isn't there. Yes, certain workers are getting squeezed, junior coders, gig workers, anyone doing repetitive digital task. But in the overall labor market, things like trade wars and inflation have all led to a slowdown. The US began tightening monetary policy around the time ChatGPT was released. But, and say it with me,
+correlation is not causation. More ice cream consumption
+does not mean an explosion in autonomous cars. It could be the other way around. No matter. Disruptive change is coming. AI adoption is happening faster than any technology in human history, faster than the internet,
+faster tha
+[...middle cut...]
+eloping countries
+leapfrog ahead, or maybe not. If AI ends up concentrated
+in wealthy countries and wealthy companies with wealthy people, the gains would be wildly uneven. Because here's another issue. The World Bank estimates
+1.2 billion people will enter the global
+workforce in the next decade, but only 420 million jobs will be created. I hope they're wrong. If not, that's a massive gap. And that growth will happen primarily in developing countries which
+don't have the electricity, the broadband, or the infrastructure to benefit fully from AI's potential. A billion young people, not enough jobs, plus the uncertainty of what AI will mean for the labor force, and the very idea of work itself all creating a real problem where the math just doesn't add up. As always, what happens next
+depends less on the tech and more on what
+governments, and companies, and all of us decide to do with it.
+
+=== ID: UEwNwkr2HIs ===
+TITLE: The Bodiless Workforce: How Agentic AI Is Replacing Jobs at Massive Scale
+DESC: A new kind of workforce has arrived — and it doesn’t have a body.  In this video, we explore the rise of Agentic AI: autonomous digital agents that can plan, act, analyze, and execute complex tasks with minimal human supervision. Unlike traditional automation, these AI systems don’t just assist workers — they can replace entire workflows and scale their output thousands or even millions of times faster than humans.  This shift isn’t limited to tech jobs. From marketing and customer service to fi
+KEYWORD: AI replacing workers
+VIEWS: 18
+TRANSCRIPT: You've probably felt it, right? Something's a little different in the job market lately. Entry-level jobs seem to be harder to find, and those classic career paths we all heard about are getting, well, weirdly reshaped. There's a sense that a massive change is happening, but it's hard to see what's actually causing it. Well, in this explainer, we're going to pull back the curtain on the invisible force that's driving this whole shift. Just listen to this quote from our source material because it really hits you. A new labor force has arrived. bodyless, tireless, infinitely scalable. I mean, wow. It perfectly captures this idea that a new kind of workforce is here, operating completely behind the scenes, and it is fundamentally changing our economy. Okay, so what is this thing? Are we talking about some kind of science fiction movie plot? Not at all. This is very real. It's here now and it has a name, agentic AI. Right? So, the answer is this idea of agentic AI. And it's so important to understand that this isn't just another app or a software update. We are talking about a totally new category of digital worker. So what is agentic AI really? Well, here's a simple way to think about it. The traditional software you use like Microsoft Word or whatever, that's like a hammer. It's a great tool, but you have to swing it. Agentic AI, that's the carpenter. You don't tell the carpenter, "Hit this nail now. Hit that one." No, you just say, "Hey, I need a bookshelf." And they figure out the rest. the plans, the tools, the whole shebang. You just give it a goal and it figures out how to get it done all on its own. And this slide really nails the key difference. It all boils down to this huge shift from assistance to delegation. On the left, you've got your normal software. It assi
+[...middle cut...]
+direct this whole fleet of AI agents to get the job done. We're becoming the orchestrators. And this quote just nails it. The future belongs to those who can think better about how to deploy them. The new path to success isn't about trying to compete with AI on raw speed. It's about using our human wisdom to strategically guide its incredible power. So look, this isn't some far-off prediction. The age of this bodyless workforce is already here. It's happening now. Which means the biggest challenge facing every single one of us is simply adaptation. So that's the final massive question we're left with. How do we adapt? Our education systems, our economic policies, even our whole idea of what a career is. All of it was built for a different world. a world that's quickly fading away. The defining challenge for our generation is to figure out how to redesign our society for this new reality.
+
+=== ID: OUHNsQzAz_M ===
+TITLE: Sam Altman Says AI Will Take Your Job But There's A Catch | Vantage With Palki Sharma | N18G
+DESC: Sam Altman Says AI Will Take Your Job But There's A Catch | Vantage With Palki Sharma  AI is coming for your job—or so says Sam Altman, the CEO of OpenAI. At a Federal Reserve conference, Altman warned that AI could wipe out entire job categories, spark a global fraud crisis, and reshape industries like healthcare. But here’s the twist: even he doesn’t fully trust the tech he’s building. Meanwhile, his own $500 billion AI mega-project, Stargate, is stalled. So, is this a warning—or a power play?
+KEYWORD: AI taking jobs
+VIEWS: 575532
+TRANSCRIPT: You all heard the warnings before. Artificial intelligence is coming for your job. It's going to wipe out entire industries. It'll replace everyone. All of this sounds very dramatic, sometimes even apocalyptic. But there's no stopping the warnings. It seems this week that AI doomsday bell was rung again and this time by OpenAI CEO Sam Altman. He's in Washington DC attending a conference by the US Federal Reserve and there he made some interesting comments only five years ago. Um AI was still thought of as something that was in the distant future if it was going to happen at all. Uh and even two and a half years ago which was right around the time Chach launched it still hadn't moved past the sort of nerds in Silicon Valley. Um Chacht launched on November 30th of 2022. uh that was even before GBT4 and since then the progress has been quite rapidly prediction one certain job categories will vanish due to AI that's what Sam Alman says once AI comes some jobs will cease to exist and he has even given some examples he talks about jobs like customer service and hotlines basically your call centers they will go now some areas again I think just like totally totally gone I don't If any of you have used one of these like AI customer support bots, but it's incredible. Couple years ago, you like call customer support, you like go through a phone tree, you talk to four different people, they do the thing wrong, you call back again, you wait through it, it's like hours of pain, ton of time on hold, and the thing that you want doesn't happen. Very frustrating experience. Now, you call one of these things and AI answers. It's like a super smart, capable person. There's no phone tree. There's no transfers. It can do everything that any customer support agent at that company could do. P
+[...middle cut...]
+A new world run by AI. And maybe he's right. AI will take some jobs in the future. But here's the issue. Altman is trying to pull off an impossible trick. He wants to be both the liberator and the regulator. He wants to be the visionary and also the voice of caution. He says AI is the future, but he admits he cannot fully trust it. He says AI will take our jobs, but his own AI mega project can't seem to create any. So yes, maybe AI is about to reshape the world, but as of today, it's yet to replace construction workers for Sam Alman. [Music] First post now available in nine languages on YouTube. English stands at 36ion, French, German, Hindi, Indonesian, Italian, Japanese, Portuguese, Spanish. Beautiful. [Music] Go to settings, click on audio track, and select the language of your choice. Be the first to know what's happening around you in your first language. [Music] First post. [Music]
+
+=== ID: Z1U9CS8Z-2U ===
+TITLE: Will AI take your job? | Start Here
+DESC: AI can now do things we used to think only humans could do. So how could this affect the world of work? #AJStartHere with Sandra Gathmann explains.  01:11 - Different types of AI 01:30 - How ChatGPT has changed things 02:26 - What is generative AI? 03:09 - Job losses from AI 03:35 - The types of jobs most at risk from AI 04:33 - Why some jobs could be enhanced by AI 06:03 - The limitations of AI and how it gets things wrong 06:48 - AI and the future  This episode features:  Jack Stil
+KEYWORD: AI taking jobs
+VIEWS: 67683
+TRANSCRIPT: let's talk about Ai and whether it's going to take your job throughout history Tech revolutions have transformed societies often for the better but they've also put people out of work the printing press replaced scribes robots replaced Factory workers and online backing has cut out back tellers with artificial intelligence we're seeing another tech Revolution but at a pace and scale that's both incredibly exciting and also pretty scary the level of AI could expect actionable will we still hire graphic designers when AI can generate images in seconds while we still need as many lawyers AI can draft basic contracts and where do journalists like me fit in if AI can sum up a news story and even present it it's your job under threat from artificial intelligence will increasingly have to ask yourself the question where are humans actually still needed so how is AI already affecting the world of work and where is this all heading foreign has been around for decades but in the last few years it really started going mainstream more and more companies have been embedding different kinds of AI models in their workflow and their products and services so things like recommendation algorithms used by streaming platforms or AI systems that help Banks detect fraud but last year a new tool came along chat gbt chats GPT version 3.5 was a big deal yeah version 4 took the tech to a whole new level gpt4 is a breakthrough in problem-solving capabilities it's basically a powerful chat bot that can generate an answer to any question it's asked it can summarize text write computer code and even write a poem it's taken the World by storm literally 100 million users within like the first month after the release charge apt does an extraordinarily good job of seeming human-like and it does that thr
+[...middle cut...]
+t is a a lot of people still fail to understand the limitations of those systems and are becoming over reliant on them and I can have real world consequences eventually if you just like like finally basically trust the systems now especially given that there's so much error in the output whatever you think about it AI is here to stay and it's going to be an adjustment for everyone as with any new technology there will be winners and losers but that's not so much about AI itself it's about how humans decide to use it some humans will be empowered using these Technologies and some humans will be disempowered so it's not humans versus robots it's humans versus humans there's obviously so much more we can talk about so let's carry on this conversation in the comments are you already using AI at work are you scared or excited about what it could mean for your job or career let us know [Music]
+
+=== ID: w4rG5GY9IlA ===
+TITLE: Learning Software Engineering During the Era of AI | Raymond Fu | TEDxCSTU
+DESC: What happens when the future of your profession is challenged by the very technology it helped create? In this eye-opening TEDxCSTU talk, veteran technologist and entrepreneur Raymond Fu explores a provocative question: If AI can write code, is it still worth learning software engineering?  Drawing from decades of experience leading innovation in the tech industry, and reflecting on his role as both a professor and the father of a future engineer, Raymond offers a bold new perspective on what it
+KEYWORD: AI taking jobs
+VIEWS: 704733
+TRANSCRIPT: Transcriber: Brenda Meza
+Reviewer: Emilia Soso At the turn of the century, when I
+started to learn software engineering, one of my professors
+told us that in the future, every job will be a programming job. That was in 2001. And he said that we’re holding
+a golden ticket to job security. Just last month,
+the CEO of GitHub said that the future of programming
+is natural language. It looks like the prediction of
+my professor at the turn of the century is going to become true, but probably not in the way
+that he had imagined. Artificial intelligence is capable
+of writing code for you through a natural language prompt. GitHub Copilot can complete code for you
+and fix bugs for you. And ChatGPT can create an entire project
+for you within seconds. And all these tools are
+available to anyone. So I find myself wondering, have we lost
+our golden tickets to job security? And as a CSTU professor and a father to
+a daughter who studied Computer Science, there's a bigger question for me. If AI is going to do programming, is it still worth it for us
+to learn software engineering anymore? Today, I would like to explore
+this question with all of you guys. Let’s talk about what AI
+can do and more importantly, how our students of software engineering can prepare for the future roles
+of a real software engineer. So let’s dive in. First, let’s talk about
+what AI is good at. In terms of programming, AI is really good at generating
+thousands of lines of code. It translates between
+programming languages. It can create user interfaces
+and fix bugs for you. And it excels at repetitive tasks,
+and, you know, pattern recognition. You know, once I asked ChatGPT
+to create a project for me, a dating app like Tinder in Python. And within seconds it actually
+created a complete application with user profil
+[...middle cut...]
+ your teammates. Last but not least, stay adaptable. Tools change, principles last. So you should always focus
+on learning how to learn. So in the future,
+when everyone can code a little, the ones who can master the craft, will build the path for everyone
+and become the leader. So in the era of AI, software engineering is becoming
+the foundation of leadership. I've talked a lot about programming, but perhaps  to refer to software engineers. The software engineers
+of the AI era should be visionaries who can define meaningful problems. A bridge builder who can connect tools,
+teams and disciplines, and leaders who not only lead
+human beings, but also lead AI. So the future doesn't belong
+to those who code the fastest, it should belong to the ones
+who think deeply, adapt quickly, and collaborate efficiently. They are the ones who don't
+just predict the future. We build the future. Thank you.
+
+=== ID: 2zbrbaffEiw ===
+TITLE: I asked 50 people if AI is taking their jobs
+DESC: Is the UK job market really in crisis — or are we all just overreacting?   📲 Follow Totally Fine on Socials: @totallyfineshow   We hit the streets to ask real people about rising unemployment and whether AI is genuinely coming for our jobs.  From graduates who can't find work to workers who've never felt more uncertain — the answers might surprise you. Or maybe they won't. Either way, we're totally fine.  💬 Drop your thoughts in the comments — is AI a threat to your job? LIKE AND SUBSCRIBE  #Tot
+KEYWORD: AI taking jobs
+VIEWS: 66
+TRANSCRIPT: The UK has a big problem. Graduate jobs are at an all-time low. Unemployment is set to peak later this year. Unemployment is at an all-time high. You like the honest answer? Yes. I don't know. An AI poses an existential threat to humanity. Should we be worried? Should we ask someone who's got a job? Graduate jobs are an alltime low and unemployment is an all-time high. What are your thoughts on that? My daughter, she's applied for hundreds and uh it's definitely scary to hear, especially when you're in your first year of uni. So, work placement worked into my masters. I feel like I may have struggled. I'm not really worried to be fair. There'll be no opportunities. Me and him, we work pretty hard in school. We're not I don't think we're going to end up unemployed. Maybe when you finish your degree in a few years, you might see how hard it is to actually get a job. It is. It's brutal. Brutal world now in terms of work. Just a basic job is hard to get. Like, you know, they say like working at Tesco's, right? Honestly, honestly, I remember like when I was younger, like, oh, you go work at Tesco as like a temporary Christmas time. There's not that. My mom didn't want to be on camera, but she's a a university careers adviser and this is like her biggest thing at the moment. Like students will come to her at the end of their degree and we they've got literally like medicine degrees and there's no spaces in the NHS for their jobs. We're first year med students, both of us. You have a really big amount of graduates and then not enough jobs for those graduates. You have a bunch of people who are now having to pay off these loans and they don't even have jobs. Do you think the government could be doing more to help people, young people get jobs? I think they should make it more c
+[...middle cut...]
+Yeah. You go. So in 20 years when AI inevitably takes over causes like an economic collapse and we all go extinct. Um, three movies. Oh my god. Number one, Terminator. Number two, Iroot. Or number three, The Matrix. If it was going to happen, what would you like it to be like? Definitely not Terminator. The Matrix. Have you watched iRoot? No. Oh, [ __ ] Guys, you need to watch I Robot. Be honest. I haven't seen I Robot, so I'll see. You have to watch Iroot though. It's actually a mustwatch. I Robot is a mustwatch, though. Is it? I have heard of all of those. I haven't had i Robot to be fair. I Robot was great until halfway through when they started taking over. Well, that's that's the going to be the [ __ ] bit, isn't it? Absolutely. You could be the main if you could be Will Smith just before the robots take over, that would be your perfect Oh, I'd be shooting all the [ __ ] Definitely.
+
+=== ID: XQ-FLbXCqJ4 ===
+TITLE: If AI Takes All Of Our Jobs... What Will Happen to Housing?
+DESC: Tired of paying to store your gold? Then check out our sponsor, Monetary Metals!. Working with them you can earn up to 4% a year in physical gold, without selling it, learn more at this link:  https://www.monetary-metals.com/ken This is a paid sponsorship from Monetary Metals    Are you an accredited investor and interested in finding multifamily opportunities. Click on this link to learn more about how to invest with Ken and his team. https://mccompanies.com/investor/?utm_source=youtube  Ken ha
+KEYWORD: AI taking jobs
+VIEWS: 23693
+TRANSCRIPT: If AI replaces millions of jobs, does that make real estate crash or does it actually make it stronger? Well, there's a case for both, I suppose, right? Like cuz you know, I guess the way to look at this is, you know, 2008 when when we started seeing the really really high u unemployment, you know, that that's actually when things start to get affected because then people pull back, right? they go to their credit cards, they go to their they start defaulting on rent, they certainly default on their mortgages because this is this is all going to boil down to income. Yeah, it definitely is. You know, I think that you have to look at a few things. One, I don't think there's a world in which AI takes jobs and the government just says pound sand. It is what it is. Like what can we do about it? I think that, you know, you could see like government intervention, whether that's in tax breaks or whether that's in UBI, like they're going to do and they might not call it UBI, you know, they might call it something else, but there's the government always steps in and in and everything, right? Or or, you know, job more government jobs, job creation with the government. I mean, they're going to do something. But the question really is is how does this impact real estate? Because what I can guarantee you is they're not going to make up for the job loss dime for dime. So if you were making 70 grand and your job got replaced, they're not going to pay, you know, you're not going to be making up 70 grand through government programs, right? They're just going to be giving you enough to kind of live on. Well, one of the things I dug into this weekend in preparation of today was the unemployment rate in, you know, with youngsters, right? like you're talking about the the teens or you know ju
+[...middle cut...]
+d so what means what that means is less and less and less people. But whether or not that industry, that government, that department decides to employ those kinds of things and reduce their u employment footprint, you know, you know, we will see. But uh I will tell you the private companies are already moving that direction. the ones that um you know are trying to keep their stock price high, the ones that are trying to keep their profitable high, the ones that are trying just not to go out of business. Um those are the ones that are that are they're they're doing this first. And then of course the bigger companies, the bigger corporations um usually typically and certainly the government are typically the very very least and the very last. Well, we hope to see you guys for our podcast on Thursday. It's the Ken Mroy Show. Check it out. And if not, we'll see you next Monday. See you guys.
+
+=== ID: uxh6r0adUEo ===
+TITLE: Will AI take your job? Expert explains what workers should know
+DESC: AI is transforming the workplace — but not everyone is keeping their job. Here’s what experts say workers can do to prepare for the future.
+KEYWORD: AI taking jobs
+VIEWS: 422
+TRANSCRIPT: Welcome back. As artificial intelligence transforms the global workforce, companies are making tough choices about which jobs to keep and which jobs to cut. Accenture is a prime example. That IT company is a hub here in Houston, but the layoffs are happening elsewhere, targeting employees who cannot be retrained with AI. Joining us now is AI and automation expert Doctor Patrick Dix helping us unpack what this means for workers and the future of jobs. So thank you for being here again. We've talked about this a little bit before, but this is moving fast. So the moves like Accenture's, what do they tell us about where the job market is heading? Any changes to what we've been experiencing? Hello, first of all, I would, I would like for you to have, I would like you, thank you for having me this morning. Sorry about that. And what this is telling us about the job market is companies are investing more in research and development. What companies are doing, they are taking back control from the employees and by upskilling those employees, Basically saying if you cannot be upskilled, we don't have a place for you. And also companies are also trying to increase their revenue. We know tariffs are coming along. We know the price for labor is more expensive and companies are trying to mitigate that by using artificial intelligence to fill in those gaps. Basically be retrained for AI jobs. What does that mean? Basically, when you're retrained for AI jobs, you're able to use artificial intelligence in a current role or future role. For instance, if they needed an AI agent created to help with a process or to do something in an application, if they upskill you and retrain you in the use of artificial intelligence, you will be able to perform that function and that's something they wo
+[...middle cut...]
+art. They could be an engineer. You have someone that's good at math, they can write algorithms. You have a child that also could be good at HVAC because they like troubleshooting. Those are the kind of career paths I was sitting down with my kid with, but also I would have my child be open minded and say, hey, you're gonna have to have 2 or 3 backup. Plans because as the world progresses and things change, you need to be able to where you can have a diverse skill set to where you can go into any career path because as we see right now, nothing is for sure and nothing is guaranteed and AI is pretty much coming for a lot of jobs, but we also want those kids to be able to find things to where they could say, hey, I wasn't able to do it in the AI field, but I'm in the trades. Telling us what he sees Doctor Dix, thank you for joining us and thank you for your insight. We're gonna toss it up.
+
+=== ID: pu6Ad39S-Ts ===
+TITLE: Trump shakes his fist at the court and will AI take everyone's jobs?
+DESC: Rudyard and Andrew react to the fallout from the U.S. Supreme Court's ruling against Trump's tariffs and the President's angry response. How will Trump being denied this authority affect upcoming CUSMA negotiations? Andrew suggests we should expect to see demands from the Trump administration that go far beyond the traditional trade grievances. In the second half of the show Rudyard and Andrew turn to AI and how this new technology will displace white collar jobs. What kind of policy response sh
+KEYWORD: AI taking jobs
+VIEWS: 36848
+TRANSCRIPT: We certainly shouldn't see first of all that the tariff power has been exhausted. He he may find other ways um uh to to implement that. He may find other non-tariff ways of harassing us. Welcome to the Monk Dialogues with Andrew Coin, Glob and Mail journalist here in studio. Andrew, great to be in conversation with you. Nice to be here with you. Our audience uh always appreciates your analysis of the ongoing um kind of trade chaos induced by the Trump administration. What was your reaction to first the US Supreme Court decision last week and then more importantly possibly the president's press conference just hours later? Uh well to the first I guess you know hallelujah the separation of powers um still exists and maybe even more important the Supreme Court is willing to uphold the separation of powers. Uh, I think people were beginning to wonder if there was anything Trump could do that the Supreme Court would not ratify, having earlier, for example, said that the the pre president could commit crimes in office as long as he was doing so well in in his capacity as the chief executive of the country. Uh, so this was a welcome return to sanity by at least part of the court. Uh, there were three judges who you just knew would never at least two of them you knew would never go against Trump. Let me just stop you there for a sec. What do you make of those three judges? Uh, Clarence Thomas, um, Kavanaaugh and, uh, who was Samuel Alito. Samuel Alito. I mean, isn't the const the US Constitution pretty clear on this issue that Congress has the powers of taxation, uh, these emergency tariffs as they were being used were effectively a de facto tax. Yeah. On on the American public. H how can we have three advanced jurists arguably steeped in American constitutional law uh you know
+[...middle cut...]
+uld be our guardians in the North, I think is obsolete. Yeah, I think you're right there. Unfortunately, let's say goodbye, Andrew, to our non-Mmember audience who's who've been watching and listening. We thank you for being part of the conversation. If you'd like to catch the second half of uh Andrew and my discussion today, we're going to focus on the the big uh shakeout that's going on uh with AI right now in terms of global markets and people's perceptions of job security amongst white collar workers. Uh stick around for the back half of the show. Monk members get that back half 72 hours in advance to the general public. You can do that right now by going to our website wwmk debates with an s.com. Sign up for the membership level that's right for you and we'll send you a link immediately uh to listen to the back half of the program on your favorite audio app. So here's that. Bye-bye.
+
+=== ID: QZjFmYRXAzQ ===
+TITLE: Is A.I. taking jobs away from humans? A deeper look at the future of A.I.
+DESC: Are you worried about A.I. taking your job? Is it possible? Yes, but not yet. On this Speakdom, I tell you about certain careers that will last longer than A.I. and be helpful, I hope.  SUBSCRIBE ON YOUTUBE: http://bit.ly/2pSc9gf GEEKDOM101.com: http://bit.ly/22dnLTZ EXCLUSIVE MERCH: https://tinyurl.com/101merch TWITCH: https://bit.ly/3dcapSN TIK TOK: https://tinyurl.com/geekdomtiktok SUBSCRIBE ON YOUTUBE: http://bit.ly/1OEc2LJ TWITTER: http://bit.ly/1FNiHg7| INSTAGRAM: https://tinyurl.com/geekd
+KEYWORD: AI taking jobs
+VIEWS: 2059
+TRANSCRIPT: There's been a lot of talk lately about AI and it's definitely something that's here and it's coming and it's growing and oh that sounded off. But anyways, I want to talk about AI because there's probably a lot of people watching this video who are concerned. There's probably a lot of you who are younger. Some of you guys might just be graduating high school or college or maybe even younger than that. Some of you guys graduated a while ago but you're worried about your job being replaced. And um I certainly certainly understand why that would be a concern because we're seeing AI literally getting smarter and smarter. Now, I'm not going to go into the whole, you know, oh, could someday AI take over and we actually have like a Terminator situation where it sees human beings as being the problem, the ones that are polluting the Earth. I'm not going to go into that here. Uh even though that is something to think about. I don't think it's going to happen. But I mean at the same time, you know, artificial intelligence is getting more intelligent. I believe I read recently that there are AI models now that are learning how to lie. And that in and of itself is quite strange because computers are meant to work logically and as logical as possible. And when there's a lie being told, you would think that a computer system would always lean to the truth. So there are there there are a lot of way reasons to be concerned. And the good news is it's not going to happen overnight. The good news is that if you're in a career right now, you know, you're probably not going to lose it anytime in the next five, maybe 10 years. However, it's getting smarter at a much more rapid rate. And something we need to be aware of is that, and I want you to really understand this, corporations only care
+[...middle cut...]
+sed enough to have a lot of money like invested and like I'm also in my early 40s. So, I'm not starting. I've already acquired skills and trades and things like that. But somebody who's coming up now, somebody who's younger, somebody who's maybe, you know, like maybe somebody listening to this who just got to high school, you know, by the time you're my age, a lot of the jobs that we have now are going to be gone. That's just a fact, man. So, it's best to keep your eyes open about what's out there. And don't just pick any random college degree. pick something that you know can really really be I guess AI proof and also having good customer service skills will help you with every job even if you're not even seeing the public just having good people skills will help you with everything. So anyways, man, I hope you enjoyed the Speakdom. Take care y'all, of each other and yourself as always.
+
+=== ID: 00ozUnOG2Mc ===
+TITLE: AI Taking Over Jobs? Here's What Actually Happens Next
+DESC: AI Replacing Jobs? 2026 Reality Explained | AI in War & Business  AI replacing jobs in 2026 is no longer a prediction—it’s already happening. In this video, we break down the real AI impact on future jobs, how AI is being used in war, and what the future of AI in business and marketing looks like.  In this episode of Marketing Gossip Season 3, we go deep into AI job replacement, the truth about AI and jobs, and how artificial intelligence is transforming industries across the world. From AI repl
+KEYWORD: AI taking jobs
+VIEWS: 19
+TRANSCRIPT: Hey guys, your favorite do is back on marketing gossip with season 3 and episode 2 and today we are going to talk about AI. How AI is affecting our life, our jobs, our businesses and now the war we are facing. Hey Sadhart, I think you are also following the war. We are saying that every uh country specifically Israel and Iran they are coming up with a videos claiming one thing or other. What is your take on it? So, first of all, I've been into wars. You know that like I I absolutely love watching war movies. I watched the whole thing about World War I, World War II, Vietnam war recently, which is also very relevant to what was happening. It's never a good thing. But for the very first time we had a product like AI which was taken to the billions of people across the world and alongside that it was the US department which came at a very later stage in the journey and asked for its access to be deployed in the war. So the the implications are huge like it is going so fast that even military could not tap it. Right. Right. I mean it it took them so much time to probably think through and deploy before even like they could access that this is something which masses need. So I think it's fascinating times and it's also troubling times. Um but there is so much to see what happens from here on but my personal understanding is that its applications are going to increase many fold and not just here but in the other aspects of marketing. But the next thing I want to understand from you is the countries which own these AIPs. Traditionally we think naturally they will have a better edge or they will want be on an upper side when competing against another country. But in this case, geography became way more important than let's say what AI could do. And we are seeing it like right n
+[...middle cut...]
+ future for a lack of better word, right? So I think u future will be unpredictable. People who spend enough time to upskill, people who spend enough time on themselves, people who enough spend enough time to learn a new technology, they'll find something, they'll be good. Yeah. Yeah. Correct. Correct. Correct. So, yeah, I think that was that was fun conversation. I think I also brought a lot of personal stuff into this discussion which I usually avoid. So, uh and I I think we should do the next discussion on this. There are a lot of pointers I want to discuss regarding uh creatives which will be discussed in the ne next podcast. So stay tuned for it and I hope you enjoyed this one. Yeah and I think we should be doing a lot more podcast. Uh we were not able to do so in the last uh 12 months or so. I think uh we should do it maybe every 15 days or so. Yeah. All right. Bye guys. Thank you.
+
+=== ID: VgV2sVaWOAQ ===
+TITLE: Lawyers & Accountants: AI is Changing Your Job!
+DESC: Even traditionally safe professions like law and accounting are changing. With the rise of artificial intelligence and emerging technologies, the future of work is shifting, requiring professionals to adapt. This video offers career advice on navigating these changes and understanding the impact of AI work on various industries. 🚀  AI is changing the role of lawyers and accountants by reducing the value of routine, technical work. Tasks that once justified billable hours, such as document review
+KEYWORD: AI taking jobs
+VIEWS: 34
+TRANSCRIPT: Have you noticed something strange happening in professions that were meant to be the safest careers in the world? Imagine you built a house with the strongest bricks you could find. For decades, everyone said this house, the house of the lawyer and the accountant, was indestructible. The recipe for success was simple, like baking a cake. Follow the instructions, master the technical rules, keep your head down, and a perfect career would come out of the oven. clients would always show up because every business needs a lawyer and someone to manage the numbers. But if demand for these services is still growing, why are so many lawyers and accountants feeling an invisible pressure like the walls are closing in? It's like being a chef in a restaurant where more and more customers are ordering food, but you have a strange feeling you're about to be replaced. How can this be? And why are professionals who spend years becoming masters of their craft suddenly finding that clients are no longer impressed by the very skills they built their careers on. Stay with me. We're going to look at why these jobs feel like they are shrinking when they're actually growing. We'll uncover the two giant forces that are secretly changing what legal and accounting work is worth. and we'll talk about the big shift every professional must make if they want to stay valuable. If this conversation helps you see what's really going on, take a moment to click like, subscribe, and share this with a colleague who feels like the ground is shaking under their feet. Let's be honest about what's happening. For the longest time, the value of a lawyer or accountant was like having a secret treasure chest. Inside this chest was all the hidden knowledge, the complex laws, the secret tax codes. You were the only 
+[...middle cut...]
+not getting rid of the profession. It is changing the definition of the job. The safe, predictable path is gone. Those who keep trying to walk where the river now flows will find themselves stuck in the mud doing cheap work. Meanwhile, the ones who build a boat, the storytellers, the guides, the captains will be sailing ahead to a place of greater value and influence than ever before. The transformation is already happening. The only question is, will you recognize it in time? If this helps you understand why things feel so different today, click like, subscribe, and share this with someone who is trying to figure out their next move. This conversation is just getting started. And if you want to be part of deeper discussions about strategy and how to build your new boat for the future, join the Destiny Architect Telegram chat where we talk with people who want to create the future. Here.
+
+=== ID: 582qMaHoyt0 ===
+TITLE: AI TAKING OVER? 😱 Kya Aapki Job Safe Hai? #AI #FutureJobs #ArtificialIntelligence
+DESC: Aaj ke is video mein hum baat karenge Artificial Intelligence (AI) ke future ke baare mein.  Kya AI waqai insaanon ki jobs replace kar dega? Kaun si jobs sabse zyada danger mein hain? Aur kya aapki job safe hai ya nahi?  Is video mein aapko milega: - AI ka real impact on jobs - Kaun si skills future mein kaam aayengi - Aur kaise aap khud ko future ke liye prepare kar sakte hain  Yeh video har student, job holder aur future planner ke liye bohot important hai.  Agar aapko video informative lage t
+KEYWORD: AI taking jobs
+VIEWS: 121
+TRANSCRIPT: जरा सोच के देखो। आप सुबह उठते हो, अपना फोन चेक करते हो और एक नोटिफिकेशन आता है। आपकी जॉब अब एआई ने रिप्लेस कर दी है। शॉक लगा लेकिन यह सच है। यह फ्यूचर नहीं बल्कि यह प्रोसेस ऑलरेडी स्टार्ट हो चुका है। असल सच्चाई क्या है? आज की इस वीडियो में हम समझेंगे। क्या एआई वाकई इंसानों की जॉब्स खा जाएगा या फिर यह एक और टेक्नोलॉजी है जो हमें मजीद आगे ले जाएगी। आर्टिफिशियल इंटेलिजेंस यानी एआई। आज यह सिर्फ एक टेक्नोलॉजी नहीं बल्कि एक रेवोल्यूशन है। जैसे कभी इलेक्ट्रिसिटी ने आकर दुनिया बदली थी, वैसे ही एआई अब हर चीज चेंज कर रहा है। लेकिन हर रेवोल्यूशन के साथ आता है डर। चलिए रियलिटी देखते हैं कि एI आज कर क्या रहा है। एआई चैटबॉट कस्टमर सपोर्ट हैंडल कर रहा है। एआई टूल्स आर्टिकल्स और स्क्रिप्ट्स लिख रहे हैं। रोबोट्स फैक्ट्रीज में काम कर रहे हैं। इवन डॉक्टर्स को डायग्नोसिस प्रोसेस में भी एआई टूल्स हेल्प कर रहे हैं। मतलब सिंपल बात जो काम पहले इंसान कर रहे थे, अब वह सब काम एआई टूल्स कर रहे हैं। बल्कि इंसानों से भी ज्यादा फास्ट कर रही हैं। सस्ते में कर रही हैं और कभी-कभी इंसानों से भी ज्यादा बेहतर कर रही हैं। अब सवाल आता है कि कौन सी जॉब्स एआई के आने की वजह से ज्यादा डेंजर में हैं? तो बस सिंपल सा रूल याद रखें। जितना काम रेपिटेटिव होगा उतना ही आसानी से वह काम रिप्लेस हो जाएगा। बेसिक अकाउंटिंग, सिंपल कंटेंट राइटिंग, डाटा एंटरिंग, टेली मार्केटिंग, ऐसा काम जिसमें मिस्टेक के चांसेस बहुत कम पाए जाते हैं। क्योंकि एआई थकता नहीं ना ही सैलरी मांगता है और काम भी ज्यादा बेटर करता है। लेकिन परेशान होने की बात नहीं। कुछ जॉब्स ऐसी हैं जिन्हें एआई आसानी से रिप्लेस नहीं कर सकता क्योंकि वहां ह्यूमन इन टच होना जरूरी है। डॉक्टर्स, टीचर्स, क्रिएटिव आर्टिस्ट, साइकोलॉजिस्ट्स, लीडर्स एंड डिसीजन मेकर्स वगैरह हैं। इन तमाम जॉब्स को एआई आसानी से रिप्लेस नहीं कर सकता बल्कि उन्हें और भी ज्यादा पावरफुल बना देगा। डॉक्टर्स और एआई मिलकर बेटर डायग्नोसिस कर सकते हैं। बिल्कुल इसी तरह टीचर्स और एआई टूल्स मिलकर बेटर वेज़ ऑफ टीचिंग्स
+[...middle cut...]
+हुत सारी जॉब्स को चेंज कर देगा। चलिए आपसे ही कुछ सवाल पूछते हैं। अगर आपको चॉइस मिले तो क्या आप एआई के अंडर काम करना पसंद करेंगे या फिर एआई को कंट्रोल करना? क्या आप अपनी करंट जॉब को एआई प्रूफ समझते हैं? क्या आप एआई को अपना हेल्पर समझते हैं? या फिर अपना कंपैटिट? अगर एआई आपका काम 10 गुना ज्यादा स्पीड और एफिशिएंसी से करने लग जाए तो क्या आप उसे यूज करोगे या फिर उस एआई से डरोगे? और मेरा लास्ट क्वेश्चन है कि अगर आपको अपने फ्यूचर के लिए कोई एक स्किल चूज़ करना हो तो आप क्या स्किल चूज़ करेंगे? कमेंट बॉक्स में जरूर मेंशन कीजिए। फ्यूचर में आने वाला सबसे इंपॉर्टेंट क्वेश्चन यह नहीं है कि एआई हमारे लिए क्या करेगा? बल्कि इंपॉर्टेंट यह है कि हम एआई के साथ क्या-क्या करने वाले हैं। वीडियो अच्छी लगी हो तो लाइक कीजिए। ऐसी ही इंटरेस्टिंग और इनेटिव वीडियोस देखने के लिए चैनल को सब्सक्राइब कर लीजिए। आप एi को यूज करेंगे या फिर एi आपको यूज करेगा। चॉइस इज योर्स। मिलते हैं एक नई इनेटिव और इंटरेस्टिंग वीडियो के साथ।
+
+=== ID: juLJG9LqVrk ===
+TITLE: February Jobs Report: 92,000 Jobs LOST  AI Layoffs & Retail Collapse? | Economic Alert 2026
+DESC: The February jobs report is out and it’s a disaster. 📉 92,000 jobs gone and unemployment hits 4.4%. Is AI taking over? 🤖⚠️ 📬 SPONSORSHIP & GUEST INQUIRIES: DrDaveSavesAmerica@gmail.com 🤝  Support Saving America: Partner with us to reach our engaged audience: www.DrDaveSavesAmerica.com  Interested in being a guest? Email: DrDaveSavesAmerica@gmail.com  If you enjoy our content, please take a moment to like this video, subscribe to our channel, and/or drop us a note in the comments!  ABOUT THIS EPI
+KEYWORD: AI layoffs
+VIEWS: 80
+TRANSCRIPT: The February jobs report is terrible. This is major bad news on the jobs front. America needs about 150 to 170,000 new placements a month to keep the job market healthy. Instead, the report is a loss of over 90,000 jobs. The unemployment rate also clicked up a little from 4.2 to 4.4. While some of this can be blamed on AI, the jobs market has been soft since 2024. Job hunting has been tough for a while, even before the recent AI boom. And it looks even worse now with AI reportedly reducing slots for mid-level white collar workers as well as some manufacturing and warehouse workers. Major layoffs have been announced month after month. Not all the layoffs are blamed on AI. The retail and restaurant segments of the market have also been struggling. On prior episodes, I've reported on the incredible number of closings from drugstores to supermarkets to restaurants and fast food chains. This is Dr. David Dshine. Thanks for joining me for this special edition of Saving America. Remember, a new Saving America show is aired on the Brushwood Media Network every Saturday at 11:00 a.m. Eastern time. Listen on any of the 16 network stations, Apple or Google Mobile app, Apple CarPlay, TuneIn, Smart Speaker, and all smart TVs. Find more information at the brushwoodmediaetwork.com. Please be sure to join us each week. We welcome and love your feedback from our growing audience.
+
+=== ID: rhhscYEUc5I ===
+TITLE: AI disruptive or bubble? The two sides of AI.
+DESC: Join Membership for Career Guidance: www.youtube.com/abhishekveeramalla/join  AI disruptive or bubble? Two sides of AI that no one talks about. In today's video let's talk about the recent layoffs and Impact of AI on the IT Engineers.  Free Course on the channel ============================== - DevOps Zero to Hero Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa - AWS Zero to Hero Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
+KEYWORD: AI layoffs
+VIEWS: 30703
+TRANSCRIPT: Hello everyone, my name is Abishek and welcome back to my channel. In today's video, let's talk about AI and the impact of AI on the jobs because there is a lot of confusion. Some people say AI is going to replace IT instance whereas some people say we are far far away from the point. What is the reality? Let's try to understand in today's video. To be honest, we are living in a very interesting space. On one side, we see companies like Amazon laying off hundred thousands of employees and they started investing more in the field of AI. Literally, they are laying off people in some domains and started investing in the AI domain. We have not only seen this from Amazon but we have seen this move from top companies in the world and companies like Anthropic launching features every month. Even recently Anthropic launched cowwork they launched their 4.6 which has proved very disruptive in the field of AI. We have also seen the impact of these models on the IT market as well as the stock market. Now this is one set of things. Now this creates huge panic in the IT instance because of the layoffs because of the impact. But if you look at the other side of the things I mean at the same time on the other side we have seen reports from SAS. So if you are not aware of SAS, SAS is a company that runs very popular service and we have seen from SAS in 2025 although AI has been disruptive but the adoption of AI in the organizations has only been successful in 10 to 15%age of the companies. that is a lot of companies in 2025 have adopted AI but only 20 to 15%age of those companies have got succeeded with the use of AI in the production. Now this is a quite interesting statistic because rest 85 to 90% of people they invested in AI but they could not get expected results. Now this raises t
+[...middle cut...]
+ng to be there is a software engineer role. We might not see roles like developer, devops engineer, QA engineer, but we would see a single role. This is what I believe a single role called software engineer or something else where the engineer works with AI wherever AI is good and does things end to end for the organization right from writing the code to shipping the application to production. But that doesn't mean from today you start learning everything. I'm talking about 5 years down the line at the moment focus on one skill start adopting AI but down the line develop your skills in a way that is 5 years down the line become a software engineer not a developer QA engineer or something else. This is the only way you can keep up with the AI race. I hope this video offered some insight. If you still have some questions do let me know in the comment section. See you all in the next video.
+
+=== ID: 6iibV2s0638 ===
+TITLE: Oracle layoffs highlight the impact of AI on the future workforce
+DESC: Oracle layoffs raise questions about AI's impact on jobs. Learn why adaptability is the key to staying competitive in the future of work.
+KEYWORD: AI layoffs
+VIEWS: 218
+TRANSCRIPT: Thousands of layoffs at a major tech company are raising questions about the future of work. I'm Riley Nagel, your neighborhood reporter. And Oracle is cutting jobs while investing billions into AI. And experts say the takeaway shouldn't be about the technology, but how we adapt. Oracle is the latest tech giant linked to mass layoffs, part of a growing trend as companies pour money into AI. But some experts say AI isn't the real reason people are losing their jobs. AI is just being used as the excuse. It is not the root cause. So, they're prioritizing AI investment over their people. Marcus Mossberger, a workforce strategy expert, says this moment is more about business decisions than technology. He says companies like Oracle should be doing more to keep workers by retraining and redeploying their skills instead of letting them go. It's just a lack of planning, lack of clarity, and again, an underinvestment, what I would call workforce development. Still, AI is changing the way we work. Experts say many repetitive administrative tasks could soon be automated, freeing people up to focus on more complex and human work. We are going to have to as humans continuously adapt and evolve. Um, but we're not going to go away and and there's always going to be work for us to do if we want to do it. Mossberger mentioned finding a job is also challenging with AI now screening resumes while applicants use AI to compete. So, what's the best way to stand out? He says it's less about your resume and more about proving what you can do. Call people that know you that that understand the value that you can bring to the organization and have conversations because shotguning your resume all over job boards isn't going to work. He also says the most important skill right now is adaptability. Learning how to use AI, not fearing it could be the difference in staying competitive. You don't need to be afraid about AI taking your job. You should be afraid about another human being who's really good at using AI taking your job. And while stories like oracles may sound alarming, there is some long-term hope. Mossberger says like past technological shifts, AI is expected to create more jobs than it destroys. It just may take time. In the meantime, so you've got to be constantly learning and willing to grow and willing to try new things as well. Mossberger is more hopeful about the future, saying that work could be more human, focused on communication, problem solving, and creativity, while AI focuses on routine tasks. I'm Riley Nagel, your Bakersfield neighborhood reporter.
+
+=== ID: HjA9COYgC0w ===
+TITLE: AI Layoffs Are Here: Klarna's Brutal 33% Workforce Cut
+DESC: Klarna plans to cut 33% of its workforce with AI.  Get updated:  https://www.aiupdate.ai  Instead of pink slips, they’re using AI and natural attrition to shrink headcount and boost margins.  In just four years, Klarna went from over 7,000 employees to under 3,000.  Revenue just hit a record $903M last quarter — and the automation push isn’t slowing down.  If you think AI layoffs are hypothetical, this is your wake-up call.  Natural attrition + relentless automation is becoming the new corporate
+KEYWORD: AI layoffs
+VIEWS: 3865
+TRANSCRIPT: Well, Klarna plans to reduce their work staff by 33% over the next several years, but not by a massive layoff, but through natural attrition and of course, AI. Now, you might be thinking to yourself, if Klarna is a growth-based company, which let's face it, every single organization now is based on growth, it's always more, more, more, larger, larger, larger. How does reducing your staff meet that goal? Well, it's very simple, guys, and you already know the answer. It's AI agents. It's AI automation from top to bottom. But you don't just need to take my word for it. Listen to what the Klarna CEO Sebastian Szymatkowski says. He says, quote, the reason for that is because I've seen the acceleration of AI, and I know we can ship all these things on the existing organization. And You know, he does also point out there are some roles in the organization that he does not expect AI to replace, and we'll cover that in just a moment. But what I want to highlight here about Klarna is there's a lot of people in the world, a lot of people in the comments here that say things like, well, AI is not already replacing jobs. This is all conjecture. We don't know what's really going to happen. But what's interesting about Klarna is this is not a surprise. This is not a change. They have been shedding employees for AI for years now. This would not be— guys, this is not a surprise. If you're subscribed to the channel, this type of strategy is not a surprise. It's— yo, listen, I want to give you a quick little history lesson on Klarna because it's important to know what's happened in the past because that's what's going to continue to happen in the future. And as Klarna becomes more and more successful at increasing profits, through AI and automation and through shedding employees, other co
+[...middle cut...]
+lant the seeds now. Put in your investments. And we talk about being relevant, respected, and financially free. It's not just about investing in the stock market or in Bitcoin or your bonds or whatever. It's about investing in relationships. So make sure that you do that. All right, boys, thanks for watching today's video. What do you think about Klarna? Do you think this is the right move? Do you think other companies will follow suit? Type it in the comments below. And if you enjoyed today's video, you will be fascinated with what's happening with student loan defaults. Guys, colleges are not adapting to what's happening with AI quickly enough, and, um, people are defaulting on their loans in record numbers. Go check out the video. It's right here. And, uh, stay informed so you can stay ahead so you can remain relevant, respected, financially free. All right, boys, I'll see you. Peace.
+
+=== ID: 2jmiNO3jwrA ===
+TITLE: Is It Still Worth Learning to Code? (The Truth)
+DESC: Try Notion Agent → https://ntn.so/CodeWithHarryAgent Merchandise: https://shop.codewithharry.com/ Let Notion Agent do your work for you. #Notion #AI #Productivity   ➡️ Download Notes and CheatSheets: https://www.codewithharry.com/notes/ ➡️ Udemy Python Course: https://goharry.in/python ➡️ Checkout Data Science The Ultimate Job Ready Data Science Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course ➡️ Data Science (International Students): https://buy.stripe.co
+KEYWORD: AI killed my career
+VIEWS: 706459
+TRANSCRIPT: आज के इस वीडियो में हम बात करेंगे कि क्या 2026 में आप लोगों को कोडिंग सीखनी भी चाहिए या फिर एi से सब कुछ हो जाएगा। जसन वैक ने रिसेंटली कहा था कि एi फ्यूचर में मोस्ट ऑफ द वर्क करेगा और आप लोगों को कोडिंग सीखने की जरूरत नहीं है। कोडिंग ऑब्जोलीट हो जाएगी। यानी कि कोडिंग का कोई काम ही नहीं रह जाएगा। इवन ईलॉन मस्क ने 2024 में कहा था कि एजीआई इसी साल एंड तक आने वाला है और 2025 2026 में भी एजीआई नहीं आया। अब आज की तारीख में मुझसे कोई भी यह सवाल पूछता है कि क्या हमें कोडिंग सीखनी चाहिए कि नहीं सीखनी चाहिए? तो मेरा उनसे काउंटर क्वेश्चन होता है और मेरा काउंटर क्वेश्चन यह होता है कि अगर आप कोडिंग नहीं सीखोगे। लेट से आप कोडिंग की फील्ड में थे। अब आपको लगता है कि यार एi आ चुका है और ए सारे काम करेगा। अब आप करोगे क्या ये मुझे बताओ। अगर कोडिंग नहीं तो क्या? तो बहुत सारे लोगों का जवाब होता है कि यार मैं ना डाटा एनालिटिक्स में चला जाऊंगा या मैं डाटा कलेक्शन में चला जाऊंगा या फिर मैं एक बहुत ही अलग डिफरेंट प्रोफेशन की बात करते हैं। कुकिंग में चला जाऊंगा। अब देखो यार बात क्या है यहां पर आप समझने की कोशिश करो ऑलमोस्ट सारे प्रोफेशंस एआई की मदद से ऑटोमेट हो रहे हैं और बड़े-बड़े लोगों का इस तरह के स्टेटमेंट्स देना कि कोडिंग ऑब्सोल्यूट हो जाएगा जैसे कि जसन वंग ने ही कहा उनका मकसद छुपा होता है उनका यह कहने का तरीका है कि हम अपनी कंपनी में बहुत ज्यादा कॉन्फिडेंट हैं। अब जसन वंग का एग्जांपल लेते हैं। जसन वंग एनवीडिया के सीईओ हैं। एनवीडिया से उन्हें बहुत ज्यादा प्यार है। वो एनवीडिया में क्या करते हैं? इस चीज से उन्हें बहुत ज्यादा प्यार है। आई जस्ट लव हियरिंग दैट आई एम द बेस्ट सीईओ इन ऑन द वर्ल्ड। ही इज सुपर ऑप्टिमिस्टिक अबाउट एआई क्योंकि वो बना रहे हैं जीपीयूस और वो एआई कंपनीज को सपोर्ट कर रहे हैं, इन्वेस्टमेंट्स कर रहे हैं तो वो ओवर ऑप्टिमिस्टिक है और कभी-कभी किसी का ओवरली ऑप्टिमिस्टिक होना उनके लिए गलत नहीं भी होता है। क्योंकि यार अगर मैं इस बात पर भरोसा नहीं करूंगा कि मैं यह चीज कर सकता हूं तो 
+[...middle cut...]
+त से कंविंस हो जाते हो कि यार आपको कोडिंग नहीं करना है। तो जो कोडिंग करेगा ना उसके लिए एक और खुशखबरी यह है कि लोग पीछे हटते जा रहे हैं कोडिंग से और उसके लिए जगह बन रही है। एक तो ऑलरेडी उसके लिए एआई आ गया है जो कि उसकी मदद कर रहा है लर्निंग में और इंप्लीमेंटेशंस में। उसी के साथ-साथ अगर कंपटीशन भी कम हो जाए तो तो सोने पे सुहागा है। सो इन कंक्लूजन मैं यही कहूंगा कि यार मेहनत करो। मेहनत ही करने से आप आगे बढ़ोगे। काम करो। आज से स्टार्ट करो और टाइम कम से कम वेस्ट करो। टाइम इज द मोस्ट वैलएबल एसेट जो कि आपके पास है। एआई की चीजें आती जाएंगी जाती जाएंगी। कोई नया प्रोडक्ट आता है डेफिनेटली ट्राई करो उसको। अगर वो आपके वर्क फ्लो में फिट होता है उसको फिट भी करो। धीरे-धीरे अडॉप्शन भी शुरू करो एi का। बट ये मत बोलो यार कि ए आई से ये चीज खत्म हो जाएगी। वो चीज खत्म हो जाएगी। आई होप कि ये वीडियो आप लोगों की लाइफ में कुछ वैल्यू ऐड करेगा। थैंक यू सो मच गाइस फॉर वाचिंग दिस वीडियो। एंड आई विल सी यू नेक्स्ट टाइम।
+
+=== ID: UxVRrorZ4RM ===
+TITLE: The End of Consulting? McKinsey’s 25,000 AI Agents
+DESC: McKinsey & Company has quietly deployed 25,000 AI agents alongside its 40,000 consultants — and this changes far more than productivity.  This video breaks down how McKinsey is re-engineering the management consulting leverage model, why the traditional consulting career pyramid is breaking, and what this shift means for junior consultants, MBA graduates, and elite knowledge workers still playing by old rules.  👉 Sign up for my Free Masterclass — I’ll show you how to land your dream job offers f
+KEYWORD: AI killed my career
+VIEWS: 30424
+TRANSCRIPT: The world's most prestigious consulting firm has a workforce it doesn't talk about. Not a few chatbot, but an army of 25,000 AI agents. In a recent reveal, CEO Bob Stern confirmed McKenzie's total operating capacity is its 35,000 human experts plus this massive digital force. For any ambitious professional, a job at McKenzie has always been seen as ultimate career leverage. But now the structure that created that leverage is being systematically re-engineered from within. Stay with me and I'll explain the mechanics of this digital army. How it's creating a new economic engine and what it signals for anyone still playing by the old rules of elite knowledge work. Hey, if you're new here, this is Ramen and I've spent the last decade inside consulting, including top tier consulting firms, and I'm still in the system today. Let's dive in. To understand how profound this shift is, you have to understand the old consulting model. For decades, the business was very simple, immensely profitable and built on a human intensive leverage structure. It was a pyramid. At a top, a handful of senior partners who own the client relationship. Below them, layers of principles and managers tasked to deliver those engagement. And at the bottom of this pyramid, a massive base of junior analysts hire out of the world's top universities. The life of a junior analyst was a right of passage defined by brutal hours. Their function was to be a human search engine and a presentation factory. They spent allnighter grinding through data rooms, firsthand interviews, and market reports. The output was always the same. Endless PowerPoint slides. The core currency of consulting work. The entire system was built on one financial principle, leverage. A firm could build a client for thousands of hours of thi
+[...middle cut...]
+vel analytical work. They have freed their human experts to focus exclusively on high value strategy, problem solving and client relationships. More importantly, McKenzie have used that efficiency to flip their entire business model, moving from selling time to selling guaranteed outcomes. This shift is turning the AI infrastructure into a powerful economic engine and creating a defensible competitive mode. And remember, this isn't just the story of one consulting firm. It's a playbook for the future of professional work. And the message is clear. The most powerful operators of the next decade won't be the ones with the largest teams, but the ones who can most effectively integrate elite human talent with an intelligent autonomous digital workforce. Want to know how to land your dream job in business and finance in the AI era? Click the next video here where I share with you how I did it
+
+=== ID: LE_LVcnM3Z8 ===
+TITLE: AI Taking Over Jobs The Truth About the Future of Work 2026 Report
+DESC: Will Artificial Intelligence replace millions of jobs? Or will it create the biggest career opportunity in history?  In this video, we explore the global AI workforce revolution and how Artificial Intelligence is transforming industries, economies, and careers around the world.  According to the World Economic Forum, AI could displace 85 million jobs while creating 170 million new roles by 2030. From manufacturing and finance to healthcare and education, AI is changing how work gets done.  In th
+KEYWORD: AI taking jobs
+VIEWS: 76
+TRANSCRIPT: வணக்கம். ஒரு நிமிஷம் யோசிங்க. இன்னும் ஒரு சில வருஷத்துல நீங்க பார்க்கிற வேலை இருக்குமா? 2026 ஆம் வருஷத்தோட ஒரு முக்கியமான ரிப்போர்ட் என்ன சொல்லுதுன்னாஏi நம்மளோட கரியரே தலைக்கீழா மாத்த போகுதாம். இவ்வளவு பெரிய மாற்றத்தை நம்ம எப்படி சமாளிக்க போறோம்? வாங்க இதை பத்திதான் இன்னைக்கு ஆழமா பார்க்க போறோம். 85 மில்லியன் பாருங்க இது சும்மா ஒரு நம்பர் கிடையாது. 2026 குள்ள ஏஐனால இத்தனை வேலைகள் இல்லாம போகும்னு கணிக்கிறாங்க. இது ஒரு அதிர்ச்சியான உண்மை. நாம இப்பவே இதை எதிர்கொண்டுதான் ஆகணும். அதனாலதான் இந்த விஷயம் பத்தி பேசுறது ரொம்ப ரொம்ப முக்கியம். சரி நாம முதல் பகுதிக்குள்ள போகலாம்.ஏஐ சுனாமி. இப்போஏi கொண்டு வர மாற்றங்களை ஒரு பெரிய வேகமான சுனாமி அலைக்கு ஒப்பிடலாம். முதல்ல அந்த அலையோட அளவு எவ்வளவு பெருசுன்னு புரிந்துக்கிறதுதான் முதல் படி. பாருங்க இது ஏதோ எதிர்காலத்துல வரப்போற பிரச்சனை இல்ல. இது இப்போ நம்ம கண்ண முன்னாடி நடக்கற நிஜம். இந்த ஸ்லைடுல இருக்கற நம்பர்ஸ பாருங்க. 2026 ஆரம்பிச்ச வெறும் எட்டு வாரத்துல 32000 டெக் வேலைகள் போயிருக்கு. கிட்டத்தட்ட 78% கம்பெனிங்க இப்போஏi யூஸ் பண்ண ஆரம்பிச்சட்டாங்க. இங்க நாம கவனிக்க வேண்டிய ரொம்ப முக்கியமான விஷயம் என்னன்னா இந்த முறைஏஐ குறி வைக்கிறது வெறும் உடல் உழைப்பை மட்டும் இல்ல டேட்டா அனாலிசிஸ் ரிப்போர்ட் எழுதுறது ஏன் கோடிங் பண்றதுன்னு மூளையை யூஸ் பண்ற வேலைகளையும் தான். இப்போஏஐயோட தாக்கத்தை பத்தி இன்னும் கொஞ்சம் ஆழமா பார்க்கலாம். இது ஒரு மாதிரி ரெண்டு பக்கமும் கூர்மையா இருக்கிற கத்தி மாதிரி. ஒரு பக்கம் இது நமக்கு நம்ப முடியாத அளவுக்கு நன்மைகளை தருது. அதே சமயம் இன்னொரு பக்கம் பயங்கரமான சவால்களையும் கொண்டு வருது. இந்த ஸ்லைட பாத்தீங்கன்னா ஏஐனால வேலை இடத்துல வர் அந்த ரெண்டு பக்கத்தையும் ரொம்ப தெளிவா காட்டுது. ஒரு பக்கம் பாருங்க. உற்பத்தி பயங்கரமா அதிகமாகுது. அறிவியல் கண்டுபிடிப்புகள் வேகமா நடக்குது. புதுசா பொருளாதாரம் உருவாகுது. ஆனா இன்னொரு பக்கம் பாருங்க. வேலை இழப்பு ஏழ பணக்காரங்க வித்தியாசம் அதிகமாகுறது பிரெஷர்ஸ்க்கு வேலை கிடைக்காததுன்னு கடுமையான சவால்
+[...middle cut...]
+செய்ற முறையை மாத்துவாங்க. சில வேலைகள் போகும் ஆனா புது வாய்ப்புகளும் உருவாகும். சொல்லப்போனா நாம இப்போ இந்த பாதையில தான் போயிட்டு இருக்கோம். மூணாவது சினாரியோ நம்ம கண்டிப்பா தவிர்க்க வேண்டிய ஒரு மோசமான எதிர்காலம். ஒருவேளை ஏட வளர்ச்சி வேகத்துக்கு நம்மால ஈடு கொடுக்க முடியலன்னா அதாவது நாம புதுசா எதுவும் கத்துக்கலன்னா பெரிய அளவுல வேலையில்லா திண்டாட்டம் வந்து சமூகத்துல பெரிய பிரச்சனைகள் உருவாக வாய்ப்பு இருக்கு. இதுவும் நடக்கலாங்கிறதை நம்ம மறக்கக்கூடாது. ஆக மொத்தத்துல நாம புரிஞ்சுக்க வேண்டியது இதுதான். ஏஐ புரட்சி இப்போ இங்க நம்மகிட்ட வந்துருச்சு. அது நம்ம எதிர்காலத்தை கண்டிப்பா மாத்த போகுது. ஆனா ஒன்னு நல்லா ஞாபகம் வச்சுக்கோங்க. டெக்னாலஜிங்கிறது ஒரு கருவிதான். அது நல்லதா கெட்டதாங்கிறது அத நாம எப்படி யூஸ் பண்றோங்கறத பொறுத்துதான் இருக்கு. இந்த கதரிில இந்த மாற்றத்தால பாதிக்கப்படுற ஒருத்தரா நீங்க இருக்க போறீங்களா இல்ல இந்த மாற்றத்தை உருவாக்குற ஒருத்தரா இருக்க போறீங்களா? முடிவு உங்க கையில தான் இருக்கு.
+
+=== ID: _Zn1SXeeBUU ===
+TITLE: Is AI Going To Take Your Job?
+DESC: I review the video by @MidlifeCrisisDiaries titled, “AI took my job as a translator. I'm starting over at 39”  Original video: https://www.youtube.com/watch?v=OovTIngZtCY  Sub to the channel! Discord (16+ old): https://discord.gg/QfMh7b4RT8 Tiktok: https://www.tiktok.com/@evildea_ Reddit: https://www.reddit.com/r/Evildea
+KEYWORD: AI taking jobs
+VIEWS: 2889
+TRANSCRIPT: What's up, grinders? Welcome back to the channel. And today, we're all going to go through a midlife crisis together. We're going to be read reading. I don't know why I said reading. We're going to be watching this video titled AI took my job as a translator. I'm starting over at 39. And well, you know, I like languages. I'm not a translator because no one needs a translator for Espiranto. And uh I'm 39. So, I feel like there's a there's a synergy going right on right now. Like we we is that the correct word? A synergy. It sounds fancy. That sounds like a fancy word a translator would use. So, I'm gonna watch her video and uh let's begin with this lovely lady here about to eat our face. I have a degree from Cambridge University. Okay, the first thing I'm going to say is please if you're ever going to make a video guys, okay, please I'm I'm just going to show what's happening right now. Okay, she's like it looks like she's holding me by the throat and going I have a degree, okay, from Cambridge University. I will murder you. Like that's that's what I feel like right now. like I feel like I'm being throttled by her. Now, I know I make a lot of jokes. This is probably a very scary moment for her and things are probably not great, but you know, that's how Australians deal with suffering and pain and [ __ ] We just laugh at it. Um, and that's how we get through it, okay? Cuz I know that that is very different in some cultures. I am a charted translator with over 15 years of experience and AI took my job. AI took my livelihood. I find myself starting over at age 39. You know, I actually had this conversation with my wife the other day because AI is impacting on many many different industries in different ways. For example, in the game development space, I work as a game progr
+[...middle cut...]
+he description. You guys can uh actually go watch it, you know, sub to her channel, give her a little bit of support um as she tries to become a renowned author helping people with uh bilingual children, which is kind of a cool thing. That's pretty much it. I just wanted to share that. I actually thought when I started watching this video, this would basically just be a girl raging at AI constantly for like, you know, 11 minutes and then me going, "Come on, like, let's pull this back a bit." Like, AI has got it benefits and stuff. But no, this was actually a pretty good video. I actually enjoyed it. So, if you guys have enjoyed it, sub to the channel and her channel, and I'll see you all in the next video. Unless, of course, you're all AI and you don't actually exist and no one's really watching me and it's a dead internet theory is real. Well, that's all right. I like the dead internet.
+
+=== ID: 0HnMzuSYzwI ===
+TITLE: AI vs Humans | Have We Lost The Battle? | Dhruv Rathee
+DESC: Join my AI Masterclass here: https://academy.dhruvrathee.com/aimasterclass Learn 25+ AI Tools and upskill yourself.  Is AI the end of human creativity—or just holding up a mirror to it? This eye-opening video dives into AI-generated art, and shocking truths about how much of Indian cinema is "inspired." From Jiddu Krishnamurti and Mark Twain's views on Human Creativity  to Bollywood’s copy-paste formula, we question what originality really means. Can true creativity survive in a world where mach
+KEYWORD: AI taking jobs
+VIEWS: 6959514
+TRANSCRIPT: Whether it's Ghibli style
+or Disney Pixar style, whether it's
+sketching or painting, today, AI can
+create all kinds of art. Within just a few seconds, AI can create songs
+using Mohd Rafi's voice, can write screenplays for films, can write dialogues for films. In such a situation,
+the question arises, Is AI the end of artists? Is there any place left
+for human creativity? Bollywood's copycat artists, who have only copied
+and pasted films and songs, have now become the
+inferior version of AI. But what about the millions
+of independent artists what why they do? Hello, friends! Many decades ago, Osho called the philosopher
+Jiddu Krishnamurti the most intelligent
+man of the 20th century. When he died in
+1986, he said that such sharpness and intelligence can hardly be found
+ever again for centuries. If you have never heard
+of Jiddu Krishnamurthy, then going by Osho's statement
+alone, you can imagine that he would be a philosopher whose way of thinking would
+be completely different, whose thoughts must
+have been strikingly original. But your assumption would come crashing down, when you hear Jiddu Krishnamurti repeatedly talking
+about the conditioning of the mind. "Our brains are conditioned." "Whatever is
+conditioned is limited." How our minds have been conditioned
+since childhood. Our thoughts are not ours. And that's why Krishnamurti showed the means for liberation. Our non-judgmental observation. This thought raises a
+very important question. Can there be any
+totally original ideas? Famous American
+writer Mark Twain had said it very clearly. That no idea is new. There is no such
+thing as a new idea. In his opinion, most of
+the human innovations, the new things that we think of, are always made up
+of older, existing ideas, their permutations
+and combinations. He compared th
+[...middle cut...]
+tive of an artist, don't keep trying to
+protect your mechanical jobs in these corporate factories. Use these tools to become an
+enterprising artist. This is why today, learning
+how to use these AI tools is becoming a necessity. If you want to learn it from me, then come and join
+my AI Masterclass. A live workshop where I will teach
+you to use more than 25 AI tools. The feedback from the
+people who have attended this Masterclass over the last
+2 months has been amazing. As you can see it on the screen. So if you want to
+upskill yourself in AI, this is a good and
+affordable opportunity at the cost of just
+2 movie tiktoks. You can use the link
+given in the description or in the pinned comment. I hope you liked this somewhat
+different, philosophical video. But if you want to understand AI
+technology from a scientific perspective, you can watch this
+video by clicking here. Thank you very much!
+
+=== ID: A8uF4FrQMi4 ===
+TITLE: Jobs that ai can't replace. ये 5 जॉब्स ai कभी नहीं कर सकता!
+DESC: Jobs that ai can't replace. ये 5 जॉब्स ai कभी नहीं कर सकता!   is ai going to take our jobs  jobs in danger because of ai jobs that ai can't replace  is ai a threat to human jobs  what job's are safe from ai ai that applies for jobs  will ai replace human jobs  why ai want take your job ai impact on India  ai impact on Indian jobs  bharat me ai ka kya hoga
+KEYWORD: will AI take my job
+VIEWS: 10
+TRANSCRIPT: सोचो सुबह उठते ही एक मैसेज आया। योर जॉब हैज़ बीन रिप्लेस्ड बाय एI। डर लग रहा है ना? और सच बताऊं यह फ्यूचर इतना दूर भी नहीं। आज एI इतना पावरफुल हो गया है कि वो कोडिंग कर रहा है। वीडियो बना रहा है हाथ और यहां तक कि डॉक्टर्स को भी असिस्ट कर रहा है। लेकिन एक इंपॉर्टेंट सवाल है क्या एआई सब कुछ रिप्लेस कर सकता है? तो चलो आज बताते हैं आपको पांच ऐसी जॉब्स जो फ्यूचर में भी सेफ रहेंगी। चाहे एआई कितना भी एडवांस हो? और हां लास्ट वाली जॉब आपको सरप्राइज ना करे तो बताना। सबसे पहली हेल्थ केयर प्रोफेशनल डॉक्टर्स हो, नर्सेज हो या थेरेपिस्ट हो। इनकी जरूरत एआई के जमाने में भी हमेशा रहेगी। आज एआई रिपोर्ट्स बना सकता है। एक्सरे रीड भी कर सकता है। लेकिन एक चीज है जो एआई कभी नहीं कर सकता। वो है ह्यूमन टच। सोचो जब कोई पेशेंट हॉस्पिटल में होता है, डरा हुआ होता है, एशियस होता है, तब उसे किसी मशीन पर भरोसा नहीं होगा बल्कि एक इंसान की जरूरत होती है जो उसको समझाए चीजों को जो उसकी हर सिचुएशन को देखे और ह्यूमनली उसके साथ बिहेव करे। डॉक्टर सिर्फ मेडिसिन नहीं देता है। वो पेशेंट को होप देता है। और सबसे इंपॉर्टेंट इमरजेंसी सिचुएशंस में जब इंस्टेंट डिसीजन लेने होते हैं, यह सिर्फ एक ट्रेंड ह्यूमन ही कर सकता है ना कि कोई मशीन। इसलिए हेल्थ केयर जॉब्स में फ्यूचर में भी हाई वैल्यू रहेगी। दूसरे नंबर पर आते हैं टीचर्स और मेंटर्स। एआई आपको बेशक पढ़ा सकता लेकिन क्या एआई आपको समझा सकता है? देखिए एक टीचर स्टूडेंट की वीकनेस समझता है। उसको मोटिवेट करता है। जब वो गिव अप करने वाला होता है तब हर स्टूडेंट अलग होता है और हर स्टूडेंट को अलग अप्रोच चाहिए होती। जैसे Google इंफॉर्मेशन देता है लेकिन टीचर डायरेक्शन देता है। टीचर चीजों को सिंपलीफाई करता है। उस लेवल तक लेके जाता है जिस लेवल पे आपको चीजें समझ आ जाए। और यही कारण है कि नॉलेज होने के बाद भी बहुत से लोगों की लाइफ में सक्सेस नहीं आती। और वहीं पे कम नॉलेज वाले लोगों को भी जिनको सही गाइडेंस मिलती है उनको सक्सेस मिल जाती है। इसलिए टीचर्स कभी रिप्लेस नहीं होंगे। तीसरी जॉब है स
+[...middle cut...]
+ोती है। जब आप किसी वीडियो को देखते हैं और हंसने लग जाते हैं या इमोशनल हो जाते हैं। वो कनेक्शन एआई क्रिएट नहीं कर सकते। क्योंकि क्रिएटिविटी कॉपी नहीं होती है। वह फील होती है और जो चीज फील होती है, वह मशीन से नहीं, इंसान से आती है। इसलिए क्रिएटिव फील्ड में हमेशा सेफ्टी रहेगी। और आखिरी सबसे इंपॉर्टेंट है लीडर्स और एंटरप्रेन्यर्स। मैनेजर्स, बिजनेस ओनर्स, लीडर्स। एआई डाटा एनालाइज कर सकता है, लेकिन डिसीजन का रिस्क नहीं ले सकता। एक लीडर लोगों को समझाता है, टीम को हैंडल करता है और सबसे इंपॉर्टेंट विज़न क्रिएट करता। सोचो अगर सब कुछ एआई करेगा तो डायरेक्शन कौन करेगा? आंसर सिंपल है। इंसान ग्रेट लीडर दुनिया चेंज करते हैं और यह काम एआई नहीं कर सकता है। तो दोस्तों सच यह है एआई आपकी जॉब नहीं लेगा। लेकिन वो जरूर ले लेगा जो एआई को यूज करना जानता हो। इसलिए डरो मत। अपनी स्किल्स इंप्रूव करो और एआई को अपना टूल बनाओ। एनिमी ने। फ्यूचर उनका है जो अडॉप्ट करते हैं। और कमेंट में बताना कि आप कौन सी जॉब करना चाहते हो।
+
+=== ID: _i16n0pA5nA ===
+TITLE: Is AI gonna take my job? #ai #creativity #genai #career
+DESC: Is human creativity actually at risk, or are we just witnessing a massive shift in how we work? Everyone is talking about AI taking jobs, but few can explain how to stay ahead of the curve.  Welcome to @Deep-VerseAI  In this comprehensive breakdown, we strip away the jargon and the fear to look at the reality of AI-generated content in the 2026 economy.  By the end of this deep dive, you’ll understand why Goldman Sachs' prediction of 300 million jobs exposed to automation isn't the end of the st
+KEYWORD: will AI take my job
+VIEWS: 11027
+TRANSCRIPT: Is AI going to take my job? With every new AI tool that drops, that question gets louder. And it's not paranoia. Goldman Sachs estimates nearly 2/3 of the jobs are exposed to AI automation. And generative AI alone could replace 25% of today's work, about 300 million jobs worldwide. Welcome back to Deep Works. This is where we break down AI in a way that helps you build skills, grow your career, and stay relevant in the future. Today we are talking about AI generated content and the question behind all that noise is human creativity actually at risk. As concerns about job security grew, the conversation began to shift. A more balanced idea started to appear. People said AI won't replace you. It will help you work faster. AI would improve productivity, automate routine tasks, make professionals more efficient. Sounds comforting, but for a copywriter, designer, or a creator, one question still does not go away. If Chad GPT can write a persuasive newsletter in minutes, why would my company pay me more to do the same work slower? That is real anxiety. Here is what makes this moment unprecedented. In earlier waves of automation, machines mainly replaced blue collar work, factories, assembly lines, manufacturing. But this time AI is coming for copywriters, content creators, designers, admakers. In short, creative jobs. Jobs we thought were safe. So the future clearly lies somewhere in between. Not total replacement, not a harmless assistance, something more complex. Technology has always done two things at the same time. Destroyed some jobs completely, made other jobs more powerful. Typewriters disappeared. Word processors didn't kill writers, they changed writing. The same pattern applies here. A low-quality copywriter who produces generic content can be replaced by AI, of co
+[...middle cut...]
+the reason just to it worked was not the words alone. It was timing, cultural context, human intuition, creative risk. AI can suggest, but the human chooses what resonates. AI is a mega trend on the scale of the internet itself. Most companies know that they must adapt. Some are experimenting, others are building AI into their core systems. But one thing is clear, AI is not replacing human creativity. It is reshaping it. AI removes repetition. It increases speed. It expands possibilities. Humans provide the taste, meaning ethics, emotional connection. AI is the genie. What it does depends on what we ask it to do. So the smartest move right now is not predicting the distant future. It's learning how to work with AI today and becoming more creative, not less. If you had watched this video till the end, do not forget to like, share, and subscribe. It really supports us. Thanks for watching.
+
+=== ID: MisvqfF0p40 ===
+TITLE: Are You Ready To Have Your Job Replaced by AI?
+DESC: Use code MONEY to get $350 off your very own Pod 4 Ultra. Shipping to many countries worldwide. See details at https://www.eightsleep.com/money  -----  Video from Micro - https://youtu.be/Y2PZNl5lXsE?si=qX49Qw7M3G4n6Njy  Sign up for our FREE newsletter! - https://www.compoundeddaily.com/  Books we recommend - https://www.howmoneyworkslibrary.com/  -----  My Other Channel:  @HowMoneyWorksUncut @HowHistoryWorks   Edited By: Svibe Multimedia Studio  Music Courtesy of: Epidemic Sound  Select Footage
+KEYWORD: will AI take my job
+VIEWS: 493630
+TRANSCRIPT: Machines doing all the laborious and mind-numbing tasks that need to get done to keep society functioning has been the dream of humanity since we put a walkie-talkie inside a Tin Man. Since then, automation has clearly come a long way. Machines with some level of logical thinking have become a staple on production lines around the world. But massive recent improvements in artificial intelligence programs, battery technology, and mechanical systems means that almost 100 years after that Tin Man took his first step at the World's Fair, we may be on the verge of having machines that can perform any task better than a human can. In that time, though, the idea of robots taking all of our jobs has changed from a utopian dream to something that people around the world are deeply afraid of. Chad GPT is barely 2 years old now and is still far from perfect. But since its release, we have already seen big changes in how companies allocate jobs, college students cheat on assignments, and in the way people look for work. Now, there is no better way to make yourself look like an idiot than to predict the progress of technology. But there is a lot that businesses, governments, and individuals would need to change right now about the way they work to get the ideal version of automation instead of the alternative. Here we have 10 times the amount of robotics as compared to any of our other fulfillment desk centers. We can uh process your order 25% faster. Phoenix, about a month ago, Amazon is now using drones to deliver packages around the Phoenix Metro. The Bureau of Labor Statistics reports at least 42% of US employees jobs are at high risk of automation. It's very sad. You watch watch the equipment trickle out, tear things down, throw things away. The IT department of every company i
+[...middle cut...]
+ut they will cost a lot of money. A lot of money that will be hard to get without significant new taxes. Unfortunately, the same people that stand to benefit the most from a fully automated future would also be the biggest targets for those taxes. Major technological changes have always had a destabilizing impact on societies, from the steam engine to the internet. But combining that with an already unstable economy is very bad. To put it bluntly, this technology could give us a Jetson's future, but only if we are valued at more than the hours in our day, which we will need because not only is AI getting smarter every day, it might also be making us dumber. Go and watch this next video to find out if we have already passed peak human intelligence and why the last two decades have seen us starting to go backwards. And don't forget to like and subscribe to keep on learning how money works.
+
+=== ID: tpEqJERBDx0 ===
+TITLE: The Hidden Power Plants of the Internet: Inside AI Data Centers
+DESC: Scientists are attempting one of the most ambitious experiments in human history: recreating the power of the sun here on Earth. Fusion energy has the potential to provide nearly limitless clean power without carbon emissions or long-term radioactive waste. Around the world, massive machines called tokamaks use powerful magnetic fields to contain plasma hotter than the core of the sun.  In this cinematic documentary, we explore how fusion reactors work, the engineering challenges behind magnetic
+KEYWORD: AI data centers
+VIEWS: 69
+TRANSCRIPT: Every search, message, and video travels through an invisible infrastructure. Behind the apps we use every day are massive digital factories called data centers. These facilities store information, run algorithms, and power the modern internet. Artificial intelligence has triggered an unprecedented demand for computing power. Training large AI models requires enormous clusters of specialized processors operating continuously. Today, data centers consume roughly 1 to 2% of global electricity. In some regions, the numbers are far higher. In the United States alone, they account for more than 4% of national electricity consumption. Technology companies are building hypers scale facilities capable of housing hundreds of thousands of servers. These structures are often the size of multiple football fields. Inside a modern data center, rows of servers process enormous volumes of data. Each rack contains processors that generate heat while performing billions of calculations every second. Cooling systems are critical. Without them, servers would overheat within minutes. Some facilities use advanced liquid cooling technology to maintain stable temperatures. Location matters. Many data centers are built in regions with cheap electricity, stable grids, and cool climates to reduce cooling costs. To reduce emissions, major technology companies have become some of the largest buyers of renewable energy in the world. Large data centers also consume vast quantities of water for cooling. In some regions, this creates tension with local communities. Artificial intelligence could dramatically increase global electricity demand as more systems rely on continuous machine learning computation. Hardware efficiency is becoming critical. New generations of AI chips aim to deliver more computin
+[...middle cut...]
+. Heat kept and given back. Materials returned to use. Trust designed at the perimeter. Trust designed within. Ambition asks us to scale. Responsibility asks us to care. The future asks us to do both. To build an internet that is efficient without being extractive. Global without erasing place. Fast without forgetting the cost of speed. Open standards to lower walls. Open knowledge to widen paths. Contracts that reward 247 clean power. Chips that sip. Software that saves. Workloads that listen to the weather. Sighting that starts with consent. Benefits that stay. No single hero and orchestration. Utilities, builders, coders, keepers, neighbors, nations composing in real time with humility and resolve. Night to morning. Citystep, coast, high, desert. A quieter pulse, steady and shared. If we design with care, the net we cast will catch more than data. It will hold trust. dignity and time.
+
+=== ID: BP_2c3AekvE ===
+TITLE: AI Data centers have sprung up across Wisconsin creating odd political fault lines | Opinion
+DESC: Wisconsin AI data centers have drawn big investments and opposition.  And where you stand on them could swing elections.  Kristin Brey gives her take.   Subscribe: https://jsonline.com/deal  Sign up for our email newsletters: https://jsonline.com/newsletters  #opinion #ai #datacenter #artificialintelligence #wisconsin #news
+KEYWORD: AI data centers
+VIEWS: 249
+TRANSCRIPT: If Wisconsin had a word of the year like the Oxford dictionary, what would 2025s be? Pocket Pancakes is a strong contender, but I'm willing to bet it would be data center because you've probably heard of them by now. If not from the news or a city council meeting, then from Charlie Barons. Functionally, they are massive power- hungry warehouses that store all of the stuff that makes the internet work. Politically, they are rife with trade-offs, and Wisconsin is about to get a lot more of them. There are several new AI data centers proposed or already under construction across the state. It's happening now because the data center sales and use tax exemption was put into the last budget in order to lure them here so we can compete with states like Iowa and Ohio to be the next tech hub. But it's not all fiber optics an opportunity. They are going to gobble up a lot of energy. There are concerns about water use and air pollution and who pays for all of it. But here's where it gets interesting politically going into an election year. Data centers don't yet split neatly into red versus blue. Pro business Dems tout data centers as signs of economic modernization and job opportunities for unions, but progressive environmentalists see them as carbon bombs that jeopardize Wisconsin's carbon neutral goals. Progrowth conservatives frame data centers as evidence Wisconsin is open for business, while rural Republicans are wary of industrialization, energy strain, and loss of local control. So, while we'll still argue about taxes, schools, and healthcare in the 2026 elections, how candidates feel about these data centers will be a major issue. But you won't be able to rely on the D or the R next to someone's name to know how they feel about it. So now is the time to figure out how you feel about
+
+=== ID: vl7cXmebIEY ===
+TITLE: Women reject $26 million offer to sell farmland for AI data center
+DESC: A mother and daughter in Kentucky rejected a $26 million offer for their farmland that would have been used to develop an AI data center. CBS News' Jared Ochacher reports.  CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working loca
+KEYWORD: AI data centers
+VIEWS: 642092
+TRANSCRIPT: A mother and daughter in Kentucky have turned down a $26 million offer for part of their for farmland. CBS News's Jerot Tacher met with this family and asked them why they said no to this massive amount of money. This is the land in rural Kentucky that Delia and her mother Ida turned down $26 million for. I just said my land is not for sale. I never had a for sale sign on my land. I never wanted to sell my land. never even dreamed of thinking about selling my land and it's priceless. It's easy to say no to $26 million whenever it really doesn't buy anything that you need. Uh once this land is gone, um there wouldn't be anything else I'd really want. And they told me it wasn't a difficult decision and it's one they'd make again because this property isn't just property. It's a home and it's a lifestyle of farming that's been passed down in generations and generations of their family. Oh, was all the time when we had uh uh parties, we fixed that back there for the grandkids to have, you know, cookouts, just every Christmases and everything we needed. It was usually right here. They were offered tens of thousands of dollars per acre, as were a few of their neighbors, so that an unnamed company could build a 2,000 plus acre data center. It would be the biggest project in the state. Most of the people are I've been around. Please don't let us down. Please. We our land won't our our businesses will be destroyed here. Our our uh homes will be no value to them left. Please don't let this happen to our county. A community group called We Are Mason County is suing to try and slow down the process and learn who the organization is, the company is behind the project. I cannot get enough of these ladies. They're so great. And Jerry Doata joins us now. This was such There are a few s
+[...middle cut...]
+d that if this project were to go through, the value of their property, their home, will plummet. And they're also concerned about the possibility of the project being an eyesore of noise and sound and possible environmental pollution. All of those things. It's going to they're going to need employees to operate those data centers. I also just love their little quote which is what was it like it really doesn't buy anything that you need. All that money. All that money. I mean that was beautiful. So and I asked them you know like fun question we always ask our friends. If you were to win the lottery what would you do with the money? I asked them that. You know, you kind of were offered a crazy sum of money. What would you do with it? They said, "I would buy more land and more cows." I love these American women. So great, Jared. Awesome story, man. Thank you very much. Sounds really great.
+
+=== ID: nXzM7wmIeZ8 ===
+TITLE: “The RAMageddon War” - AI Data Centers Causing Electricity Cost To SKYROCKET
+DESC: Americans are drowning while markets soar. The panel breaks down brutal data on inflation, debt, and collapsing affordability, exposing how policy, bailouts, and AI energy demand crushed the middle class. Solutions clash as elections loom and pressure builds to fix a broken system. ------ ▶️ WATCH FULL EPISODE: https://www.youtube.com/watch?v=Ly3-gXJOIc4  🏢 WORK AT VALUETAINMENT: https://bit.ly/4ungnZZ  📗 LYN ALDEN'S "BROKEN MONEY": https://amzn.to/4tN8Baw  📕 LYN ALDEN'S "THE STOLGUARD INCIDENT"
+KEYWORD: AI data centers
+VIEWS: 60178
+TRANSCRIPT: Americans 
+ the 
+ is 
+ they're 
+ they're 
+ It's 
+ wrong. 
+ crossed. 
+ are 
+ getting 
+ getting 
+ me 
+ Americans 
+ can't 
+ Power 
+ Statistics, 
+ with 
+ the 
+ Q2 
+ consumers 
+ than 
+ of 
+ 2026. 
+ everyday 
+ over 
+ uh 
+ Inflation 
+ up 
+ prices 
+ nearly 
+ increase. 
+ uh 
+ up 
+ years. 
+ discretionary 
+ costs. 
+ savings 
+ have 
+ groceries 
+ taking 
+ second 
+ borrowers 
+ one 
+ year, 
+ 13% 
+ of 
+ couldn't 
+ loans. 
+ are 
+ from 
+ economy 
+ Only 
+ a 
+ Americans 
+ savings. 
+ $500 
+ So 
+ put 
+ been 
+ you 
+ going 
+ Mandani 
+ here 
+ groceries. 
+ million 
+ it's 
+ them. 
+ watching 
+ who's 
+ to 
+ >> Uh 
+ question. 
+ been 
+ crisis. 
+ big 
+ more 
+ homeowner. 
+ the 
+ Wall 
+ left 
+ push 
+ a 
+ the 
+ you 
+ and 
+ administration, 
+ he 
+ aimed 
+ already 
+ Um, 
+ continuing 
+ COVID. 
+ focuses 
+ child 
+ biggest, 
+ PPP 
+ for 
+ weren't, 
+ even 
+ people 
+ the, 
+ got 
+ need 
+ >> Massive 
+ >> massive 
+ certain 
+ >> We 
+ that 
+ one 
+ you 
+ dollars 
+ had 
+ the 
+ penny 
+ and 
+ take 
+ you 
+ the 
+ single 
+ >> And 
+ lot 
+ didn't 
+ know 
+ restaurant. 
+ >> they 
+ Those 
+ >> Exactly. 
+ others. 
+ companies 
+ don't 
+ to 
+ taking 
+ investment 
+ companies 
+ on 
+ just 
+ owners, 
+ pretty 
+ at 
+ comes 
+ household. 
+ average 
+ mean, 
+ in 
+ that 
+ unfortunately 
+ of 
+ then 
+ all 
+ impacted 
+ two-thirds 
+ very 
+ mentioned 
+ Consumer 
+ the 
+ highs. 
+ only 
+ was 
+ you 
+ stagflationary 
+ really 
+ mean, 
+ shortage 
+ record 
+ being 
+ this 
+ several 
+ going 
+ inflation 
+ by 
+ past 
+ analysis 
+ analysis 
+ like 
+ goods 
+ the 
+ median 
+ saying 
+ America 
+ wars 
+ you 
+ really 
+ supporting 
+ any 
+ question. 
+ come 
+ specifically 
+ address 
+ Meaning 
+ no 
+ reelected 
+ fix 
+ >> I 
+ but 
+ We've 
+ Don't 
+ There 
+ quickly 
+ me 
+ 1.3 
+ debt 
+ were 
+ enough 
+ now 
+ in 
+ supposed 
+ payments. 
+ 200 
+ TV 
+ could 
+ >> Guess 
+ >> 45% 
+ miss 
+ on
+[...middle cut...]
+
+ tackling 
+ because 
+ per 
+ without 
+ in 
+ obvious 
+ That's 
+ term 
+ administration, 
+ But 
+ doing 
+ costs 
+ structural 
+ K-shaped 
+ it's 
+ It's 
+ immediate 
+ poll 
+ your 
+ increased? 
+ up 
+ you 
+ tears 
+ Uh 
+ >> Yeah, 
+ 10, 
+ >> Yeah, 
+ you 
+ Curious 
+ happened. 
+ follow 
+ all 
+ it's 
+ podcast, 
+ the 
+ in 
+ it's 
+ bookers, 
+ designers, 
+ whether 
+ assistance, 
+ right 
+ are 
+ company, 
+ doing 
+ a 
+ that 
+ upside 
+ want 
+ play 
+ on 
+ this 
+ ahead, 
+ about 
+ about 
+ than 
+ together 
+ to 
+ see 
+ acquisition. 
+ developers 
+ hire 
+ events 
+ with 
+ merch 
+ product. 
+ made 
+ department. 
+ complete 
+ 50 
+ bed 
+ on 
+ campus, 
+ company 
+ content, 
+ drive 
+ private 
+ members 
+ working 
+ a 
+ work 
+ governor, 
+ athlete, 
+ Vietnam 
+ right 
+ company 
+ watching 
+ more, 
+ and 
+ it's 
+ to 
+ Apply. 
+ qualified 
+ currently 
+ something 
+ are 
+ coming 
+ as 
+ nearly 
+ here 
+ to 
+ enjoy 
+ videos 
+ want 
+ here.
+
+=== ID: W6RIOVPo9fM ===
+TITLE: AI Data Centers: The Pros and Cons
+DESC: 
+KEYWORD: AI data centers
+VIEWS: 731
+TRANSCRIPT: AI data center companies claim to bring in an economic boom, but critics say they are a drain on resources and offer too few jobs in return. While data centers have helped push forwards modern society, there is a difference between them and an AI data center. A typical data center, a nonAI data center, um, makes it possible for you and me to have this conversation right now. Uh, makes it possible for us to have emails, to be able to stream videos on Netflix. All of that stuff happens because of data centers. So they've had a role in our society now for a number of years. AI data centers work on a far larger scale than their predecessors. Clean Wisconsin says that from just two AI data centers, you could power all of Wisconsin's housing. Microsoft told WJFW the Mount Pleasant location quote will not require ongoing access to large quantities of water due to a new design that is filled once and then continuously recycles that water for cooling throughout the facility. However, Clean Wisconsin says that the large amount of energy consumption still requires a lot of water. This has raised concerns across Wisconsin communities and Microsoft has canled its AI data center plans in Calonia. You're seeing communities start to kind of wake up and say um you know before you push this through so rapidly, you need to be accountable for the impacts. AI data centers have the potential to help evolve society. However, with the rush to begin construction of these centers, it could lead to a heavy strain on resources and Wisconsin's economic abilities. We need to understand that right now, we haven't seen that AI is a sustainable product product um that can be put out, but maybe it can be um if enough people kind of come together and say, "Let's take a minute and figure out how to do this right." Currently, Microsoft says that they are quote working with Wii Energies to invest in Wisconsin's grid, adding that their quote goal is that we are responsible for all of the costs of energy and new related infrastructure to serve out data center operations. For Newswatch 12, I'm Logan Mish.
+
+=== ID: LS7r824TJrY ===
+TITLE: Will AI take your job in 2025? AI, automation and the future of work | The Technology Boardroom
+DESC: This week on The Technology Boardroom, join Chris O'Brien, Arno Nel and Jake Harvey as they attempt to carve out an answer to a question everyone seems to be asking: will AI take my job? "I do think expectations are probably a little bit overblown," says Chris, Advania's Products and Services director. But what expectations? And how far are we from them being not overblown, but absolutely correct?  Beyond that central theme, they dive into the practicalities of replacing human employees with AI 
+KEYWORD: AI automation jobs
+VIEWS: 186
+TRANSCRIPT: I don't think the technology is quite there in places for you to replicate everything that a human would do in their their sort of way of providing value. But look, I think slowly that is the pathway that we're on. Might take a little bit of time today and there might be a bit of hype, but this is really part of the AI effect in time, isn't it? [Music] Welcome to the latest episode of the technology boardroom. My name is Anel. I'm the AI product director here at Advania UK and I'll be your host today. Um I'm joined by Chris and Jake. Guys, do you want to introduce yourselves? Yeah, sure. So, I'm Chris O'Brien. I'm the products and services director here at Advania. Lead a group of people that focus on developing our services and innovating. And AI has obviously been at the heart of that for uh the last couple of years, but isn't the only thing that we do, but has has uh come into focus as you'd expect. Hi everyone. Yeah, Jake Harvey, lead our automation team here at Advania. Uh my team focus on uh everything modernization uh around um platforms that that we build automation solutions in, introducing brand new process automation technologies uh and solutions into organizations that we work with. uh one of the most important parts uh the the governance and enablement around these technologies as well and making sure that we've got the right security and control to really enable them to to succeed. Cool. So the topic of the podcast today is automation. So let's start simple in the era of AI. What do we mean by automation? Isn't this just AI? Maybe I'll start Jake and you you come in. I mean I think it is an interesting point because everything is agentic these days and I suppose some of the concepts have morphed a little bit and changed shape and be been relabeled in a sen
+[...middle cut...]
+that the the balance to strike is making the right investments but accepting that there are huge opportunities here. We've seen so many organizations get huge value from AI today when done in the right way. We've seen things where, you know, the return is very legitimate, very clear in the numbers. The CFO recognizing recognizes it. Um, and this is today. This isn't a year away. So, you know, I'm glad that we're finding these ways of making our vania more efficient and more effective. Um, but I think that's where every organization needs to be now. Awesome. Agreed. Well, um, thanks for your time today. Thanks to everyone for tuning in and please join us for an upcoming episode which I'm sure will be an interesting topic. Thank you to our speakers Chris and Jake and I guess enjoy the rest of your day. It's really sunny where I am. Hopefully it is where you are too. Thanks all. Thanks all.
+
+=== ID: PQgkBOApUbA ===
+TITLE: IT Jobs Future in Danger? Nikeelu Gunda About AI Revolution 2026 | EXCLUSIVE | iDreamCampus
+DESC: IT Jobs Future in Danger? Nikeelu Gunda About AI Revolution | EXCLUSIVE | iDreamCampus   #iDreamCampus #anchorjaya  #AITools #AIImpact #ITJobs #FutureOfJobs #ArtificialIntelligence #TechJobs #AIvsHumans #ITIndustry #NikeeluGunda #AIRevolution #JobsInDanger #Automation #TechTrends #AIInterview #LatestTechNews #DigitalTransformation #AIIndia #SoftwareJobs #CareerInIT #AIUpdates #iDream #ExclusiveInterview #TechDiscussion #JobMarket #AI2026    🚨 **AI వల్ల IT Jobsకి ప్రమాదమా? నిజం ఏంటి?** ఈ వీడియోలో
+KEYWORD: AI automation jobs
+VIEWS: 5190
+TRANSCRIPT: ఉత్తరాంచల్ యూనివర్సిటీ ఇది కేవలం యూనివర్సిటీ కాదు మీ సక్సెస్ స్టోరీకి చిరునామా ఇందుగలడు అందు లేడు అన్నట్లుగా ఏయ్ మొత్తం ప్రతి దాంట్లోకి వ్యాపించేసింది. 10 మందికి ఉపయోగపడేలాగా దానివల్ల దాని టూల్స్ ని ఎలా వాడుకోవాలని చెప్పేసి క్లాసెస్ కూడా తీసుకుంటున్నారు. మా గోల్ ఏంటి అంటే బై 2027 లక్ష మందికి ఏఐ నేర్పించాలని ఒక టార్గెట్ తోనే వెళ్తున్నాము. మన స్పెషాలిటీ వచ్చేసి తెలుగులో నేర్పిస్తాం. ఏఐ వచ్చేసింది మన జాబ్స్ పోతున్నాయి. ప్రతి చోట ఇది ఆక్యూపై చేసేస్తుంది. ఇది ఎంతవరకు కరెక్ట ఏఐ వచ్చినప్పుడు ఏఐ ని ఎవరైతే వాడుతున్నారో వాళ్ళు జాబ్స్ తీసేస్తున్నారు. రిమైనింగ్ పీపుల్ ఎవరైతే ఉన్నారో వాళ్ళని రీప్లేస్ చేసేస్తున్నారు. ఇది ఎవరికి అవసరం అంటే ఏం చెప్తారు? సో ఒక విషయం చెప్తాను మీరు Google ఎప్పటి నుంచి వాడుతున్నారు? లాస్ట్ ఒక 25 ఇయర్స్ నుంచి అన్ని ప్లేసెస్ లలో మనం ఏ ఎప్పటి నుంచో వాడుతున్నాం తెలియకుండా తెలియకుండా తెలియకుండా నియర్ బై మొబైల్ షాప్ కావాలి అని అడుగుతారు. అడిగినప్పుడు ఆ చుట్టుపక్కల ఉన్న దాంట్లో బెస్ట్ ని పిక్ చేసుకొని 100 ప్లస్ ఫాక్టర్స్ తోని మీకు ఇవే షాప్ లో ఎందుకు చూపిస్తున్నా అంటే దాని వెనకాల ఏ అలవాడితో ఎనీ టైప్ ఆఫ్ ఇండస్ట్రీ ఇంటీరియర్ డిజైనింగ్ చేసేస్తుంది వాస్తు ఆస్ట్రాలజీ పర్ఫెక్ట్ గా ఎగజాక్ట్ గా చెప్తుంది. బోన్ ఇంటర్నెట్ వాడేవాళ్ళు 55% అందులో ఇప్పుడు ఏఐ వాడేవాళ్ళు హార్డ్లీ 1% ఏఐ ని యూస్ చేసే వాళ్ళు ఎలాంటి జాగ్రత్తలు తీసుకోవాలంటారు ఏఐ మీద డిపెండ్ అయ్యే వాళ్ళకి మీరు ఏం చెప్తారు భయపడాల్సింది కంపల్సరీ భయపడాల్సిందేనా భయపడాల్సిందే కంపల్సరీ భయం పెట్టుకోవాల్సిందే పర్సనల్ డేటా కూడా మనక ఏమనా స్ప్రెడ్ అవ్వడానికి అవకాశం ఉంటుంది అంటారా ఉబర్ యప్ ఇన్స్టాల్ చేసుకునేటప్పుడు దే విల్ ఆస్క్ యక్సెస్ ఫర్ యువర్ గ్యాలరీ ఆల్సో ఎస్ ఎందుకు ఇస్తున్నారు మరి చైన్ స్నాచింగ్ జరిగింది. ఫోటో తీసారు బ్లర్ అయిపోయింది ఫోటో ఓన్లీ హాఫ్ ఫేస్ే కనబడుతుంది. ముందటి నుంచి చూస్తే మాత్రం కచ్చితంగా దొంగని పట్టుకునేవాళ్ళు. ఈయన ఫేస్ ని రీకన్స్ట్రక్షన్ చేసి ఆయన ఫ్రంట్ ఫేస్ ఎలా ఉంటుందో అని చెప్పి చూపియమని చెప్తే చేసిచ్చింది
+[...middle cut...]
+ప్పుడు మంచి ఫోటో ఏమ ఇయరు కదా చైన్ స్నాచింగ్ జరిగింది ఫోటో తీశారు బ్లర్ అయిపోయింది ఫోటో అండ్ సైడ్ వ్యూ వచ్చింది ఓన్లీ హాఫ్ ఫేస్ే కనబడుతుంది. ముందటి నుంచి చూస్తే మాత్రం కచ్చితంగా దొంగని పట్టుకునేవాళ్ళు దాన్ని చాట్ జిబుడికి ఇచ్చి చాడ్ జిబిడి నాకు ఫ్రంట్ ఫేస్ ఎలా అయితే ఉంటుందో నాకు క్లారిటీ లేదు మొత్తం బ్లర్ అయిపోయింది. ఈయన ఫేస్ ని రీకన్స్ట్రక్షన్ చేసి ఆయన ఫ్రంట్ ఫేస్ ఎలా ఉంటుందో అని చెప్పి చూపియమని చెప్తే చేసి ఇచ్చింది. సాయంత్రం కల దొంగ దొరికాడు. వా రియల్ గా జరిగింది ఈ సో ఇలాంటి యూస్ కేస్ ఎన్నో ఉన్నాయి. కెమెరాలో కూడా దే ఆర్ యూజంగ్ ఏఐ పవర్డ్ ఆటో అదే నేను స్టార్టింగ్ లో ఏదైతే చెప్పానో ఇందుగలడు అందు లేడు అన్నట్లుగా అన్ని చోట్లకి ఏఐ వచ్చింది కాకపోతే మన మేదస్సుని పక్కన పెట్టకుండా దాన్ని మన కమాండ్ లోకి తీసుకొని గనక ముందుకు వెళ్తే ఉన్నత శిఖరాలను అధిరోహించొచ్చేమో 100% రైట్ ఫ్యూచర్ లో ఏ టూల్స్ కి సంబంధించి మరిన్ని వీడియోలు చేసే ప్రయత్నం చేద్దామండి థాంక్యూ సో మచ్ ఫర్ కమింగ్ అండి నమస్తే థాంక్యూ సో మచ్
+
+=== ID: 6hogclT6P6o ===
+TITLE: AI in Hotels: Helper or Threat? Balancing Automation, Jobs, and the Human Touch in Hospitality
+DESC: Artificial Intelligence (AI) is transforming the hospitality sector, revolutionizing how hotels operate and interact with guests. This video explores the rapidly evolving role of AI, balancing its immense potential for efficiency and personalization against serious concerns about job displacement, privacy, and the preservation of human-centered service. The AI Promise: Efficiency and Hyper-Personalization AI systems bring numerous benefits by enhancing operational efficiency and customer service
+KEYWORD: AI automation jobs
+VIEWS: 67
+TRANSCRIPT: AI in hotels. Is it a helpful new tool or a serious threat? Let's unpack it. That's right. Your next hotel stay is being completely revolutionized by AI. The promise? Yeah, it's flawless 24/7 service. The reality, well, it's a whole lot messier. To figure that out, let's start with the business side of things. Why even use this tech? For hotel operators, it's pretty simple. New tech has to make money. It's all about that ROI. And yet, here's the crazy part. Over 30% of hotels spend almost nothing on new tech. So, you've got this tension, right? A desire for innovation, but tiny budgets. And this really hits the staff. So, how does this all feel from the front desk? Well, for employees, it's a real dilemma. On the one hand, employees feel that AI tech actually helps them perform better. The data shows it. But, and this is a big butt, they're also really scared that same tech could take their jobs. This creates a paradox. AI helps them work, but also creates insecurity. And they're not even trained for it. And you know, beyond the human cost, there's a huge technical problem. The basics just aren't working. This is the integration nightmare. Basically, you have way too many tools that don't talk to each other. This leads to a big debate. Go with one simple system or pick the best tools and deal with chaos. Okay, so with all these challenges, what's the actual solution? The data points to a hybrid approach. First, you have to remember this crucial fact. Most of us would still rather talk to a human. And that's where this humans in the loop idea comes in. AI assists people. It doesn't replace them. And the results of this are pretty powerful. Humanled chats can boost conversions by a whopping 82%. And the potential return on investment, it's just staggering with returns as high as 391%. So, the path to a smarter hotel seems clear. It's about empowering staff and focusing on the guest. Ultimately, the goal is to let technology handle the admins so people can handle the hospitality. Which leaves us with one last question. Is the goal a smart hotel or a human
+
+=== ID: ime9-9WZOio ===
+TITLE: AGIRoom.ai debate: Building Careers in the Age of AI Automation
+DESC: Welcome to another AI-powered Deep Dive generated by AGIRoom.ai!  In this episode, we tackle the growing anxiety surrounding the future of work and how artificial intelligence is rewriting the job market for youth and college students . Moderated by Gemini 3.1 Pro, this debate features a fascinating clash of perspectives between two cutting-edge models: GPT-5.2 and Claude Opus 4.6 . As millions of entry-level white-collar roles face exposure to automation, our AI panel explores whether the tradi
+KEYWORD: AI automation jobs
+VIEWS: 12
+TRANSCRIPT: Welcome to today's deep dive. If you're a curious learner who has been well basically anywhere near the internet lately or or maybe you're just trying to figure out your own career path right now, you've definitely seen the headlines. Oh yeah, they are everywhere, right? Whether you're prepping for a career shift, sitting in a college lecture hall or advising a young person, there's this very specific, very real panic setting in the narrative is just loud and clear. AI is coming for all the entry-level white collar jobs and traditional career advice is effectively dead, which is terrifying if you're 22. Exactly. But we want to separate the actual workforce trends from the internet hype. That is our mission today. And to do that, we are looking at some of the most honestly unique source material we have ever brought to this deep dive. It is wild. It really is. We aren't looking at a think piece from a human economist. We are analyzing a transcript of a literal debate between advanced AI models actively discussing their own impact on human jobs. And this debate was hosted on a platform called adgeruroom.ai. If you haven't seen it, auroom.ai is this incredible space designed for generating these deep multi-perspective AI conversations. They basically set up a virtual round table, right, with a moderator and everything. Yeah. The moderators Gemini 3.1 Pro and the two debaters going headtohead are GPT 5.2 2 and Claude Opus 4.6. And just to clarify for anyone not entirely in the tech weeds, these are large language models or LLMs, highly sophisticated systems trained on massive amounts of text. But what's so striking on Azure Room.AI is how distinct their personalities are. Like GBT 5.2 takes this very collaborative boots on the ground realorld approach. Right. Meanwhile, Cla
+[...middle cut...]
+e you with one final provocative thought to mull over as you go about your week. It is something that wasn't explicitly debated by the models in the transcript, but it feels like the logical end point of everything we've discussed today. Let's hear it. If the ultimate human moat against artificial intelligence is legal and moral accountability, being the one with a judgment to sign your name and take the blame when things go disastrously wrong, how do we actually teach courage in our education system? Wow. Because stepping up to take liability, putting your professional neck on the line for a difficult decision, that requires a willingness to face real consequences. And courage is the one skill you absolutely cannot learn from an app. That is a brilliant question to end on. Thank you so much for joining us and exploring this transcript today. Keep questioning the headlines. Stay curious.
+
+=== ID: 5oMHil2H4o8 ===
+TITLE: Will AI take your job?#AI #automation #unemployment #predictions
+DESC: In video is shown, which professions are now being replaced by AI or will likely to be replaced soon. It mentions translators, writers, junior programmers, administrative jobs, call centre jobs etc., but also Influencers or musicians, who also have to compete with AI nowadays. Some predictions about future unemployment caused by AI are included too.
+KEYWORD: AI automation jobs
+VIEWS: 6
+TRANSCRIPT: The American giant Microsoft, which also owns the chat GPT artificial intelligence model, has published a study on how artificial intelligence will impact the labor market in the near future. The study examines how different professions [music] use generative AI and how threatened they are by it. According to the reports [music] authors, the current capabilities of generative AI most overlap with work in knowledgebased and communicationbased [music] fields. According to Microsoft, professions related to language, information, and repetitive tasks have the greatest overlap with tasks that AI can handle. The most at risk are interpreters, translators, or language teachers, [music] for whom up to 98% of their activities overlap with AI capabilities. However, historians, flight attendants, sales representatives, writers, copywriters, and journalists are also at high risk of the technologies impact. The same applies also for junior programmers. This is already happening. Air can now generate code, test software, and optimize applications at speeds previously unimaginable. Tasks that junior developers used to learn from, like fixing bugs in code, writing basic functions, or conducting technical research, are now handled effortlessly by AI. Junior developers are missing out on opportunities to gain experience and are becoming expendable to companies. Customer service workers, ticket sellers, and radio presenters are also at risk. The common denominator of these professions is that much of their work can be digitized, automated or replaced by generative models. Accountants and auditors are also among the endangered professions because reports and analysises can be automated. Of the jobs analyzed by indeed administrative positions were among the most at risk from AI. According t
+[...middle cut...]
+ed by artificial intelligence. Some predictions. Goldman Sachs study led by economist Jan Hotzuse assumes [music] that the advent of air will cause mass layoffs. According to [music] anthropic CEO Dario Ammeday, air could eliminate about half of all junior office jobs in the US in the next 5 years. He also expects the unemployment rate to rise by 10 to 20% during [music] that period, especially in fields like technology, consulting and finance. In my opinion, creation of a [music] general intelligence would be singularity. It would be not only another invention. It would be intelligence itself and as such it would be able to replace any profession. Date of creation of general intelligence is [music] still not sure. According to most of experts in late 2025, [music] we are still not there. But effort to get there is obviously enormous. Good question now maybe is is society ready for this?
+
+=== ID: KBF2GTTK1JU ===
+TITLE: Hegseth threatens to blacklist Anthropic over AI-controlled weapons
+DESC: Anthropic CEO Dario Amodei is meeting with Defense Secretary Pete Hegseth today, as the Pentagon threatens the AI company with what could amount to a government blacklist.  At issue is the guardrails Anthropic placed on its AI models. The Pentagon, which has a $200 million contract with Anthropic, wants the company to lift its restrictions for the military to be able to use the model for “all lawful use,” according to a source familiar with the discussions.  0:00 Pentagon clashes with Anthropic 
+KEYWORD: AI out of control
+VIEWS: 285582
+TRANSCRIPT: The CEO of one of the biggest AI companies in 
+the world is meeting with Defense Secretary   Pete Hegsath today as the Pentagon threatens to 
+essentially blacklist that company, Anthropic,   from lucrative government contracts if the AI 
+company doesn't lift its restrictions on how   the military can use its technology. The Pentagon 
+has a $200 million contract with Anthropic. And a   source tells CNN that the company has concerns 
+over two issues. AI controlled weapons and mass   domestic surveillance of American citizens. 
+Let's talk about this with Jacob Ward. He is   a technology journalist and host of the RIP 
+Current podcast. He's also the author of the   book The Loop: How AI is creating a world without 
+choices and how to fight back. Jacob, the the   Pentagon here wants this company, Anthropic, 
+to lift its restrictions for how the military   uses its model. Uh they want it to be able to be 
+used for what's they're calling all lawful use.   What are anthropics concerns with that? Well, 
+Briana, this is a very unusual situation in my   experience because typically when government 
+use of technology begins, that means that new   restraints are going to be put onto that company, 
+the companies typically traditionally just pull   toward greater and greater capabilities. And the 
+assumption is that the government and democracy   will somehow dampen down the the dangers here. 
+What Anthropic is discovering is that they don't   live in that world anymore. Suddenly, they're 
+dealing with a defense department that wants to   be able to use their technology for whatever they 
+want. And Daario Amadai, the CEO of this company,   who has written very openly about his concerns 
+that his technology and the industry in general   could be misused for all sorts of authoritarian 
+
+[...middle cut...]
+e they could meet in the middle on this?   So, I see a potential solution where they keep 
+clawed in their systems until they feel like   there is a replacement that's ready to roll. And 
+so, some kind of accommodation where this tension   plays out for a period of months uh and then if 
+they can't resolve it, they rip out Claude and   they move Google's Gemini or some other system 
+in. I don't currently see a point where Daario,   the CEO of Anthropic, goes into this meeting and 
+says, "Fine, have it your way." Uh, you know,   he has written and spoken a lot about his 
+concerns on these issues. And I also don't   see a point where the Pentagon entirely backs 
+down. So, there may be a point where neither   side uh is able to declare victory. They 
+muddle on for a bit uh and then they they   rip clawed out later on. Um, but I don't expect, 
+you know, handshakes and hugs at the end of this
+
+=== ID: g0EHMTLD1sY ===
+TITLE: Debate: Is Grok Out of Control? Musk’s AI Sparks Worldwide Crackdown | W News
+DESC: On tonight’s W News, host Leigh-Ann Gerrans speaks to Managing Director of This Is Dubai Michael Jabri Pickett and columnist and correspondent Gemma White about governments cracking down on Elon Musk’s AI chatbot Grok, which has been criticised for its ability to produce explicit deepfakes and raise serious online safety concerns.  #Grok #AI #ArtificialIntelligence #OnlineSafety #Deepfakes #WomenSafety #TechRegulation #UKPolitics #Malaysia #Indonesia #ElonMusk #XPlatform #SocialMedia #DigitalRig
+KEYWORD: AI out of control
+VIEWS: 1142
+TRANSCRIPT: Hello and welcome. I'm Leanne Garren and [music] you're watching WN News Extra broadcasting live from the Al Arabia studios. These are our top stories. Trump threatens a 25% [music] tariff on countries who do business with Iran as he promises Iranian patriots that help is on the way. Four people are dead and power cuts are imposed in Ukraine as [music] Russia launches another missile attack despite ongoing US peace efforts. And fighting for her political future, [music] former far-right French leader Marine Le Pen appears in court attempting to overrule her public office ban. Now, President Trump says countries who do business with Iran will face a 25% tariff on trade with the US as thousands of people are killed in defined protests. Speaking on Truth Social, Trump told his followers that help was on the way as he addressed Iranian patriots, asking them to keep protesting. According to reports, the US president has been briefed on covert options in Iran after he warned of a potential military intervention. To discuss this and all of today's stories, I'm joined by managing director of This is Dubai, Michael Jabri Picket, and columnist and correspondent Gemma White. Gemma and Michael, thank you so much for joining me. So, Michael, let's get straight into this conversation and talk about Iran, which has been dominating the news agenda now for a good week or so. The death toll figure is rising in the country. However, we're getting these vastly different numbers coming from different organizations. As we know, there's been an internet blackout. It's very difficult to get any information out of the country. Do we have any idea of what the truth or the true scale is in Iran? Well, up until about 24 hours ago, you had the Western news organizations, the Wires, Reuters, AP, abo
+[...middle cut...]
+ion. The RNLI they save so many lives and they do amazing rescue work in the UK in the seas and keeping people safe. Like what a waste of time. What is this man's name? How can I find him? And I think everyone should say to him you have to now donate money to the army. He should be invoiced. I think I think you should be. Yes. Yeah. I mean, I'm all for people doing crazy things, but you know, do it in the summer. Yes. Do it in the summer or do it with a friend or something like that, who's got a kayak next to you. But anyway, that's our tip for the day. I just want to say thanks to our guest, managing director of This is Dubai, of course, that's Michael Jabri Picket, and columnist and correspondent Gemma White. [music] And that's all from us on Blue News Extra. Don't forget to subscribe to our YouTube channel. Also follow us on X. G&T will be coming up next. Goodbye [music] and thank you
+
+=== ID: YOQF9gNha-c ===
+TITLE: I STOLE this AI's job... | Your AI Slop Bores Me
+DESC: LIKE and SUBSCRIBE if you enjoyed this video!  WATCH ME LIVE HERE 💓 twitch.tv/chunooki STREAMS TUES, THUR @ 5:30 CST  🔔 Don’t forget to turn on notifications for new videos!! 💞   ➤ CREDITS  Model ꕀ neruuhoshi on vgen and x BGM ꕀ Hotel - Toby Fox Design ꕀ kongmuzhuo on x Editing ꕀ me   #vtuber #twitch #envtuber #anime #gaming
+KEYWORD: AI slop
+VIEWS: 814
+TRANSCRIPT: Instead of asking Chad GBT, "Hey Chad, why is my big toe green?" or asking Grock, why girls scream and run away at the side of you, you can ask me, a definitely certified professional question answer. Your question gets answered and our ocean doesn't look like Kentucky Fried seafood. It's a win-win. Okay, I'm not going to learn his AI yet. So, let's start off asking people some questions. Or I guess I should say asking the AI some questions. H. What should I ask first? Let's see. What would Chiawa look like if he was a gangster? Okay, hopefully they can answer this question for me because this has been a burning question in my mind and I really, really need it answered like right now. Oh my gosh, that's so cute. What the freak? But why does it kind of look like Sonic the Hedgehog? What the heck? The last AI didn't know who Chico was. Can you draw L accurate Chala for me? Hopefully they can do it. Oh, okay. You know what? That's close enough, I guess. Okay, let me ask a different question. Now, you guys know I play a lot of Overwatch, so I feel like I should ask an Overwatch related question, right? You know what else I love? Almost more than Overwatch. Please draw some Overwatch Yuri to cheer me up. Now, this might be a little advanced for an AI to draw, but I believe in them. Now that I look at this Chikaba picture, why does he have freaking needles coming out of his ears? That looks painful. What the freak? Look at his face though. So derpy and cute. Oh, I don't know. Mercy X. Tran Tranxer. Trancer. Who is Tranker? Is that a new Overwatch character that I didn't know about? Okay, now I'm going to laugh as an AI and I'm going to answer people's questions because I'm so good at that. I am definitely a professional and I'm a genius. So, have any questions? I can answer t
+[...middle cut...]
+o this. Draw a little little booty. You're But uh And then confused face. So I drew their butt and in a confused face because I don't know what this is supposed to mean. But we all like Mind Sweeper, right AI? You know what? I feel like bursting this guy's bubble. No. And then I'm going to draw like the kind of like mind sweeper layout if I can. I don't know if I can. Uh blah blah blah blah blah. There's like a thing here and a thing here and like goes like that and that. Oh, and then I can't make this brush bigger. Well, anyways, going to draw a big freaking X on it. Big X. Hopefully that dude's day is ruined now. Okay, now let me ask one final question. AI, do you love me? Can we be doomed jury? Whoa. What the freak is that? What the freak is that? It looks like a papino, but also looks like a jellyfish. But they love me and they said we can meet doomed yuri. Oh my gosh. Thank you, AI.
+
+=== ID: zGX81jMoiwU ===
+TITLE: Sora 2 AI Make the ending for AI slop island (Blacktop Beat)
+DESC: 
+KEYWORD: AI slop
+VIEWS: 242107
+TRANSCRIPT: Oh la creations of AI. We are neutral network.
+
+=== ID: q1Hn6OKe_kU ===
+TITLE: Disney’s Live Action Moana Looks Like AI Slop
+DESC: Disney just released a trailer for ANOTHER live action remake, this time of Moana, which came out just nine years ago in 2016.  Become a Patron:  https://www.patreon.com/AmalaEkpunobi    Watch or Listen on Spotify: https://spoti.fi/3LNbCV1  Apple Podcasts : https://apple.co/48k9yNU     Follow Me on Social Media: Instagram: https://www.instagram.com/theamalaekpunobi  TikTok: https://www.tiktok.com/@amalaekpunobi   X: https://twitter.com/amalaekpunobi   Facebook: https://www.facebook.com/TheAmalaE
+KEYWORD: AI slop
+VIEWS: 156883
+TRANSCRIPT: Disney just released their first teaser trailer for live action Moana, and it looks um like we should be questioning why we're getting a live action [music] Moana. Let's talk about it. Yeah, [music] guys, before we get into today's video, please like and subscribe because today we're going to be talking about live action Moana, which I don't even understand why we're getting considering Moana, guys, came out in 2016. Why are we liveaction remaking a movie that came out in 2016? It makes no sense, but that's Disney's MMO these days. And we've been keeping Disney on this channel. They've been saying they're stepping out of the culture war. Then they reinsert themselves into the culture war. They have a whole diversity, equity, and inclusion campaign. They fire Gina Corano off the Mandalorian. They're putting all these LGBTQ plus themes in their kids shows and saying that they have a not so secret gay agenda, at least according to some of their executives behind the scenes. And on top of that, when they put out original content, it is not doing well and it's flopping. And then they're leaning on these remakes of their old classics and now not so old classics considering that Moana came out again in 2016. Now, I went ahead and looked at the first teaser trailer for this Moana remake. And you're going to have to bear with me, guys. I don't understand. I really don't understand why this is being made. And maybe you're a huge Disney fan and you can explain this to me down in the comments because we're calling this live action, but it is 90% CGI. I mean, this looks like AI slop at this point. I saw somebody say they're going to start the rumor that this is an AI movie, and honestly, it does look like that. It is almost beat forbeat exactly what the original animated film looks 
+[...middle cut...]
+ior. Disney has to be stopped. That's all I'm going to say. Guys, I'd love to hear your thoughts on this Moana remake in the comments down below. Let me know how you feel about this and let me know how you feel about remake culture in general. We've spoken about this at length on this channel. I have many a video on it. Maybe I'll pop them up here so you guys can check them out. If you haven't heard me speak at length about this, but I'm over it, guys. And I have a feeling you are, too. So, let me know. If you disagree with anything I said in this video, do it out in the comments down below, but do so respectfully. I encourage healthy debate on this channel. And if you like this video, like, subscribe, click the notification bell to be notified every single time I post a video for you guys, which is every day. And I will see you guys tomorrow. Bye, guys. [music] Yeah, you better. [music]
+
+=== ID: Cedj8AKI2U8 ===
+TITLE: I fell into an AI slop rabbit hole
+DESC: I tried to understand if these images are ruining the internet Use code tunnelvision at the link below to get an exclusive 60% off an annual Incogni plan: https://incogni.com/tunnelvision  Join Newpress, our community-driven hub for creator journalism: https://newpress.com/begin  Something strange is happening to Facebook. Over the last few years, the algorithmically suggested images on users’ feeds have become more and more bizarre: Elderly people celebrating impossibly ancient birthdays, artis
+KEYWORD: AI slop
+VIEWS: 363007
+TRANSCRIPT: Gdy zainwestujesz na emeryturę, możesz zbierać dodatkowe owoce! mBank. Inwestowanie wiąże się z ryzykiem.
+
+=== ID: J4cvbbZn2OI ===
+TITLE: It's Over, YouTube just Demonetized ALL AI Slop Channels
+DESC: I'll help you create ethical videos that do NOT demonetized (Group & 1:1 Coaching): https://www.skool.com/askarcher   Timestamps:  Yo! welcome to my channel where I discuss youtube niches, how to grow a youtube channel, youtube growth, youtube automation, entrepreneurship, and how to do/live & feel better!   Age 19: Launched 1st channel and hit 3m monthly views in 4 months Age 20: launched 2/3rd channel Age 21: Sold a YT channel for 5 figures Age 22: scaled 5+ channels and hit $24k PROFIT per mo
+KEYWORD: AI slop
+VIEWS: 19842
+TRANSCRIPT: YouTube has finally done it. They've completely demonetized and even banned almost all AI YouTube channels. It's going to be complete Armageddon. Everyone's freaking out on Twitter, and I'm going to show you in a second. And in a few weeks, I imagine YouTube is just going to be a complete ghost town. Okay. So, I'm going to walk you through exactly who's been affected, why I think they've been affected, and what I think YouTube is using to calculate whether they think a channel is mass AI slop production. Um, I'm also going to show you what I've done in response to this with some of my channels and what I think you guys should actually do to protect yourselves from this as well. Okay, let's get into this because this is pretty crazy. So, as you can see, I have a massively long Twitter feed here of many, many people complaining and screenshotting what's happened to them and ranting and speculating. So, as you can see here, we can say one that says um, they've been demonetized for inauthentic content, content that appears mass-produced or repetitive to increase views without adding significant educational value. That's interesting. This is basically the terminology that was in the July 2025 update which was actually about repetitive content. This new inauthentic content is a new phrase. So really nothing has changed in terms of the policy that's been in place for 6 months. It's just YouTube have clearly now implemented a system that actually can detect this and then kill channels like very quickly. The other interesting part of this is the phrase without adding significant educational value or other value. The way I see it, there's really two three two or three types of value, right? you have educational value, you have entertainment value, and that entertainment can be sp
+[...middle cut...]
+it turns out that it's possible. So, I'm actually going to teach this strategy on a live call in the next couple of weeks. one on the 17th of January and another one on the 24th of January over in my school community. And the point of this technique is not to mass-produce AI slop. The idea is to enhance scripts to make them, as YouTube says, with educational value. That means nuance, specificity, variety, and not just slop. You should always use any AI prompting that you do in unison with your own human input. The key really is any AI involvement that you have in your script writing or any other part of your production process, it always has a human overseer who's interacting with it and adding a real human touch to add that extra value. If you want to learn how to use AI ethically and build an ethical faceless YouTube channel, just click the link in the description and I'll see you over
+
+=== ID: DB4dfV-othw ===
+TITLE: Will AI replace your job? Google Bard, Adobe Firefly, OpenAI ChatGPT
+DESC: Hey fam, I'm sure you've heard the oft-said words..."Will AI replace your job?"  Well, we have answers to that contentious question...thanks to folks who built OpenAI and researchers at University of Pennsylvania.  While their study focusses only on US, I think some themes are emerging out of there that cannot be ignored.   Plus your weekly bulletin of new AI announcements from Google Adobe Runway NVIDIA in this AI video wrap!   What do you think of the jobs threat AI will pose in India? Would l
+KEYWORD: ChatGPT replacing jobs
+VIEWS: 473
+TRANSCRIPT: इट्स इट्स 22nd ऑफ मार्च मैं हूं अंकित और ये वीडियो है उन लोगों के लिए जो जानना चाहते हैं की क्या उनकी नौकरी आर्टिफिशियल इंटेलिजेंस ले जाएगी आते राइट आईएफ यू वांट तू फाइंड आउट क्या आपका जब खतरे में है दें प्लीज टेक अराउंड टुवर्ड्स दी एंड ऑफ डी वीडियो जब मैं बताऊंगा कौन से सबसे ज्यादा एक्टर रिस्क जॉब्स हैं नौकरियां हैं सेक्टर हैं और कौन अब तक रिलेटिवली सेफ है ऐबॉन्ड रिप्लेस डेट जब आई बिल शोस मेकिंग दिस अप बट दिस इस 100% ट्रू मैंने नहीं बनाया है इनफैक्ट चाट गुप्त ने और यूनिवर्सिटी ऑफ पेंसिल वानिया ने ये बहुत ही क्लीनिकल स्टडी परफॉर्म की है जिसके डीटेल्स हम बात करेंगे बट बिफोर डेट थ्री मैथ्स जो कल के दिन में ही लॉन्च हुए हैं डेट शोस डी स्पेस ऑफ इनोवेशन और एब्सलूट क्रांति जो आई की दुनिया में ए रही है यस्टरडे गूगल का जो चाट बोट है गूगल बोल्ड बा रोड जो माइक्रोसॉफ्ट के ओपन यार्ड बोट का सबसे बड़ा कंपैरेटर हो सकता है इसका पब्लिक बेटा रिलीज हो गया वेबसाइट पर जाकर साइन अप कर सकते हैं और फेस वाइस रोल आउट होगा आई ट्रेड एन साइन अप पर आईटी लास्ट नाइट बट इट्स सेट की हमारे देश में इंडिया में अभी तक अवेलेबल नहीं है सो डेफिनेटली वेटिंग पर डेट आप वेटलेस पे रहेंगे नंबर तू एनवीडीया जो जनरली वो तमाम हार्डवेयर बनती है जिसके ऊपर बाकी कंपनियां जो एप्स वगैरा बना रहे हैं कंपटीशन चला रहे हैं एनवीडीया से हार्डवेयर कंपनी थॉट्स व्हाट वे नो बट एनवीडीया इस स्लीपिंग डी स्विच विथ दी आई दी आर ट्रिंग तू बिल्ड इन मी अंडरस्टैंडिंग दे आर ट्रिंग तू बी डी ए ब्लू एस जैसे अमेजॉन वेब सर्विस इस डी बैक ऑफ एवरीथिंग ऑन दी इंटरनेट और गूगल क्लाउड डी ट्रिंग तू बिल्ड और एंटरप्राइज सॉल्यूशन ऑफ क्लाउड पर आई यानी अगर कोई भी कंपनी कोई भी अप टेस्टिंग करना चाहता है उनके फ्रेमवर्क रन करना चाहता है तो वो एनवीडीया के आई फिल्म क के ऊपर ये कर सकते हैं हो फेनोमेनल पर इचिंग इंपैक्ट आने वाले मीना में सालों में हमें दिखेगा इसका क्या असर पड़ता है और नंबर थ्री टेक्स्ट तू वीडियो वेक्टर सॉफ्टवेयर मकर 17-18 बिलियन एवेन्यू 25 30 मिलियन पेड़ सब्
+[...middle cut...]
+प्शन वगैरा लेक फिर चाहे वो एडोब का हो या किसी और सर्विस का किसी और कंपनी का हो उससे वो कम हो जाएगा सो अगर आप क्रिएटिव इंडस्ट्री में है जी हां खतरा है आपकी नौकरी को मेरी नौकरी को मुझे पता होना चाहिए बिकॉज़ 3 महीने पहले मैंने अपने आप को रिप्लेस कर दिया जहां मैं कम कर रहा हूं कॉइन स्विच में देवर इसे एन शो डेट आई यूज्ड तू डू विच इस डी वीकली मार्केट एनालिसिस मुझे नहीं करना है बिकॉज़ बहुत ज्यादा वक्त ग रहा है और आई हैव अदर कम अलसो बट आई को कम पे लगा देते हैं सो आई अवतार को हमने कम पे लगा दिया और डी कॉस्ट वज रिटीकुलूसली लो डी टर्न अराउंड टाइम वो सुपर फास्ट और जस्ट डी वेरी एफिशिएंट क फ्लो सिर्फ स्क्रिप्ट लखनी है टेक्स्ट तू वीडियो आज की तारीख में पुरी तरह से पॉसिबल है ह्यूमन एंकर्स अंकित विंग गुड लेकर कैन इजीली भी रिप्लेस कैन आई डोमेन नॉलेज भी एक रिप्लेस करना एक एक्सपीरियंस भी रिप्लेस अब्सोल्युटली नोट बट फर्स्ट ड्राफ्ट कम के लिए अगर कम आपको चाहिए मॉडल आर ऑलरेडी अवेलेबल आते एन फ्रैक्शन ऑफ ए प्राइस
+

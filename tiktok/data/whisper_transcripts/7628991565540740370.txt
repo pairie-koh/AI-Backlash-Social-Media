@@ -1,0 +1,1 @@
+OpenAI just got caught. They secretly tested their new image model, GBT Image 2, on Arena under fake codenames, and someone just exposed it. The images look so real, I genuinely can't tell if it's AI or photo. You can try it right now before the official launch. Go to arena.ai, Image Battles tab, Drop Image. In the comments, I'll send you the link.

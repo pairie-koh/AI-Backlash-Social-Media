@@ -1,0 +1,1 @@
+If there's one thing I've learned in the last three and a half years of working in AI, it's this. Microsoft Copilot is the spawn of Satan. Unfortunately, my work requires me to use it every so often and hands down the worst user experience every single time. You have a choice. Literally choose any other LLM than Copilot. It's that bad.

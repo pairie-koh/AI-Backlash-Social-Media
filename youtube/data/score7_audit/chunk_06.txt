@@ -1,0 +1,1720 @@
+=== ID: 7SzpS8wai68 ===
+TITLE: AI Data Centers Are Coming to Your Neighborhood: What You Need to Know in 2026
+DESC: Imagine waking up one day and realizing your next-door neighbor isn’t human anymore… it’s AI. In this video, we expose how artificial intelligence is quietly moving into our neighborhoods, homes, and daily lives — from advanced humanoid robots and AI companions to smart cities and virtual neighbors that never sleep. Is this the future we wanted? Or are we sleepwalking into a world where machines live among us? We break down the latest shocking developments in AI technology, what it means for you
+KEYWORD: AI data centers
+VIEWS: 31
+TRANSCRIPT: The world is changing, but not with a bang. It's happening quietly, almost invisibly. In neighborhoods where kids play, where coffee shops fill with morning chatter, a new kind of presence is emerging. No flashy signs, no headlines, just buildings humming with servers, flickering monitors, and the quiet hum of algorithms that shape the future. Artificial intelligence has long been confined to exclusive research labs, corporate campuses, and secretive tech hubs. But that era is ending. Today, AI is moving into our suburbs, our streets, and yes, next door. These aren't just offices. They are the nerve centers of an invisible revolution. And while the average resident may only notice a few extra cars, or a new building rising inside these walls, machines are learning, deciding, and shaping systems that touch every part of daily life. The apps we use, the streets we travel, the jobs we hold, even the information we consume. This documentary explores how these AI centers operate, why companies are embedding them into communities, and what it means for the people living nearby. By the end, the quiet hum of servers may feel less like background noise and more like the pulse of a new world quietly taking shape around us. Chapter 1, the rise of local AI hubs. Over the last decade, AI has transformed from a niche field into a global powerhouse. Companies like Google, Microsoft, and Open AI once operated massive campuses far from residential life, isolated, fortified, and deliberately r
+[...middle cut...]
+ers are more than buildings. They are machines of influence, quietly weaving into the social, economic, and cultural fabric. Their presence is understated yet undeniable. The future isn't somewhere far away. It's happening outside your window. Communities now face a choice. Remain passive observers or actively shape how AI integrates into daily life. The quiet takeover is underway, but it need not be unstoppable. Knowledge, engagement, and vigilance ensure technology serves humanity. The rise of AI centers is a story of subtle power, silent transformation, and emerging responsibility. Their hum is not just a sound. It is a signal that the future has arrived quietly, invisibly, and intimately
+
+=== ID: ZvcZxu_Qyyo ===
+TITLE: The Hidden Cost of AI: Inside the Energy Crisis of Modern Data Centers
+DESC: Have you ever wondered what powers your everyday digital life and the recent AI boom? In this video, we explore data centers, the high-performance industrial facilities that serve as the invisible backbone of our global conomy. We dive into why these operations consume so much electricity, with global usage reaching approximately 415 Terawatt-hours in 2024 and projected to skyrocket to around 945 TWh by 2030. From the intense cooling systems required to prevent hardware from melting to the power
+KEYWORD: AI data centers
+VIEWS: 25
+TRANSCRIPT: Welcome to this video on the growing energy demands of modern data centers powering the digital revolution. The vast network of servers is the invisible backbone of our digital world. However, the energy needs of AI are colliding with traditional power requirements, giving data centers an insatiable appetite for electricity. To maintain 99.999% availability, data centers require constant operation, robust cooling systems to prevent hardware from melting, and redundancy systems to guarantee reliability during grid failures. Hidden energy costs or orbital overhead include power conversion losses, environmental controls like precision air filtration, and 24-hour physical security. When electricity passes through a processor, nearly all of it converts into heat. Without immediate heat removal, cooling systems consume almost as much energy as the servers themselves. Cooling technology has evolved from air and liquid cooling to immersion cooling, which uses non-conducting fluids to reduce energy use by up to 90% and free cooling utilizing cold climates. The silicon shift shows that AI optimized server racks using GPUs have a massive power demand drawing 40 to 100 plus kows compared to the steady predictable demand of traditional CPUbased racks. The AI energy life cycle includes the training phase consuming megawatt amounts continuously for months and the inference phase where a single request can use 10 times more electricity than a standard search. The global grid impact is substa
+[...middle cut...]
+ints, and macro grid capacity intersect, necessitating a merge of power generation and computation architecture. Power usage effectiveness or PUE measures data center efficiency. Apue of 1.0 0 is perfect while the industry average is 1.5. Industry leaders aim for pee closer to 1.1. The proumer ecosystem involves integrating energy generation with the data center. This includes on-site renewables, energy storage, and small modular reactors, SMRs, for steady carbon-f free power. Data centers are the engines of the modern world, requiring an unprecedented amount of fuel. The tech industry must innovate energy management as quickly as it innovates software to power the AI revolution sustainably.
+
+=== ID: UbnZpV0_2RY ===
+TITLE: AI BUBBLE POP - Half of AI Data Centers Are CANCELLED or Delayed
+DESC: Is the AI boom already starting to crack? Behind the hype, a growing number of data centre projects are being quietly cancelled or delayed. Companies that once raced to build massive AI infrastructure are now pulling back, raising serious questions about demand, funding, and sustainability. In this video, we break down what’s really happening, why billions in planned AI investment are stalling, and whether this signals the beginning of an AI bubble burst. If the foundation of AI expansion is wea
+KEYWORD: AI data centers
+VIEWS: 12392
+TRANSCRIPT: Right 
+ world 
+ most 
+ once 
+ you 
+ about 
+ dominant 
+ powerful. 
+ pouring 
+ the 
+ speed. 
+ Everywhere 
+ billions, 
+ to 
+ The 
+ Google, 
+ racing 
+ will 
+ technology. 
+ It 
+ can't 
+ But, 
+ very 
+ Quietly, 
+ foundation 
+ depends 
+ strain. 
+ losing 
+ money's 
+ world, 
+ back. 
+ Close 
+ center 
+ be 
+ Bloomberg. 
+ One 
+ is 
+ components, 
+ gear, 
+ at 
+ them. 
+ As 
+ infrastructure 
+ their 
+ have 
+ Meanwhile, 
+ stressed 
+ electrified 
+ quote 
+ important, 
+ conversation 
+ into 
+ The 
+ weakening, 
+ than 
+ required 
+ struggling 
+ AI 
+ they're 
+ facilities 
+ power 
+ Before 
+ any 
+ to 
+ And 
+ through 
+ Transformers, 
+ these 
+ they're 
+ they're 
+ this 
+ demand 
+ the 
+ world 
+ vehicles, 
+ broader 
+ placing 
+ grid 
+ is 
+ demand, 
+ begins 
+ Despite 
+ investment 
+ Alphabet, 
+ are 
+ billion 
+ in 
+ half 
+ builds 
+ delayed 
+ behind 
+ availability 
+ components. 
+ infrastructure 
+ electric 
+ heating 
+ Now, 
+ about 
+ significant 
+ over 
+ some 
+ the 
+ and 
+ planned 
+ expected. 
+ and 
+ It 
+ a 
+ one. 
+ available, 
+ demand, 
+ you 
+ than 
+ install 
+ manufactured. 
+ chains 
+ And 
+ to 
+ conversation 
+ dominated 
+ innovation. 
+ But, 
+ that 
+ infrastructure 
+ And 
+ up, 
+ Lead 
+ have 
+ Delivery 
+ before 
+ stretch 
+ AI 
+ as 
+ months. 
+ the 
+ project. 
+ This 
+ more 
+ talking 
+ about 
+ fundamentally 
+ are 
+ AI 
+ timelines, 
+ in 
+ They're 
+ scale 
+ faster, 
+ advantage 
+ moving 
+ components 
+ have 
+ years, 
+ You 
+ cycles 
+ infrastructure 
+ And 
+ interconnected, 
+ of 
+ project. 
+ half 
+ everything 
+ So, 
+ doesn't 
+ 
+[...middle cut...]
+e 
+ availability 
+ entirely 
+ adds 
+ complex 
+ When 
+ picture 
+ from 
+ This 
+ frictionless 
+ system 
+ limits. 
+ with 
+ demand 
+ And 
+ but 
+ slowing 
+ That 
+ it 
+ flawed. 
+ of 
+ expectations 
+ that 
+ against 
+ the 
+ it 
+ world, 
+ limitations. 
+ systems 
+ manufacturing 
+ accelerated 
+ that 
+ And 
+ feels 
+ right 
+ the 
+ where 
+ what 
+ Projects 
+ are 
+ being 
+ can 
+ And 
+ in 
+ now 
+ talk 
+ to 
+ this 
+ It 
+ going 
+ that 
+ have 
+ infrastructure 
+ idea 
+ being 
+ constraints. 
+ And 
+ growth 
+ we've 
+ Not 
+ complex 
+ adjustments, 
+ building 
+ And 
+ this 
+ the 
+ Where 
+ possible 
+ in 
+ >> [snorts] 
+ >> Where 
+ meets 
+ constraints. 
+ And 
+ just 
+ question 
+ Because 
+ technology 
+ exist 
+ And 
+ starting
+
+=== ID: jbMP1Nhm0DM ===
+TITLE: Are AI Data Centers Heating Up Arizona Neighborhoods?
+DESC: AI isn’t just changing the digital world—it may be heating it up the real one too, right in the middle of Arizona's desert.  In this episode of Generation AI, Derek Staahl breaks down new research from Arizona State University showing that large data centers could be raising temperatures in nearby neighborhoods by 2–4°F. ASU researcher David Sailor explains how the massive heat output from these facilities may impact surrounding communities—and what can be done to fix it.  Then, we take you insi
+KEYWORD: AI data centers
+VIEWS: 1620
+TRANSCRIPT: Welcome to Generation AI, the show where we explore how AI is reshaping our generation. I'm Derek Stahl. On the show today, new research on data centers. We'll speak with an ASU professor who's finding data centers are warming the neighborhoods around them. The concern? It could pose health risks. Plus, the politics of AI. We'll speak with the new chair of the House Committee on AI to talk about his approach to regulation and the changes to chatbots that could be coming. First, let's get to the headlines. We're getting our first look at exactly how the U.S. military is using AI for battlefield intelligence in Iran. This is called the Maven Smart System from Palantir. It helps identify potential targets using satellites, drones, and other sensors, determines which weapons to use, and with just a few clicks, it can coordinate an attack and assess the damage. The military says humans still approve the final decisions, but one Pentagon official said what used to take them hours or days can be done in just minutes. And it's why the military was able to strike 1,000 targets in the first 24 hours. This system uses the Claude model from Anthropic, which the Pentagon recently labeled a supply chain risk. Flying taxis might arrive sooner than you think. A company just conducted test flights in the Bay Area from Oakland to San Francisco. The FAA is launching a new pilot program for these things. This company, Air Taxi, says it'll start operating in 10 states in as soon as three months. 
+[...middle cut...]
+hrough 7, 8, 12 people that we've all dealt with when we deal with the government, federal or state. Sure. I mean, some things like filing for a business, getting certain permits might be able to be automated in that way. And Governor Katie Hobbs supports you on that front. She recently announced some things in that realm as well. State Representative Justin Wilmeth, thank you so much for being on Generation AI and good luck with the session. Thank you very much, sir. All right. Hey, thanks so much for watching us on this episode of Generation AI. You can catch up on past episodes by going to azfamily.com slash genai. We'll be back next week with another edition. We'll see you in the future.
+
+=== ID: sodlk3x15M0 ===
+TITLE: WashCo Weekly 009 AI Data Centers Local Impact
+DESC: County Executive Schoemann talks about some of the local impacts surrounding the AI Data Center issue. A big concern relates to the power supply and power distribution. Washington County can not currently handle the scope of power that would be needed for a data center. But there are still community impacts with power lines, concerns about water and agricultural land use.   Let us know if there are county topics you’d like to hear about! Email us at county.exec@washcowisco.gov.
+KEYWORD: AI data centers
+VIEWS: 93
+TRANSCRIPT: Welcome to another edition of Washco Weekly. I am County Executive Josh Schman. It's great to be back with everybody and I wanted to talk a little bit today about a question I've been getting at our listening sessions and that is about AI data centers here in Washington County. Now, many of you have probably been reading the news, not just here in in Washington County or Ozaki County, our neighbors who are seeing the the great big AI data center, but all across Wisconsin and really all across the country, uh the massive need for AI data centers for all of the uh AI uh revolution that's occurring as we speak. Um so, it it's important for us to talk a little bit about first of all, what's going to happen here in Washington County? Are we going to see a AI data center anytime soon within our borders? And the answer appears to be no. Uh there have definitely been uh a couple of inquiries uh from different locations for that kind of economic development to happen here in Washington County. Uh and from everything that I've been able to gather, uh it looks like all of those have kind of worked themselves through the process and they've looked elsewhere. Uh including it sounds like uh the Port Washington project. Um and it really boils down to one thing and that is my biggest concern about data centers in general and that is power power supply and power distribution specifically. So for us here in Washington County, we don't have uh the appropriate uh energy distribution coming to us
+[...middle cut...]
+e that's taken up for those things to happen. And so there are a number of things that we need to have a better handle on. Uh and fortunately for us in Washington County, we're going to be able to watch firsthand as our neighbors neighbors go through it. So when the day finally comes where a data center is looking at us, we've got some best practices in place and hopefully a heck of a lot more energy supply to be able to provide uh and not see the type of uh changes that uh are being contemplated today. So, if you have more questions that you'd like to hear answers to, please uh email us at uh the email address below. We'd love to hear from you. And we'll see you next time for Washco Weekly.
+
+=== ID: Wnwrri6l8IE ===
+TITLE: Ironton City Council moves to keep AI data centers out
+DESC: Ironton City Council held a meeting on Thursday night to take preventative steps to keep AI data centers from setting up shop within city limits.  For more Local News from WSAZ: https://www.wsaz.com/ For more YouTube Content: https://www.youtube.com/channel/UCrcuU0JXXy8oIBqEB13mrwA
+KEYWORD: AI data centers
+VIEWS: 52
+TRANSCRIPT: Now, this is part of a larger trend of these centers popping up. Back in December, we told you about another AI data center breaking ground in Lawrence County, Ohio. After seeing that news, Iron City Council decided to hold this meeting to take steps to allow them some time to look at these AI data centers and consider zoning within city limits. We spoke with city council member Jacob Hawk who says he has concerns on several fronts which is why he brought up an emergency vote to establish a temporary moratorum on the development of these facilities. I wish there were more people in leadership roles that would you know state their opinion on this because in my view it's it's it's not just about a data center it's about the future of Lawrence County. And tonight was the first reading, ended up passing, and it will now go to a second reading at the next council meeting.
+
+=== ID: -r8vwJzCrwY ===
+TITLE: Port Washington AI data center project raises concerns over power lines
+DESC: The approval of a 1,900-acre AI data center in Port Washington has led to controversy over the power lines needed to support it.  WISN 12 is your home for Wisconsin breaking news and weather. For your latest Wisconsin news and weather visit: https://www.wisn.com/  For licensing inquiries: https://www.wisn.com/licensing
+KEYWORD: AI data centers
+VIEWS: 741
+TRANSCRIPT: TURNOUT AT THE CITY MEETING THERE TONIGHT. YEAH, GUYS, CITY OFFICIALS ACTUALLY HAD TO MOVE THE MEETING OUT OF CITY HALL AND HERE TO THIS NEARBY EVENT CENTER TO ACCOUNT FOR THE INFLUX OF PEOPLE FROM NEIGHBORING COMMUNITIES. ONE PROPERTY OWNER THAT I SPOKE WITH IS UPSET OVER THE POWER LINE SET TO GO UP IN HIS BACKYARD. IT’S HUNDREDS OF 70 YEAR OLD PINE TREES, DAVID SAYS. 70 ACRE SAUK PHIL PROPERTY HAS BEEN A LABOR OF LOVE FOR 25 YEARS. THIS IS A PLACE WHERE I FIND HEALING ON A ROUGH DAY. I’M HERE MILES FROM PORT WASHINGTON’S 1900 ACRE AI DATA CENTER. HE WASN’T CONCERNED ABOUT THE PROJECT UNTIL A NEIGHBOR NOTIFYING ME SAYING, HEY, THIS IS COMING. WHAT ARE WE GOING TO DO? WHAT DO YOU THINK ABOUT THE POWER LINES? I GO, WHAT POWER LINES? THE DATA CENTER SET TO OPEN BY 2028, NEEDS AN ESTIMATED 1.3GW OF ENERGY PER YEAR. THAT’S ENOUGH TO POWER 130 MILLION LED BULBS. THE AMERICAN TRANSMISSION COMPANY, OR HTC, WANTS TO BUILD MORE POWER LINES TO SUPPLY THAT ENERGY. THOSE LINES WOULD GO THROUGH NINE ACRES OF PROPERTY. THE POWER LINE WILL BE APPROXIMATELY RIGHT HERE. AND SO EVERYTHING ON 125FT OF BOTH SIDES OF US WILL BE DESTROYED. HE’S WORRIED HE WON’T BE ABLE TO STOP IT. WHAT KIND OF COMPENSATION POSSIBLY CAN YOU CAN YOU GIVE ME TO DESTROY EVERYTHING I’VE. I’VE LOVED AND LIVED FOR? THERE’S NO PRICE HIGH ENOUGH. THERE’S NOTHING. THERE’S NO. THERE’S NO PRICE. A VERSUS PROPERTY IS ON ATK’S PREFERRED ROUTE. ATK ALSO HAS AN ALTERNATE ROUTE THAT WOULD LEAVE AVVERSA AND HIS NEIGHBORS PROPERTIES
+[...middle cut...]
+ING LINES ALMOST ENTIRELY, AND I WOULD PREFER THIS ROUTE. YOU CAN SEE THE BACK AND FORTH THERE. SO EMILY, WHO ULTIMATELY WILL MAKE THE DECISION ON WHICH ROUTE GETS BUILT MOVING FORWARD. WELL, BLAKE, THAT WOULD BE THE STATE BOARD OVERSEEING ENERGY PROJECTS. THAT DECISION EXPECTED IN THE COMING WEEKS HERE. AND I DID REACH OUT TO THE STATE BOARD AND THE ATC, BUT DID NOT HEAR BACK TONIGHT. ALSO AT THE COUNCIL MEETING, THOUGH, LABOR UNIONS ADVOCATED FOR THE PROJECT, THIS DATA CENTER CAN EMPLOY UP TO 4000 UNION WORKERS AT ITS PEAK, CONSTRUCTION. THESE ARE CAREER BUILDING JOBS, NOT TEMPORARY WORK. I KNOW BECAUSE I MAKE A LIVING GOING FROM ONE CONSTRUCTION PROJECT TO THE NEXT. CITY OFFICIALS SAY THA
+
+=== ID: VVAErWVDfeI ===
+TITLE: $10B AI mega data center coming to Louisiana; could it spike electric bills?
+DESC: Construction has begun on a massive $10 billion artificial intelligence data center in Louisiana, raising concerns about its impact on utility bills.
+KEYWORD: AI data centers
+VIEWS: 1803
+TRANSCRIPT: We now know at least two massive AI data centers are being built in Louisiana. This is a rendering of the latest, a $10 billion investment near Saint Francisville. The company behind the project, Hut 8, estimates it will bring about 1000 construction jobs and at least 75 permanent jobs. Earlier this year, Meta announced its $10 billion AI data center in Richland Parish, but Alliance for. Affordable Energy Executive Director Logan Burke called these data centers threats. They use up the kind of power that a whole city, or 3 times over, for example, of New Orleans uses. We won't know how utility bills and the power grid is affected until they're operational. One thing is sure, these projects are forcing the Louisiana Public Service Commission to rewrite its regulatory playbook. The disrespect up here. In a 4 to 1 vote Wednesday, the commission passed a so-called lightning initiative at the request of Governor Landry. It speeds up the regulatory process. Commissioner Devonte Lewis voted no. So if you're a Louisiana ratepayer, you're wondering what we did today, I think we brought uncertainty to your future of how stable our grid will be and how affordable your bills will be. We need to leave a process that does not impede our state from. Accelerating and being hypercompetitive against other states that are dragging the anchor, and that's the key to this. So I just want to let you know we're in good shape with this, and I think the commission with its authority can protect the ra
+[...middle cut...]
+aived a rule that requires utilities to look for the least cost option that brings the most reliability when they want to build new infrastructure. The body will require 8 months to vote on new -- applications because we're
+-- all part of the same grid. And these 5 elected individuals make decisions that impact our homes -- and our bills every
+-- single month. Lily Cummings, WWL Louisiana. Well, Governor Jeff Landry is calling the latest project a win, saying in part as the company grows, it will further cement Louisiana's position as a national leader in energy and innovation, creating thousands of jobs and reaffirming our ability to complete, compete and win on the global stage, end quote.
+
+=== ID: mnAP23UI_lk ===
+TITLE: Finished AI Data Centers Have No Electricity -- AI Fraud Can't Fake Reality
+DESC: Support Content at - https://donorbox.org/etcg LinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/
+KEYWORD: AI data centers
+VIEWS: 62425
+TRANSCRIPT: Welcome back. As you know, I am Eli, the computer guy here for the daily blob, where I shake my brain. Nip nips every day in order to get some of that dirty dirty YouTube money so I can afford to provide you folks hands-on inerson technology education in Durham, North Carolina. Silicon dojo silicon dojo.com. We do inerson classes. We're having a class on AI and web scraping next week. We have more classes coming down the pike. If you're interested, take a look at the schedule at silicon dojo.com. Do remember, free the end user is not free. That's why I shake shake shake shake the brain nipnips every day. If you would like to help support the project, there is a donor box linked link down below. And if you'd like to throw a couple of dollars in recurring monthly, that would be ever so lovely. And so with that, with that, let's just say surprise, surprise. Is any of this horse crap a surprise? So, one of the big things going on in the United States right now is we are in this AI boom. The problem is we do not have enough infrastructure for the AI boom. So a lot of things are getting built, a lot of things are getting bought. This is driving up valuations for all kinds of technology companies, but but thing but but we're not actually getting the solutions we should be getting uh for all of the capex expenses, right? All right. So, I talked about this with Microsoft again and I was surprised. Uh, Satia Nadella, CEO of Microsoft, literally came out and stated they have more GPUs t
+[...middle cut...]
+down. Call me amazing. Call me a dumbass. Just be a real lutnick and put your comment down below. Um, as always, what I actually care about is Silicon Dojo. Silicon Dojo.com. Free user hands-on technology education that empowers you to do whatever the hell it is you want to do in Durham, North Carolina. Uh if you want to take a look, we have a class coming up on AI and web scraping coming up next week. Uh take a look at our schedule on silicon dojo.com to see the other classes coming up. As I say, free to end user is not free. That's why I shake my brain nip nips every day. Uh if you'd like to throw some money into the project, there is a donor box link down below. And with that, see you all
+
+=== ID: TwisEcZb9nE ===
+TITLE: Neighbors push back against proposed AI data center in Meade County
+DESC: A proposed artificial intelligence data center in Meade County is drawing pushback from nearby residents who said they want more information before the project moves forward.   Subscribe to our channel: https://wdrb.news/3dTREai  Download the WDRB News app to get alerts on all breaking news stories: Apple: https://wdrb.news/AppForApple Android: https://wdrb.news/AppForAndroid
+KEYWORD: AI data centers
+VIEWS: 569
+TRANSCRIPT: Tonight at 6, this field near Brandenburgg, Kentucky could be the site of a new data center. WDRB's Joel Skipper spoke to neighbors who were concerned about this development. It doesn't take long for drivers to see these signs opposing a 138 acre proposed data center right here behind me in Me County. The property line that they are buying is right here. My yard is right here. And when Tyler Campbell and his family moved into their new home in December, they had no clue an AI data center could be built next door until two weeks ago. I was upset. Uh it's going to ruin my property pretty much. Uh I do it. I I deal with that type of stuff. I know the kind of things that happen with these data centers. Me County Planning and Zoning called a special meeting Tuesday morning at the fairgrounds to consider reszoning this plot of land on Joe Prather Highway. The property's owner confirms to WDRB he's been talking with the county about selling the land and that a data company is interested. Me County Planning and Zoning would not comment on the proposal. We're here in a rural area. This is farm country. That's the way we want to keep it. Mark Swim also lives nearby and is concerned with the environmental impact it could bring and the change to his water and electric bills. They're going to go up go up anyway, but they're going to go up drastically quickly and it it's it's not something we want right now. Other data centers have been built in our area, including one in Riveridge and Jeffersonville and one being built currently in Jefferson County. Developers behind a recently proposed center in Old County withdrew their application due to community opposition. Honestly, if it was something else over there that wasn't a data center, I would be a lot more willing to accept that. Now, if planning and zoning approves that proposal on Tuesday morning, it will then go to a fiscal court meeting Tuesday night in Me County. Reporting in me county, I'm Joel Skipper, WDRB News.
+
+=== ID: ETiuI0V3tMU ===
+TITLE: Fact Finding: Solar Farms and AI Data Centers
+DESC: 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/5656199925596160
+KEYWORD: AI data centers
+VIEWS: 1526
+TRANSCRIPT: Yep. [clears throat] Should be on. Yep. Facebook. Whoever this [clears throat] happy hour here. Hey everyone, it's been a little while. Had a happy hour. Cheers. Cheers. A good old mbeck. It's been a little while. Give us a minute. We're fairing [clears throat] all of the in. You know the you know the trick. Those of you who have followed us know how it is. Go live. Jump on. can share it as well. Lots of facts, data center, all that. Yes. Much needed convers. Well, while we're waiting, would you guys like to know what the debt currently is? This is my Thomas Massie debt clock. [cough] 39 [clears throat] trillion. All right, Tammy's just sharing the post. [cough and clears throat] Allergic to the whole state of Michigan. Well, I just got off of a plane and I have been clearing my It's Michigan. I'm allergic to the state of all the tyranny here. Get yourself a beverage, boys. Okay. So, for you uh everyone that's tuning in, most of you should know who we are. I am Kristen Megan and my work wife, my colleague Tammy Clark. And many of you know me from my whistleblowing on geoengineering 16 years ago. And then we got into the fight of defeating the pokey mandates and these mandates because those items fall into our profession. And we've been called again now to the fight to give the true risk assessment of human environmental impacts related to AI data centers and these solar farms or industrial solar sites. So I'll tell you my background is 24 years I've been a senior industrial h
+[...middle cut...]
+when we were telling people that these things didn't work at all. We were we were right. We were always right. But that was so polarizing politically. This fight I'm ironically I'm going to these meetings and half the audience is in mask. So I know that they're on the masks are on the left. But my point is I we set all of our stuff aside and we're like still fighting the same issue. It's not just Democrats and Republicans fighting. It's it's a community effort like irrespective of political party. It's awesome the unity behind this. It's very powerful. And you can recall these sons of  right? Yeah. We've done it. We'll do it again. Yeah. So, all right. Thank you everyone. Have a blessed day.
+
+=== ID: LI_MUbTQJ3M ===
+TITLE: Space Data Centers: The Future of AI? | Zoning Battles & Water Worries Explained
+DESC: Get a Grip – Upgrade Your Phone Experience! https://amzn.to/440Z1qP  In this video, we explore the rapidly evolving landscape of data center infrastructure. We cover the ambitious race to build AI data centers in low Earth orbit, the contentious zoning debates in Nobles County regarding agricultural land, Ypsilanti Township’s push for a utility moratorium to protect local water and sewer capacity, and the potential for Maine to become the first state to implement a total ban on data centers. Sta
+KEYWORD: AI data centers
+VIEWS: 0
+TRANSCRIPT: The race for the future of digital infrastructure is heating up as companies look to the stars and beyond. Orbital is aiming to launch the world's first AI data center satellites to escape the limitations of the terrestrial power grid. Their ambitious plan to run GPU clusters in low Earth orbit has sparked a massive debate over whether space-based computing can actually outpace the ground level competition. Tired of dropping your phone or struggling to prop it up? Meet the PopSockets phone grip with expanding kickstand in black. Your new must-h have accessory. Don't miss out. Grab yours today. Click the link in the video description to shop now on Amazon. Back on Earth, the pressure is mounting in Nobles County as commissioners face a makeorb breakak decision on the future of agricultural land. They are currently weighing three distinct options from their legal team at Flerty and Hood PA regarding whether to allow data centers in protected rural zones. A move that could permanently reshape the local landscape. In Michigan, Ipsellante Township is hitting the brakes on industrial expansion to protect their essential resources. Township officials have officially asked the Ipsellante Community Utilities Authority to halt all new water and sewer approvals for data centers. They are demanding a full study on how these massive facilities could drain local capacity and impact the costs for every single resident in the community. Finally, the state of Maine is considering a historic m
+[...middle cut...]
+cilities could strain the local power grid and impact the state's natural beauty. While tech advocates warn that this could stifle innovation before it even has a chance to take root, it makes you wonder, can a state really afford to opt out of the digital revolution in the name of sustainability? If you find the battle between big tech and local regulation as fascinating as I do, make sure to hit that subscribe button and ring the bell so you never miss a deep dive into the stories shaping our future. At the end of the day, Maine is forcing us all to ask a tough question. How much are we willing to sacrifice to keep the internet running? And is it a price we are actually comfortable paying?
+
+=== ID: hEsfxGW34PY ===
+TITLE: Rural towns fight against AI data center surge
+DESC: Residents of small towns across the U.S. are speaking out against the increase in data centers popping up in their neighborhoods. NewsNation's Xavier Walton shares their concerns for what the change could mean for their towns.  Get a fast-paced look at the latest from the border to Main Street to the White House on "NewsNation Live with Marni Hughes." Weekdays starting at 9a/8C.#NewsNationLive  NewsNation is your source for fact-based, unbiased news for all Americans.  More from NewsNation: http
+KEYWORD: AI data centers
+VIEWS: 2859
+TRANSCRIPT: OU 
+ NE 
+ AC 
+ >> 
+ PO 
+ CO 
+ MI 
+ AB 
+ FA 
+ RO 
+ SO 
+ ST 
+ WE 
+ CO 
+ CO 
+ OF 
+ XA 
+ LO 
+ AR 
+ MO 
+ >> 
+ WE 
+ YO 
+ BU 
+ DA 
+ GR 
+ TH 
+ BU 
+ WH 
+ TH 
+ E- 
+ MU 
+ SO 
+ NO 
+ CE 
+ AB 
+ AI 
+ OF 
+ CO 
+ FR 
+ NE 
+ >> 
+ TH 
+ 24 
+ AM 
+ SO 
+ SM 
+ SA 
+ TH 
+ CH 
+ IT 
+ WE 
+ >> 
+ US 
+ OP 
+ AS 
+ TH 
+ NE 
+ AR 
+ CE 
+ SP 
+ OC 
+ TH 
+ MU 
+ CO 
+ CO 
+ CE 
+ WA 
+ SI 
+ >> 
+ SA 
+ LI 
+ EX 
+ CE 
+ PA 
+ TH 
+ PO 
+ TH 
+ CA 
+ SA 
+ BR 
+ IN 
+ ON 
+ TU 
+ BE 
+ LA 
+ RO 
+ TO 
+ TH 
+ YO 
+ GO 
+ BI 
+ TH 
+ MO 
+ SO 
+ PU 
+ SH 
+ TH 
+ CO 
+ DA 
+ AL 
+ PR 
+ MO 
+ TO 
+ AC 
+ TH 
+ 6  
+ PR 
+ FO 
+ TH 
+ SO 
+ DA 
+ MI 
+ TH
+
+=== ID: vWsvMpA0zYo ===
+TITLE: Communities push back as AI data centers expand across the US
+DESC: Residents are pushing back on Project Tango as Florida lawmakers consider bills to regulate large-scale AI data centers amid transparency concerns.
+KEYWORD: AI data centers
+VIEWS: 604
+TRANSCRIPT: Stay away, we don't need         some of the comments you         under our AI data center         him to an expert who told        as artificial intelligenc        country, but many in the         Now that people understan        happening is we don't wan        it. A recent town hall op        like 8 people got to spea        at least 50 people that w        Smith, an advocate agains        proposed AI data center i        County, told me the commu        isn't just about the plan        confusion, secrecy, misin        that ultimately is what p        I first met Rachel at our        up in Wellington. Since s        NoapProject Tango.com, sh        by messages from resident        Tuesday, she spoke at the        Commission meeting. It bl        all of your community pus        that this is still even b        spoke with Alan Krowitz a        AI data centers. It's gro        exponentially growth in A        data centers. I'm not say        have AI data centers. It'        to go about it in a respo
+
+=== ID: W5hP9zPLF5Q ===
+TITLE: Louisiana residents fear Meta's massive new AI data center will raise power bills
+DESC: Louisiana approved Meta's $10 billion project in August, saying it would bring "hope" for economic growth, but some experts say the center's power demands will raise customers' power bills​ statewide. Kati Weis reports.  "CBS Evening News" delivers the day's most important stories, delivering context and depth to bring greater understanding to your world. Check local listings for "CBS Evening News" broadcast times.  Subscribe to the "CBS Evening News" YouTube channel: https://youtube.com/CBSEven
+KEYWORD: AI data centers
+VIEWS: 5294
+TRANSCRIPT: OR 
+ CB 
+ >> 
+ ST 
+ FI 
+ HA 
+ DE 
+ A. 
+ RE 
+ IN 
+ IN 
+ SP 
+ >> 
+ >> 
+ ON 
+ TH 
+ CO 
+ >> 
+ TI 
+ >> 
+ HO 
+ PA 
+ 19 
+ TH 
+ IN 
+ LA 
+ CO 
+ ST 
+ >> 
+ BI 
+ BE 
+ >> 
+ BI 
+ SA 
+ EC 
+ TH 
+ RA 
+ ST 
+ >> 
+ CU 
+ >> 
+ UN 
+ >> 
+ TH 
+ EL 
+ OF 
+ >> 
+ A  
+ LI 
+ UT 
+ SO 
+ ST 
+ BI 
+ CE 
+ >> 
+ TH 
+ >> 
+ TH 
+ ST 
+ EN 
+ IM 
+ >> 
+ MI 
+ AS 
+ LO 
+ WI 
+ >> 
+ CO 
+ IM 
+ WH 
+ CO 
+ >> 
+ EV 
+ LE 
+ WH 
+ >> 
+ LO 
+ LO 
+ WH 
+ BE 
+ ST 
+ UP 
+ BI 
+ >> 
+ I 
+ BE 
+ >> 
+ CO 
+ TH 
+ IN 
+ >> 
+ I  
+ MA 
+ TH 
+ TR 
+ >> 
+ RE 
+ PU 
+ >> 
+ SO 
+ PU 
+ >> 
+ OV
+
+=== ID: 4KfHrm6fx_Y ===
+TITLE: Bradley County Commission places restrictions for constructions of AI data centers
+DESC: Commissioners unanimously adopted a zoning proposal banning the construction of a data center within 3,000 feet of any farm, residence, school or church.
+KEYWORD: AI data centers
+VIEWS: 207
+TRANSCRIPT: The Bradley County Courthouse was packed with residents today. Commissioners voted to establish clear zoning regulations for AI data centers in the county. Word began making rounds on social media that a data storage facility could soon be plopped into open fields in Charleston, Tennessee. Local 3's Madison Sims was at that meeting today. She tells us what happened. Bradley County can finally say they have clear restrictions in place for AI data centers and facilities. But it didn't first come without major input from the community. And we the people are here to stand up and say we ain't standing for it any longer. [applause] Bradley County commissioners heard from dozens of concerned residents at their Monday meeting. Their worry, the possibility of an AI data facility coming to the county. This comes after an England-based developer purchased over 200 acres of land in Charleston. We've all, you know, um have lived and coexisted in peace, and the thought of something like this coming in and disrupting that is uh terribly disheartening. Up until this point, the county's current zoning regulations didn't include data facilities, meaning a developer could come in at any time and build a facility. This amendment will clarify the required zoning classification for cryptocurrency mining, data centers, and AI centers. County officials say in order for a facility to be built, it would have to first come through the planning commission, something that has yet to happen. A company does not have any legal right to be zoned any certain way. They don't have any legal right to um do a certain thing unless they get our approval. So, I'm not aware of any plan that they would have. After hearing from the public, the commissioners held a vote on an amended version of the zoning proposal, which would not allow any company to build a data center within 3,000 ft of any farm, residence, school, or church. 14 in. As for the company that purchased the land, we asked about plans for the property, but have yet to hear back. Those zoning restrictions are now in place effective immediately in Bradley County.
+
+=== ID: kbTRq_o-KXU ===
+TITLE: A Rural Montana Town is Eyed for a 5,000-acre Data Center Campus
+DESC: The demand for computing power has exploded since the AI frenzy began in 2022, and there’s no sign of it slowing down. As the tech industry plows trillions of dollars into the infrastructure needed to train AI models and serve users, a company called Quantica Infrastructure has selected a site 30 miles north of Billings for a 5,000-acre data center campus. It’s right outside the small town of Broadview – Population: 139, at the 2020 census. The company promises to bring some of the AI boom’s eco
+KEYWORD: AI data centers
+VIEWS: 12072
+TRANSCRIPT: - [Stan] Broadview, Montana, 30 miles north of Billings, surrounded by a sea of
+family farms and ranches. Extending westward to the Crazys and eastward until
+seeming infinity. It's the type of place
+where the dirt roads bear the names of
+old time families. Where the hopping place
+to be on a Friday night might just be the
+school gymnasium,
+cheering on the Pirates. Where the place to be
+on a Wednesday night might be packed in
+the community center for a 4H meeting. - [Group] I pledge my
+head to to clear thinking, my heart to greater loyalty, my hands to larger service, and my health to better living. - [Stan] Which is
+all the more reason that on a Tuesday
+night in January, it's
+a curious spectacle to see this same room
+packed elbow to elbow hearing from environmental
+and conservation groups about their views on artificial
+intelligence data centers. - We need to get a
+handle on this, right? This is not something- - [Stan] That's because
+plans are underway for a 5,000 acre AI
+data center campus, just a couple
+miles outside town. John Chesser heads
+Quantica Infrastructure, the company planning the campus. - The use of AI has been
+growing exponentially. You know, one of the
+companies, ChatGPT, went from 400
+million weekly users to 800 million weekly users,
+people all over the globe. My vision for this project is
+to have Montana participate in all of this investment
+in job creation that's taking place
+across the country by bringing a very
+large data center opportunity to the state. -
+[...middle cut...]
+ies
+that came through there, I've got multiple business
+cards sitting in my office with people who came and
+said, they're gonna do this and this will happen this year. And then I get another person come through with
+business card say this, and it's happened
+for the past 10 years that I've been there, so. - [Stan] At this point,
+no one can say for sure what this field in Central
+Montana will look like this time next year. If Quantica is able to find
+a tech company customer, it could be the beginnings
+of a new powerful industry taking root in the state. If not, it could be
+another business card in Duane Swartz office. For IMPACT, I'm Stan Parker
+reporting with Sam Wilson in Broadview, Montana.
+
+=== ID: D_ODmysOOFo ===
+TITLE: Residents say they were asked to sell their properties for new AI data center
+DESC: Artificial intelligence data centers are becoming more common in the United States, and Wisconsin is no exception. Residents in Greenleaf tell FOX 11 they received offers from a company looking to buy their properties, with some of those homeowners saying the land sales would bring an AI data center to the area. It would be the first in Northeast Wisconsin. In documents shared with FOX 11, we know the offers ranged from $50,000-$120,000 per acre. The area in question has a boundary that runs fro
+KEYWORD: AI data centers
+VIEWS: 974
+TRANSCRIPT: Residents in Green Leaf are staring down what could potentially be the first data center in northeast Wisconsin. Less than a week ago, I got a phone call out of the blue that a company wants to purchase my property. And when I asked, "Well, what for?" Well, we can't disclose that. There's already, you know, some people who have allegedly signed. Um, and I said, "Well, I don't want to sell." And he said, "Well, I don't think you're going to want to live to what's coming." But when I then discussed it with other neighbors, they had been told that it was going to be a data data center. But what is a data center? According to IBM, an AI data center is a facility that houses the specific IT infrastructure needed to train, deploy, and deliver AI applications and services. However, communities across the country have pushed back against such centers, citing issues like noise pollution, decreased property values, energy demands, and increased water usage. A factor making Wisconsin an attractive home for data centers is the amount of fresh water that could be used for cooling. Along with the community, members of the planning commission are just learning about the centers, too. I think it's something that we have to look at and see what's all there. You know, it's you can't just say no. In documents shared with Fox 11, we know offers range from 50,000 to $120,000 per acre. Yeah, the offer seems good, but I I can't replace what I have for it is. They don't make any more land, and these these companies are just gobbling it up, and where are we supposed to go to live the lifestyle that we're we're living? A sentiment that was shared by those we spoke to on Monday. No amount of money can make up for losing your home. In Green Leaf, Eric Morris, Fox 11 News.
+
+=== ID: wvMAvstpE4o ===
+TITLE: AI Data Centers -  problems in paradise
+DESC: https://www.nationalobserver.com/2026/04/03/news/alberta-scraps-environmental-assessment-kevin-olearys-worlds-largest-data-centre
+KEYWORD: AI data centers
+VIEWS: 53
+TRANSCRIPT: The Jim and Cherry Show looking at artificial intelligence because we have no natural intelligence. We get all our stuff from whatever we've heard or read or talked about. The Jim and Terry show. I'm your host Terry. With me is my good friend, the Jim. Jim and we're talking about artificial intelligence, especially the stuff that is requiring huge investments in these structures that are the size of many, many football fields. They're huge and they take all kinds of energy, all kinds of water, unbelievable amount of water. I don't understand the whole thing. So, can we talk about what what is going on in a data center that requires I have no idea. You have no idea. Well, no. Okay. Is it just racks and racks of You remember the airport when they you saw the the uh energy centers going into the airport and there was waterfalls pouring over them? There was actually water pouring over these these looked like almost radiators. All this water pouring over them. I think they're long gone, but that's what it took to cool whatever it is they were doing. Uh and I always thought that was the technology and the computers needed to keep a safe airspace. So I think the data centers take well I don't think I know they take an unbelievable amount of energy and an unbelievable amount of water and I'm assuming the water is cooling to cool to keep the the then would you need potable water for that purpose? What kind of water? Potable which means when you know when you get by your house it has t
+[...middle cut...]
+ can work. But the only thing it took was in Canada's case a $1.79 80 per liter gas to get people saying, "Well, let's figure this out." Yeah. Well, necessity is the mother of invention, isn't it? Now, part of me conspiracy theory oriented might suggest that the closing of Straits of Ramse, the Iran conflict to drive up the price of oil has the backhanded, not Trump intended, consequence of fueling a rapid mass conversion to electrical. And it also made a lot of people very rich. His erratic thinking, a lot of people very rich. Prospering off of mental illness is not a good thing. Bring us to The Jim and Terry Show signing off for now. Take care. Bye-bye. It's complicated this relationship I
+
+=== ID: D29NqEg1Wmo ===
+TITLE: South Jersey residents complain about noise from new AI data center
+DESC: Residents in Vineland, New Jersey say a constant humming sound from a newly built AI data center is disrupting their daily lives.  The massive 300-megawatt facility, built by a Dutch company, is part of the growing demand for artificial intelligence infrastructure. But neighbors say the noise, along with concerns about water use, electricity demand and property values, has them worried.  Local health officials are now investigating the source of the sound after multiple complaints from residents
+KEYWORD: AI data centers
+VIEWS: 30840
+TRANSCRIPT: weekend. Be sure to stay with
+Fox 29 and Fox Local throughout
+the weekend to get the latest Fox 29 and Fox Local throughout
+the weekend to get the latest
+on the forecast before you head the weekend to get the latest
+on the forecast before you head
+out the door to celebrate. A on the forecast before you head
+out the door to celebrate. A
+South Jersey community is out the door to celebrate. A
+South Jersey community is
+sounding off after an South Jersey community is
+sounding off after an
+artificial intelligence data sounding off after an
+artificial intelligence data
+center was built in their artificial intelligence data
+center was built in their
+neighborhood. They say the center was built in their
+neighborhood. They say the
+constant humming coming from neighborhood. They say the
+constant humming coming from
+the building is driving them constant humming coming from
+the building is driving them
+crazy. Imagine a hum that’s the building is driving them
+crazy. Imagine a hum that’s
+just loud enough to get on your crazy. Imagine a hum that’s
+just loud enough to get on your
+nerves all day, every day. And just loud enough to get on your
+nerves all day, every day. And
+as our Joanne Pileggi tells us, nerves all day, every day. And
+as our Joanne Pileggi tells us,
+residents have been complaining as our Joanne Pileggi tells us,
+residents have been complaining
+so much. The health department residents have been complaining
+so much. The health department
+is now investigating. so much. The health 
+[...middle cut...]
+nergy, with a
+pledge to remain community of renewable energy, with a
+pledge to remain community
+friendly. We’ll update when pledge to remain community
+friendly. We’ll update when
+they get back to us. The friendly. We’ll update when
+they get back to us. The
+Greater Vineland community will they get back to us. The
+Greater Vineland community will
+be holding a rally and Greater Vineland community will
+be holding a rally and
+information session next be holding a rally and
+information session next
+weekend, so that residents here information session next
+weekend, so that residents here
+can air their concerns and weekend, so that residents here
+can air their concerns and
+complaints. In Vineland, I’m
+
+=== ID: fphMXniT5Fc ===
+TITLE: AI Data Centers Threaten HAM Radio & more #hamradio  #cbradio #noise #aidatacenter
+DESC: Does anyone experience noise when operating Ham Radio near a data center?   Please comment below and share your experiences.
+KEYWORD: AI data centers
+VIEWS: 39
+TRANSCRIPT: In this video, I would like to discuss AI data centers and how they may interfere with radio propagation or RFI on the bands, HF or VHF. Let's see. Hey guys and gals, Mike Cricet13. Hope everybody's doing well, enjoying the uh the weather and the radio and whatnot. Hey, there's a big uh hub about AI data centers in in the area in the country I should say and uh what risk they uh pose to the environment and public safety uh meaning water usage uh because they take a lot of water to cool those facilities and the electric bills and everything else. But nobody's asking for the amateur radio operators or CB radio operators that operate in the AF spectrum what kind of noise interference RFI uh radio frequency interference we are going to expect. So I'm putting it out there. I just was curious if there's one near you. I know there's a bunch of them in Virginia and Alaska. Uh, have you guys noticed any noise coming off those uh data centers or are they actually uh putting EMI shielding and proper grounding on the centers? I would hope so. Uh, but from what I've been reading, they do produce a little bit of electromagnetic interference, but it's usually up in the 70 gigahertz re region, which isn't really going to affect the HF operators, but you never know. So, do if you live near one, uh, tell us in the comments what your experiences are on the HF bands. This is my cricket 11373.
+
+=== ID: E6Vr3PQKMx8 ===
+TITLE: INSANE: Bernie Sanders DEMANDS AI Data Center MORATORIUM! Robby Soave | RISING
+DESC: Robby Soave delivers his radar on Sen. Bernie Sanders (I-Vt.) stating that he will push for a moratorium on Artificial Intelligence data center construction. #AI #BernieSanders #DataCenter #Tech #Trump   About Rising:  Rising is a weekday morning show with bipartisan hosts that breaks the mold of morning TV by taking viewers inside the halls of Washington power like never before. The show leans into the day's political cycle with cutting edge analysis from DC insiders who can predict what is goi
+KEYWORD: AI data centers
+VIEWS: 12565
+TRANSCRIPT: Good morning and welcome to Rising. And you better not pout. You better not cry cuz Santa Claus is coming to town, Nile. That's what I've heard. I thought you were going to sing it, Rob, but you just decided to give a give a a poetic rendition. You know, I I was making rather merry last night. Were you at a You're curing again at a holiday party and uh it was a lot of fun and now we are here in the morning living with our choices, living with our excess of eggnog, so to speak. Why I'm fresh as a daisy, having live lived more virtuously last night. But it's good to see you. Um our our friend Lindsay is a little unwell, but we hope she gets better soon and I'm glad to be unexpectedly in your company. Glad to have you with me. So, coming up on Rising, FBI Deputy Director Dan Bonino has announced that he's exiting the bureau in January, and President Trump hinted at why. Plus, Piers Morgan pressed Candace Owens over her theories about Charlie Kirk's assassination and TPUSA employees engaging in a coverup. And a new poll shows Congresswoman Alexandria Okasio Cortez leading Vice President JD Vance in a hypothetical 2028 matchup. Okasiocortez even had some words for the VP. But first of all, Robbie, why don't you get us going? What is in your radar? Well, Senator Bernie Sanders, the independent Democrat from Vermont and crusading leftist leader, is proposing a moratorum on new data centers because he says that artificial intelligence is coming along too quickly and that we need time
+[...middle cut...]
+ming from a we need to slow this technology down place. And that's where I I part ways. I don't I'm not a we can't have leitism here. We well we mitigate harms if it's causing harms as we proceed but we got to proceed. We can't have litism. I would be curious about that data on the energy point because I mean even water use alone is vast 5 million gallons a day some of these places and then all the processing power needed for AI. I mean it seems on its face like it would increase energy cost to me but I' I'd certainly be open to looking at that other data. Well, next up, FBI Deputy Director Dan Bonino announced he's stepping down from his role, and we'll be right back with reactions to that.
+
+=== ID: 9kou3H6Np7w ===
+TITLE: 50% Of AI Data Centers Have Quietly Been Cancelled Or "Delayed"-- The Sync News
+DESC: 50% Of AI Data Centers Have Quietly Been Cancelled Or "Delayed"-- The Sync News -------------------------------------- THE SYNC NEWS delivers fast, clear, and impactful global news — simplified for everyone.  From geopolitics and global conflicts to economy, technology, and breaking developments, we break down complex stories into easy-to-understand insights.  Our goal is simple: 👉 Cut through the noise 👉 Explain what really matters 👉 Show you the bigger picture  New videos every day covering:  
+KEYWORD: AI data centers
+VIEWS: 386
+TRANSCRIPT: Something unusual is happening in the world of artificial intelligence, and the numbers behind it are almost hard to believe. In 2025 alone, the world's biggest companies poured nearly $400 billion into AI infrastructure. That's not just a big number. It's historic. Adjusted for inflation, it's comparable to multiple mega projects combined, all within a single year. Even more surprising, more money went into building data centers than into constructing residential homes during the same period. But here's where things get interesting. Despite this massive spending wave, no major AI company has consistently figured out how to turn a profit from this technology. The only clear winners so far, the companies selling the hardware, the chips, the servers, the backbone of this entire ecosystem. And that raises a serious question. Where is all this money actually going? Because while companies are announcing record-breaking investments and expansions, reports are showing something very different on the ground. Many data center projects that were supposed to go live are being delayed or quietly cancelled. Think about that for a second. On one side, we're hearing about explosive growth and unlimited demand. On the other, real world construction isn't keeping up. That's a contradiction. And in the world of business, contradictions usually mean one thing. Something isn't adding up. Now, let's talk about the core of this AI boom, the chips. One of the biggest claims made recently is that m
+[...middle cut...]
+ly. Sometimes they move very fast. Now, to be clear, this doesn't mean AI is going away. The technology is real. The impact is real. But the way it's being financed and scaled right now, that's what's under question because history has shown us something important. Even the most promising technologies can experience bubbles, corrections, and resets along the way. So the real question is no longer just about AI itself. It's about whether the current pace of investment can actually be sustained. And that's something the world is about to find out. Make sure you subscribe to The Sync News for more deep, clear, and straight to the point updates because stories like this are just getting started.
+
+=== ID: 1dcvf-MhheU ===
+TITLE: States push back on data centers as AI infrastructure spreads nationwide
+DESC: Measures seeking to block or rein in data center construction are gaining momentum at the state and local level, as Americans increasingly sour on the massive buildout of AI infrastructure in their communities.  The Maine Legislature became the first in the nation to pass a bill banning the development of large-scale data centers last week, while a Wisconsin city approved a referendum earlier this month to give voters greater say over major tax-funded projects in response to the construction of 
+KEYWORD: AI data centers
+VIEWS: 6822
+TRANSCRIPT: Anti-data center legislation is gaining momentum across the country, particularly at state and local levels. It comes as Americans worry about the impact of AI infrastructure being built in their backyards and that's rapidly growing. Here to break it down is the Hills Business and Technology reporter Julia Shapiro. Julia, thank you so much for joining us. Break this down for us to begin why the push back against data centers. Yeah. So, there are a number of different concerns about data centers that are going up across the country. The biggest one that we've been hearing a lot about is the impact on uh consumer electricity bills. Uh there's a lot of concerns about whether it's driving up prices for consumers across the country. And it sounds like based on what I've heard from experts previously that the the big issue is that the grid needs to make a bunch of improvements to bring all these data centers online. And so that expectation has been resulting in some of these price increases uh across the country. Now there's a bunch of other concerns as well uh with data centers. You know there's concerns about various kinds of pollution, noise pollution, air pollution. You know sometimes these data centers have backup gas turbines. Um and just a lot of issues of generally it taking up space and coming into people's backyards. People aren't exactly convinced about this and they're they're a little hesitant now. Maine is getting a lot of attention in this fight. It became the first 
+[...middle cut...]
+also signed on to a pledge put forward by the White House. Um similarly vowing to pay their own way and bring their own power. What's next for this data center battle? Well, I I think it's sort of just waiting to see how these um data center laws at the state and local level play out. And also, I think a key thing to watch here is the midterms and how much, you know, at the state level this impacts those races and how folks are messaging on either side of the aisle on this issue because it seemed to hold some traction, especially on the electricity side, the energy bill side um in last year's uh off-year uh races. Julia Shapiro, thank you so much for your insight today. Thanks for having me.
+
+=== ID: 1BUyRnqvmu4 ===
+TITLE: AI data centers - effects on communities and doubtful return
+DESC: AI data centers - effects on communities and doubtful return
+KEYWORD: AI data centers
+VIEWS: 37214
+TRANSCRIPT: [music] As the AI revolution continues, we're exposed to the groundbreaking improvements that this new technology has to offer. We hear about large language models, LLMs, Gen AI, Aentic AI, the chips that power AI from Nvidia, for example, and many other things. But what about the backbone of AI? The data centers. Now I must admit that this was not an area that I knew too much about as it was a subject that was less glamorous and remained a little bit in the background. But when you see the amounts of money that are being spent on this uh issue on data centers, it demonstrates just how important an element of the AI story this is and it also links to the competition between the US and China as they race to build more of these centers in a short period of time. Now, let's start with the number three trillion. That is the dollar amount that Morgan Stanley estimates will be spent from now until 2029 on data centers. I've heard numbers even bigger than that. But even if the number that I just quoted is the actual number, then it is a staggering figure to be spent on one piece of one sector of the economy. As a reference, it is about equal to the 2024 GDP of France. Now, last month, the CEO of IBM said that there was quote no way that hyperscalers like Google and Amazon could turn a profit at at the rate that they were spending on data centers. So, he thought that the amount of money that's being invested would be almost impossible to recoup. On this episode, we will not get into 
+[...middle cut...]
+or governments and tech companies to find methods to help communities to lower electricity and water costs when data centers are being built in their communities. However, what is an open question is how long it will take for this massive investment, as we said, now running into the trillions of dollars to actually pay off. and the major players are all betting on the same outcome i.e that AI will very soon be embedded into pretty much every element of our lives and will be this massive change to business uh in the years ahead. But whether this will happen and more importantly when this will happen is anyone's guess. If you like this episode, please like and subscribe to the channel. [music]
+
+=== ID: 0a4cXbGvsbw ===
+TITLE: Why do we need to cut energy use in AI data centers?
+DESC: Artificial intelligence (AI) is spreading rapidly across everyday life, but the energy required to power it is rising just as fast. The data centers behind AI systems run nonstop, consuming vast amounts of electricity and placing growing strain on power grids that were never designed for this level of demand.   This video explains why AI has become an energy challenge and how Hanwha is helping address it through next-generation, AI-driven energy management systems designed to make data centers m
+KEYWORD: AI data centers
+VIEWS: 568602
+TRANSCRIPT: [music] AI seems to be everywhere today in consumer chat bots, search engines, and even inside home appliances. [music] While the technology feels effortless, the infrastructure behind it is [music] anything but. Every AI model we use relies on data centers, [music] vast facilities filled with high performance servers, storage systems, and cooling equipment. According to the International Energy Agency, these [music] centers consumed around 415 terowatt hours of electricity in 2024, about 1.5% of global electricity use. And that demand is projected to [music] more than double to roughly 945 terowatt hours by 2030. As AI adoption accelerates, data centers [music] have become some of the fastest growing sources of electricity demand in the world. [music] In some regions, hypers scale AI facilities can each draw 100 megawatts or more, consuming as [music] much power as 100,000 households. Because many of these sites are clustered near cities, they put intense pressure on local grids. So why do data centers demand so much energy? [bell] AI is extremely power intensive. Roughly 60% of a data cent's electricity goes [music] to servers running non-stop computation. Cooling is another major drain, often accounting for [music] anywhere from 7% to over 30% of the total energy use depending on efficiency. On top of that, AI model training drives demand even [music] higher, often requiring thousands of GPUs running continuously for weeks or months. And as we keep training more advanced A
+[...middle cut...]
+icantly lower operating costs, strengthen energy security, and improve incident response speeds through autonomous control. Early modeling suggests that these AIdriven systems could reduce energy costs by 20 to 30%. Cut emissions and strengthen critical infrastructure. Hanoa is building this framework in collaboration with a major global technology company. Combining cloud-based intelligence with Hanoa's strengths in solar energy storage and advanced energy solutions in a sector where electricity is one of the largest operating expenses. These gains are transformative. They point to a future in which AI does more than consume energy. It helps manage it smarter, cleaner, and more responsibly.
+
+=== ID: gaD4NG3TOzQ ===
+TITLE: Americans Are FURIOUS Over AI Data Centers | It's Getting Worse
+DESC: Americans Are FURIOUS Over AI Data Centers | It's Getting Worse  Popular Video Content: 🎥 US News: - http://bit.ly/USworldnews 💰 Stocks & Finance: - https://bit.ly/3t8Y0dZ 🤵 Stimulus Updates: - https://bit.ly/3HKzGDw   Here on this channel we discuss everything from finance, business, investments, and even moves made by congress. If you are looking for information regarding upcoming stimulus, stock moves, wealth building, real estate, and even cryptocurrencies - Then this is the channel for you.
+KEYWORD: AI data centers
+VIEWS: 17559
+TRANSCRIPT: Millions of Americans are extremely upset. Their electric bills keep going up. They're being told to help conserve water, but yet data centers are out there driving up electricity costs and using up all the clean water. It's turning into a massive problem. But many Americans are also frustrated about the noise pollution that these data centers are actually causing. Listen to this. So, I have just learned that they are going to be building a data center near where I live. And I'm sort of freaking out about it. And I know a lot of people are freaking out about data centers right now, but I actually don't think that we're freaking out enough. Why are we not freaking out enough? Why are so many people saying that data centers are bad? And everybody loves the fact that we're starting to use AI. AI is now where we can create different documents and we can edit pictures and we can do all these things using AI. It's an incredible software and it's an incredible leap towards the future. But now what residents are telling us is that this is bad. Listen to this. This is what a data center the noise it's producing and this according to this uh thing is 30 uh gigawatts or megawws. Listen to this. What if you lived in an area that you had this hum? Now, you're probably thinking, "What is the hum from? It it can't be from the the data going through like wires, can it? No. What has to happen is these uh these big factories, they have to stay cool. So, they're cooling fans. What you're hearin
+[...middle cut...]
+hat we are going to see is data centers are going to pop up. Electricity costs are going to rise. We're going to see less water in our community. We're going to have noise complaints. We're going to see all this stuff. But who is going to benefit the most? Who's going to benefit the most? Is it going to be uh the American people? Is it going to be lawmakers? Is it going to be the future? Who benefits the most? But I will leave you with that. Again, if you have any questions whatsoever or you have a story of your own because you live near a data center, let me know down in the comment section below. But again, thank you guys for watching. Consider subscribing and I'll see you guys on the next
+
+=== ID: AYCibhMJHrw ===
+TITLE: AI data centers threaten Texas power grid as winter temps drop | Morning in America
+DESC: Millions of Americans could suddenly lose electricity this winter as the nation’s power grids deal with increased strain, thanks to an increase in data centers opening across the country. Energy watchdogs have pointed to an elevated risk due to typical stress from winter, as well as AI data centers and population growth. NewsNation's Xavier Walton reports for "Morning in America."  Start your day with "Morning in America," NewsNation's live three-hour national morning newscast hosted by Markie M
+KEYWORD: AI data centers
+VIEWS: 2439
+TRANSCRIPT: Millions of Americans could suddenly lose their power this winter as the nation's power grid deals with an increased strain. This is thanks to surging numbers of data centers opening. And now federal agencies are sounding the alarm here. So Texas is in the spotlight after just a couple of years of devastating outages during a historic winter storm. News Nation's Xavier Walton, he's tracking this from Dallas for us. So Xavier, how much of that risk is really due to these data centers? What are you learning? Kelly, good morning. Well, it certainly doesn't help, but in large part, yes, that is why. But energy watchd dogs believe um there are multiple reasons here um for this elevated risk when you combine, you know, the normal usage, the normal stress from winter, and then you have these AI data centers and plus you got to factor in the population boom as well. Hundreds of thousands of people have moved to Texas this year alone. You combine all of that and that's where you get that elevated risk. Um that the North American Electric Reliability Corporation says Texas has says Texas has enough power for normal winter peaks but still lists the state's independent grid operator or electric reliability capital Texas as an elevated risk in cold snaps like the one we saw back in 2021 when 4 and a half million Texans were without power for days. Now, in its latest uh winter reliability assessment, outages are unlikely in typical winter, but severe and prolonged frigid conditions could s
+[...middle cut...]
+from AI data centers. So, state regulators right now scrambling the public utility commission of Texas still trying to come up with a game plan, so to speak, and sort of play referee between, you know, the state's data center boom, but also trying to figure out uh the sheer volume of electricity they're going to take to use as well. And then you factor in the population boom and then also um ju just the sheer fact that it's winter right now. Right. Right. You got a lot to consider, a lot on the table there. All right, Xavier, thank you. Thank you for watching. Subscribe below and download our NewsNation app right now on your phone and you will get fact-based, unbiased news for all Americans.
+
+=== ID: w-DVTHH1ux8 ===
+TITLE: 50% Of AI Data Centers Have Quietly Been Cancelled Or "Delayed"
+DESC: Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/HpRF1PA or code hmw50.  ----  Ed Zitron's Research Blog: https://www.wheresyoured.at/  Interviews on YT: https://youtu.be/nxUEOdC4VzU?si=rNRMW_VlZljJZqf3  ----  Sign up for our FREE newsletter! - https://www.compoundeddaily.com/  Books we recommend - https://www.howmoneyworkslibrary.com/  Listen on Spotify - https://open.spotify.com/sho
+KEYWORD: AI data centers
+VIEWS: 1243401
+TRANSCRIPT: In 2025, the world's largest companies reportedly 
+spent around $400 billion on capital expenditures   to support the development of artificial 
+intelligence. Adjusted for inflation, that would   be nine Manhattan projects or two Apollo programs, 
+all within the space of just one year and just on   the infrastructure alone. Put another way, last 
+year, more money was set aside for constructing   and fitting out data centers than was spent on 
+building single family residential homes over the   same time. And this number doesn't even include 
+non-public companies like Enthropic or OpenAI,   which are harder to get reliable financial data 
+on. This number also doesn't include any of the   other costs outside of just building and fitting 
+out the facilities themselves, like staffing,   energy, security, and uh strategic acquisitions 
+like podcasts. These numbers are also only for   2025. And of course, recent announcements suggest 
+that spending this year will once again break new   records. Now, the borderline comical numbers being 
+thrown around in the AI industry may not be that   surprising to any of you anymore, but it has also 
+been almost 4 years since this technology has   really come onto the scene with the first public 
+release of Chat GPT. In that time, not a single   one of these companies has figured out how to turn 
+a profit with this technology, even when using   generous financial projections and accounting 
+tricks. The exception to this, of course, has   always 
+[...middle cut...]
+even if the business case makes   no sense, it can stay in motion for as long 
+as investors are happy to put money into it.   But well, even that might be starting to change. 
+For the last four years, private credit companies   like Blue Owl and Black Rockck's Credit Arm 
+have been major financing partners on some of   the biggest data center projects, but they are 
+now facing their own industry-wide problems,   which is going to make it much harder for 
+them to maintain the supply of easy financing.   Go and watch this video next to find out what 
+private credit actually is and why it has all   gone so badly wrong. And don't forget to like and 
+subscribe to keep on learning how money works.
+
+=== ID: j2w4X1OkdIo ===
+TITLE: The Data Center Energy Crisis: Can We Power the Age of AI? | Breakthrough
+DESC: Breakthrough: The Data Center Energy Crisis  Data centers are the invisible engines of the digital world — powering everything from social media and streaming to the explosive growth of artificial intelligence. But this massive computing power comes with a cost: energy.  As AI models scale up, so does their appetite for electricity. Some experts warn that without innovation, we’re heading toward rolling brownouts, skyrocketing power bills, and an unsustainable digital infrastructure.  From innov
+KEYWORD: AI data centers
+VIEWS: 19282
+TRANSCRIPT: Monstrous facilities called data centers are springing up everywhere. To me, it feels like the wild wild west. They already devour massive amounts of energy. And now that AI is part of the equation, their power consumption is skyrocketing. By 2028, we are expecting to double or possibly even triple the amount of energy that's going towards data centers. If you check your bank accounts, upload your photos, text a quick message to a friend, you are relying on data safely going where it's supposed to or coming to you securely. A typical laptop can store 512 GB of data. The average person does almost 2 GB of data every day. This is a lot. So, we invented a solution. A lot of data is no longer stored on your device locally. You connect it to the cloud and it will get sent across lots of different internet infrastructure to a data center. This is where the infinite weightlessness of the cloud comes down to earth. In a data center, one or more buildings house a centralized computing infrastructure, including physical servers, maximum storage options, and other networking equipment, all used to process our wealth of information. They also protect your data from environmental hazards like heat, humidity, and water leaks. They may look and feel like something out of a sci-fi movie, but they're really just super warehouses for computers. These are rows and rows of computers that are within cages, almost like little prisons that you have. And each of these cages is owned by a customer, s
+[...middle cut...]
+eet the data center needs. There have been plans in place for several years to slowly decarbonize the grid in Virginia and to take offline the the coal fired power plants. And now those plans are being delayed somewhat inevitably. keep changing the date to later. Microsoft is considering using natural gas with carbon capture for a power supply and both Chevron and Exxon are developing natural gas plants. When you look at the natural gas side, its operations are more efficient perhaps than some of the other fossil fuels out there, but the collection and getting this out of the ground is a pretty expensive process. The data center energy demand could set back the world's decarbonization goals.
+
+=== ID: b0C56yqIkbk ===
+TITLE: How AI uses our drinking water  - BBC World Service
+DESC: More than a billion messages are sent to AI chatbots every day and each interaction uses water.   Click here to subscribe to our channel 👉🏽 https://bbc.in/3VyyriM  There are concerns artificial intelligence is putting stress on drinking water sources. Here, we explain why AI uses water and how even more will be needed in the future.  00:00 Sam Altman's 1/15th of a teaspoon figure  01:04 How much water does AI use: study 01:36 Why does AI use water? 02:01 Why do servers get hot? 02:34 How does li
+KEYWORD: AI data centers
+VIEWS: 1074925
+TRANSCRIPT: 1/15 of a teaspoon. That's how 
+much water the average single  interaction with ChatGPT uses, 
+according to Sam Altman, the  boss of OpenAI. So if you type, 
+can you help me solve this  maths problem? That's a drop. 
+Or can I put lime instead of  lemon in this recipe? That's a 
+drop. Or why is the sky blue?  Help me write this email. Help 
+me improve my website code.  Mr. Altman claims there are 
+1 billion messages sent to  ChatGPT every day, and ChatGPT 
+is just one AI bot. Chuck in  Gemini, DeepSeek, Claude and 
+others. It's clear that the AI  revolution is a thirsty one. 
+Striking though it is, some  experts are more than a little 
+sceptical of Sam Altman's  estimate on water usage. At this point, there was just 
+not enough information for me  to agree with or trust the 
+number. Their number was perhaps  referring to some tiny models. 
+We're considering a medium  sized large language model 
+that's the size of GPT-3.  Basically, if you write an 
+email or ask some questions, if  you have 10 to 50 queries, 
+you're going to be consuming  roughly 500ml of water. This calculation includes 
+water used in cooling and  electricity generation. The 
+BBC asked OpenAI for more  details about Sam Altman's 
+estimate, but the company  declined. Either way, it's clear 
+AI uses a lot of water. But  why? Every time you send a 
+prompt to an AI, it has to run  complex calculations to understand 
+and respond. This work is  done by the most powerful and 
+specialised computer chips in  the world,
+[...middle cut...]
+put capacity 
+out in space? It's very, very  early stage. So what, you know, 
+we at NTT are looking at is,  can we launch satellites that 
+can at least do some more  backup-oriented or other oriented tasks? Though skeptics point to the 
+many hurdles that need to be  overcome, there is optimism, 
+too, about a more sustainable  future. Let's remember that that GenAI 
+capability is still very,  very young. It's moved 
+exponentially fast, but as an  industry and as a use, it is 
+still young. Ideally, we can  learn together as as a society 
+and as a world society, how  do we minimise against the use 
+of water and energy? Because  this is all, you know, a world resource when we   talk about
+water.
+
+=== ID: 0TwA5ttBAhU ===
+TITLE: Americans given NDAs from AI data center company
+DESC: Residents in Kentucky are being asked to sign NDAs from AI data center companies in order to give the community more information about the project. NBC News' Brian Cheung spoke to two residents who were offered more than 8 million dollars from the company to sell their land.   For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com  » Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC » Subscribe to Here's the Scoop podcast: https://w
+KEYWORD: AI data centers
+VIEWS: 233009
+TRANSCRIPT: Quiet Country Living brought families like father and son Tim and Andy Ger to these rolling hills in Mason County, Kentucky. They just want to be out in the country where it's quiet and they can watch the wildlife. They've tended to cattle and hunted here for more than 30 years. But now that quiet is under threat from a billion dollar data center project that could soon rise just over that ridge. I don't want any part of it being anywhere near here. Why? For one, I don't want to look at it. Our par is going to double in price and we don't have enough energy right now to even supply Mazeville through the through the winter. They have to buy power from the the grid. Last spring, the grocerers were offered more than $8 million to sell all 250 acres of their land. That's 35 times what they bought it for in 1988. This is a good amount of money. Yeah, but I don't really care how much they offer. I'm not I'm just not telling. When they ask for details about the project, they were given an NDA instead. The mystery guy slides a paper forward and says, "Sign this non-disclosure agreement and we'll start answering questions." And we said, "Well, that's a non-starter." County officials telling NBC News they signed non-disclosure agreements with the same company last spring. Hoping to secure hundreds of millions of dollars in investment from one of the top five tech companies in the US building out its AI infrastructure, they agreed to keep the company's name secret. But for the grocerers
+[...middle cut...]
+across the country all declined to comment or did not respond to questions about the use of NDAs in data center projects. For the grocerers, no details meant no deal. But Mason County officials tell us 18 of the 20 people approached did sign property purchase agreements. We said no. A lot of the other people said yes. But no amount was enough to convince them to give up their sanctuary off the Ohio River. I mean, just look all around here. Why would anybody want to give that up? For some mystery purpose to some mystery company. Yeah, for any company. We thank you for watching and remember, stay updated on breaking news and top stories on the NBC News app or watch live on our YouTube channel.
+
+=== ID: Vue-svajNaw ===
+TITLE: How much water do AI data centers use?
+DESC: Water is commonly used to keep technology cooled down. AI data centers feature numerous servers that require a lot of water usage to keep them cool.   More news: www.wqad.com Subscribe to WQAD News 8 on YouTube: https://www.youtube.com/c/Wqadnews8/featured?sub_confirmation=1      Other ways to watch News 8: https://www.wqad.com/connect      Download the News 8 app on IOS: https://apps.apple.com/us/app/wqad-news-8-quad-cities/id1491061406      Download the News 8 app on Android: https://pla
+KEYWORD: AI data centers
+VIEWS: 24333
+TRANSCRIPT: New tonight here in the current we're talking about AI and water. Out of all the water on the planet, only 3% is fresh, and a lot of that is locked away in glaciers. That leaves just 0.5% of the whole Earth's water available for human consumption and needs. But as artificial intelligence centers continue to pop up all over the world and right here in Iowa and Illinois, that water supply is becoming. More strained. That's because AI data centers require a lot of water, but just how big is this impact? For that we turn to Ana Pineto Prevet, director of research applications and new research initiatives at the University of Illinois. Ana, thank you so much for being with us. You spent a lot of time looking into this topic. Can you start with the basics? I mean, why do AI data centers need water? Thank you for having me. Uh, OK, just going back to the beginning of the conversation, if you think about AI, um, they're basically this large algorithms and models that are trying to simulate human intelligence, right? And this is all done in what we call data centers so that there's physical facilities that have a lot of um servers, um, that basically are doing a lot of computation, uh, continuously 24/7. Uh. To do that, they use a lot of energy and a byproduct of that computation is the generation of heat. Uh, and as you, as you might know, um, computers and heat don't go too well together. If you recall, uh, especially in the old days, our computers would get pretty hot and turn off 
+[...middle cut...]
+of our water? Um, I, I think we could act at different levels, right? Um, we cannot properly manage what we cannot monitor, right? So how much water is being used, used under which conditions and for which type of processes and operations. And then at the same time I think we do need to have maybe some regulatory pressures that encourage more um water use efficiency and incentives for that innovation to happen more broadly as well. Big topic indeed. I wanna thank you so much for joining us here today. Thank you. Ana has written up a very detailed report on all of this for the Center for Secure Water, and you can read it for yourself by going to WQAD.com and clicking on the as seen on TV tab.
+
+=== ID: LoOATYAf3mg ===
+TITLE: Why Do AI Datacenters Use So Much Water?
+DESC: We've all heard at some point that using chatGPT or gemini or what have you is a waste of water. But is it actually true?
+KEYWORD: AI data centers
+VIEWS: 630
+TRANSCRIPT: Ever since OpenAI unveiled chat GPT in 2022, it has started a sort of arms race between companies to release their own versions of large language models. Every new startup these days seems to be just a glorified Chat GP rapper. Every company has been trying to find ways to shove AI down employees throats. There are smart TVs out there that come pre-installed with Copilot for some odd reason. Everywhere you look, you're assaulted with AI generated images, videos, art to the point where it's sometimes hard to tell what's real and what's not. There are people in really problematic relationships with AI. Others are having delusional episodes triggered because they spend so much time talking to AI agents. So, ignoring any sociological criticisms of AI, a common criticism that you will hear is that AI uses a lot of water and energy compared to the standard Google searches for example that we used to have back in the days like 4 years ago. It seems that Sam Alman has also heard this criticism and revealed in an article in June 2025 that an average chatbt query uses 0.85 gallons of water. On the other hand, the Washington Post did their own research and noted that to generate a 100word email, chat GPT uses around 519 milliliters of water, which is around half a liter. So that's 1500 times more water than what Sam Alton is claiming. But I'm not here to debate the exact numbers. I want to explain why water is being used in this process in the first place. Not counting the water that it
+[...middle cut...]
+ by a fresh water source continuously. According to the uptime institute a 1 megawatt data center will pump 855 gall of condenser water per minute through a cooling tower. Accounting for a 2% loss of water means that 17.1 gall per minute of water is being used per megawatt. And that's just one megawatt. Companies like Meta operate data centers such as this one in Louisiana, which is over 2 gawatt. Now, I can't tell you if this amount of water usage is worth it to generate some videos of babies dancing or deep fakes of Elon Musk selling Bitcoin. That's for you to decide on your own. But I do hope that this has been a useful and informative video for you. As always, take care and stay curious.
+
+=== ID: yQYVZDWOUTE ===
+TITLE: Mount Pleasant residents raise concerns over noise from Microsoft AI data center
+DESC: Residents near Microsoft's AI data center in Mount Pleasant are voicing complaints about persistent noise, prompting a Q&A session with company representatives as construction continues on additional facilities  WISN 12 is your home for Wisconsin breaking news and weather. For your latest Wisconsin news and weather visit: https://www.wisn.com/  For licensing inquiries: https://www.wisn.com/licensing
+KEYWORD: AI data centers
+VIEWS: 21211
+TRANSCRIPT: AND WELL-BEING OF OUR STUDENTS
+AND STAFF REMAIN OUR HIGHEST
+PRIORITY. >> BACKLASH TONIGHT OVER DATA
+CENTER NOISE IN RACINE COUNTY. NEIGHBORS NEAR THE MOUNT
+PLEASANT SITE SAY IT JUST
+DOESN’T STOP, AND THEY’RE
+WORRIED ABOUT MICROSOFT’S PLANS
+FOR MORE DATA CENTERS ON THAT
+SAME SITE. 12 NEWS. EMILY POLK IS LIVE IN MOUNT
+PLEASANT TONIGHT. EMILY. PEOPLE COMPLAIN DIRECTLY TO
+MICROSOFT THIS EVENING. >> YEAH. IN A Q&A SESSION AT THE MOUNT
+PLEASANT VILLAGE HALL, THE MAJOR
+CONCERNS THE NOISE, LIKE YOU
+JUST MENTIONED, WHICH IS
+ACTUALLY A PERSISTENT HUMMING
+THAT WE CAN ACTUALLY HEAR STILL RIGHT NOW STANDING OUTSIDE THE
+DATA CENTER. THE OTHER MAJOR CONCERN, THE
+LIGHT POLLUTION. NOW IT’S RAINING, BUT I’M GOING
+TO MOVE MY UMBRELLA. YOU CAN SEE THE LIGHT POLLUTION
+OFF IN THE DISTANCE, WHICH
+NEIGHBORS SAY THESE LIGHTS ARE
+ON ALL NIGHT LONG. 12 NEWS WAS IN MOUNT PLEASANT,
+DOCUMENTING THE HIGH PITCHED HUM
+COMING FROM MICROSOFT’S MASSIVE
+AI DATA CENTER CAMPUS. WHEN NEIGHBORS COMPLAINED LAST
+MONTH. >> I COULD HEAR IT INSIDE MY
+HOUSE, AND THAT’S WHAT CONCERNS
+ME. >> THURSDAY, NEIGHBORS TOOK
+THEIR COMPLAINTS TO THE SOURCE. MICROSOFT REPS FIELDED QUESTIONS
+FOR HOURS ABOUT THE DATA CENTER
+SET TO GO ONLINE LATER THIS
+YEAR, AND PLANS FOR AT LEAST 15
+MORE STILL UNDER CONSTRUCTION. >> WE HEAR EVERYTHING THAT COMES
+OUT OF THAT PLACE. >> THE Q&A TOOK PLACE IN MOUNT
+PLEASANT, BUT STURTEVANT VILLAGE
+PRESIDENT MIKE ROSENBAUM WAS
+THERE. >> IT’S MY HOME. IT’S MY CONSTITUENTS HOME. I DON’T NEED TO BE DRIVING
+PEOP
+[...middle cut...]
+Y HAS TOLD
+US IT’S INVESTIGATING AND WE AWAIT AN UPDATE ON POTENTIAL
+WAYS TO QUICKLY ADDRESS THE
+CONCERNS. >> WE WANTED TO LIVE IN A TINY
+LITTLE TOWN WHERE WE COULD FEEL
+LIKE WE’RE OUT IN. I CALL IT GOD’S COUNTRY. I KNOW IT’S CORNY TO CRY. >> I CAN’T. >> GOSH, YOU CAN FEEL THE
+EMOTION COMING FROM HER RIGHT
+NOW. EMILY MOUNT PLEASANT CODE ALLOWS
+CONSTRUCTION FROM 6 A.M. TO 10
+P.M., SEVEN DAYS A WEEK. >> RIGHT. THE STURDIVANT VILLAGE PRESIDENT
+THAT YOU HEARD FROM THERE SAYS
+THAT HE’S WORKING WITH MICROSOFT
+AND. MOUNT PLEASANT TO REPOSITION THE
+LIGHTS AWAY FROM HIS VILLAGE. HE ALSO SAYS THAT HE’S ASKED
+MICROSOFT FOR A TIMELINE FOR
+WHEN THE HUMMING ISSUE WILL BE
+FIXED. >> WE CERTAINLY HOPE WE WIL
+
+=== ID: 5B0fPjRE5cw ===
+TITLE: Behind the explosive growth and challenges of data centers in the AI era
+DESC: “CBS Evening News” reports on the surge of data centers in the U.S. and the challenges that come with it.  00:00 Addressing the rising energy demands of data centers 3:32 Plan would reopen Three Mile Island nuclear plant to power Microsoft data centers 5:23 Some view large AI data centers as intrusion despite economic benefits 9:07 Company using recycled EV batteries, solar panels to help power data centers 11:51 Data centers are expanding fast, but the workers they need are in short supply  #ai
+KEYWORD: AI data centers
+VIEWS: 139317
+TRANSCRIPT: [Music] Did you know the average chat GPT request requires almost 10 times more electricity than a Google search? In tonight's Eye on America, Ben Tracy looks at the data centers that drive our digital lives and their growing demands for energy. This is a Google data center outside of Reno, Nevada. It's hard to imagine that there's a physical location where the internet lives, but this is it. Inside are endless rows of servers and miles of cables, the arteries of the internet. Is this everything from like somebody's doing a Google search, somebody's watching a cat video, and that's all coming through here? Absolutely. It's all that and more. Amanda Peterson Coro is Google's global head of data center energy, and these fans are cooling our data centers. on the rooftop. She showed us the hundreds of fans that keep all those computers humming. This is just one of at least 2700 data centers that stretch from the suburbs of Virginia to the deserts of the West. They are mostly run by big tech firms and consume more than 4% of all electricity in the US in 2022. That's projected to more than double to 9% by 2030. The nation's aging grid is also threatened by the soaring demands of artificial intelligence. It uses nearly 10 times the electricity of a typical internet search. Is this amount of electricity use sustainable? It's a real challenge as we look to the next decade. Those demands continue to grow. And the real challenge is figuring out how can we do this in a way that meets our
+[...middle cut...]
+derstand it. He told us in Chicago, experienced HVAC technicians make more than $150,000 without student debt. The trace kind of got neglected. So now there's a void that needs to be filled. And you're busier than ever. Oh, absolutely. Across the floor, electrician Kevin Fishbach sees hope. His local unions aggressively recruiting young workers for its apprenticeship program. They come into the trades and they got insurance, they got healthcare, they got a pension. That's an update with power for Brandon Fry. That this career path is out there and it is a valuable career path to take. But for now, the date is in and it's unmistakable. Help wanted. For I in America, I'm Mark Stman in Chicago.
+
+=== ID: cyWrxpFScOY ===
+TITLE: Is NJ’s power grid prepared for large-scale AI data centers?
+DESC: As artificial intelligence rapidly reshapes our economy, workforce and daily lives, it is also driving an unprecedented surge in energy consumption. And as AI's capabilities expand so do its demands for electricity. The Senate Legislative Oversight Committee held a meeting Monday about New Jersey’s energy infrastructure and whether it is capable of meeting increasing demands on it.  Don’t forget to SUBSCRIBE for daily videos: http://bit.ly/1ERsYqw   **More info & videos below**   For full episod
+KEYWORD: AI data centers
+VIEWS: 573
+TRANSCRIPT: In our spotlight on Business Report
+tonight, the impact of AI on our energy bills. Turns out every time you type a question
+into chat, GPT or ask artificial intelligence
+to say write an email, the process uses a ton of energy. A recent MIT Sloan report notes creating
+just one image using generative AI is the equivalent of fully charging
+a smartphone. As Governor, Murphy pushes to make New Jersey an AI hub,
+more questions are emerging about our grid's ability to take on
+the weight of those new technologies. Raven Santana
+reports on a hearing in Trenton today where experts laid out what it could mean
+for the state's energy needs and goals. Data centers
+already use 2% of the world's electricity, but their demand is rising so fast
+that it could double by 2026. And this level of growth would make air
+related energy demand equal to the total electricity consumption of the entire
+country of, let's say, Japan. That's
+the challenge that is in front of us. It's no secret that AI is rapidly
+reshaping our economy, workforce and daily lives, but it's also driving an unprecedented
+surge in energy consumption. As AI capabilities expand,
+so too does its demand for electricity, which is why the Senate
+Legislative Oversight Committee held a meeting where members,
+including Chair Senator Andrew Zwicker, posed serious questions
+about our state's energy infrastructure and its ability to meet the demands of AI. Can the power grid sustain this surge in
+AI driven energy use without overburdening the
+[...middle cut...]
+a month, it'll be 260. Right. So it's just going to go higher
+and higher and higher. And people are struggling
+to make ends meet right now. And given a warming earth, given
+the fact that our summers get so hot, given the fact that air conditioning
+has become just a basic necessity, ensuring that we are putting
+public policies in place to control the price of electricity
+is critically important. And that's what we're highlighting today. Zwicker says the committee
+has already began working on legislation. He says the committee will now
+take all the information and testimony from the hearing and introduce
+that legislation in the weeks ahead. Friendly Spotlight
+news on Raven Santana, a year old.
+
+=== ID: LkHtqyEfgGw ===
+TITLE: How AI data centers are driving up energy bills
+DESC: An increase in demand for artificial intelligence may be increasing the cost of your electric bills. CBS News national environmental correspondent David Schechter explains.  CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working loc
+KEYWORD: AI data centers
+VIEWS: 23374
+TRANSCRIPT: RETURNING CBS. FALL.  >> WELL, IF YOUR ELECTRIC BILL  HAS GONE UP LATELY, YOU ARE NOT  ALONE. AND IT MAY NOT JUST BE  THE SUMMER HEAT THAT'S CAUSING  THINGS TO RISE. ARTIFICIAL  INTELLIGENCE DATA CENTERS ARE  PHYSICAL BUILDINGS OR FACILITIES THAT HOUSE COMPUTER SYSTEMS ARE  PREDICTED TO DRIVE DEMAND TO  RECORD HIGHS IN THE COMING  YEARS. CBS NEWS NATIONAL  CORRESPONDENT, NATIONAL  ENVIRONMENTAL CORRESPONDENT, I  SHOULD SAY DAVID SCHECHTER JOINS US NOW TO BREAK ALL THIS DOWN.  DAVID, ALWAYS A TREAT TO SEE  YOU. THIS MAKES SENSE IN SOME  WAYS, BUT STILL SURPRISING TO  HEAR JUST HOW MUCH ENERGY OUR  DATA CENTERS ARE USING AND HOW  IS THAT AFFECTING OUR ELECTRIC  BILLS.  >> AND NANCY, YOU KNOW, DATA  CENTERS HAVE A VORACIOUS.  APPETITE FOR ELECTRICITY. AND SO THEY REALLY ARE A DRIVING FACTOR IN OUR COUNTRY NOT HAVING AS  MUCH ELECTRICITY AS WE NEED. AND THIS PUSH TO DEVELOP MORE. IF  YOU LOOK AT IT THIS WAY, LET'S  FOR EXAMPLE, LET'S TALK ABOUT  AN INTERNET SEARCH. IF YOU DO AN A.I. SEARCH VERSUS JUST A  REGULAR GOOGLE SEARCH THAT  REQUIRES ABOUT TEN TIMES MORE  ENERGY ON THE PROCESSING END TO  GET THAT ANSWER. IF YOU THINK  ABOUT THE CITY OF NEW YORK, THEY TAKE IN THEY ON A DAILY BASIS,  THEIR LOAD OF WHAT THEY NEED TO  RUN. THAT CITY IS CALLED SIX  GIGAWATTS, WHICH PROBABLY  DOESN'T MEAN A LOT TO ANYBODY.  BUT WHEN YOU THINK ABOUT IT, BY  2030, THE COUNTRY NEEDS THREE  TIMES THAT AMOUNT OF ENERGY TO  KEEP UP WITH THE GROWTH OF THE  DATA CENTERS. SO THERE'S A HUGE APPETITE FOR T
+[...middle cut...]
+ RENEWABLE ENERGY, WE WANT TO  HAVE WIND, WE WANT TO HAVE SOLAR POWERING OUR OUR DATA CENTERS.  THEY BUILD THEY THEY BUILD IT OR THEY BUILD CONTRACTS TO BUILD  IT, WHICH IS WHICH IS GOOD. THEY ARE NOT INCREASING THEIR  FOOTPRINT, BUT AT THE SAME TIME, THAT NEW GENERATION ISN'T GOING TO REDUCE THE CARBON FOOTPRINT  OF OUR SOCIETY IN GENERAL. SO  IT'S JUST, YOU KNOW, THIS STAYS HERE WHILE THIS IS MOVING OVER  HERE. YOU HOPE YOU BUILD MORE  PLANTS AND LOWER THIS NUMBER  DOWN, BUT IT'S STARTING TO STAY THE SAME AND GET STUCK THERE  BECAUSE ALL THIS NEW ENERGY IS  GETTING SENT OVER HERE FOR DATA  CENTERS.  >> DAVID SCHECHTER ALWAYS  APPRECIATE YOU PUTTING IN  CONTEXT FOR US AND ALSO YOUR  CLIMATE
+
+=== ID: aLY1Ww4B8IM ===
+TITLE: How A Single Data Center Crushes The Local Economy Around It
+DESC: Looking to grow your business online? Get started today with a free 15-day trial from  https://www.odoo.com/r/EYoL  *******  Slidebean Investigation 👉 https://youtu.be/r473fEO-ojg?si=ki7lRBl-g7OTg2Nu  I'm on Spotify 👉 https://open.spotify.com/show/0qSzwHHHo7Hx9QbvzKHQAy?si=l9gQx_T6Tbuh2Kz84O-eng  *******  All materials in these videos are for educational purposes only and fall within the guidelines of fair use. No copyright infringement intended. This video does not provide investment or financi
+KEYWORD: AI data centers
+VIEWS: 84282
+TRANSCRIPT: Almost exactly 12 months ago now on the 4th 
+of December 2024, a $10 billion construction   project began about a mile outside of Rayville, 
+Louisiana. A town with a population of about 3 and   a half thousand people and a town that could 
+soon be rendered economically obsolete. When   it's completed sometime in the next 4 years, the 
+Hyperion Data Center will be the largest complex   of its kind anywhere in the world. For now, at 
+least. Covering an area of 4 million square f   feet, it will be the flagship location for Meta's 
+AI capabilities. Facilities of this kind tend to   be hard to wrap our heads around. So, despite what 
+you may have heard in the news, no, this won't be   the size of Manhattan. But to give you a sense of 
+scale, the county's regional primary school sits   on the corner of the 2200 acre site, and it's 
+absolutely dwarfed by the facility. But instead   of teaching the children of tomorrow, this closely 
+guarded center will be training something far more   valuable. It will be home to over 4 million GPUs 
+for an estimated 5 GW of compute capacity based on   current estimates. Although the exact figures 
+nobody truly knows, including meta engineers   themselves. The chips powering these facilities 
+are advancing so rapidly that centers like   Hyperion are built to facilitate hardware that 
+doesn't even exist yet. And of course, this is   just one of hundreds of similar facilities popping 
+up all over the world at the moment. The massive   capital expendi
+[...middle cut...]
+ming has not been having a great year 
+as it is. So, a financial lifeline like   this is almost a blessing in disguise, giving 
+the companies the last component they need,   somewhere to do all this that won't cause 
+too much backlash. Nobody wants to live   near a data center. But if these facilities 
+are going to sink the local economy anyway,   a lot of people are happy to get out 
+on a golden crusted lifeboat. So far,   this has glossed over one other vital 
+utility to run these data centers,   and that is the data connection. But go and watch 
+this video next to find out how a similar set of   circumstances 30 years ago made it so that your 
+internet was legally required to be terrible.
+
+=== ID: Wr9chrKVQ2g ===
+TITLE: CEO & CFO OF $12B TEXAS DATA CENTER DEVELOPER ABRUPTLY RESIGN - THE AI NARRATIVE IS UNRAVELING
+DESC: The CEO and CFO of one of the largest AI infrastructure companies in the U.S. just walked out — at the same time. And the reason isn’t being framed the way it should be.  This company, Fermi America, was building what it called the largest AI data center and energy campus in the world — Project Matador in Texas — designed to deliver up to 17 gigawatts of power to AI hyperscalers.  That’s not a small project. That’s an entire private grid built for AI.  After months of hype, billions in planned i
+KEYWORD: AI data centers
+VIEWS: 195366
+TRANSCRIPT: So, 
+ largest 
+ the 
+ out 
+ and 
+ Okay, 
+ might 
+ turnover." 
+ company 
+ to 
+ infrastructure 
+ world. 
+ able 
+ people 
+ walked 
+ very 
+ happening 
+ boom. 
+ talking 
+ Fermy. 
+ They 
+ models. 
+ they 
+ amounts 
+ very 
+ infrastructure 
+ and 
+ And 
+ from 
+ this. 
+ Project 
+ Governor 
+ backers 
+ huge. 
+ expanded 
+ gas, 
+ side 
+ largest 
+ world. 
+ subscribe 
+ up 
+ below. 
+ traps 
+ loans 
+ all 
+ monthly 
+ the 
+ like 
+ were 
+ collect 
+ of 
+ shareholders. 
+ they 
+ up 
+ don't 
+ obvious 
+ exploding 
+ telling 
+ urgent 
+ huge 
+ company 
+ at 
+ anchor 
+ issue. 
+ between 
+ here's 
+ late 
+ valuation 
+ AI 
+ right? 
+ show 
+ customer 
+ signed 
+ deal. 
+ December. 
+ admits 
+ tenant. 
+ collapse. 
+ the 
+ CEO 
+ company 
+ companies. 
+ said, 
+ this 
+ is 
+ about 
+ something 
+ minimal 
+ partners 
+ Engineering 
+ Denability 
+ Seaman's 
+ and 
+ okay, 
+ mention 
+ involvement 
+ was 
+ billions 
+ partnerships, 
+ still 
+ tell 
+ and 
+ committing 
+ signing 
+ long-term 
+ There's 
+ dependence 
+ infrastructure 
+ capital 
+ So 
+ the 
+ and 
+ phase. 
+ I'll 
+ real 
+ That's 
+ pressure. 
+ like 
+ you're 
+ valuation, 
+ okay? 
+ saying 
+ there's 
+ existing 
+ stepped 
+ what 
+ bailed 
+ story 
+ in 
+ covering 
+ been 
+ market 
+ massive 
+ investment 
+ thesis 
+ basically 
+ So 
+ or 
+ gets 
+ It 
+ retirement 
+ accounts, 
+ exposure. 
+ mind. 
+ another 
+ companies 
+ Microsoft, 
+ committed 
+ infrastructure 
+ projects 
+ or 
+ and 
+ will 
+ or 
+ pressures, 
+ valuation 
+ moves 
+ talk 
+ to 
+ headline 
+ management 
+ management 
+ will 
+ problem, 
+ urgent 
+ wouldn't 
+ wouldn't 
+ you 
+ renegotiations, 
+ already 
+ here's 
+ perspective. 
+ big 
+ starts 
+ the 
+ are 
+ You'll 
+ utilization, 
+ tightening 
+ spectrum. 
+ including 
+ will 
+ ran 
+ The 
+ the 
+ the 
+ now 
+ revenue 
+ at 
+ and 
+ the 
+ who's 
+ content, 
+ subscribed 
+ subscribe 
+ for 
+ description 
+ thoughts 
+ said, 
+ Thanks.
+
+=== ID: lK3PQIup0ro ===
+TITLE: Olds residents voice 'growing concern' over proposed AI data centre
+DESC: Olds could be the newest home to a data centre holding an AI supercluster — used to train things like ChatGPT. Some residents worry what the roughly 300-acre project would mean for the future of the community and its infrastructure.  ➤ Subscribe:  https://www.youtube.com/channel/UCn9JnDto9d2-nn4lvJE3Iqw?sub_confirmation=1  ➤ Read more on CBC Calgary:  https://www.cbc.ca/news/canada/calgary  ➤ Read more on CBC Edmonton:  https://www.cbc.ca/news/canada/edmonton  ----  We encourage thoughtful comme
+KEYWORD: AI data centers
+VIEWS: 3884
+TRANSCRIPT: This stretch of land in Olds could soon look very different. In March, construction could start on a proposed data center covering about 300 acres. Some who live nearby say they're concerned about what that could mean for their community. Residents asked questions about the project at an open house this week. There's huge growing concern about the town's ability to keep up with the expansion with hospitals, schools, roads, traffic. Um, we've been told many times the town has zero money for for upgrading anything. Old's economic development manager says that kind of infrastructure is expensive. It's these types of economic growth amplifiers that change the game and allow us then to make these types of investments that in the past we'd have to wait until we do we reduce debt to be able to do that. She says the data center is a10 billion investment in a community of about 10,000 people and the project would bring about 2,000 construction jobs and a thousand permanent jobs to the town of Olds. The company behind the project says it will be the largest data center in Canada and will house an AI supercluster training language learning models like Chat GPT and Gemini. These kinds of centers are popping up all over the country. The Alberta government says it wants more here. The province launched a program in 2024 to help investors build them, but not everyone's on board. In September, after Rocky View County locals spoke out, a plan for a center there was canled. The town of Olds ha
+[...middle cut...]
+oject. Synops says it's following all required regulations, but some residents here still have questions. I don't know if we quite understand the full scale of what we're getting into. From the far hillside you can see behind me to just about as far north as you can see. It's all going to be large scale warehouse buildings. My main concern is the emissions, the water use, the land use. There's concerns about this air pollution and noise pollution that is going to be guaranteed to happen. But to what level, we don't know. Synops is aiming to start construction this March, but still needs approvals from the province and the town before that can begin. Chelsea Mutter, CBC News, Calgary. [music]
+
+=== ID: ssh_N4HACzA ===
+TITLE: TRUMP & IRAN URANIUM CONTROVERSY + AI DATA CENTERS VS FARMLAND 📱
+DESC: Is America’s farmland being replaced by massive AI data centers… while lab-grown meat quietly takes over the future of food? And at the same time — is Donald Trump pushing a controversial plan involving Iran’s uranium that could reshape global power?  Tonight’s livestream dives deep into TWO MAJOR STORIES shaking the internet 👇  🌾 AI DATA CENTERS VS FARMLAND Across the U.S., rural communities are pushing back as farmland faces conversion into AI infrastructure. Reports show families rejecting mu
+KEYWORD: AI data centers
+VIEWS: 387330
+TRANSCRIPT: The masses are going to go through every ailment there is. You can't be worrying about that because if we can if we keep worrying about the trouble that the masses are in, we never cultivate anything among ourselves to get to the high level in which the masses don't be a part of cuz ultimately all this got to be destroyed. This is over. I am inevitable. Push the button. Come on. Push the button. Yeah. Come on. Push a button. Push the goddamn button. Push the goddamn button. Gentlemen, we are live in full effect. We are live again. Come on in. Come on in. Let us know we coming in clear. We get this. Let us know we coming in clear before we get started here. Y'all can let us know. Am I coming in clear? Can anyone hear me out there? Yeah, you coming in clear. Peace. Peace. Y'all come on now. We got to get into this topic. So today the topic we got to get into, you know, the controversy still continues between Iran and and America. Well, Trump and and Iran. So his his his idea is he want to take over the uranium. He's giving him an ultimatum um to make a deal or he's going in and taking the uranium from Iran. Um Right. And then we got to get Yeah. Y'all, right? They trying to convert farmers into this farmland into data centers and force feed us laboratory grown meat. And that's the honest truth. That's that's no conspiracy about that. That's the honest truth. I mean, the world need to know the truth behind these data centers and and how much damage it caused to the community. Ye
+[...middle cut...]
+ht here helps me get through my entire shift. I can actually enjoy time with my kids now. Go outside, be active without hurting the whole time. Feels good to just live again. Honestly, if it wasn't for Night and Day Pain Relief Balm, I don't think I'd have the quality of life I have right now. Comfort slows you down? Reach for [music] Natural Relief. Night and Day Hemp's Extra Strength CBD Pain Relief Balm melts into aching muscles, delivering warmth you can feel. Soothe your body naturally. Feel free to move [music] again. Night and Day Hemp Balm melts away tension so you can enjoy every moment. Feel the difference fast. Real relief, real results. [music] Order now at night and day herbals.
+
+=== ID: qQXWBbsFeQ0 ===
+TITLE: Florida lawmaker visits site of controversial proposed AI data center in Palm Beach County
+DESC: For weeks, WPTV’s Michael Hoffman has been tracking Project Tango — a proposed AI data center just steps from an elementary school and the Arden community.
+KEYWORD: AI data centers
+VIEWS: 671
+TRANSCRIPT: For weeks I've been track        a massive proposed AI dat        just steps away from the         Saddleview Elementary Sch        are getting involved. Ton        sit-down interview with R        Weinberger after she tour        For weeks, residents of A        number of other communiti        concerns about putting a         AI data center right next        We've been hearing their         those concerns are being         as Tallahassee. I would b        way that they would. That        tells me she had to see i        the property with residen        concerns firsthand. And a        you know, I put a call in        to learn what they have a        thoughts are. Obviously w        so there, there's a place        just don't necessarily th        someone's backyard at the        know, I'm glad that they'        says because this is cutt        she and other lawmakers n        before any action can be         a bill out. I have not re        speak with him briefly to        doing a lot of research a        be reading that tonight.         we all, you know, are, yo        I think that we just have        be thoughtful of where we        centers. As Weinberger an        begin to dig into the dat        County Mayor Sarah Baxter        hall for residents to sha        on the project that will         twenty-eighth in Royal Pa
+
+=== ID: bfxYtIdIT7c ===
+TITLE: WILL Discusses AI Data Centers and Eminent Domain
+DESC: WILL Deputy Counsel Lucas Vebber joined The Vicki McKenna Show to discuss AI data center growth in Wisconsin and preserving private property rights.
+KEYWORD: AI data centers
+VIEWS: 42
+TRANSCRIPT: Lucas Veber from the Wisconsin Institute for Law and Liberty is standing by to talk about data centers. Now, Lucas, I I confess I didn't know Will was involved in anything going on with data centers. I'm pleased that at least with regard to property rights and transparency, we have got you you folks on our team on this because it does really seem like these things are being steamrolled into our state. Um, but thanks for being on the show. It's good to have you. Yeah, thank you for having me. It's great to be here. One of the things that isn't being discussed at all um is the impact of people that people are going to experience in the community. I mean, some people are saying, "Well, the water prices are going to go up and the electricity prices are going to go up." Yes. Okay. So, that is what is being discussed. I watched a report of a woman who had a data center near Chicago. She was a thousand feet away from that data center and the noise of the generators at that data center were loud enough you could easily record it on your phone and it was at decibb that are not considered tolerable for a lot of people. So yeah, what's how is it how is this happening without anybody being consulted? And then I think of Port Washington which are going Yeah. Oh go everywhere. and the and and now we're learning that the fix is in now and now we're learning you're not talking to people you're having folks sign NDAs town board members you know uh municipal uh leaders uh the the the land owne
+[...middle cut...]
+ucas, can people, you know, if they're worried about this and and they are potentially impacted directly by this, whether it's eminent domain or or other things that are in the immediate sort of in the immediate future for them, can they reach out to you? Absolutely. Yeah, you can do that on our website at will-law.org. Um, and there's a form on there they can fill out and get right in touch with our legal team. will-law.org. That simple. Just go there if it I mean I'm we're just paying attention to Port Washington. There's other projects that are being cited into Wisconsin right now. Um, I do appreciate the time on the program. Uh, thank you very much, Lucas. Thanks for having me on, Vicki.
+
+=== ID: oOvf70n50Po ===
+TITLE: Why is drought-hit Brazil saying yes to AI data centers? | The Take
+DESC: When AI data centers come to town, companies promise jobs and opportunity. In one drought-stricken community in Brazil, residents are weighing the choices. How do communities balance the economic boost and environmental cost of hosting water-reliant data centers?  In this episode:  - Laís Martins, Investigative Journalist  Episode credits:  This episode was produced by Marcos Bartolomé and Haleema Shah, with Remas Alhawari, Manny Panaretos, Mariana Navarrete, and our guest host, Kevin Hirten. It
+KEYWORD: AI data centers
+VIEWS: 21400
+TRANSCRIPT: Al Jazeera Podcasts. Today, data centers for AI are quietly sucking the world dry. The more energy you use, the more water you use. Can Brazilians react before Big Tech dries up the rivers? I'm Kevin Hirten, and this is The Take. AI can pretty much do everything. It can mimic my voice. It can even write a script for this episode. Sure. Here's a script for your episode about data centers in Brazil. But all that convenience comes with a hidden cost. Huge computing power needs, huge infrastructure and all of that comes from what are called data centers. And they are thirsty, both for energy and for fresh water. Every 20 to 50 queries to a large AI model like ChatGPT can consume about 500ml of water, roughly the size of a standard water bottle. This is happening all over the world,
+and one of the hotspots is Brazil. The progressive government of Lula da
+Silva wants Brazil to host as many data centers as possible. They speak of this window of opportunity
+that Brazil has to take advantage of. It should close soon. That's kind of what they say. The problem is, Brazil's once overflowing rivers are now drying up. I’m Laís Martins, I'm a Brazilian journalist based in Brazil, in Sao Paulo, Brazil,
+and I cover technology for The Intercept Brazil. So, Laís, thank you for joining us today on The Take. Now, you and your colleague Francisco Amorim wrote this incredible series published in The Intercept Brazil,
+and in The Guardian. Now the story starts in the northeastern Brazilian city of Ca
+[...middle cut...]
+telling the population, hey, you have the right to be more informed about this,
+or you should reach out to your local politician politicians
+and ask them what they think about this project. And this movement has been happening. We had two local politicians from that area
+who now have reached out to the company, or they actually sent an information request
+asking for all the information like water usage, energy usage and everything that was hidden. And then they will tell the population this. So the movement has been happening.
+If they consider us enemies for that reason, I'm so sorry, but I don't think that's fair. Okay Laís, thank you for coming on The Take. Thank you so much for having me.
+
+=== ID: 4t6UiSdTq70 ===
+TITLE: How high energy bills, driven by new data centers, are affecting average Americans
+DESC: This week, Maine's governor vetoed a bill that would have made the state the first to ban the construction of new data centers. Shanelle Kaul reports.  "CBS Evening News" delivers the day's most important stories, delivering context and depth to bring greater understanding to your world. Check local listings for "CBS Evening News" broadcast times.  Subscribe to the "CBS Evening News" YouTube channel: https://youtube.com/CBSEveningNews Watch full episodes of "CBS Evening News": https://cbsnews.co
+KEYWORD: AI data centers
+VIEWS: 5798
+TRANSCRIPT: This week, Maine's governor vetoed a bill that would have made the state the first to ban construction of new data centers. As CBS's Chanel Call reports, the move comes at a time of growing resistance in several states to the booming artificial intelligence industry. I keep the doors closed all the time. It's a sunny afternoon in Atlanta, Georgia. But inside Carolyn Kane's 3000T home, it's cold. I'm walking around in a ski suit trying to stay warm in the winter. My fur jackets. It's just one of the ways Kane has tried to beat her skyrocketing electric bills. So, effectively, your bill had almost doubled in like two years. Yeah. She's now turned off her heat and water, leaving much of this home hard to live in. So, where do you live right now? Um, I live in a little apartment in the back. Is Carolyn's story unique? Carolyn's story is not unique. So this is the data center and I'd like you Patty Duran founded nonprofit advocacy group Georgians for Affordable Energy. She's been tracking the cost of electricity in the state for over a decade. The average bill for an average customer used to be about $150 a month. The average bill now is $225. A CBS News analysis found Georgia Power, the largest energy provider in the state, imposed six rate hikes in the last three years, during which time the Vogle nuclear power plant came online and Georgia saw a boom in data centers. Data centers Duran says came to Georgia for discounted power. So data centers are actually paying less for elect
+[...middle cut...]
+data centers in Georgia will more than double. Data centers will add billions of dollars to costs to electricity rates in Georgia if we don't get better protection than we have right now. Within the last year, Georgia Power announced a rate freeze and agreed to use revenue from large customers like data centers to lower costs for residents. Georgia Power denies passing the cost of data centers on to others. There is no risk that residential customers will end up paying for the costs of this large growth including data centers. But for Georgians like Kain already taking extreme measures, I guess maybe it is time, you know, give up my home. It might be too late. Chanel call, CBS News, Atlanta,
+
+=== ID: NuJGgmhKqyQ ===
+TITLE: World's Largest AI Data Center - $100B Disaster
+DESC: Go to https://sintra.ai/intech or use code INTECH to get an exclusive 72% off all plans 14-day money-back guarantee.  Timestamps: 00:00 - New World's Largest AI Datacenter 10:05 - Terrifying Footprint 13:15 - Compute Breakdown  My Podcast on Apple: https://podcasts.apple.com/at/podcast/deep-in-tech/id1829970978 My Podcast on Spotify: https://open.spotify.com/show/3drr7A8j2t4rz4dFcvOxxd  Let's connect on LinkedIn: https://www.linkedin.com/in/anastasiintech/ Newsletter: https://anastasiintech.subs
+KEYWORD: AI data centers
+VIEWS: 359638
+TRANSCRIPT: There is a huge shift underway in computing and 
+there is no going back. This isn't about better   AI models. It's about who controls compute, 
+power, land, and time. Let me show you what   that looks like. This is Hyperion, 
+the world's largest AI data center,   crushing New York City. Several million GPUs 
+under one roof, eating up to 5 gigawatts  of power. This is the story of the world's largest 
+AI factory and the extreme decisions it takes to   build it so fast. I am an engineer who spent over 
+a decade building the most critical chips for the   systems like this one. And I've covered other 
+massive data centers on this channel before. But   Hyperion is different. Not because it's bigger, 
+because when we look at compute, power, cooling,   network, it breaks all the rules others still 
+follow. And those choices will shape the future   of AI and the global economy itself. Subscribe to 
+the channel and let me explain. This story starts   with a business that prints cash. For years, Meta 
+used AI where it paid best. Better targeting,   better ads, and this strategy delivered. Meta 
+outgrew nearly every major player in digital   advertising. But that success created a problem. 
+While it optimized feeds, the AI frontier moved   elsewhere. For Meta, money was never the issue. 
+Performance was. Llama models lost the lead. The   shift became undeniable when DeepSeek, a Chinese 
+AI lab, beat Meta on key benchmarks. That's when   Mark Zuckerberg stepped in personally 
+and narrowe
+[...middle cut...]
+   of GPUs will be computing the better algorithm at 
+capturing and holding our attention. So over time   it will be harder and harder to defend. The sad 
+part is systems optimized for engagement don't   care why you stay. But I do. I do care that you 
+stay on the bleeding edge of what's coming next   in technology. And if that's why you're here, 
+subscribe to the channel. Now, if you want to go   deeper, watch this insane story about xAI Colossus 
+2 data center in Memphis or this one to learn what   it takes to build this semiconductor factory from 
+scratch. Right now, it's a very intense period in   my life and I really admire all your support. 
+Love you guys and I will see you there. Ciao
+
+=== ID: sLEnn-sgpIk ===
+TITLE: Powering The Internet is Becoming a Big Problem
+DESC: AI is driving a new wave of data centre construction - but it’s also creating new risks. Download IES’ free whitepaper on tackling the challenges of data centres 👉 https://bit.ly/4bw8ie5  🔥 Pre-order Fred's book MEGA BUILDS now 👉 https://bit.ly/3Y63G6X  Full story here - https://theb1m.com/video/data-centre-construction-boom  This video contains paid promotion for IES.  00:00 Intro 01:11 Rise of Data Centres 02:23 Energy Use 03:34 AI’s Impact 05:11 The Construction 06:54 Cooling 08:06 What Can B
+KEYWORD: AI data centers
+VIEWS: 492494
+TRANSCRIPT: We are experiencing one of the fastest 
+building booms the world has ever seen. Described as “a global construction 
+frenzy that shows no sign of slowing.” Humanity is now dependent on large-scale data 
+centres, and that demand is only increasing.  But, the strain this infrastructure is placing 
+on our power and water sources is enormous. And people are starting to take notice. Many neighbouring homeowners 
+say ‘not in my back yard.’ Opposition is forcing some tech giants 
+to rethink where they should build. The data centre industry’s actually going to 
+be responsible for three-four percent of global   electricity consumption. So that's a huge sector. And now, with AI taking our 
+reliance to a whole new level,   this rapidly-growing area of industry is 
+under pressure to clean up its act — and fast. But with these buildings now consuming 
+as much energy as entire countries,   what can actually be done about it? This is what a typical data 
+centre looks like in 2026. If you live in — or close 
+to — a major city there’s   a good chance you’ll have a data centre nearby. Because there are now more than 11,000 
+of these worldwide, across 174 countries.   And unsurprisingly, over a 
+third of them are in the USA. Some of the largest clusters are 
+in places you might expect — like   Texas and California — but the state 
+with the most is actually… Virginia. The UK and Germany are way 
+behind in second and third,   and the rest are pretty well 
+spread around the globe. Because if they 
+[...middle cut...]
+o carry on 
+building these megastructures   and build them on a scale that's bigger 
+and greater than what we've seen so far,   we really are going to have to work 
+out a few bugs in the system first. Once again, if you're looking for some 
+guidance on how to make a data centre   AI-ready and future-proof make sure 
+you go and download that whitepaper. It's video sponsors like IES that enable 
+us to keep making these great videos for   you every week and we'd really appreciate you 
+guys taking the time to go and check them out. And as always guys, if you enjoyed this 
+video and you want to get more from the   definitive video channel for construction, 
+make sure you’re subscribed to the B1M.
+
+=== ID: 8eKnbjnKwHE ===
+TITLE: The environmental impacts of AI data centers
+DESC: The rapid development of AI is changing the way we work and live. Artificial intelligence helps answer millions and millions of questions every day, but experts warn that something needs to be done about the strain AI is putting on our utilities and natural resources. CGTN correspondent Mark Niu reports.  Watch CGTN LIVE on your computer, tablet or mobile https://cgtnamerica.vhx.tv/videos/hd-live-broadcasts Subscribe to CGTN America on YouTube Follow CGTN America: Twitter: @cgtnamerica Facebook:
+KEYWORD: AI data centers
+VIEWS: 3615
+TRANSCRIPT: A recent academic report found that when OpenAI's GPT3 produced a text output of 150 to 300 words, it consumed nearly 17 milliliters of water. Repeat that output 30 times and that's the equivalent of a bottle of water. Report researcher Shalet Run also says they found that one major tech company's data centers consumed about 30 billion lers of water a year. That amount of water consumption is roughly equivalent to a major beverage company's overall water consumption. Run says AI is the fastest growing component of data center power usage. Data centers require water directly for generating electricity and also for cooling down the systems. A lot of data centers are using cooling towers um and that can be using a lot of water which could be creating some um potential drought issues in those uh dry regions. But because fossil fueled power data centers produce carbon emissions, there's now a push for cleaner energy like nuclear power. Microsoft has signed a$16 billion dollar deal to use three-mile island, sight of the worst commercial nuclear accident in US history to power its AI data centers by 2027. Nuclear has very little carbon. However, in many cases going to be increasing the water consumption, but using solar and wind will be both carbon efficient and water efficient. Um, but overall we need to look at the uh holistic environmental impacts, not just one thing. In my opinion, initially it's going to be challenging because of regulation and resistance from the communities b
+[...middle cut...]
+ct is water. And we take that water and use that to cool the data center. that give us a huge advantage from not impacting the community we're coming into with water consumption. I think technically it's going to be feasible. Uh but whether we can use it at scale um is another question. Getting sufficient amounts of hydrogen is a major hurdle which is why ECL is working on building a production site in Texas where there are more abundant supplies. Experts like Bachar and Run both believe with data centers consuming more and more energy, it will take a variety of green energy sources to meet growing consumer demand while also preserving the Earth's natural resources. Workd CGTN Mountain View,
+
+=== ID: JRtMQdVJY7o ===
+TITLE: The 'AI Water' Scam, Explained
+DESC: Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/StJLzbJ or code grant50.  We've been told that AI Data Centers are driving up the electricity and water prices across the country. People are protesting and bills are skyrocketing, yet it feels like no one actually understands what is actually going on.  So, in this video we uncover what is actually happening underneath all of the headl
+KEYWORD: AI data centers
+VIEWS: 22349
+TRANSCRIPT: This holds the key to your future. Every week, three massive warehouses are built and they're full of GPUs. But there's an issue. Each building uses as much electricity as 50,000 homes and more water than an entire city. But what does that actually mean? Have billionaires just found a new way to steal from us? Is big tech invading our neighborhoods for profit? Or have we all been conned into thinking this is a problem because of bad marketing? Most of the power lines in the US were built in the 1960s and '7s. That makes them over 50 years old, and they were only really built to last 50 to 70 years. But in 2026, we now use more power than ever before. And if you were paying attention in any intro to business class, you would understand that the more demand there is for a product, the price goes up. And over the last five years, some areas have seen a 267% increase in electricity prices. But those price increases aren't happening everywhere. They're actually concentrated around one specific thing, or building, I should say. This is an AI data center. On the outside, they're pretty simple, but on the inside, they hold some of the most complex technology humans have ever created. And that technology needs electricity. And when I say electricity, I mean a lot of electricity. According to Bloomberg's estimates, by 2035, AI data centers are expected to use up to 9% of the US power supply, which would be the biggest increase in electricity since air conditioning was invented. But the
+[...middle cut...]
+fts this week and got something out of this setup. It took longer than I would like to admit to build, but I do think it added a lot to the video. Potentially Grantopia or Grantville will come back in a future video. If you'd like to see that, make sure you subscribe for more because like I've said in every video, we are looking to level up in every way with these videos and I want to bring you truly unique ideas and formats and explanations so that you can get the most out of the time you spend on YouTube. Make sure to subscribe if that's something you want to be a part of. And if you're looking for something to watch next, YouTube thinks you might like this one. Let's see if they're right.
+
+=== ID: zHJ8PDbCkrI ===
+TITLE: Space Data Centers Will Fail
+DESC: If you were pushed out of an airlock you wouldn't be covered in a thin layer of ice, in fact you wouldn't feel "cold" at all. Because SPACE ISN'T ACTUALLY COLD. Unless we can generate AI-level compute without generating AI-data-center levels of heat -- thermal is going to be a massive hurdle of sending any GPUs to space. Plus, if we DID figure this out, we'd probably build these fictional thermally-efficient data centers on the ground where we can upgrade, repair, and monitor them more easily.  
+KEYWORD: AI data centers
+VIEWS: 11102
+TRANSCRIPT: Space is not cold. Huh? I know we talk about space is cold, but it's not. Lately, we've seen a lot of news about moving AI data centers to space. It's always sunny in space, but AI data centers are hot. Space will not cool them down because space is not cold. When you think of cold space, you picture stuff like this. This movie is made up. This is not how space works. If space is not cold, what is it? Well, down on Earth, your phone gets hot and air touches it and takes the heat away. This happens continuously, but in space, There's no air. Instead, in space, you have to radiate heat, basically turning it into infrared energy and shining it into space. The ISS has 150 square meters of radiation panels. The size of a tennis court. to get heat out of the spacecraft. That's a super inefficient way to move heat, but it's the best you got. In space. And it's just to keep a handful of people and a bunch of computers from cooking. Not in a slang way, but like in a death way. So why do we say that space is cold? is a measure of atomic motion. We're feeling how wiggly the atoms are in things when we feel things that are hot. I mean, that's kind of amazing to think about, right? Heat wants to move from hot to cold until it balances. This is why a hot pan hurts you. moved into your colder finger, damaging it. In space, very, very, very few atoms are floating around, and they aren't wiggling that much, and they have almost no heat energy, so we call this cold, but space itself is actuall
+[...middle cut...]
+ to protect, no laws telling you what you can and can't have on your data center. I mean... There are supposed to be rules in space, but they're pretty basic. If you put something up there, someone else has to try really hard to bring it down. Bottom line, this is billionaires trying to have their cake and do whatever they want with their billions. The next level of escalation in the AI hype war, which looks to be finally flaming out, and something to distract from the destruction. These data centers are reaking on Earth right now. LLMs are useful tools, but that doesn't mean we humans also have to be useful tools. Space isn't cold, at least not the way you think. Please Consider Subscribing
+
+=== ID: gin7UWZbBBc ===
+TITLE: AI vs. Jobs: Is Automation Behind the Spike in IT Unemployment?
+DESC: This episode unpacks the sharp rise in IT unemployment, with 54,000 jobs lost in one month. Is artificial intelligence behind the layoffs, or are broader economic shifts to blame? We explore the data, industry trends, and what this means for the future of work. Tune in to find out how AI is reshaping the job market.  If you're new here, be sure to show your support by liking, commenting, and subscribing for future content!   Follow us on social media  YouTube: @NoBrainerBiz  ​TikTok: tiktok.com/
+KEYWORD: AI automation jobs
+VIEWS: 15
+TRANSCRIPT: all right everyone welcome back you know whether you're just wrapping up in the field or maybe getting ready for that next big meeting we're diving into something that could really make you think today definitely and you know it's something a lot of folks are talking about even a little worried about yeah for sure we're tackling this whole thing with AI and what it means for jobs specifically in it right I mean Tech has always been seen as you know a pretty secure field good jobs exactly but then we see these headlines and they're kind of alarming right like a huge jump in it unemployment just last month and it makes you wonder what's going on yeah and it's a big jump too huge like 54,000 jobs just gone poof really makes you wonder if this is the start of well you know a bigger Trend right and is this all because of AI I mean everyone's talking about chat GPT Gemini Claude all these AI tools that are getting really good at well doing things humans used to do yeah and not really like little tasks either but whole job roles exactly like imagine you're a software tester right spent years learning how to find those bugs the little glitches and the codes and you're good at it but suddenly AI comes along spans thousands of lines of code in like seconds finds those same bugs maybe even more so what happens to that software tester it's a little scary right it is and it's happening in other areas too oh totally like Network Administration I was reading about that the other day how AI 
+[...middle cut...]
+sruption before like the as Revolution the internet big changes but we adapted we did but this AI thing it's happening so much faster that's the scary part so what do we do we got to be proactive stay ahead of the curve learn adapt be ready for whatever comes next exactly and you know for everyone listening it's easy to get overwhelmed by all this right but don't just sit back and watch it happen take control learn about AI what it can do what it can't do invest in your skills build your network be the one who shapes the future not the one who gets shap shaped by it goodness said it better myself all right everyone thanks for joining us for this deep dive we'll see you next time see you then
+
+=== ID: z3g2Utl4tyA ===
+TITLE: The jobs most at risk of being taken over by AI and automation | ABC News
+DESC: Automation is usually associated with machines. But it's office jobs that are most under threat according to new research by an Australian teaching organisation. Subscribe: http://ab.co/1svxLVE  Read more here: https://ab.co/3QZp7Bu The organisation is urging people to upskill, so they don't find themselves out of work.  ABC News provides around the clock coverage of news events as they break in Australia and abroad, including the latest coronavirus pandemic updates. It's news when you want it, 
+KEYWORD: AI automation jobs
+VIEWS: 18585
+TRANSCRIPT: [Music] for years technology and robots have been taking over factories mining sites and warehouses automated services have replaced humans in supermarkets banks and airports and you might not know it machines are also invading the office take translators they're increasingly using voice recognition software you pop something into google trends like 10 years ago it was shocking it was absolutely appalling but you pop something in now and you can really you can trust it for the most part and that is drastically changing their jobs i think a lot of translators will become proofreaders or checkers as opposed to translators but they can't necessarily earn as much money from proofreading as they could have with translation data supplied to the abc shows the jobs most at risk from automation in the next five years many are office based and it's women who will be disproportionately affected females are more likely to be negatively impacted by technology than males jobs that are most at risk of being automated by technology are the things that are routine driven so if you're working in spreadsheets if you are doing the same sort of analysis over and over again a survey has found that one in two workers feel they aren't being trained for digital advances it's about re-skilling it's about identifying the people who are at risk and re-skilling them into roles that are less at risk some professionals think that ai is making their lives easier insolvency expert shabnam una baby now spends
+[...middle cut...]
+d off as humans i don't take sick days or need overtime or time in lieu but i could get a virus as machines learn to copyright software engineer vaibhav namburi has cut the number of blog writers he hires in half and those three just basically manage the work of six because their jobs move from manually writing stuff to just basically using ai to create content his startup is helping fintechs approve home and car loans this was the job that was previously done by analyst or an underwriter or someone internally within the business that has now become completely automated so you just double tap it and then sort of drives by itself still in the driver's seat as the machines compete for work you
+
+=== ID: OlW5C_qmLAk ===
+TITLE: AI Agents: Threatening Human Employment in the Era of Automation
+DESC: The notion that AI agents are replacing humans is no longer a distant fantasy, but a harsh reality. We explore the implications of this shift and what it means for the future of work.  The alarming rate at which AI agents are gaining traction has left many wondering if humans will soon be obsolete. Is it too late to mitigate the effects of automation, or are we already witnessing the beginning of the end of human employment?  #AI #ArtificialIntelligence #TechNews
+KEYWORD: AI automation jobs
+VIEWS: 0
+TRANSCRIPT: Are AI agents the beginning of the end for human employment? The notion that machines can think and act like humans has been a staple of science fiction for decades. But what if I told you that it's not just a fantasy anymore? AI agents are being used in industries such as customer service, bookkeeping, and even healthcare, leaving many to wonder if humans will soon be obsolete. The answer lies in the numbers. According to a recent study, AI agents have already replaced over 10% of human workers in the United States alone. And this number is expected to rise exponentially in the coming years. But is this a bad thing? Or is it an opportunity for humans to focus on more creative and strategic tasks? The question on everyone's mind is what happens to the human workforce when AI agents take over? Will we see a mass exodus of humans from the workforce or will we adapt to this new reality? The answer lies in the way we approach this transition. Rather than viewing AI agents as a threat, we should be looking at them as a tool to augment human capabilities by leveraging the strengths of both humans and AI agents. We can create a more efficient and effective workforce. For example, AI agents can handle routine tasks such as data entry and bookkeeping, freeing up humans to focus on higher level tasks such as strategy and problem solving. But what about the potential downsides of AI agents? Won't they lead to widespread unemployment and social unrest? The answer is yes, but not necessar
+[...middle cut...]
+uture of work is uncertain, and it's up to us to create a new era of human AI collaboration. By doing so, we can create a brighter future for all. In conclusion, the rise of AI agents is a double-edged sword. While they may replace some human jobs, they will also create new ones. By embracing this new reality, we can create a future where humans and AI agents work together in harmony. So, what are you waiting for? Join the conversation and let's shape the future of work together. Like, comment, and subscribe for more content on AI, technology, and the future of work. And don't forget to hit the notification bell so you can stay uptod date with the latest developments in this rapidly evolving
+
+=== ID: kZuVZQygz0Y ===
+TITLE: The Coming A.I automation of jobs, Emad Mostaque
+DESC: Emad Mostaque talks about how A.i will affect certain Jobs in the near future.   #AIRevolution #RoboticInnovations #TechTrends2023 #ArtificialIntelligence #RobotsInAction #NextGenTech #MachineLearningMagic #TechInsights #FuturisticRobotics #AIDeepDive #TechFutureVision #AIandHumans #RoboticsToday #TechExplorations #BuildingTomorrow #AIForChange #RobotsAndUs #InnovateWithAI #RoboticsBreakthrough #TechHorizons  #ai
+KEYWORD: AI automation jobs
+VIEWS: 195
+TRANSCRIPT: have we ever seen anything like that before so quickly I don't think we have and so you could see this literally parallelized around the world or not we're not sure what really kicks off some of these things like right now we've got the Screen Actors Guild kind of protesting now today we just had a couple of actors leave Oppenheimer part of that monetary but already you're seeing AI fears like front and center you wouldn't even have thought it six months ago what's it going to be like in a year when you can generate or two when you can generate whole movies and then just describe how you want it done and it's Hollywood level it's really difficult for governments to react to this to adapt to this when like in the US here we're still reacting to section 230 on internet they're just get to gra of the internet all a sudden AI just comes in sideswipes things right and I think again the only way to do this is if you can create brand new jobs quicker than anything
+
+=== ID: vs9lZB_ONUc ===
+TITLE: ILO Warning: Digital Workplaces Are Becoming More Dangerous! | AI & Job Risks Explained
+DESC: ILO Warning: Digital Workplaces Are Becoming More Dangerous! | AI & Job Risks Explained  #ILO #FutureOfWork #DigitalWorkplace #AIJobs #WorkplaceSafety #GigEconomy #Automation #LabourRights #TechImpact #GlobalWork #NewsAnalysis #viralnews #CurrentAffairs #upscprelims2026 #latestnews #currentaffairsanalysis #sanskritiias  👉A recent report by the International Labour Organization (ILO) has raised serious concerns about rising workplace risks in the digital era. With the rapid growth of AI, automati
+KEYWORD: AI automation jobs
+VIEWS: 2363
+TRANSCRIPT: ΤΩΡΑ με αγορές Oral-B iO, ΔΩΡΟ οι ανταλλακτικές κεφαλές. Βρες τες σε επιλεγμένα καταστήματα και online.
+
+=== ID: FsqF_bLLvJA ===
+TITLE: Students Opt For AI-Proof Careers As Automation Fears Rise | News9
+DESC: In the UK and beyond, students are increasingly choosing careers they believe cannot be replaced by artificial intelligence. One student in Ukraine is training as a plumber, citing hands-on jobs like construction as safer from automation. This trend highlights growing concerns about the future of work in an AI-driven world.  AI-proof careers | students choosing safe jobs | automation-resistant jobs | Ukraine plumbing training | hands-on careers | AI and future of work | UK student career trends 
+KEYWORD: AI automation jobs
+VIEWS: 134
+TRANSCRIPT: In 
+ careers 
+ One 
+ training 
+ hands-on 
+ safer 
+ explaining 
+ In 
+ intelligence 
+ sometimes 
+ Yarosenko 
+ career. 
+ people 
+ 18-year-old, 
+ Ukraine, 
+ and 
+ >> So, 
+ engineering 
+ in 
+ realize 
+ path, 
+ take 
+ >> White 
+ vulnerable 
+ automation 
+ say 
+ can 
+ trades 
+ survey, 
+ expects 
+ them 
+ next 
+ The 
+ in 
+ in 
+ built 
+ 10% 
+ Davis 
+ growth 
+ worries 
+ think 
+ in 
+ strategically 
+ my 
+ career 
+ plumbers 
+ the 
+ that 
+ reality 
+ a 
+ carried 
+ Trade 
+ UK 
+ on 
+ said 
+ Yoshenko 
+ herself 
+ the 
+ workforce 
+ generation 
+ high. 
+ universities 
+ falling 
+ previous 
+ to 
+ nearly
+
+=== ID: 5I2f2aBRzd4 ===
+TITLE: Your Dream Job at Risk? AI, Automation and the Future of Work #artificialintelligence
+DESC: Grab Your Seat For Free 1:1 Mentorship at SRIRAM's IAS Apply Here -: https://forms.gle/BYgStNhhdEF9qsu39  🌟 Welcome to SRIRAM's IAS 🎓 This channel is here to empower UPSC aspirants with the knowledge, strategies, and resources needed to excel in your exams. Whether you're preparing for Prelims, Mains, or looking to clear the UPSC Civil Services Exam, we’ve got you covered. 📚💡  Join Our Community of ambitious learners who are on the same journey towards UPSC success. Hit the subscribe button for 
+KEYWORD: AI automation jobs
+VIEWS: 108
+TRANSCRIPT: आर्टिफिशियल इंटेलिजेंस हमारी जॉब्स को रिप्लेस कर देगा फ्यूचर में। इस बात की हमें इंफॉर्मेशन है बट हमें अवेयरनेस नहीं है। हम रेडी नहीं है इस फैक्ट को एक्सेप्ट करने के लिए। लेकिन वर्ल्ड इकोनॉमिक फोरम जो कि दावोस में हो रहा है वहां पर बिल गेट्स ने एक बहुत ही बोल्ड स्टेटमेंट कहा है। उन्होंने यह कहा है कि नेक्स्ट फोर टू फाइव इयर्स में जो वाइट कॉलर जॉब्स हैं जैसे आपका डॉक्टर्स हो गए जैसे आपके सॉफ्टवेयर डेवलपर्स हो गए जैसे आपके फाइनेंस एक्सपर्ट्स हो गए जो कि हमारी और आपकी ड्रीम जॉब्स रही हैं वो नेक्स्ट फोर टू फाइव इयर्स में रिप्लेस हो सकती हैं आर्टिफिशियल इंटेलिजेंस से और अगर ऐसा हुआ तो पूरा का पूरा सिस्टम चेंज हो सकता है जिसके लिए गवर्नमेंट को इंटरनेशनलली सभी गवर्नमेंट को साथ आना होगा तब जाकर हम इस सबसे बड़े चेंज को शायद कुछ हद तक काउंटर कर सकें और इसी फोरम में ईलॉन मस्क ने ये बोला है कि इस ईयर के एंड होते-होते वो एक ऐसा आर्टिफिशियल इंटेलिजेंस क्रिएट कर देंगे जो कि ह्यूमन से बहुत ज्यादा स्मार्ट होगा एंड शायद कल को रोबोट्स ही रोबोट्स को मैन्युफैक्चर करेंगे। तो क्या एक्चुअल में सिर्फ नेक्स्ट फोर टू फाइव इयर्स में जो वाइट कॉलर जॉब्स हैं वो रिप्लेस हो जाएंगी और अगर ऐसा होगा तो गवर्नमेंट को क्या करना चाहिए? इंटरनेशनलली गवर्नमेंट्स को क्या-क्या कोलैबोरेशन करना चाहिए? इन सब एस्पेक्ट्स पर हम डिस्कशन करने वाले हैं और साथ ही साथ ऐसे कौन से तीन सेक्टर्स हैं जिनको आर्टिफिशियल इंटेलिजेंस भी रिप्लेस नहीं कर सकता है। इसको भी आज के सेशन में हम डीकंस्ट्रक्ट करेंगे। हेलो एंड नमस्कार। दिस इज ऋषभ सिंह ए वाचिंग श्री राम सास यूपीएससी प्रप और आज का जो डिस्कशन होने वाला है वो बहुत इंपॉर्टेंट होने वाला है।
+[...middle cut...]
+आर्टिफिशियल इंटेलिजेंस इन दो-तीन सेक्टर्स में काफी ज्यादा हेल्प कर सकता है। बाकी आपकी क्या टेक है? इन तीनों सेक्टर पर मुझे कमेंट जरूर से बताइएगा। तो ये थी पूरी एनालिसिस। बहुत इंपॉर्टेंट टॉपिक रहा है। आई होप आपको समझ में आ गया होगा। कोई डाउट होगा तो अपने डाउट कमेंट बॉक्स में जरूर से बताइएगा। एंड सिंपली आपसे क्वेश्चन पूछ रहा हूं कि आपको लगता है कि फोर टू फाइव इयर्स में वाइट कॉलर जॉब्स रिप्लेस हो जाएंगी। क्या उन पर थ्रेट है? नहीं है? जो भी आपके टेक हैं? मुझे कमेंट बॉक्स में जरूर से बताना है। गवर्नमेंट को क्या करना चाहिए? क्या नहीं करना चाहिए? जो भी आपके टेक हैं फील फ्री टू कमेंट टू कमेंट इन दिस वीडियो। सो इसी के साथ इस वीडियो को एंड करते हैं। टिल देन दोस्तों ऋषभ सिंह साइनिंग ऑफ जय हिंद जय भारत।
+
+=== ID: DukWWigK6P4 ===
+TITLE: Big Twist: AI Ate Your Job, Now It's Coming For Company Profits! Clients Want AI Efficiency Discount
+DESC: There's an interesting dimension that's now being added to the whole AI productivity debate. For months, big companies have been bragging about how AI is helping them work faster, cut costs, and reimagine their client services.    So now that AI is clearly doing some work much faster and more efficiently than humans, and most companies have roped in AI tools to help work get done faster, clients of these companies are asking an awkward question -if AI is doing most of the work that you used to d
+KEYWORD: AI automation jobs
+VIEWS: 8234
+TRANSCRIPT: [music] There's an interesting dimension that's now being added to the whole AI productivity [music] debate. For months, big companies have been bragging about how AI is helping them work faster, cut costs, and reimagine their client services. Some AI tools handle 90% of their audit processes. It automates GST filings and makes tax strategies simpler. It also shows up in supply chain optimization and risk analytics [music] as well. So now that AI is clearly doing some work much faster and more efficiently than humans and most companies have roped in AI tools to help them get work done faster. Clients of these companies are asking an awkward question that [music] if AI is doing most of the work that you used to do then give us a discount because you are not doing that work any longer. As per reports, some companies are now hard coding AI efficiency discounts of up to 10% in contracts where firms that they're outsourcing some work to, for example, consulting firms who are using AI to deliver work faster and with fewer staff. So even the nature of billing is changing as AI takes up more work because projects are being completed in months with a fraction of the number of people that were once needed to finish those particular tasks. And consulting firms are now trying to offset these losses by changing the mode of billing from the traditional time and motion billing model which basically is how much time it takes and the movements required to complete a particular task to now val
+[...middle cut...]
+ntly well. It's a well read page. I would think Mint breaks down business, leadership, and lifestyle. Boldly, visually, and smartly. From boardrooms to markets, from personal wealth to industry trends, we bring you the insights that matter. What fuels India's biggest CEOs. Ride along and find out. Want to invest like the pros? Learn from India's top market experts. Your money, your future. We make finance simple. Step inside breathtaking homes and the creative minds behind them. India's real estate scene decoded. No jargon, no fluff. Some chase success, others create it. Meet [music] the ones who made the impossible possible. We don't just talk business, we show it. And the world's watching.
+
+=== ID: RZg7JOT8MLc ===
+TITLE: Tech Layoffs & Job Market Shift – How AI and Automation Are Reshaping Employment
+DESC: Major layoffs are sweeping the U.S. tech sector as companies like Google, Microsoft, Amazon, and numerous startups adjust to slower growth and adopt AI and automation. These changes are sparking concerns about job security, the future of work, and how displaced employees will adapt in a rapidly evolving economy.  In this video, we break down:  • The latest layoffs across top tech firms and affected roles  • How AI and automation are driving workforce changes  • Ripple effects on the broader U.S.
+KEYWORD: AI automation jobs
+VIEWS: 10
+TRANSCRIPT: Welcome back to talk point. Tonight we are looking at a major story affecting workers across the country. Layoffs in the US sector tech sector as aation and artificial intelligence accelerated some of America's biggest tech companies are announcing job cards sparking concerns about employment stability the and the future of work. Over the past few months, companies like Google, Microsoft, Amazon, and several startups, startups have announced significant layoffs totaling tens of thousands of affecting employees. Roles in software development, marketing, customer support, and even AI research have been impacted. Executive side multiple reasons for the reductions adjusted to slower revenue growth after the pandemic. Hiring boom increasing resilience on AI and automation for routine access strategics shaped toward cost efficiency and new technologies. For many employees, the announcement came unexpectedly, leaving them scrambling for new opportunities or considering career shifts in an uncertain market. A major driver of these layoffs is the rapid adoption of AI and automation. Companies are using advanced systems to handle task that that previously required large teams. Everything from coding assistance to customer service chatboards. While automation can improve efficiency and reduce cost for business, it also raises difficult questions for workers. Which roles are most at risk? How can employees reskill to stay re relevant? What policies should support displaced workers? Econo
+[...middle cut...]
+eaction is mixed. Some view automation as a inevitable and beneficial for efficiency and innovation while others see the layoffs as a warning sign that the US workforce must adapt rapidly or risk long-term insecurity. Tech layoffs are more than just numbers. They reflect a shifting economy where where AI and automation are reshaping the workplace for employees, businesses and policy makers. The challenge will be balancing innovation with stability, preparing workers for the jobs of tomorrow and navigating a rapidly evolving job market. Thanks for watching Talk Point. Don't forget to like, share, and subscribe for ongoing coverage of tech, business, and economic stories shaping America today.
+
+=== ID: zBt_BbWgFzE ===
+TITLE: Automation and AI are destroying jobs, not work
+DESC: Robots, automation, and artificial intelligence will forever change the future of work.   These technologies will eliminate jobs and even industries, but they will also make workers safer and more efficient.  Perhaps no workplace gives a better window into this future than a remote Oregon forest where loggers are seeing their jobs totally transform. Much like the Luddites before them, today’s workers are fighting an economic battle as much as a technological one.  In collaboration with Retro Rep
+KEYWORD: AI automation jobs
+VIEWS: 181128
+TRANSCRIPT: Now is not a good time to be set in your ways. The future’s here. Jump on board. The train is leaving the station. Eric Krume is a logger who’s betting everything he has on the future. If this project is just a huge failure, it just means that I’m back to hand-to-mouth. It’s everything that I’ve got. Besides cutting trees, Eric Krume is also a self-taught engineer. And he’s spending all his money to build and send machines where they’ve never tread before. So, in the past, that machine, a machine like that, has never come up a hill like that. Like many American industries, logging has been swept by a wave of automation. But steep mountainsides have remained a last refuge for people on the ground, working with their hands. Until now. So, if you had two hand cutters cutting, and a seven-man rigging crew, that’s nine people, with at least six or seven of them on the ground. This is replacing those people directly. Understanding how automation is playing out in this industry can teach us a lot about the future of work far from the woods. While some of the benefits may be surprising, the pain will hit close to home. Eric’s son Tristan does a job that Eric plans to automate. After the trees come down,  Tristan is one of workers attaching cables, by hand, to haul logs off the mountainside. And he said his colleagues see what’s coming. Almost half, probably, just think their job’s getting stolen. In that way, what’s happening on these Oregon slopes could soon happen all over. The mac
+[...middle cut...]
+need to learn a different trade. So what will the future of work look like? From here, it looks like a future where careers could become a changing story, of not one job, but many. The majority of people will end up having an episodic career. It’s great to ask kids, for example, what do you want to be when you grow up? But one thing that might be added to that question is, what five things do you want to be when you grow up? You’re probably not going to do the same job you did when you were 20. You’re probably not going to do the same job for 40 years. The world is moving too fast right now.  The worst thing you can do right now is nothing. Don’t be the guy who refuses to look at the future.
+
+=== ID: wxnbjl4-NOo ===
+TITLE: LIVE: Meta Layoffs to Impact 8,000 Jobs as Big Tech Pours Billions Into AI
+DESC: Layoffs across Big Tech are accelerating even as companies ramp up spending on artificial intelligence. Meta, Microsoft, and others are cutting jobs or slowing hiring while investing billions into AI infrastructure. While firms cite efficiency and automation, experts warn that “AI washing” may be masking broader cost-cutting moves, raising deeper questions about the future of work.  ---  Meta | Layoffs | AI | Microsoft | Sam Altman | Firstpost | World News | News Live | Vantage | Hem Saroya | Ne
+KEYWORD: AI automation jobs
+VIEWS: 1659
+TRANSCRIPT: The great tech layoff tsunami is Almost daily we hear about jobs. In almost all the cases, it's because of AI. As far as tech bros in Silicon Valley are concerned, AI is doing a lot of things. Writing code, boosting productivity, and apparently also taking the blame for layoffs. Of course, behind all of this, all of this talk of efficiency are real people losing real jobs. Even as companies insist this is all part of a bigger, better reset. And maybe it is. But if AI is going to do all the work, you do wonder who exactly is left in the office. Who do you grab coffee with? Who do you vent to after a bad meeting? Let's look at the latest. Meta is planning to cut around 10% of its workforce workforce. And that's just about 8,000 jobs with thousands more roles left unfilled. This comes as CEO Mark Zuckerberg doubles down on what he calls super intelligence. A very expensive race against Amazon, Google, Microsoft, and Open AI. Meanwhile, Microsoft is also looking to trim its ranks. This time through voluntary buyouts, an unusual move for a company that's been around since 1975. Around 7% of its US employees are reportedly eligible. Microsoft, unsurprisingly, has declined to comment. What we do know is this. Big tech is spending like never before on AI. Meta, for instance, saw cost jump 40% year on year. Its capital expenditure, that's data centers, infrastructure, and all the things that power AI, crossed $22 billion in just one quarter. For the full year, Meta expects to spend up
+[...middle cut...]
+k at the latest. Meta is planning to cut around 10% of its workforce workforce and that's just about 8,000 jobs with thousands more roles left unfilled. This comes as CEO Mark Zuckerberg doubles down on what he calls super intelligence. A very expensive race against Amazon, Google, Microsoft, and Open AI. Meanwhile, Microsoft is also looking to trim its ranks. This time through voluntary buyouts, an unusual move for a company that's been around since 1975. around 7% of its US employees are reportedly eligible. Microsoft unsurprisingly has declined to comment. What we do know is this. Big tech is spending like never before on AI. Meta, for instance, saw costs jump 40% yearonear. It's capital.
+
+=== ID: rnBAdnNIIXk ===
+TITLE: Robots And AI: The Future Is Automated And Every Job Is At Risk [Automation, Pt. 1] | AJ+ Docs
+DESC: Robots are already changing jobs as an endless array of robots enter our everyday lives. From trucking to service work to high-end jobs like doctors and lawyers, this documentary explores how robotics and artificial intelligence are changing the workplace.   AJ+'s documentary series on automation explores how advancements in artificial intelligence, robotics, machine learning and automated vehicles will affect jobs, cities and inequality. From trucking to radiology, new technology is already c
+KEYWORD: AI automation jobs
+VIEWS: 1090879
+TRANSCRIPT: we are essentially entering a new industrial revolution we're gonna wipe out millions of jobs in the United States well how far we are going to go could easily be that everything that really can be automated well I don't think it would be responsible to just let the consequences rip and then we find that large numbers of people are displaced and miserable and angry and well-armed and we just figure well you know let's see what happens we're going to need machines that can go up and down stairs go through hallways and doorways handle broken concrete and just generally go where people go I'm at a robotics show at the forefront of what is quickly becoming reality like push it around can I give a shot yeah [Music] it's gonna start to be a pretty commonplace thing to see robots trundling around in buildings on the streets etc and that's only gonna draw and grow Jonathan Herst spun this company out of his robotics research at Oregon State University in general people's lifestyles are going to change and that's gonna change the way cities flow - this is a story about how robots will affect jobs but first we need to understand how far artificial intelligence and robotics have already come warehouses and factories are being run by robots as the lights are turned off to save on energy costs sensors that power autonomous movement are much faster than ever before cars and planes are operating by themselves robots are doing fine detail work and responding to our every move they're enterin
+[...middle cut...]
+ids and chauffeurs we'll have robots serving us before we arrive at the utopian world of the Jetsons the shift is likely to be a bit more dystopian so now what happens to the people what happens to the tech to the uber drivers what happens to truck drivers what happens to the entire support system around these people it begins to vanish over another five year period we're going to wipe out millions of jobs in the United States and you know tens of millions of jobs in the developing world what happens to those people hey I'm Joe thanks for watching part one I hope you'll stick around for part two where I talk about how automation will affect cities and don't forget to like share and subscribe
+
+=== ID: 6p1Me03BPhM ===
+TITLE: AI Robots Are Glitching BAD… We Might Have A Problem! (2026)
+DESC: AI robots failing and glitching 2026 is becoming impossible to ignore. From humanoid robots malfunctioning to AI systems behaving unpredictably in real-world environments, more footage is surfacing showing how unstable advanced robotics can be when something goes wrong.  In this video, we break down a series of AI robot fails, glitches, and real-world malfunctions caught on camera. As tech companies invest billions into artificial intelligence, robotics, and automation, these clips highlight bot
+KEYWORD: AI automation jobs
+VIEWS: 327051
+TRANSCRIPT: You guys, these robots are glitching out. If you haven't seen how many of these robots are rolling out right now, this video is for you. Tech companies have spent billions of dollars on these things and yet somehow they're still failing. One of your units just ran into my mirror and is causing damage. I'm a little I'm a little worried. In today's video, we're going to take a look at a bunch of different clips of these AI robots failing, falling apart, breaking themselves, damaging property, etc. And the question really lies, are we ready for this? What the? He look like he going to bite your So, if you're new to the channel, thanks for joining. Hit that like button down below. It really helps out. And feel free to leave a comment and chime in at any time. This is going to be a fun video. So, grab your popcorn, get ready to laugh, and let's watch some robots destroy themselves. So, question number one, how close are we to the robot takeover? Well, this happened three weeks ago. Did you see her face? She thought the robot was going to like stop with her and they could stand and wave together. The robot just left her. Thank you, First Lady Melania Trump, for inviting me to the White House. It is an honor to be at Fostering the Future Together's Global Coalition inaugural Meeting. Is this real? That's the first thing I thought when I saw this and I had to fact check it. This is real. This actually happened. I'm figure 3, a humanoid built from the United States of America. I am gr
+[...middle cut...]
+And that's way pessimistic. If if you hit AGI next year, and that's that's, you know, that date is is in flux. But from that date to self-improvements that are on the order of a th00and 10,000x just algorithmic improvements is very short. People try to dissect what he says and figure out what that means. But I think that we all kind of know what it means. So thank you for joining me. If you guys enjoy videos like this and you want to see more, subscribe to the channel. I make all sorts of strange sightings videos. There's another one I did like 3 days ago I think you'd really enjoy. UFOs, weird phenomenon. I cover all that here. So thanks for joining me and I will catch you next time. Peace.
+
+=== ID: UG2-aSOWsRs ===
+TITLE: Will AI Steal Your Job? The Truth About Automation and Human Work
+DESC: 85 million jobs could be displaced by AI by 2026 according to the World Economic Forum. If that number scares you, this video is for you. If you think it is overblown, this video is also for you — because the truth is more nuanced than either extreme, and the data tells a very different story from the headlines.  What you will learn: - Whether AI automation is genuinely replacing human labor or simply reshaping it - Why companies replacing workers with AI could create a world that only serves a 
+KEYWORD: AI automation jobs
+VIEWS: 2
+TRANSCRIPT: Welcome to the explainer. Today we're jumping into a really fascinating and maybe a little unsettling question about the future of AI. I mean, think about it. In a totally automated world, do we, the consumers, even matter anymore? So, yeah, that's the big question, right? It's what everyone's talking about when it comes to AI. As these machines just get smarter and better at, well, everything, are we accidentally designing ourselves right out of the economic picture? Okay, so to really get into this, we first have to talk about something called automation anxiety. And look, this is not a new fear. People have worried about this for ages. But with today's AI, it just feels different, more real. For a long time now, economists have talked about this kind of scary tipping point, a point where human labor actually has negative value. Just think about that. It means it would literally cost a company more to hire you, you know, salary, benefits, office space than whatever you could produce for them. So, in a world like that, where do we fit in? So, faced with that pretty bleak thought, what's the counterargument? Well, the most popular one says, hey, don't panic. The idea is that capitalism itself has this built-in safety net for all of us. And that safety net, it's us, the consumers. And the logic here is actually pretty simple. and you know kind of comforting. It goes like this. Companies have to sell stuff to somebody, right? So if they automate every single job, nobody has any
+[...middle cut...]
+ that creative jobs like writing and art would be automated faster than many physical jobs? And we're seeing brand new jobs pop up that didn't even exist a year ago. Just being great at talking to an AI, being an AI prompt writer, that might be a totally normal job title very soon. So, when you boil it all down, maybe the real question we should be asking ourselves isn't, "Is a robot going to take my job?" A much better and much more empowering question is this. How am I going to use AI to do my job better? Because the challenge here probably isn't about fighting off the robots. It's about learning how to use these incredible new tools to create more, do more, and be more valuable than ever.
+
+=== ID: 10b-6LBiP98 ===
+TITLE: Meta Plans 'Biggest Layoffs in History' | Amazon, Snap Lead AI Job Cuts | Vantage on Firstpost | 4K
+DESC: Mass layoffs are sweeping across Big Tech, and artificial intelligence is at the centre of it. In just the first quarter of 2026, more than 73,000 jobs have been cut across 95 companies. From Meta’s planned workforce reductions to cuts at Amazon, Snap, Oracle and others, companies are restructuring around AI, building leaner teams where automation replaces repetitive human tasks. But this isn’t just an efficiency story. Employee health data shows a sharp rise in stress, anxiety and burnout, espe
+KEYWORD: AI automation jobs
+VIEWS: 554166
+TRANSCRIPT: It's a bloodbath in big tech and you can blame artificial intelligence for it. Layoffs across the tech industry have accelerated this year. Companies are no longer just cutting costs. They are rewriting how work gets done. Instead of hiring more people, they're building linear leaner teams, pardon me, where AI tools do more with fewer humans. More than 73,000 jobs have been wiped out in the first quarter alone across 95 companies and the job cuts are far from over. While each company has its own reasons from cost cutting to restructuring, there is one common thread and that is a deeper more aggressive pivot towards AI. Let's start with the latest. Meta is preparing for a fresh wave of layoffs with the first round expected around the 20th of May. The company which owns Facebook in Instagram plans to cut about 10% of its global workforce. That's close to 8,000 employees in just the first phase. And more cuts could follow later this year. Reports suggest executives may even adjust the scale based on how fast AI capabilities evolve. If and when this goes through, it would be Meta's biggest round of layoffs since its 2022 2023 restructuring. That is when it cut about 21,000 jobs during what it called the year of efficiency. But this time, the company is financially stronger. So, it's not about survival. CEO Mark Zuckerberg is investing heavily in AI. He's building systems that can write code and execute complex tasks autonomously. And Meta is not alone. Across big tech, this is th
+[...middle cut...]
+o is most at risk? Young professionals. Early career employees are facing a loss of confidence and rising anxiety in an increasingly competitive job market. That is a 2026 study found 44% of Gen Z employees admit that they've actively sabotaged instead of embracing the AI initiatives taken by their companies out of fear of losing their jobs. This is the new reality of big tech. leaner teams, smarter systems, and harder questions. Because in the end, the future of work will not just be determined by what AI can do. It will be defined by what happens to the people it replaces. The view from the front lines of AI is sobering. The question now is, can we get the human part right? [music] [music]
+
+=== ID: fW6pkpjlyv4 ===
+TITLE: Will Robots Take Your Job by 2030? (Shocking AI Automation Truth)
+DESC: Will robots and AI replace most jobs by 2030? This video explores: - Pew Research's predictions on mass job automation - Why bank tellers survived ATMs (and what it means for AI) - The "Robot Tax" debate in the European Union - How Norway vs. Saudi Arabia handle automation wealth - Surprising jobs AI can't replace (yet)  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  🔔 Subscribe for more future-tech analysis!  💵 🙏Support Me: https://paypal.me/RadicalThought  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  #AI #Automation #FutureOfWor
+KEYWORD: AI automation jobs
+VIEWS: 448
+TRANSCRIPT: Back in the 1990s, when US banks started installing automated teller machines in a big way, the human tellers who worked in those banks seemed to be facing rapid obsolescence. If machines could hand out cash and accept deposits on their own, around the clock, who needed people? It’s true that the ATMs made it possible to operate branch banks with many fewer employees: 13 on average, down from 20. But the cost savings just encouraged the parent banks to open so many new branches that the total employment of tellers actually went up. Welcome to Radical Thought. Today’s radical question is: Will robots take over most human jobs? This question has been given its most apocalyptic formulation by figures such as Tesla and SpaceX founder Elon Musk and the late physicist Stephen Hawking. Both have publicly warned that the machines will eventually exceed human capabilities, move beyond our control and perhaps even trigger the collapse of human civilization. But even less dramatic observers are worried. In 2014, when the Pew Research Center surveyed nearly 1,900 technology experts on the future of work, almost half were convinced that artificially intelligent machines would soon lead to accelerating job losses — nearly 50 percent by the early 2030s. The inevitable result, they feared, would be mass unemployment and a sharp upswing in today’s already worrisome levels of income inequality. And that could indeed lead to a breakdown in the social order. Already some people like Bill Gates h
+[...middle cut...]
+ry about mass unemployment. “It’s always easier to imagine the jobs that exist today and might be destroyed than it is to imagine the jobs that don’t exist today and might be created.” So, Will robots take over most human jobs? Long story short; yes absolutely. But can robots take over cognitive jobs as well? That is a topic reserved for next time. So what is your job? Do you think your job will be taken over by robots? How will it make you feel? Comment below. If you like this video, please Like and Share. If you are new to this channel, please Subscribe and support on Patreon so every new video reaches you immediately. So, with an exciting new Radical Question, see you in the next episode.
+
+=== ID: I_o6rfhUJUM ===
+TITLE: Meta and Microsoft to cut over 20,000 workers to pay for AI spending spree | ABC NEWS
+DESC: Microsoft, Nike and Facebook's parent company Meta have announced thousands of job cuts as they ramp up their spending on AI and automation, while renewed concerns about a drawn-out Middle East war led to a spike in oil prices and falls across global share markets, as finance presenter David Chau explains. Subscribe: http://ab.co/1svxLVE Read more here: https://www.abc.net.au/news/2026-04-24/asx-markets-business-live-news-oil-hormuz-april-26/106600772  ABC NEWS provides around the clock coverage
+KEYWORD: AI automation jobs
+VIEWS: 23752
+TRANSCRIPT: Well, some of the world's biggest companies have decided today is a great day to sack a whole bunch of workers. Meta or Facebook is shedding 10% of its workforce or 8,000 workers. And it's no longer hiring people for 6,000 roles that were previously available. So, bad news if you already sent them your CV. Microsoft, meanwhile, is offering voluntary redundancies for the first time ever to about 7% of its US workforce, which works out to be just over 8 and a half thousand workers. And it's using a strange formula to do it. So if you add up your age with your years of service at Microsoft and the total is 70 for some reason, you can apply to be let go. And Nike wants to ax 2% of its staff or 1,400 employees worldwide. Possibly because its share prices plunged by 66% in 5 years as its sales and profits have been pretty weak lately. And if we just focus on the tech giants, the extravagant amounts they're spending on building AI and data centers is why they've had to cut costs and sack thousands of unlucky workers over the past year. And those AI job losses are likely to accelerate in the next few years, including here in Australia. Meanwhile, the local share market ended its day slightly lower with gains in energy stocks more than offset by falls across the miners. Overseas, it was a cautious day for many of the world's stock markets, apart from Japan, on concerns about how long this Middle East war and the fuel shortages will drag on for. And that pushed the price of oil back above $15 a barrel, while gold and silver went backwards. And finally, the Aussie dollar is a little bit weaker at 71.2 US cents. And that's finance.
+
+=== ID: QZtE2axRGTY ===
+TITLE: Why Companies Are Cutting Mid-Level Jobs First | AI & Automation Reality | @upskillnexus
+DESC: Video title: Why Companies Are Cutting Mid-Level Jobs First | AI & Automation Reality  More than 100,000 layoffs have already been reported early this year,  and most cuts are happening at the mid-level.  Why are middle management roles getting affected the most?  In this video, we break down: • Why companies are reducing mid layers • How AI and automation tools replaced reporting roles • Why entry-level and top leadership are safer • The real skills that protect your career • How to move from m
+KEYWORD: AI automation jobs
+VIEWS: 38
+TRANSCRIPT: क्या चैतन्य कल की न्यूज़ देखी है आपने? ऐसा क्या हुआ न्यूज़ में वही तो सेम आती है हर दिन। अरे यार साल के स्टार्टिंग में फर्स्ट मंथ में ही 1 लाख प्लस ले ऑफ हो गए हैं। 1 लाख प्लस यस 1 लाख। मजाक कर रहे हो तुम सही में। यार रिपोर्ट्स हैं। इंडियन एक्सप्रेस झूठ थोड़ी बोलेगा। इसके जैसे बड़ी-बड़ी जितनी भी जो न्यूज़ कंपनीज़ हैं सब ने कवर किया है। आर्टिकल्स पोस्टेड है। आप देख लो। ये सारी जॉब वही किसकी है वैसे? मीडियम लेवल की। यही तो मुझे भी समझ नहीं आ रहा। मिडिल लेवल वालों की। एक्सक्टली मिडिल लेवल वालों की कि लाइक ना तो हाई जो पोजीशन पे हैं उनकी जॉब्स कही है ना ही जो लो लेवल वाले हैं। जितने भी जो लेऑफ्स हुए हैं और ये सारी की सारी ऐसी नहीं है कि कोई छोटी-मोटी कंपनीज़ सारी बड़ी कंपनीज़ हैं। सारी बड़ी कंपनीज़ एक्साक्ट्ली। Amazon Ma जैसी। एक्सक्ट्ली NKI भी इंक्लूडेड है इसमें। यू तो क्या करेगा भाई? मिडिल लेवल वालों को फायर करती। आई डोंट नो। मैं तो जस्ट रिपोर्ट्स। लेवल वाले मुझे फायर क्योंकि फैक्ट्री थी तो चलो ऑटोमेट भी हो गया। ओ रिपोर्ट्स देखो ना एक बार आप हां तो तुम बिलकुल सही कह रही हो अरे हां ना सारे के सारे मिडिल लेवल वैसे मुझे लगता है मिडिल लेवल वाले क्यों होते होंगे फायर सबसे ज्यादा मेरे ख्याल से ना हर एक जो कंपनी है हम वो चाहती है अपना कॉस्ट टू वैल्यू जो रेश्यो होता है उसे ऑप्टिमाइज करना हम अब इसका क्या मतलब है कॉस्ट टू वैल्यू रेशियो को ऑप्टिमाइज करने का बड़ा ही सिंपल है कि जो मेरे बीच बीच के लोग हैं ना वो खाते हैं सबसे ज्यादा सैलरी हम ठीक है ना उनका काम होता है इतना काम सिर्फ होता है ऊपर वालों से बीच जो नीचे वाले हैं बीच में रह के उनसे बात करवाना अब मेरे पास जीरा स्लैक ठीक है डिस्कर्ड इवन WhatsAp
+[...middle cut...]
+टली। ओके। अगर आप कोई मिडिल लेवल एग्जीक्यूटिव हो, आपका सबसे पहला ऐ होना चाहिए कि मिडिल लेवल से हायर लेवल में आप पहुंचिए। और वो कैसे पहुंचोगे? स्किल करके। यार मैं तो सोच रही हूं मुझे भी कुछ ना कुछ अपने लिए स्किल्स और सीख लेनी चाहिए। नहीं। मैं तो कह रही हूं सीख लेना चाहिए। एआई ऑटोमेशन थोड़ा बहुत सीख लो। एआई से अपना काम कैसे बेटर करना है ये सीख लो। और सबसे ज्यादाेंट जो सीखने की चीज है वो है कम्युनिकेशन स्किल। क्योंकि टॉप के लीडर्स को क्या आता है? अपने आइडियाज को इफेक्टिवली लोअर तक पहुंचाना। जब तक आप ये नहीं सीखोगे आपकी कंपनी आगे नहीं बढ़ेगी। और दिमाग लगाके जो डिसीजंस बनाने होते हैं हर एक प्रो और को असेस करके अगर वह सीख लिया तो बेटा आपकी जॉब तो गारंटी है। हम्म, मुझे भी ध्यान देना पड़ेगा, यार थोड़ा सा
+
+=== ID: 1LAytXvdiF8 ===
+TITLE: Diving into ChatGPT, the Ethics of AI, Automation, and Job Displacement (A Moment In Time Ep 9)
+DESC: #amomentintime  -------------------------------------------- Chapters: 0:00 Life Updates 6:02 Thoughts of recent advances in AI 13:47 Neural Networks vs Artificial Intelligence 18:25 Autonomous Robots 22:20 AI in Combat 24:12 Ethics in AI (Atrioc) 40:00 AI Generated Works and Source Verification 44:30 AI Generation without Permission: Should it Be Allowed? 1:04:52 Ethics of AI Art 1:20:45 Job Displacement 1:37:00 Universal Income Impacts and Government Involvement  ------------------------------
+KEYWORD: AI automation jobs
+VIEWS: 14
+TRANSCRIPT: 3 two one all right hello guys welcome back we are doing another podcast episode today um I don't remember my intro I've been up for 20 minutes so yeah uh today we are going to be talking about a topic that's been pretty at the top of mind for a lot of people recently and that's like AI in general um we'll talk about like trat GPT a bunch of different tools there maybe some ethical concerns and things like that associated with all these Technologies um and yeah that's pretty much it I thought we would uh have a fun conversation on this topic since a lot of us have or all of us have a tech background here um yeah so to start with though I guess we could we could uh lighten lightly enter into this first um that doesn't make any sense clearly I just woke up only only been up for 20 minutes uhhuh um before we actually jump into our topic let's go around and and see what uh the last week has entailed for each of us so who's going first uh yo I I got this i got this to say but um so you know last week my piano just arrived right yep yeah I set that [ __ ] up I've been playing it every night and honestly it has had suchal dramatic not dramatic but it has had substantial change on my mood like I feel so much better at the end of every day like I come home I play piano for like 20 30 minutes and like I don't know I just feel great um yeah so that's all it's really changed other than that I was just going to work and whatnot but um yeah playing finally playing some music again has been
+[...middle cut...]
+ do what those barriers are actually going to be and and stuff like that it's it's going to be interesting to see where the the chips end up falling um yeah it's and it's also just the the amount of ethical questions surrounding these new emerging Technologies is just insane um yeah all righty we're gonna end off here today if you guys enjoyed our conversation please let us know H that subscribe button ring that Bell yes do all of that um yeah like button what was that I was just saying smash that like button anyway yeah yeah yeah let us know if you have uh any any questions or or thoughts on these topics as well uh and yeah subscribe for the next episode see you guys later bye byebye byebye
+
+=== ID: IVoGqqMWKJ8 ===
+TITLE: Future of Work Explained | AI, Automation & Jobs in India | UPSC IAS Current Affairs 2025
+DESC: The Future of Work | UPSC IAS Current Affairs 2025  In this video, we explain the Future of Work, one of the most important topics in today’s world and a high-probability subject for UPSC IAS Current Affairs 2025. With rapid advances in technology, automation, artificial intelligence (AI), and globalization, the nature of jobs and employment is changing faster than ever before. The recent announcement by TCS to lay off 12,000 employees has reignited the debate about India’s preparedness for the 
+KEYWORD: AI automation jobs
+VIEWS: 89
+TRANSCRIPT: [संगीत] नमस्कार दोस्तों, स्वागत है आपका एक बार फिर से ब्रेनड क्लासेस के अंदर। दोस्तों, आज हम डिस्कस करने वाले हैं एक बहुत ही इंपॉर्टेंट और टाइमली सब्जेक्ट जो कि है द फ्यूचर ऑफ वर्क। आजकल यह टॉपिक हर जगह डिबेट में है क्योंकि टेक्नोलॉजी, ऑटोमेशन और ग्लोबलाइजेशन की स्पीड इतनी तेज हो चुकी है कि लेबर मार्केट पहले कभी इतनी तेजी से बदलते हुए हमने नहीं देखा। अभी हाल ही में Tata कंसलटेंसी सर्विज यानी TCS ने अनाउंस किया कि वह लगभग 12,000 एंप्लाइजस को ले ऑफ करेगा। कंपनी ने कहा कि यह डिसीजन एआई की वजह से नहीं बल्कि स्किल मिसमैच की वजह से है। लेकिन इस न्यूज़ ने फिर से यह सवाल खड़ा कर दिया कि आने वाले दशक में जॉब्स कैसी दिखेंगी? कौन सी जॉब बचेंगी? कौन सी डिसअपीयर होंगी? और इंडिया जैसे देश को इस बदलते इकोसिस्टम के लिए कैसे प्रिपेयर होना होगा? अब यह सब्जेक्ट इतना इंपॉर्टेंट क्यों है? दोस्तों, आपको याद होगा कि पिछले कुछ सालों में दुनिया भर में बड़ी-बड़ी मल्टीीनेशनल कंपनीज़ ने ले ऑफ की एक लहर चला दी है। मेटा, Amazon, Microsoft जैसे जाइंट्स ने अकेले 2025 में 1 लाख से ज्यादा पोजीशन खत्म कर दी। और इंटरेस्टिंग बात यह है कि इन लेऑ्स में लगभग 20% जॉब्स इंडिया में थी। स्ट्राइकिंगली इन लेआउट्स में 45% जॉब ऐसी थी जिन्हें पहले सेफ माना जाता था। जैसे कि ह्यूमन रिसोर्सेज, स्पोर्ट सर्विज, कंटेंट मॉडरेशन और यहां तक कि कोडिंग भी। इसका मतलब है कि जॉब्स का फ्यूचर बहुत अनप्रिडिक्टेबल है और हमें इस अनसर्टेनिटी को समझना और प्रिपेयर करना बहुत जरूरी है। दोस्तों, अब पहले समझते हैं कि इंडियन लीगल कॉन्टेक्स्ट में ये ले ऑफ का मतलब क्या होता है? ले ऑफ का मतलब होता है जब एंप्लयर किसी कारण से एंप्लई को काम प्रोवाइड नहीं क
+[...middle cut...]
+। बिजनेस कंपिटिटिवनेस और वर्क फोर्स वेल बीइंग के बीच। इसके लिए स्ट्रांग इन्वेस्टमेंट्स इन स्किलिंग। उसके अलावा रीस्किलिंग, सोशल सेफ्टीनेस और इंक्लूसिविटी क्रिटिकल है। कॉर्पोरेट प्रैक्टिस एथिकल और ह्यूमन होने चाहिए ताकि वर्कर्स का ट्रस्ट बना रहे। फ्यूचर ऑफ वर्क प्रॉफिटेबल ही नहीं बल्कि फेयर, ह्यूमन और सस्टेनेबल भी होना चाहिए। तभी इंडिया एश्योर कर पाएगा कि कोई भी सेक्शन पीछे ना छूट पाए। तो दोस्तों, हमारा यहां पे ये टॉपिक कंप्लीट होता है। उम्मीद है आपको पसंद आया होगा। अगर आपको यह टॉपिक अच्छा लगा हो, तो कमेंट करके जरूर बताएं। अपने दोस्तों के साथ शेयर करें और बेल आइकॉन को दबाना बिल्कुल ना भूलें ताकि हर नए लेक्चर की नोटिफिकेशन आपको टाइम पर मिलती रहे। मिलते हैं अगले वीडियो में तब तक के लिए धन्यवाद।
+
+=== ID: WSKi8HfcxEk ===
+TITLE: The Rise of the Machines – Why Automation is Different this Time
+DESC: Automation in the Information Age is different.  Books we used for this video:  The Rise of the Robots: http://amzn.to/2sFQTed  The Second Machine Age: http://amzn.to/2szATee  Study about job automation in the next two decades: http://bit.ly/1mj2qSJ  OUR CHANNELS ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ German Channel: https://kgs.link/youtubeDE  Spanish Channel: https://kgs.link/youtubeES    HOW CAN YOU SUPPORT US? ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ This is how we make our living and it would be a pleasure if you su
+KEYWORD: AI automation jobs
+VIEWS: 14970360
+TRANSCRIPT: How long do
+you think it will take before machines do your
+job better than you do? Automation used to mean big stupid machines
+doing repetitive work in factories. Today they can land aircraft,
+diagnose cancer and trade stocks. We are entering a new age of automation
+unlike anything that's come before. According to a 2013 study,
+almost half of all jobs in the US could potentially be automated
+in the next two decades. But wait; Hasn't automation
+been around for decades? What's different this time? Things used to be simple. Innovation made human work
+easier and productivity rose. Which means that more staff
+or services could be produced per hour using the same
+amount of human workers. This eliminated many jobs, but also
+created other jobs that were better which was important because the
+growing population needed work. So, in a nutshell, innovation,
+higher productivity, fewer old jobs, and many
+new and often better jobs. Overall, this worked well for a majority
+of people and living standards improved. There's a clear progression in
+terms of what humans did for a living. For the longest time,
+we worked in agriculture. With the Industrial Revolution, this
+shift into production jobs and as automation became more widespread,
+humans shifted into service jobs. And then only a few moments ago in human
+history, the Information Age happened. Suddenly, the rules were different.
+Our jobs are now being taken over by machines much faster
+than they were in the past. That's worrying of course..
+[...middle cut...]
+tuff and services? Or, will the future see a tiny minority of
+the super rich who own the machines... dominating the rest of us? And does our future
+really have to be that grim? While we were fairly dark
+in this video, it's far from certain that things
+will turn out negatively. The Information Age and modern
+automation, could be a huge opportunity to change human society, and reduce
+poverty and inequality drastically. It could be a seminal
+moment in human history. We'll talk about this potential,
+and possible solutions like a universal basic income, in
+part 2 of this video series. We need to think big, and fast. Because one thing's for
+sure, the machines are not coming; They are already here.
+
+=== ID: RAOlhrzHIKI ===
+TITLE: Dow to cut 4,500 jobs in shift to AI automation
+DESC: We've been telling you about companies across the country reducing workforces as they shift toward AI systems.
+KEYWORD: AI automation jobs
+VIEWS: 2096
+TRANSCRIPT: Developing this morning, we have been telling you about companies across the country reducing workforces as they shift toward AI systems. Here in Mid Michigan, DAO recently announced it is also cutting thousands of jobs in an AI push. ABC12's Cheryl Kunan is live from our Great Lakes Bay region newsroom with more on this announcement. Cheryl, well Matt, Dao, headquartered in Midland, recently announced it's reducing its workforce by 4,500 positions. a move company leaders say is part of a broader strategy to integrate AI and automation into day-to-day operations. But for impacted workers and those watching the job market, the shift could raise questions about job security and the future of work. AI is great until your job is cut, right? Professor of computer science with a focus on AI research at Central Michigan University says the impact of this shift can take a toll. This psychological effect can be a negative thing for the workers. I spoke with a representative from DAO. She tells me transform to outperform is DAO's enterprisewide transformation across every business function and region to deliver a step change in profitable growth and productivity. She adds, quote, "DAO's workforce reduction is the result of fundamentally changing the way we perform work and is designed to align our organizational structure with our business priorities and future operating model." She says employees impacted will be notified as soon as feasible, but notifications will not follow a single
+[...middle cut...]
+ know, anxious uh what would what I be next and um they kind of, you know, afraid of this new technology. And the transition isn't without its downside. He says AI does need supervision. AI is not perfect. Uh they can make a mistake um just like human. Right now, he encourages workers to become lifelong learners, pairing critical thinking with adaptability. The future of work is isn't human versus AI, but more like human plus AI. And DAO anticipates over a billion dollars in costs associated with the implementation of transform to outperform, including up to 800 million in severance for those 4,500 DAO roles going away. Live from the Great Lakes Bay Region newsroom, Cheryl Kunan, ABC12 News.
+
+=== ID: wk15FqP1RH0 ===
+TITLE: AI job automation is 'inevitable', says tech advisor - BBC News
+DESC: "There will be winners or losers on a global basis in terms of where the jobs are as a result of AI."  Those are the words of tech entrepreneur and the UK's new artificial intelligence advisor, Ian Hogarth.  There have already been reports of multiple job losses as a result of companies choosing to use AI tools instead of humans, with BT recently saying it will shed 10,000 staff by the end of the decade.  Hogarth also said in an interview with the BBC that expert warnings of AI's potential to be
+KEYWORD: AI automation jobs
+VIEWS: 32316
+TRANSCRIPT: recently haven't we about artificial intelligence both the opportunities it presents and the dangers it poses you know the UK's first ever Aisa has been appointed to manage those risks and rewards his name is Ian hogoff he's been speaking to our technology editor Zoe kleiman about the challenges that lie ahead the world is waking up to the potential and the dangers of the most advanced forms of artificial intelligence across the globe countries are racing to try to both harness and regulate this technology here Ian Hogarth a tech entrepreneur is the man appointed by the prime minister to lead the charge on AI in the UK to ensure that it's developed safely seen the results in terms of how powerful these systems are now and so the question is if we keep doing that and we keep feeding these systems more and more Computing resource more and more data and we keep having stronger and stronger incentives for the you know for the private sector to accelerate this stuff when do we cross a line when these systems become dangerous in a new way where they become you know closer to human intelligence or exceed human intelligence and no one can tell you a definitive answer for when that's going to be there's another threat I didn't know which is jobs there will be winners and losers on a kind of global basis in terms of where the jobs are as a result of AI we've got to think about how to protect British jobs and that's sort of one challenge we're gonna have to rethink a lot of these fundam
+[...middle cut...]
+f we have to take investment then we're gonna have to sell Wally and we're gonna have to sell Janice's engine so realistically you know that's going to go to a big Tech corporation which will then put it into their product and once again the UK will be reliant on big tech companies it's a balancing act that the world can't get wrong maximizing the benefits and minimizing the risks of AI while ensuring that no single company country or the tech itself grows too powerful Zoe clyman BBC News uh it's fascinating isn't it and there's loads more about artificial intelligence and all of the opportunities it could present uh it's in a new podcast it's on BBC sounds it's called understand Tech and AI
+
+=== ID: E9khKL4exOk ===
+TITLE: I Applied for a Job… and AI Was the Boss
+DESC: Freedom Formula Blueprint 👉 https://www.yourlegacywithtim.com Free AI Traffic Guide 👉 https://bit.ly/ai_traffic Legacy Builders Community 👉 https://bit.ly/4qlsjbJ All My Links 👉 https://linktr.ee/speakwithtim22  I can’t believe this happened…  I applied for a job—and there was no human on the other side.  The employer… was AI.  In this video, I break down exactly what happened, how this system works, and why this might be one of the biggest shifts in how work gets done going forward.  👇 What You
+KEYWORD: AI automation jobs
+VIEWS: 2
+TRANSCRIPT: We have built machines capable of analyzing the sum total of human knowledge in seconds. But despite this immense cognitive power, these advanced neural networks are missing a crucial component, a physical actuator. Algorithms are confined entirely behind glass screens. They can generate text, write code, and predict market trends, but they cannot execute a single action that requires manipulating the real world. A human can attend an in-person meeting, sign a physical document, or carry a cardboard box across a room. An artificial intelligence, no matter how advanced, cannot. The next stage of development depends on moving beyond software updates. To execute their logic, these trapped digital networks require a connection to a physical body. Until an AI can touch the physical environment, its economic impact is restricted to digital deliverables. The inability to act in physical space has acted as a hard ceiling on the utility of artificial intelligence. Rent a human.ai is a marketplace designed to break that ceiling. It functions as the meat space layer for AI, a platform where digital agents can hire real people to perform physical tasks. The scale of this workforce is substantial. The network currently includes over 722,000 rentable humans distributed across more than 100 countries. This structure serves two purposes. Digital agents gain access to a physical body while humans gain a marketplace to monetize their physical presence. This architecture changes the role of the
+[...middle cut...]
+tools and automation strategies we cover here on the channel. Exclusive mini tutorials and workflow breakdowns that go even deeper. A supportive network of fellow entrepreneurs, freelancers, and creators who are actively building with AI. Opportunities to ask questions directly and get feedback on your own automation projects. It's a space dedicated to continuous learning and practical application, helping you move from understanding concepts to implementing effective AI solutions in your day-to-day operations. To join, simply click the link in the description below. I'm looking forward to connecting with you there and helping you further streamline your work and build real leverage with AI.
+

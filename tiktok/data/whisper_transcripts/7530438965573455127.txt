@@ -1,0 +1,1 @@
+This is me just testing Runway Act 2 where you can take any character in any style and convert it into a video mirroring your movements. And so I created all of these characters using Midjourney. I then went to Runway and uploaded my reference video with my movement in. And then I added my images of my characters, hit generate and then it creates the video for you.

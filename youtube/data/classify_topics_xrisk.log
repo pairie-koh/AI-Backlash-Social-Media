@@ -1,0 +1,83 @@
+Loading youtube_ai_backlash_final.csv...
+  total rows: 23865  final-YES rows: 5937
+
+=== Topic classification ===
+  Model: gpt-5-mini
+  Keys: 7, workers: 21
+  Rows to classify: 5937
+  Pending: 5937
+    [100/5937] 7.8/s | parse_err: 1 | err: 0 | ETA 12.5m
+    [200/5937] 8.1/s | parse_err: 2 | err: 0 | ETA 11.8m
+    [300/5937] 8.2/s | parse_err: 2 | err: 0 | ETA 11.4m
+    [400/5937] 8.1/s | parse_err: 2 | err: 0 | ETA 11.4m
+    [500/5937] 8.1/s | parse_err: 2 | err: 0 | ETA 11.2m
+    [600/5937] 8.2/s | parse_err: 2 | err: 0 | ETA 10.9m
+    [700/5937] 8.2/s | parse_err: 3 | err: 0 | ETA 10.6m
+    [800/5937] 8.3/s | parse_err: 3 | err: 0 | ETA 10.4m
+    [900/5937] 8.2/s | parse_err: 3 | err: 0 | ETA 10.2m
+    [1000/5937] 8.2/s | parse_err: 3 | err: 0 | ETA 10.0m
+    [1100/5937] 8.2/s | parse_err: 3 | err: 0 | ETA 9.8m
+    [1200/5937] 8.2/s | parse_err: 4 | err: 0 | ETA 9.6m
+    [1300/5937] 8.1/s | parse_err: 4 | err: 0 | ETA 9.5m
+    [1400/5937] 8.0/s | parse_err: 4 | err: 0 | ETA 9.4m
+    [1500/5937] 8.0/s | parse_err: 4 | err: 0 | ETA 9.2m
+    [1600/5937] 8.0/s | parse_err: 5 | err: 0 | ETA 9.0m
+    [1700/5937] 8.0/s | parse_err: 5 | err: 0 | ETA 8.8m
+    [1800/5937] 8.0/s | parse_err: 5 | err: 0 | ETA 8.6m
+    [1900/5937] 8.0/s | parse_err: 6 | err: 0 | ETA 8.4m
+    [2000/5937] 8.0/s | parse_err: 7 | err: 0 | ETA 8.2m
+    [2100/5937] 8.0/s | parse_err: 8 | err: 0 | ETA 8.0m
+    [2200/5937] 8.0/s | parse_err: 8 | err: 0 | ETA 7.8m
+    [2300/5937] 8.0/s | parse_err: 8 | err: 0 | ETA 7.6m
+    [2400/5937] 8.0/s | parse_err: 8 | err: 0 | ETA 7.4m
+    [2500/5937] 8.0/s | parse_err: 8 | err: 0 | ETA 7.2m
+    [2600/5937] 8.0/s | parse_err: 8 | err: 0 | ETA 6.9m
+    [2700/5937] 8.0/s | parse_err: 8 | err: 0 | ETA 6.7m
+    [2800/5937] 8.1/s | parse_err: 8 | err: 0 | ETA 6.5m
+    [2900/5937] 8.1/s | parse_err: 8 | err: 0 | ETA 6.3m
+    [3000/5937] 8.1/s | parse_err: 8 | err: 0 | ETA 6.1m
+    [3100/5937] 8.1/s | parse_err: 8 | err: 0 | ETA 5.8m
+    [3200/5937] 8.1/s | parse_err: 8 | err: 0 | ETA 5.6m
+    [3300/5937] 8.1/s | parse_err: 8 | err: 0 | ETA 5.4m
+    [3400/5937] 8.1/s | parse_err: 9 | err: 0 | ETA 5.2m
+    [3500/5937] 8.1/s | parse_err: 9 | err: 0 | ETA 5.0m
+    [3600/5937] 8.1/s | parse_err: 9 | err: 0 | ETA 4.8m
+    [3700/5937] 8.0/s | parse_err: 10 | err: 0 | ETA 4.6m
+    [3800/5937] 8.0/s | parse_err: 10 | err: 0 | ETA 4.5m
+    [3900/5937] 8.0/s | parse_err: 10 | err: 0 | ETA 4.3m
+    [4000/5937] 8.0/s | parse_err: 10 | err: 0 | ETA 4.1m
+    [4100/5937] 8.0/s | parse_err: 11 | err: 0 | ETA 3.8m
+    [4200/5937] 8.0/s | parse_err: 11 | err: 0 | ETA 3.6m
+    [4300/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 3.4m
+    [4400/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 3.2m
+    [4500/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 3.0m
+    [4600/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 2.8m
+    [4700/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 2.6m
+    [4800/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 2.4m
+    [4900/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 2.2m
+    [5000/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 2.0m
+    [5100/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 1.7m
+    [5200/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 1.5m
+    [5300/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 1.3m
+    [5400/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 1.1m
+    [5500/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 0.9m
+    [5600/5937] 8.0/s | parse_err: 12 | err: 0 | ETA 0.7m
+    [5700/5937] 8.1/s | parse_err: 12 | err: 0 | ETA 0.5m
+    [5800/5937] 8.1/s | parse_err: 13 | err: 0 | ETA 0.3m
+    [5900/5937] 8.1/s | parse_err: 13 | err: 0 | ETA 0.1m
+    [5937/5937] 8.1/s | parse_err: 13 | err: 0 | ETA 0.0m
+
+  Done in 12m 16s. API calls: 5937, errors: 0, parse errors: 13
+
+Saved 23865 rows back to C:\Users\hello\AI-Backlash-Social-Media\youtube\data\youtube_ai_backlash_final.csv
+
+=== PRIMARY TOPIC DISTRIBUTION (final-YES) ===
+         deepfake   1274  (21.5%)
+              art   1162  (19.6%)
+             jobs   1064  (18.0%)
+     surveillance    658  (11.1%)
+      environment    561  ( 9.5%)
+      general_neg    531  ( 9.0%)
+            xrisk    292  ( 4.9%)
+        education    208  ( 3.5%)
+       regulation    167  ( 2.8%)

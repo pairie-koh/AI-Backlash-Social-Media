@@ -1,0 +1,1 @@
+Don't be one of them. Can you promise not to cry? Yes. What's the difference between HTTP and HTTPS? Okay, so the difference between them is the HTTP or Hypertext Transfer Protocol is the standard protocol used for transmitting data between a JEP browser and a server. No?

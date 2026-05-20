@@ -1,0 +1,1 @@
+Microsoft is literally stealing your FPS. There's a thing called Copilot running in the background using up to a gig of RAM. And most of you won't even use it. If you play games, uninstall it. That's free performance.

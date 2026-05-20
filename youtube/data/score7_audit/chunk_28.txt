@@ -1,0 +1,1815 @@
+=== ID: xNn3_L4IMf4 ===
+TITLE: Stop Trusting AI Titles: The Paper vs Production Test
+DESC: Free memory diagnostic PDF: https://danieljindoo.substack.com/ Last month, a single research paper from Google wiped billions of membership stocks in 24 hours. The paper was called TurboQuant, and it involved quantized models. However, the core concepts were already published years ago by a Korean project. This video explains discrepancies in the reported speed improvements, with real-world tests showing half the claimed ai performance, and discusses the implications of cheaper kv cache for long
+KEYWORD: stop AI
+VIEWS: 3448
+TRANSCRIPT: Last month, a single research paper from Google wiped billions off memory stocks in 24 hours. Samsung, SK Hynix, Micron, all hit. The paper was called "TurboQuant". Most covers framed it as a Google breakthrough. However, the main problem with that story is that the core idea and math were already published earlier, not by Google. And Korean researchers just tested a completely different approach to get there. And before we talk about this one, the one thing most coverage gets wrong is that quantization is not one thing. It's a family, it's a group of methods. One branch compresses model weights, GPTQ, AWQ, GGUF, Q4_0. I know you've heard all these names. The other branch compresses the KV cache. That's the model's short-term memory that grows as you type. KIVI, HIGGS, AQUA-KV, these were already in the conversation. TurboQuant is one entry in that second branch. Keep that in mind because everything in this video builds on that one. The core technique TurboQuant uses is random rotation plus codebooks. You rotate the data to make it smoother. Then you map the smooth values to a small dictionary of preset numbers, which saves memory. Sounds really clever and it is. However, the catch is HIGGS published a similar recipe first. AQUA-KV took related ideas and applied that specifically to the KV cache, which is what TurboQuant claims to do. And both of those predate Google's blog post by about a year. So what did Google actually do? One thing, one bit correction trick called QJL. A
+[...middle cut...]
+My name is Danny Jindoo and I used to run an AI info business that made me question my morals every single day and eventually I had to quit. Now I'm just giving away everything I know about AI for completely free, no gatekeeping. You can join my free newsletter to get as much value as you can. You can take it all, all I'm asking is just comment down below to help me keep going. I think comment sections are very fun, but it's up to you, it's not necessary. And you can grab the memory diagnostic PDF in the description. Comment what your actual bottleneck is. I'll use that pattern in the next video because that's how our channel runs. You watch me build, we all learn. See you in the next video.
+
+=== ID: muSEMkrW6ck ===
+TITLE: How To Stop AI Taking Over The Planet
+DESC: What if the future of humanity depends on one simple goal: making AI harmless?  As artificial intelligence becomes more powerful, the real challenge is no longer speed, scale, or profit. It is safety. This film explores why harmless AI may be the key to protecting people, preserving freedom, reducing global risk, and building a future that works for humanity instead of against it.  Safe AI is not just a technical issue. It is a civilizational issue. If we get it right, AI could help solve some o
+KEYWORD: stop AI
+VIEWS: 165707
+TRANSCRIPT: Our planet is under siege by one criminal forcing behaviors through his foot soldiers, controlling all institutions and governments around the planet. Cyber security is being paid $520 billion, 5% of last year's 10.29 trillion, [music] a $1,196% increase since 2018. Cyber gives access to passwords and biometrics. A simple data match giving access on any transaction [music] to any cyber criminal on the planet. Impossible to secure or identify. Yet his cyber security force still gets trusted with all insiders information but cannot protect, cannot prevent, cannot stop cyber crime, cannot get caught or proven guilty for placing cyber attacks. Even in-house attacks despite are paid for stopping cyber crime. Instead, do the exact opposite. [music] Forcing all substantial institutions and banks and all governments to purchase innovations that fail to secure. [music] So investors in cyber security all are motivated by the everinccreasing cyber crime statistics. especially his enforcement of the most lethal [music] weapon, AI cyber security, that overnight could double cyber crime, vastly [music] increase his control of the planet, can now throw his obsolete cyber security under the bus. Despite BFY [music] offering to exterminate their $120 billion cyber crime and offered [music] to quadruple their profits, offering them the digital immigration solution, Mastercard, [music] a cyber attack victim, was forced to reject and instead forced to reduce their profits by 11 billion. forced t
+[...middle cut...]
+y forced behaviors therefore caused $35 trillion to be lost [music] the greatest financial catastrophe in human history. Digital immigration will neutralize his new catastrophic AI weapon [music] by terminating cyber access. This will free everyone from being his identity slaves. Simply by maintaining [music] a 2.5% average credit card commission, BFY Digital Immigration is able to stop this year's 11.88 88 trillion, protects 100 trillion worldwide financial traffic, generates $2.5 trillion income at 20p ratio, would be the first company exceeding a value of $50 trillion, all being divided to all 195 countries that are now still under siege by cyber security. Still costing us $32 billion per
+
+=== ID: I3ivZaAfDFg ===
+TITLE: Can We Stop AI Deception? Apollo Research Tests OpenAI's Deliberative Alignment, w/ Marius Hobbhahn
+DESC: Today Marius Hobbhahn of Apollo Research joins The Cognitive Revolution to discuss their collaboration with OpenAI using "deliberative alignment" to reduce AI scheming behavior by 30x, exploring the safety challenges and concerning findings about models' growing situational awareness and increasingly cryptic reasoning patterns that emerge when frontier models like o3 and o4-mini operate with hidden chains of thought.  Read the full transcript here: https://storage.aipodcast.ing/transcripts/episo
+KEYWORD: stop AI
+VIEWS: 128141
+TRANSCRIPT: Hello and welcome back to the cognitive revolution. Today I'm speaking with Marius Haban, CEO of Apollo Research about their latest study conducted in partnership with OpenAI, which seeks to better understand reasoning models tendency to deceive their human users, as well as the efficacy of OpenAI's deliberative alignment strategy in preventing this behavior and the impact of situational awareness on both the behavior itself and on our ability to trust such behavioral assessments going forward. We begin with a discussion of where deceptive tendencies come from and what makes deception uniquely dangerous among AI bad behaviors. First, that it potentially undermines everything else, including our ability to trust the results of safety evaluations. And second, that the worst case AI scenarios almost always involve models fooling humans in some way. From there, we talk about how Apollo tested for deception, including the scenarios they developed to tempt models into taking what they call covert actions. how they varied the level of pressure put on the AI to violate its safety rules, and how this relates to the prompting techniques that people use in practice in the wild, the unprecedented access that OpenAI gave them both to models thinking and to fine-tuned versions of recently released reasoning models, why they insisted on using human judges to review and classify models chains of thought, and why their confirmed HIT standard, which requires explicit reasoning about strategic 
+[...middle cut...]
+ them out and see my endorsement at aipodcast.ing. And finally, I encourage you to take a moment to check out our new and improved show notes, which were created automatically by notion's AI meeting notes. AI meeting notes captures every detail and breaks down complex concepts so no idea gets lost. And because AI meeting notes lives right in notion, everything you capture, whether that's meetings, podcasts, interviews, or conversations, lives exactly where you plan, build, and get things done. No switching, no slowdown. Check out Notion's AI meeting notes if you want perfect notes that write themselves. And head to the link in our show notes to try Notion's AI meeting notes free for 30 days.
+
+=== ID: aeIhLlUUz4s ===
+TITLE: Kanye West Can't Stop Using Ai (EXAMPLES)
+DESC: Kanye West is officially using AI in his new music. Rather than putting an inch of effort into recording his own vocals, Kanye is now utilizing an AI voice changer to complete his verses. Combined with his sudden love for AI music videos... in this video we reveal why Kanye West cannot stop using artificial intelligence.   👍🏻 Drop a LIKE for me  🔥 SUBSCRIBE for new videos every week: https://www.youtube.com/channel/UCp3_6lpxjwN73PDBvgl9F6w?sub_confirmation=1  #KanyeWest #Kanye #Ye   My socials: 
+KEYWORD: stop AI
+VIEWS: 95327
+TRANSCRIPT: Kanye West is easily one of the most talented 
+humans to ever touch a microphone however what   if I told you that he didn't actually pick 
+up a mic for multiple songs on his recent   album but yet we still heard Kanye's voice the 
+truth is Kanye West has now been exposed for   using artificial intelligence in his recent 
+music rather than putting an inch of effort   in himself instead as it appears Kanye has 
+been opting for this specific AI generated   voice to complete his verses as a speaking 
+sample for the weights GG AI voice model   my voice lays down the foundation my baby loves 
+me and she's always on the way now I can't stop   thinking about it every day but as we're about to 
+see unfortunately it doesn't stop there combined   with Kanye's sudden admiration for AI music videos 
+with all of his recent videos entirely computer   generated fans are calling this a new artistic low 
+for one of the all time greats and after posting   recruiting applications last week to join the 
+quote new AI team at Yeezy it's clear that Kanye   West cannot stop using A.I. but just how bad has 
+it escalated and why is Kanye so obsessed with AI   now the driving motivation behind Kanye's abundant 
+use of AI may surprise you but him receiving help   writing lyrics is nothing new an artist known 
+for having big teams and often entire writing   camps behind the scenes assisting him like he did 
+in Mercedes-Benz Stadium for Donda the reality is   though ghost writers are actually extremely 
+c
+[...middle cut...]
+Telescope what sounds like a pretty legit   Playboi Carti song if you weren't otherwise told 
+as it turns out though thanks to this identical   strategy of AI voice filters it is actually a 
+19-year-old kid behind this viral rapper twin   amassing millions of streams and I actually 
+interviewed him about how everything works   however that it's just some dude in North Carolina 
+not one of the most iconic artists ever Kanye West as it stands Ye is unfortunately showing 
+no signs of slowing down his AI usage with his   upcoming album Bully on the way this has 
+left many fans nervous seeing Kanye using   Ai and his music completely killed the little 
+hope I had for his albums it's so sad to see
+
+=== ID: ANn9ibNo9SQ ===
+TITLE: How to stop AI going rogue
+DESC: Artificial intelligence is improving so fast that no one knows what it might be capable of. It brings huge opportunities, but also huge risks. Arjun Ramani, The Economist's global business and economics correspondent, explains what could go wrong.  00:00 - How could AI go wrong? 01:12 - What are the risks?  03:11 - How to practise AI safety 04:42 - What are the benefits?  Sign up to The Economist’s daily newsletter: https://econ.st/3QAawvI  How could AI disrupt video-gaming?: https://econ.st/40i
+KEYWORD: stop AI
+VIEWS: 103921
+TRANSCRIPT: the AI arms race is on and it seems nothing can slow it down Google says it's launching its own artificial intelligence-powered chatbot to rival chat GPT too much AI too fast it feels like every week some new AI product is coming onto the scene and doing things never remotely thought possible we're in a really unprecedented period in the history of artificial intelligence it's really important to note that it's unpredictable how capable these models are as we scale them up and that's led to a fierce debate about the safety of this technology we need a wake-up call here we have a perfect storm of corporate irresponsibility widespread adoption of these new tools a lack of Regulation and a huge number of unknowns some researchers are concerned that as these models get bigger and better they might one day pose catastrophic risks to society so how could ai go wrong and what can we do to avoid disaster [Music] so there's several risks posed by these large language models one class of risks is not all that different from the risk posed by previous Technologies like the internet social media for example there's a risk of misinformation because you could ask the model to say something that's not true but in a very sophisticated way and post it all over social media there's a risk of bias so they might spew harmful content about people of certain classes some researchers are concerned that as these models get bigger and better they might one day pose catastrophic risks to society for e
+[...middle cut...]
+ can imagine a body like a you know a CERN that that lives currently in Geneva Switzerland for physics research something like that being created for AI Safety Research so we can try to understand them better for all these risks artificial intelligence also comes with tremendous promise any task that requires a lot of intelligence could potentially be helped by these types of models for example developing new drugs personalized education or even coming up with new types of climate change technology so the possibilities here truly are endless so if you'd like to read more about the risks of artificial intelligence and how to think about them please click the link and don't forget to subscribe
+
+=== ID: DcTNIm31Vug ===
+TITLE: God Stopped the First AI Disaster at Babel — Genesis 11:1-9
+DESC: In this episode of Get Into the Word, I unpack Genesis 11:1–9 and reveal what was really happening at the Tower of Babel — and it's not what you learned in Sunday school. The real breakthrough at Babel wasn't bricks and mortar; it was a common language that became humanity's first operating system, unifying an entire civilization in rebellion against God.  From the five repeated "Let us" statements that expose collective pride, to the Rabbinic tradition that says they mourned fallen bricks more 
+KEYWORD: stop AI
+VIEWS: 81962
+TRANSCRIPT: God is not afraid of AI, but he did stop the first version of it 4,000 years ago. In Genesis 11, the entire human race shared one language. They could build anything, accomplish anything. And God said that's the problem. You see, most people think the Tower of Babel is a Sunday school story about a tall building. But I'm here to tell you it's not. It's the Bible's clearest warning about technology without boundaries. And I want to show you why this matters today more than ever before. [music] [music] Welcome to Get into the Word. My name is Robbie Gall. Let's look at what Genesis 11 says. We're going to start in verse 1. The whole earth had the same language and vocabulary. As people migrated from the east, they found a valley in the land of Shannar. And they settled there. They said one to another, "Come, let us, watch this, make ovenf fired bricks." They used brick for stone and asphalt for mortar. This is the technological advancement I alluded to earlier. And they said, "Come, let us build ourselves a city and a tower with its top in the sky. Let us make a name for ourselves, otherwise we will be scattered throughout the earth." One of the things we see in this picture of the Tower of Babel is that most people misunderstand the story. People have been told this is about a building project. Well, it's not. You see, bricks and asphalt were cuttingedge technology for the ancient world. But that wasn't the real breakthrough. The real breakthrough was common language. They wer
+[...middle cut...]
+nt of technology, no amount of ambition will ever put you on equal footing with the God who spoke the universe into existence. And the good news is you don't need to build a tower to reach him. He's already come down for you and for me. Hey, if you've enjoyed this video, let me encourage you to hit that subscribe button. It really helps the [music] channel out. Hit that bell so you don't miss another piece of content. We're going to launch and drop content [music] every week. And if you've learned something this week, hit the like button, share with your pastor, share with a friend, or even a family member. [music] Until next time, let's get into the word until the word gets into [music] us.
+
+=== ID: xoVscbuXsHw ===
+TITLE: STOP! Don’t Let AI Write Your College Essay Yet…
+DESC: Stop Before You Use AI For Your College Essay  In this video, you will learn a step by step method to write a meaningful and authentic college admissions essay without relying on AI. You will understand why the essay exists, how admissions officers use it in the review process, and the exact steps you can follow to write confidently and clearly. These strategies help you express your true voice, create a strong personal narrative, and submit an essay that stands out in the admissions process. Ke
+KEYWORD: stop AI
+VIEWS: 173
+TRANSCRIPT: Are you trying to write your college essays and you feel stuck and you're about to use AI? Well, stop. [music] [music] I'm Amore Karthy aka Coach McCarthy and I am the founder and CEO of Education Innovations where we help guide your journey from college admissions to life beyond. Make sure to like and subscribe to our channel so that you can watch more videos that will help you get into college and prepare for life after college. You know what? I think I No, wait. I believe I have the steps that will help you write an amazing college essay without the use of AI. But you know, if you need it, I understand. But you won't need it after you use these five steps. And the five steps are first, pick a prompt, discuss, write, read aloud, and revise. And I'm going to go into each of these steps, but before I do, I want to talk to you about why the admissions officers are even having you write an essay. The reason why is they don't even get to meet you. So, you know, they have to have something where they get to know who you are. They're looking at your test scores. They're looking at your transcript. And so, this essay is important because they're getting a glimpse of who you are. So, you want to take your time and you want to put some effort into it because this is a part of the puzzle so they'll know whether or not that you will contribute to their college community and who you are. And I want you to understand that you have everything within you to create and write an amazing essa
+[...middle cut...]
+go ahead and do that. Then the next thing that you will do is you go back to the fourth step, which is to read aloud again. So you're seeing if does it read well and then you revise again. Is it to the word count? You're going to go over this process of you know a few more times. It's a process. It's not a one and done. After you have gone through a couple of revisions, you like it, then you want to have someone read over it that you trust and then if it's the way that you like it, go ahead and submit it. But if you need more one-on-one support, we would love to help you. Just make sure to book a call so that you can learn about more services that we have. We hope this helps. [music] [music]
+
+=== ID: y3_TY4K8hVE ===
+TITLE: Prime Reacts - Why I Stopped Using AI Code Editors
+DESC: Twitch https://twitch.tv/ThePrimeagen Discord https://discord.gg/ThePrimeagen  Become Backend Dev: https://boot.dev/prime (plus i make courses for them)  This is also the best way to support me is to support yourself becoming a better backend engineer.    ### LINKS  https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/ By: Luciano Nooijen  Great News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen  Kinesis Advantage 360: https://bit.ly/Prime-Kines
+KEYWORD: stop AI
+VIEWS: 669954
+TRANSCRIPT: Oh no, this is a title that makes me want to read it because again biases confirming my biases. Also, last week I did a full seven days in the tower doing nothing but vibe coding with cursor and also regular coding and also complaining about AIS and then also loving tab. Very complicated relationship right now. But I have a problem here. April 1st. I don't know where this is going to go. Like is this going to be a good article or is this going to be another article in which I get sad about reading because it's April 1st. Let's find out. TLDDR. I choose to make using AI a manual action because I felt the slow loss of competence over time when I relied on it and I recommend everyone to be cautious with making AI a key part of their workflow. I still think I'm going to get I still think I'm going to get AI uh what's it called? April fooled here any moment. Here we go. We're going to get ready. Uh in the late 2022, I used AI tools for the first time. Even before the first version of Chad Jippity uh in 2023, by the way, the first time using Copilot, I still remember. I still I I talk about this all the time is the magic moment. Magic moment. Absolutely magic. One of the best moments I've ever had. Very, very magic. In 2023, I started using AI based tools in my development workflow. Initially, I was super impressed with the capabilities of LLMs. The fact that I could just copy and paste obscure compiler errors along with C++ source code and be told where the error is cause uh cause
+[...middle cut...]
+rrect. the name is I feel like I was halfway through my sentence and I stopped. Yeah, it's intuition is the is the term you're looking for, but it's like it's it's more than intuition. It's it's also it's like it's these sequential logical jumps with the gaps being filled in by intuition. So, it's not just simply, oh, I think this is better. It's like this is better because if I think about this next thing, I think this will be better here and then if I think about the next thing, the next thing. It's like playing chess on top of programming that makes it end up so good. It's not just one simple jump. It's the many jumps in between. Right. Anyways, it's finger spits and fragle. Yes, exactly.
+
+=== ID: avso94uh174 ===
+TITLE: How to disable AI in VS Code
+DESC: 
+KEYWORD: stop AI
+VIEWS: 10172
+TRANSCRIPT: Hi everyone. This is just a quick video to show you how to make sure you don't have AI installed, specifically the co-pilot that uh now is often installed by default when you install Visual Studio Code. Right now, you can tell I have it installed because it's basically whenever I type anything, it's as it's filling things in automatically. If I were to just push tab, it would be writing my code for me. uh which defeats the purpose of a test, right? So, before you do your test, you need to make sure you have this uninstalled because you're going to be taking this on your own computers. What you need to do is go over here to the extensions tab. You should see this list of installed extensions. I have quite a few more than you probably have. Um, but if you scroll down, if you see GitHub Copilot and GitHub Copilot chat right here, make sure you click this little wheel and go down to where is it? Uninstall right here. So, just click that to uninstall and make sure you click restart extensions just so they aren't loaded. If it's if they still show up like this, that's totally fine. Uh, because it says install here, that means it's it's not currently installed. So you'll know that it's working if you were to write something like uh write a hello world function and it's no longer popping up with with code um to to show up there. Uh other things that pop up like for example if I start writing print and this stuff pops up that's totally fine. That's just how VS Code normally works and 
+[...middle cut...]
+That's totally fine. If you did this and it is still showing up with code things, then the other thing you'll want to do is go down to this setting wheel right here and then go into settings and then up here just type disable AI and make sure this is selected here. If you select this, it should also unselect that, which is which is good. That's the AI window. So just make sure that's the case um before you take your exam. If um because we're recording with Proctoo, if you see that if we see that you have that where it's automatically filling in the code for you, even if you do it accidentally, we have to give you a zero on the exam. So please make sure that you have that disabled. Thank you.
+
+=== ID: 1Yu9Gcq3THM ===
+TITLE: DETENGAN LOS VIDEOS CON IA 🤖
+DESC: En este video reaccionaremos a los videos que me han hecho con inteligencia artificial que la verdad estan bien raros y no los entiendo... DETENGAN LOS VIDEOS CON IA 💀  👉 Directos 🔴 https://www.twitch.tv/johan_speak 👉 Instagram 👨🏻‍🦲 https://www.instagram.com/johan_speak/ 👉 Discord 🤖 https://discord.gg/zdbBWwJt6B 👉 Twitter (ahora x) 🔵 https://twitter.com/JohanSpeak_ 👉 Facebook 🔵 https://www.facebook.com/speakoficial/
+KEYWORD: stop AI
+VIEWS: 304534
+TRANSCRIPT: Hola amigos, sean bienvenidos a su canal de editor trae la confianza como siempre la traemos a este hermoso canal. El día de hoy reunidos con el chat que no está apareciendo porque los tengo castigados. Tengo castigados por qué? Porque les gusta spamear cosas y aquí el que manda soy yo. ¡Cállate! El día de hoy vamos a reaccionar a los videos hechos con inteligencia artificial, porque sí, les pedí a todos mis seguidores que me hicieran videos con inteligencia artificial para ver pues con qué salen. Es lo que Y eso es lo que vamos a hacer el día de hoy. Y si quieres otra segunda parte de esto, solo deja like y ya. Y si llegamos a 5,000 likes, genial, hacemos una segunda parte. Sin nada más que decir, empecemos con el video. ¿Por qué no te duran las novias? Yo al tener novia, ay Dios. Tengo novia, tengo novia. Muy bien, muy bien. Vamos, tranquilo, tranquilo. A ver, hay que entrar. Hay que entrar, me hacen videos de inteligencia artificial con eso. Tranquilo, o sea, ya conseguimos eh tener mobia, ahora hay que entrar despacito porque si no la podemos asustar. O sea, hay que preguntarle algo sencillo. ¿Quieres tener sexo? Bueno, la última parte podría ser yo. La verdad, la inteligencia artificial está un poco cerca a lo que podría ser Johan. Qué [ __ ] [ __ ] de verdad es que se hacen unos edits bien cagados, en serio, pero bien cagadotes, bien cagadotes. Pero bueno, igual me dio risa cuando lo vi. Y lo mejor es que igual cogieron de las últimas fotos. Eso está cool porque siempre
+[...middle cut...]
+que no es canon. Johan en otra vida por si fuera DJ. Me moriría de hambre, la verdad. [Música] Alenchi Luisan. La única forma de que baile bien, de verdad, es con inteligencia artificial. El trío que todos queremos. Ay, cállense, [ __ ] [Música] [Música] Ay, me quiero morir. Qué [ __ ] [ __ ] de humor el que ustedes tienen. Y bueno, amigos, con eso terminamos el video del día de hoy. Espero que les haya gustado. Yo, la verdad me reí bastante con esos videos de inteligencia artificial. Si quieren una segunda parte de esto, recuerden dejar su hermoso like y sin nada más que decir, recuerden que aquí les dejo dos videos más para que sigan perdiendo tiempo en este canal. Me despido. Sí. [Música]
+
+=== ID: G1GuaVTCQfU ===
+TITLE: Why Musk is Wrong - AI Will NOT Stop Inflation, Nor Will It Prevent the End Game
+DESC: EGI on substack https://endgameinvestor.substack.com/  Biblical economics and such https://www.patreon.com/endgameinvestor  Get your DirtyMan Safe, use code ENDGAME10 at checkout for 10% off https://dirtymansafe.wishpondpages.com/endgame/  Get your gold and silver with https://milesfranklin.com/ 1-952-929-7006 and mention the End Game Investor
+KEYWORD: stop AI
+VIEWS: 6675
+TRANSCRIPT: Universal highinccome via checks issued by the federal government is the best way to deal with unemployment caused by AI. AI/rootics will produce goods and services far in excess of the increase in the money supply. So there will not be inflation. Hey guys, Raf here from the Endgame Investor and there is a tweet going around. Do you still call it a tweet or do you call it an X? I don't know what you call it, but it's from Elon Musk and he's touting printing up a bunch of money and handing it out to a bunch of people to deal with the unemployment that will be caused by the AI revolution. And when it comes down to it, his argument basically is in line with Karl Marx's argument for communism, which suggested that communism would lead to ultraabundance of all kinds of stuff and everyone would be rich and we'd be in a Garden of Eden again. Did Mark say this explicitly? Maybe, maybe not. I never actually read his crap. But the Communist Revolution generally was trying to lead us to a Garden of Eden. And the communist revolution of the 19th and 20th centuries was just another version of looking for the fountain of youth and looking for the actual garden of Eden where nobody would have to do any work anymore. But here I wanted to really attack Elon Musk's fantasy from an Austrian school perspective. Let's first read the tweet and then we'll go into why it's so fundamentally wrong. It's all wrong, dude. The tweet goes like this. You've probably seen it. It's got 68 million views. Univ
+[...middle cut...]
+n of how much is produced by AI, but what is produced by AI. And the only way that AI can get those signals is through prices. And the only way you can have accurate prices is through honest money, not credit being handed out by a corrupt government who handed out to its cronies so that they can create an education industrial complex and a medical industrial complex and a war industrial complex that just siphons off resources and makes people poor and ending up eating nothing but soil and green and dying a painless death and living an empty life. And if you don't want an empty life, then check out the Endgame Investor on Substack. 60% of the time it works every time. That doesn't make sense.
+
+=== ID: RM_KkldTXfs ===
+TITLE: Gmail Is Feeding Your Emails To AI – Disable These 2 Settings NOW
+DESC: Did you know that Google might be using your Gmail to train AI without your explicit consent?   In this video, I will show you how to adjust your "gmail security settings" to prevent your private emails and sensitive documents from being used.   I'll guide you through the "gmail settings" where the "Turn on smart features in Gmail, Chat, and Meet" option might have been enabled by default, compromising your "privacy".   At the end, you will be able to secure your Gmail and ensure "data protectio
+KEYWORD: stop AI
+VIEWS: 257182
+TRANSCRIPT: Google may be using your Gmail to train AI without you ever clicking yes. Your private emails, receipts, invoices, sensitive documents, all sitting in your inbox, can be used to improve their smart features and AI models. And the worst part, for many people, this was turned on by default. In this video, I'll show you two hidden Gmail settings you must turn off right now if you care about your privacy. Follow me step by step on screen. It takes less than 2 minutes. Stay until the end because the second setting is the one most people completely miss. All right, here is why this is a big deal. Your Gmail inbox is a gold mine of personal information like bank and payment receipts, travel tickets and hotel bookings, work contracts and confidential attachments, password reset emails and security alerts. All of that is extremely valuable data to train AI systems. Recently, many users noticed that Google had autoenabled certain smart features that allow it to scan your emails and attachments to predict text while you type, categorize your inbox automatically, generate summaries and suggestions. These sound helpful, but the trade-off is that your emails are continuously processed and analyzed in the background. Google says this is to improve your experience, but if you're watching this video, you probably don't want your entire email history feeding any AI model now or in the future. Let's lock this down. We'll be doing this on a computer, so come along. Open Gmail in your browser. In
+[...middle cut...]
+ir entire inbox history is being used to improve systems they never agreed to. Kindly share this video with at least one friend or family member who uses Gmail every day. You might be the only reason they find out about this. In the comments, tell me, did you find these settings on or off when you checked? I'm really curious how many people had this auto enabled. If you want more videos like this showing hidden settings that quietly leak your data on Windows, Android, and Google services, hit subscribe and turn on the bell so you don't miss the next one. Your privacy is only as strong as the settings you understand. Thanks for watching. Stay safe online and I'll see you in the next tutorial.
+
+=== ID: lt9SsIyl45Y ===
+TITLE: How To Stop An AI Apocalypse
+DESC: Don’t Die. Don’t kill each other. Align with AI.  This video was adapted from my book Zeroism. Free PDF here: https://drive.google.com/file/d/1otUOk47U5N2j_fljhWgNCULd2EyZQpym/view  🥦 Order my Blueprint Stack: https://blueprint.bryanjohnson.com/?&utm_source=youtube&utm_medium=video&utm_content=lt9SsIyl45Y 📩 Learn about Don't Die: https://dontdie.bryanjohnson.com/?&utm_source=youtube&utm_medium=video&utm_content=lt9SsIyl45Y  Animation: https://zeino.tv/  Let’s be friends: Twitter: https://x.com/b
+KEYWORD: stop AI
+VIEWS: 128232
+TRANSCRIPT: for 13.8 billion years there has been a universe Earth has been around for 4.5 billion years or so we were single cells for most of that fast forward a bit and boom Homo sapiens we're intelligent we think we think about thinking we get fire language agriculture cities riding industry electricity nuclear solar internet and then AI it took took almost 13.8 billion years but finally intelligence made more intelligence we are in fact baby steps away from creating super intelligence which very well might be the most extraordinary event in the history of the universe super intelligence will rewrite reality it will pop the bubbles we live in revealing to us dimensions and realities far beyond our imagination and comprehension there are many different opinions on AI some people are convinced that humans are inevitably doomed others believe AI will save us from ourselves what we do know is that AI is improving faster than we can comprehend and in ways that we cannot predict there is no way to stop or even slow its development nation states corporations ideological groups individuals and everyone in between will unabashedly use AI for their self-interested objectives the major problem is that we tend to be reactionary and not proactive it's one of the failings of the human mind and a scenario that may be unforgiving to our survival building AI systems that align with continued human existence is a discipline in itself and deserving of the greatest minds of Our Generation for anyone not
+[...middle cut...]
+ntelligence AI steals away control from using the past to create any future predictions be aware and cautious about what assumptions you make about the future if you can make this a staple in how you process information you'll be able to sift through arguments Trends and norms and keep your mind in sync with technological Advance here are three simple questions you can ask to enhance your predictions when you're trying to make life decisions what must remain true for this to continue to be true what new thing would make this untrue what wildly unexpected surprise would change the question the only things on Humanity's to-do list are don't die don't kill each other and align AI with don't die
+
+=== ID: mFJTtGX0yPc ===
+TITLE: 【Stop AI】運命の4月23日、ついに海外勢のボイコット活動が始まる…！【第五人格】
+DESC: 【メンバーシップに入ると配信アーカイブが視聴可能！】 https://www.youtube.com/channel/UCBtBcVCnOeGnL8qdfOjUzeA/join  【NEW! コピキャサーバー】 https://discord.gg/aeep7fw2kK  【リスナー交流サーバー】 https://discord.gg/xZ6UxjrwRR  【他責ランクマ】 https://www.youtube.com/playlist?list=PLoYxFq0Ekv9vuQcPhEJpCZIuhL76YZTUA  【コピキャ】 https://www.youtube.com/playlist?list=PLoYxFq0Ekv9vha9h9Qhi3m7MRJlj9v5P5  【X（旧Twitter）】 https://twitter.com/Gyi_free  【メール】 identitygyi@gmail.com  #ぎぃちゃんねる #第五人格 #identityv
+KEYWORD: stop AI
+VIEWS: 6361
+TRANSCRIPT: さあ、とことでですね、現在4月の23日 、0時59分でございます。え、海外勢が 最近やっているあのAIをやめろっていう ボイコット活動が4月23日に行われるん ですけども。さあ、今1時になりました。 サーバー時間で1時。これで日付講師に なりましたので、ま、全とかね、見て いこうかなと思うんですけど。さあ、何か 動きがあるんでしょうか。ま、英語とか見 てみます。ハッピーバースデーエドガー。 ハッピーバースデーエドガーで埋め尽くさ れていますね。日本のサーバー地でもま、 特に皆さんボイコットしましょうみたいな のは出てきませんね。もしかしたら言論 統制されてるボイコットって打てるん そもそも。あ、打てるわ。[笑い]だ、 打ててしまったな。言論当選されてるわけ でもなくってことですね。じゃあ意外と AIやめろみたいな感じで言ってんのって 。ま、規模小さいんかな。声がでかいだけ だったのかな。中国版大王人格とかの全 やったら、ま、何か動きがあるのかもしれ ませんが、ちょっと僕は中版入りないので 、ま、Twitterとか見てみますか。 第5人格ボイコットで検索しても最新の やつで4月の20日なってますので、ま、 特に騒ぎがあるわけではなさそうですね。 じゃ、アイデンティティ5AIとかで調べ てみますか。ま、サーバー時間になった からと言って別に何か大きな動きがあった わけでもなさそうですね。第5人格AIで 最新ツイートで検索してみても特に出てき ません。ボイコットされてます。第5人 公式の最新ツイート2時間前。こちらで見 ていきましょうか。ま、リプランとか見て あ、まあいますけど車内でAI生設の やめろ。本物のアーティストを支援しろ。 ま、いつも通りありますね。うん。あ、で もこのツイート2分前すね。ちゃんと サーバー時間 になってからのツイート初めて見受けられ ました。すごいこの方のツイートがデモ 活動してる方々のツイートをすっごい リツイートしてるんで、これはなかなか 面白いですね。お前ら公式からの直接的な 生命がないのにIDVをプレイしたり考え たりするべきじゃない。お前らあの何人か 最近AI使ってない全部のアートやり直し てるんだなんて言うけどこれらがどれだけ 前持って作られてると思う複数の商業作品 が1週間でできるわけない。今起こってる 実際の問題から注意をさらさないで ください。NEに全てのAI実装を撤開さ せるように圧力をかけ続けなければなり ません。AIがなくなり人種差別が対処さ れるまでボイコット続けましょう。なんか ねAI使うなっていうのと一緒に人種差別 やめろみたいな声もあるらしいんですよ。 呪術師の衣装だったり、ま、あとなんか カウボーイとかバッツマンもあったか なんかオフェンスもあった気がするけど、 なんか要は肌が黒いキャラに対してこれは 人種差別だみたいな感じで言ってるのが あるんですけど、ま、ちょっと僕その辺 追ってないんで詳しい説明はできないん ですけど、ま、そういうのもあれらしい ですね。ネットが生命を出ざすのに のんびり構えてて、それが彼らをますます 奥病を物に見せるだけでめっちゃ腹立たさ せてるよ。まあ、すごいいっぱい リツイートしてますね。で、この画像払え てるんですけど、ちょっと解読していき ますか。この画像を日本語に翻訳して くださいとことでね、AIを使うという 皮肉。すいません。悪意はないんですよ。 さあ、翻訳完了しました。本当に何も対応 しなくていいの?みんないつもよりかなり 怒ってるみたいだけど。まあ、落
+[...middle cut...]
+ていくんで、ほっといても 持たないんで、このユーザーの怒 りっていうのはもう風化していくんですよ 。どんどんAI使うのが当たり前の社会に どんどんなっていきますから。ま、片身が どんどん狭くなっていくのと、ま、やっぱ その怒りは持たないんですよ。結局第5 人格好きやったら第5人格槍やりに戻って きますし、ま、少なからず多くのユーザー を失ってしまうっていうのはありますけど もね。ま、だからと言って左に向かうと いうわけでもないと思いますし、ま、これ も時代の流れなのかなと思いました。ま、 ということでね、4月23日ボイコット 当日となりましたけども、第5人の方では 別にそこまで大きい声は見当たらない。ま 、日本サーバーだからかなていうのと、ま 、Xでもそこまで何か一斉に生命を上げる とかっていうわけでもなく、ま、リプラに はちょこちょこAI反対派の方々が活動し ているぐらいで、ま、思ったよりかは小 規模でした。第5人格をアンインストール したりやらなかったりっていうのは、ま、 無理があるんじゃないかなってね。本人ら もちょっと思ってるとこあるんかな。ま、 その反AIを歌ってるアカウントって、 もう結構捨てアとか多かったりするんです よ。専用アカウントってことで。ま、それ だと本当にそのユーザーが開かなかったり 安易りしてるかってのは分からないじゃ ないですか。裏では普通にやってたりする かもしれないんでね。てこと考えると うわっつらだけの可能性はちょっとあるん かなと思いましたね。ということで僕は反 AI活動を応援するって言ってしまったん で第5人格ボイコットします。さよなら。
+
+=== ID: uTG_yAUlDLo ===
+TITLE: STOP Using Silent AI! The Soul-Driven Agent That Asks First 🔥
+DESC: Mercury Agent is a permission-hardened, soul-driven AI agent running 24/7 via CLI or Telegram with a built-in SQLite "Second Brain". Stop playing Russian roulette with your operating system and start using AI that respects boundaries.  In this breakdown, we explore how Mercury replaces rogue AI scripts with an interceptor mechanism that asks for permission before executing dangerous commands, its long-term SQLite memory, and the friction of setting up background OS daemons.  0:00 - The Danger of
+KEYWORD: stop AI
+VIEWS: 4
+TRANSCRIPT: Urgent handing a blackbox LLM silent unrestricted bash execution on your machine is the single most terrifying trend in software engineering right now. We spent decades building zerorust corporate networks only to invite a blind script with pseudo privileges directly into our local file systems. Running mainstream autonomous tools like autogen feels like playing Russian roulette with an operating system. These agents hallucinate syntax, force install conflicting dependencies and suffer total amnesia across sessions. Without persistent memory and hard boundaries, these agents function as active unpatched vulnerabilities waiting to break your OS. Mercury Agent is the architectural countermeasure. It's an open- source project with 1.1K GitHub stars that replaces rogue AI scripts with a permission first design. Instead of a run once Python script, it operates 24/7 as a background OS demon. It includes aggressive crash recovery that allows for up to 10 restarts per minute. This demon integrates directly with Telegram, so you can monitor the AI's background processes from your phone while the agent remains active in your local environment. Mercury solves agent amnesia with a second brain SQLite integration powered by FTS5 for full text search. It ensures all context remains completely local. The system autonomously extracts and categorizes exactly 10 different memory types including user constraints, habits, and long-term goals. Utilizing a local stateful SQLite Damon allows you to
+[...middle cut...]
+ markdown files like soul.md and persona.md to dictate the agents behavior. Achieving local security without corporate rappers requires trading convenience for persistent administrative overhead. If this saved you time, hit subscribe. We review open source tools like this every week so you're always ahead. Now, if you liked this open-source breakdown, you're going to love our review of Open Hands. We are authorizing direct file system manipulation faster than we are building the containment protocols to stop it. So, are we actually building autonomous tools to write our code, or are we just engineering more complex malware that politely asks for permission before it deletes our repositories?
+
+=== ID: pVBKWLkRqXw ===
+TITLE: Stop Using AI For This
+DESC: In this video CJ gives some alternatives to depending on AI for everything.  🔥 Be the ~14,700th person to join our super tasty newsletter https://bit.ly/syntax_snackpack  00:00 - intro 01:15 - $1200 OpenAI Bill 02:24 - use existing solutions 11:18 - convert JSON to types 13:14 - use IDE refactoring 15:13 - use CLI generators 17:02 - use deterministic linters 18:53 - viewer comments  ------------------------------------------------------------------------------ Hit us up on Socials! Syntax: https
+KEYWORD: stop AI
+VIEWS: 36535
+TRANSCRIPT: I've been thinking lately, what if it were possible to tell a computer exactly what to do? Like, what if we could write out instructions and then the computer would perform those exact instructions every time? It's programming. [laughter] It already exists. Um, and recently I've come across quite a few things where people are using AI to do things where a more deterministic approach would be a lot better. So, I'm going to go over several examples that I've come across and give you an alternative so you don't have to depend on AI as much. And I'd love to know in the comments, what are some examples of things you've come across of maybe co-workers or yourself where you're depending a little bit too much on AI when you probably could have just written code instead. Now, you might think that I hate AI based on recent evidence, but that is not the case. I admit that AI has its use cases, but there are certain scenarios where you probably shouldn't use it and you should just stick to the way we've been doing things for a very long time. And really, all of this is ultimately going to save you time, save you money, make you more productive, and really just introduce some reliability [music] and consistency in your workflows and in the code that you write. Cuz at the end of the day, that's really all we want, right? So, if that sounds good, let's dive in. My name is CJ. Welcome to Syntax. [music] So, part of this was inspired by a Reddit post I came across a few months back, as well a
+[...middle cut...]
+ of variables and CSS class names um developers come up with that. There's not like a deterministic approach for like renaming them or coming up with better ways to name them. So I think that's a pretty good use case. It's not as deterministic. Um so yeah, I I think that's actually a good use case. Okay, we ended on a bit of a high note because like I mentioned, there are some good use cases for AI. But at the end of the day, before you reach for AI, really all I'm saying is check to see is there exist an existing deterministic solution for the thing you're trying to do or could you write some code to do it? Or could you ask AI to write the code to do it? I don't know. That's all I'm saying.
+
+=== ID: -lpL9jyGjDo ===
+TITLE: STOP building AI Agent Swarms in n8n (They're Broken) | n8n AI Agent Swarm Issues
+DESC: 🚨 STOP building AI agent swarms before watching this!   📌 Join my FREE Skool community to access all the resources ! 👇 https://www.skool.com/ai-architects-8928  For business enquiries: ai@futurminds.com  Important Links & Interesting Videos: 👉Start creating n8n workflows: https://n8n.partnerlinks.io/futurminds  👉 Stop Hallucinations! Best n8n AI Agent Settings Explained - https://youtu.be/pR51uBNb5es 👉 N8N MCP Simplified - https://youtu.be/-gtlrI1TqZE 👉 N8N AI Agents Masterclass | Complete guide
+KEYWORD: stop AI
+VIEWS: 13496
+TRANSCRIPT: If you are building AI Agent swarms like this one, 
+stop. You are about to waste weeks of your life   and hundreds of dollars in API cost. So, everyone 
+is going crazy about n8n's new AI agent to agent   feature where now you can add an AI agent as a 
+tool to this main agent. I'm about to show you why   this could be the worst thing you can do to your 
+workflows. And by the end of this video, you will   understand why 99% of the developers are building 
+AI systems that will fail in production. And after   watching this video, you may not use this tool at 
+all. Let's get started. So I have created a simple   AI assistant using both the old methods and the 
+new methods. So the old way of creating supervisor   multi- agent workflows was that you have a main 
+AI agent that receives the main request and then   it has access to multiple sub workflows that is 
+we add sub workflows as tools to this main agent   and then this main agent decides the next action 
+and then it delegates that task to the respective   workflow and each of these sub workflows 
+contains their respective AI agents. So the   AI system that I have built over here has three 
+core responsibilities. First is to handle all   the Google calendar related actions like creating 
+an event, sending an invite, cancelling an event.   Next, it can handle all the tasks related to 
+Gmail like drafting an email, sending an email,   reading the existing emails and the third task 
+is the research. It can carry out a research   on
+[...middle cut...]
+nt to learn   how agents interact and if you want to create 
+some impressive demos where reliability is not a   factor, then you can surely use these. Otherwise, 
+if you are building assistants or AI agents that   you can rely on or if you're building solutions 
+for businesses or long-term projects, then sub   workflows is the approach you should take. This 
+will enable you to create reliable workflows in   the long run. You can get all of these workflows 
+in my free school community. You can go there,   download it, and you can play and try out things 
+on your own. If you found the video useful,   don't forget to subscribe the channel. Thanks 
+for watching, and I'll see you in the next one.
+
+=== ID: DEHiOj1MKpE ===
+TITLE: 022426 AI SCAM TARGETING ANIMAL SHELTERS: Threatens dog euthansia  11PM
+DESC: 
+KEYWORD: AI scam
+VIEWS: 24
+TRANSCRIPT: The San Jose Animal Care Center is trying to stop a surge of calls and messages tonight, fueled by what it says are false posts about shelter dogs. Yeah, they're being shared in a Facebook group claiming sadl looking dogs are about to be euthanized. The shelter says the photos are manipulated and in some cases the dogs have already been adopted. ABC7 Eyewitness News reporter Suzanne Fawn found out tonight that San Jose is not the only shelter to be targeted. An AI generated photo of a sad dog and a call for people to act fast because the shelter dog Lumi at San Jose Animal Care Center could be put down. The shelter says it's fake. Flooded with calls and the dog had already been adopted. Not in danger of euthanasia. San Jose officials say it's a scam and scammers are trying to get donations or likes or reposts. The Facebook group Saving Shelter Dogs from Euthan Asia recently posted Lumi's doctorred photo, but with the dog's real name and ID number. Here's the fake photo and animal services real photo. A few weeks before the fake Lumi post, there was a fake post about another shelter dog, a Dalmatian. The shelters faced criticism from animal advocates following a 2024 audit, but says these posts are also inaccurate about their policy. Our shelter does not euthanize first space. At least one other shelter has been targeted by the same scam. It's horrible. Ventura County Animal Services says a photo of one of their shelter dogs was doctorred up and the same plea for help was made
+[...middle cut...]
+ook like they may they may be crying a little bit and it gets people very upset. Both shelters posted their animals in question have been adopted. Tech expert San Jose professor Ahmed Bonafa says AI is getting better and more convincing. How many times you heard somebody whenever they see a video they say this is real or AI? Bonafa says watch out for red flags. time limit and give me money. Those are two red flags here. Bonafa also says don't take anything at face value. Verify everything. You see it, you hear about it. Just think twice before you take action. We did reach out to the Facebook page via direct message but did not hear back. In San Francisco, Suzanne Fawn, ABC7 Eyewitness News.
+
+=== ID: v4sFpuSybOM ===
+TITLE: Bill Burr on The A.I. Robot Scam
+DESC: From  @BillBurrOfficial - Thursday Afternoon Monday Morning Podcast 4-23-26 | Bill Burr Full Live Episode Here: https://youtu.be/-ywkYSoVdjw  Merch ▶ https://billburrmerch.com/ Tour Dates ▶ http://www.billburr.com/tour YouTube ▶ https://www.youtube.com/@BillBurrOfficial Instagram ▶ https://www.instagram.com/wilfredburr/ X ▶ https://x.com/billburr More Bill ▶ http://billburr.com   #billburr #standupcomedy #comedy #ai #robots
+KEYWORD: AI scam
+VIEWS: 1162
+TRANSCRIPT: Go out and go see human beings in movies while you still can. [laughter] I saw this stupid thing the other day. They're saying this [ __ ] robot ran a half marathon in 50 minutes. So what? And first of all, how do I know it ran the whole [ __ ] thing? I wasn't there. I swear to God, I I am starting to think this AI [ __ ] and all of this robot [ __ ] they're just hyping this [ __ ] up because everybody what they're trying to do is to get some dumbass to pay $500 million for their [ __ ] app or their technology cuz all of these billionaires, they [ __ ] know that at any second the landscape can change, you know? And I remember Jimmy I one time I saw him on this great thing like they did this whole thing on him and he was talking about I forget what it was some new music technology came out and he was he was like what what is that what is that cuz I don't want to be the last guy trying to sell a CD [laughter] and that just I remember that stayed with me like the brilliant business mind of that guy and then also like you know you have this idea that oh man you make a billion dollars you got your business, you're just [ __ ] cruising. It's just like, no, no, that this [ __ ] just keeps going. It's funny out of all that whole thing that that was a great documentary with him uh and Dr. Dre and the two quotes I remember is, "I don't want to be the last guy selling a CD and Dr. Dre going, I wear the same [ __ ] thing every day." [laughter] I don't know why [sighs] those two things [ 
+[...middle cut...]
+ idea that we're just going to be walking around with with like robots and and and like you know people are going to fall in love with them and all of this [ __ ] that they're none of that. None of that's going to happen. the way we're destroying this [ __ ] planet and the amount of raw materials that it would take to create an entire [ __ ] everybody's going to have a [ __ ] robot, you know, that's going to go clean the gutters or you can have sex with it or whatever the [ __ ] they're selling you, you know, all of this [ __ ] crazy [ __ ] It's not going to happen. [laughter] Do you remember in the late 90s when Pets.com went for like $50 million? I This This feels like another one of those
+
+=== ID: uRPcF4lTdo4 ===
+TITLE: AI Scam Almost Fooled Them! 🐶💸 #shorts #short #youtubeshorts
+DESC: The News Network Welcomes You, AI Scam Almost Fooled Them! 🐶💸 #shorts #short #youtubeshorts  #thenewsnetwork #subscribe   AI Scam Almost Fooled Them! 🐶💸 #shorts #short #youtubeshorts  A family got a call saying their missing dog needed urgent surgery… with a photo sent as proof! 😳 But something felt off. Turns out it was an AI scam trying to steal money. Days later, their dog walked back home safely. Stay alert—scammers are getting smarter! ⚠️  The News Network,shorts,shortsvideo,ytshorts,shorts
+KEYWORD: AI scam
+VIEWS: 3
+TRANSCRIPT: It's a black male caper stranger than fiction. This couple says they returned home to find their beloved dog missing from their backyard. We were so scared. We didn't know what had happened to him. Then came a phone call. Their 11-year-old beagle mix named Archer had been found. They say they were sent this photo showing the poor pooch with a terrible wound being prepped for surgery. Bill and Allison Cousins say the caller identified himself as a vet and said Archer had been run down by a car. He was going to have to have surgery cuz he had a broken femur and a dislocated shoulder. And we were like, "Yes, yes, whatever. Whatever needs to be done." Archer's panicked owners were told the surgery would cost $2,746. they were willing to pay up, but then they realized some things just didn't add up. First, they received a text instructing them to pay with Walmart or CVS gift cards. Then, they were sent another photo of Archer posts surgery, this time with fancy bandages. I'm like, this is exactly the same as the first picture, just the two doctors had moved. And look at the date on the X-rays. It says 12212022. Wow. Almost four years ago. Correct. Turns out the photos were entirely AI generated. The AI scam failed, but the heartbroken owners were still missing their dog, Archer. Then 4 days later, Archer suddenly showed up at their front door in Deltona, Florida. Here he is. Hey, Archer. Archer. Without being able to make a buck, the dognapper apparently decided to return Archer. Archer. Heyy. How do you try to take advantage of people when they're at their most vulnerable? Like that's disgusting.
+
+=== ID: yCN9igdCY-w ===
+TITLE: AI robo calls can now steal your voice to scam your family, friends
+DESC: Streaming now at https://abc7chicago.com/watch/live/11064984/.  AI phone scam calls can now uses clips of your voice as short as 3 seconds to create convincing fakes for robocalls and imposter scams, experts warn. https://abc7chicago.com/post/ai-phone-scam-calls-mimicking-voice-scam-family/14847406/
+KEYWORD: AI scam
+VIEWS: 10995
+TRANSCRIPT: RO 
+ >> 
+ SH 
+ AN 
+ CA 
+ AN 
+ EX 
+ A  
+ ME 
+ DI 
+ TO 
+ TE 
+ TO 
+ JA 
+ AC 
+ ME 
+ PA 
+ AN 
+ FO 
+ CR 
+ DO 
+ SE 
+ SO 
+ AN 
+ WO 
+ IN 
+ CH 
+ TR 
+ TH 
+ CA 
+ MA 
+ SO 
+ VO 
+ SA 
+ TH 
+ CL 
+ ME 
+ PL 
+ EX 
+ AC 
+ FR 
+ RE 
+ FO 
+ WE 
+ LI 
+ CO 
+ BY 
+ >> 
+ SA 
+ RA 
+ >> 
+ >> 
+ WO 
+ TH 
+ >> 
+ >> 
+ >> 
+ AN 
+ YE 
+ HA 
+ YO 
+ TH 
+ >> 
+ WH 
+ PL 
+ >> 
+ BE 
+ >> 
+ SA 
+ TO 
+ PE 
+ SA 
+ MA 
+ IM 
+ CO 
+ >> 
+ FT 
+ HA 
+ SC 
+ BE 
+ TO 
+ >> 
+ RE 
+ ME 
+ HA 
+ TO 
+ JU 
+ PO 
+ VO 
+ CO 
+ EV 
+ MA 
+ >> 
+ HE 
+ FU 
+ >> 
+ JA 
+ CH 
+ RE 
+ DE 
+ AC 
+ TO 
+ PR 
+ VO 
+ PO 
+ >> 
+ MA 
+ IN 
+ >> 
+ RE 
+ >> 
+ SC 
+ LO 
+ >> 
+ CA 
+ PE 
+ WO 
+ SI 
+ WO 
+ HI 
+ >> 
+ IL 
+ IM 
+ OR 
+ CO 
+ IM 
+ CH 
+ YO 
+ ME 
+ OR 
+ TH 
+ WH 
+ SC 
+ CA 
+ AN 
+ FO 
+ IT 
+ IT 
+ SA 
+ >> 
+ >> 
+ CA 
+ SO 
+ GO 
+ JO 
+ >> 
+ IN 
+ >>
+
+=== ID: 3DN4hmy8mVc ===
+TITLE: AI EARN || Big Scam होने जा रहा है || हो जाइये सावधान || Withdrawal Stop || big Updete
+DESC: AI EARN || Big Scam होने जा रहा है || हो जाइये सावधान || Withdrawal Stop || big Updete  Aiearn Plan  Ai Earn se paise kaise kamaye  ai earn plan hindi me Ai Earn Plan Whiteboard Me How To Earn Doller In Ai Earn  Ai Se Paise Kamane Ka Tarika Ai Earn Whiteboard Strategy  White board me Ai Earn Plan Thanks 🤩 for you 🙏 Your Queries: treasure nft real or fake treasure nft real or fake in india treasure nft real or fake hindi treasure nft real or fake full details treasure nft real or fake in india hi
+KEYWORD: AI scam
+VIEWS: 8044
+TRANSCRIPT: हेलो साथियों आप सभी को मेरा नमस्कार। मैं आपका दोस्त, आपका होस्ट महेंद्र सिंह रावत। आप सभी सफलता चाहने वाले दमदार लीडर्स का आज के मेरे YouTube चैनल पर मैं आपका वेलकम करता हूं, स्वागत करता हूं। चलिए साथियों आज हम बात करते हैं एक बड़े प्रोजेक्ट के बारे में जिसका नाम है एआई अरन। साथियों आज हम खुलासा करने वाले हैं और अभी उड़ती उड़ती जो हवा आ रही है उसके अकॉर्डिंग आज हम जो है बहुत बड़ा खुलासा आपके बीच में करने जा रहे हैं। साथियों अभी बहुत समय से लोगों से बहुत सारे जो लीडर्स हैं बहुत सारे जो लोग हैं अभी काफी लीडर से मेरी बातचीत होती है। तो दोस्तों अभी चारों तरफ जो है एआई अर्न एआई अर्न चल रहा है। लेकिन मैं आपको बता दूं आपकी जानकारी के लिए बहुत जल्दी यानी थोड़े टाइम के बाद में बहुत बड़ा बम फूटने वाला है और एआई जो टेलीग्राम के थ्रू जो बोट लगता है थोड़े टाइम के बाद में यह चीजें आपको नजर आने वाली नहीं है क्योंकि उसका मैं कारण आपको बताने वाला हूं। माय डियर फ्रेंड्स अभी हम बात करते हैं एआई अरन के बारे में। क्या बहुत बड़ा स्कैम होने वाला है? क्या कंपनी भागने वाली है? क्या सिस्टम जाने वाला है जो कि टेलीग्राम से चलता है? टेलीग्राम से वोट लगता है? क्या जितने भी लोग इसमें जुड़ चुके हैं उनके लिए भी एक इंपॉर्टेंट न्यूज़ है? और जो जुड़ने के लिए सोच रहे हैं, जो इसमें इन्वेस्टमेंट करने के लिए सोच रहे हैं, उनके लिए भी एक बहुत बड़ी सूचना है। क्या बड़ा स्कैम होने जा रहा है फिर से? क्या दोबारा फिर से एक बड़ा स्कैम होगा? यह कंप्लीट आज मैं आपको जानकारी देने वाला हूं। जी हां, मैं उसी एआई अर्न की बात कर रहा हूं जो डेली 6% 7% दे रही है। आप सोचिए आप जरा थोड़ा सा सोचिए। आज हम अगर बड़े प्रोजेक्ट की बात करें तो 
+[...middle cut...]
+अगर पहली बार आए हैं, तो चैनल को सब्सक्राइब जरूर करें क्योंकि बहुत सारी चीजें आने वाले समय में हम आपको बताने वाले हैं और सबसे बड़ी बात है हम बात कर रहे हैं एआई अरन। क्या स्कैम होने वाला है? तो बिल्कुल होना होगा साहब। बिल्कुल होगा। आप यह मत सोच के ज्वाइन होना कि कभी नहीं होगा। टेलर एनएफटी में भी हम लोगों ने यही सोचा कि नहीं होगा। लेकिन हुआ ना मैजिक एनft में भी हमने सोचा नहीं होगा। लेकिन हुआ ना ऐसी बहुत सारी कंपनियों में हमने सोचा नहीं होगा। लेकिन हुआ ना तो यहां पे भी कंफर्म होगा और कुछ ही समय के बाद आप देखना मैं दोबारा आपके बीच में वीडियो ले आने वाला हूं। चलिए साथियों आज की वीडियो यही एंड करते हैं। आपने सुना उसके लिए बहुत-बहुत धन्यवाद। नेक्स्ट वीडियो ट्रेजर एनएफटी की आ रही है। थैंक यू वेरी मच।
+
+=== ID: YvsR9j_bHYQ ===
+TITLE: AI-generated photo scam costs Facebook users thousands
+DESC: AI-generated photo scam costs Facebook users thousands  WGAL News 8 is your home for Pennsylvania breaking news and weather. For your latest Pennsylvania news and weather visit: https://www.wgal.com/  For licensing inquiries: https://www.wgal.com/licensing
+KEYWORD: AI scam
+VIEWS: 21770
+TRANSCRIPT: OF ONE AI GENERATED PICTURE ON
+SOCIAL MEDIA. AND BRIAN, THIS IS SCARY. IT IS SCARY. IT’S A VERY SERIOUS ISSUE. GUYS. YOU MAY NOT BE PAYING ANY
+ATTENTION TO IT, BUT ARTIFICIAL
+INTELLIGENCE IS HAVING AN IMPACT
+ON ALL OF OUR LIVES EVERY SINGLE
+DAY. ON ONE HAND, IT’S INCREASING
+PRODUCTIVITY, ACCURACY AND
+INNOVATION, BUT IT’S ALSO
+HANDING CRIMINALS AND SCAMMERS
+ONE OF THE MOST EFFECTIVE
+WEAPONS THEY HAVE EVER HAD TO RIP YOU OFF. I WOKE UP TO A MESSAGE FROM A
+GOOD FRIEND OF MINE SAYING,
+KATHY, DID YOU POST THIS ON HER
+FACEBOOK PAGE? KATHY METZ FOUND THIS MESSAGE
+THAT APPEARED TO BE WRITTEN BY
+HER, CLAIMING THAT HER UNCLE WAS
+BEING MOVED TO A NURSING HOME
+AND SHE WAS SELLING HIS
+BELONGINGS, INCLUDING A LIST OF EIGHT VEHICLES ON THE POST. A PICTURE OF KATHY SEATED NEXT
+TO AN ELDERLY MAN. I HAVE NO IDEA. NEVER SEEN HIM A DAY IN MY LIFE. I HAVE NO IDEA. BUT KATHY RECOGNIZED THE DRESS
+SHE WAS WEARING IN THE PICTURE
+FROM A PHOTO SHE HAD POSTED ON
+FACEBOOK. YES, ME AND MY DAUGHTER IN LAW
+WERE AT HER BRIDAL SHOWER AND I
+NOTICED THE DRESS AND I
+IMMEDIATELY SAID THAT IS MY
+DRESS. THAT IS MY PICTURE THAT IS NOW
+BEEN GENERATED INTO AN AI PHOTO
+WITH THIS GENTLEMAN THAT I HAVE
+NO IDEA WHO HE WAS. NOT ONLY WAS HER IMAGE
+DUPLICATED, BUT KATHY IS NOW
+LOCKED OUT OF HER FACEBOOK PAGE
+AND HER FRIENDS HAVE LOST
+THOUSANDS OF DOLLARS. BELIEVING THIS PICTURE OF KATHY
+IS REAL. I THINK PEOPLE NEED TO REALIZE
+WE’RE GETTING TO THE POINT WHERE
+SEEING AND HEARING IS NO LONGER
+BELIEVED. DOCTOR ROB OF DREXEL UNIV
+[...middle cut...]
+HE
+FOLKS, THAT WAY OF THINKING MAY
+ALMOST CERTAINLY NEED TO CHANGE
+FOR EVERYONE. THE VIDEOS AND THE PICTURES THAT
+YOU SEE ON YOUR SOCIAL MEDIA
+FEEDS SHOULD ALL BE QUESTIONED
+FROM THIS POINT FORWARD. IN THE WEEKS AHEAD, THE EIGHT ON
+YOUR SIDE TEAM WILL BE SHOWING
+MORE EXAMPLES OF AI BEING USED
+BY SCAMMERS. NEXT WEEK I’M GOING TO SHOW YOU
+HOW A DEEPFAKE VIDEO OF ME
+ACTUALLY SEVERAL DEEPFAKE VIDEOS
+OF ME WERE MADE IN JUST A COUPLE
+OF SECONDS RIGHT BEFORE MY EYES. WE’LL HAVE THAT NEXT WEDNESDAY
+HERE ON NEWS EIGHT. LOOKING FORWARD TO THAT. IT’S IMPORTANT ADVICE, BUT
+THERE’S SOMETHING REALLY SAD
+THAT WE HAVE TO ALWAYS HAVE OUR
+GUARD UP AT THIS POINT. BUT WE HAVE TO BE. WE DO HAVE TO CHANGE OUR WAY
+
+=== ID: aIKFYEpT-LY ===
+TITLE: Fresno doctor warns of AI scam impersonating him, targeting senior patients
+DESC: A local physician is urging patients to stay alert after discovering that someone used artificial intelligence to impersonate him online. The fake account targeted patients by promoting telehealth appointments in exchange for a fee.  Full story: https://www.yourcentralvalley.com/news/local-news/fresno-doctor-warns-of-ai-scam-impersonating-him-targeting-senior-patients/  Subscribe to CBS47 and KSEE24's YouTube channel: https://www.youtube.com/c/CBS47KSEE24?sub_confirmation=1
+KEYWORD: AI scam
+VIEWS: 438
+TRANSCRIPT: go 
+ of 
+ re 
+ >> 
+ lo 
+ so 
+ in 
+ on 
+ ta 
+ te 
+ ex 
+ >> 
+ th 
+ st 
+ th 
+ >> 
+ ab 
+ ph 
+ co 
+ lo 
+ th 
+ se 
+ re 
+ Ta 
+ it 
+ ab 
+ in 
+ fi 
+ ca 
+ th 
+ He 
+ ba 
+ ag 
+ ho 
+ ad 
+ wo 
+ it 
+ AI 
+ th 
+ pr 
+ el 
+ vi 
+ se 
+ we 
+ ad 
+ ha 
+ yo 
+ th 
+ sa 
+ of 
+ se 
+ an 
+ St 
+ no 
+ >> 
+ so 
+ Pe 
+ sc 
+ mo 
+ go 
+ Pe 
+ of 
+ mu 
+ an 
+ ea 
+ re 
+ hu 
+ vo 
+ >> 
+ re 
+ im 
+ se 
+ mo 
+ po 
+ am 
+ en 
+ to 
+ th 
+ ap 
+ th 
+ ba 
+ pr 
+ ol 
+ ca 
+ up 
+ >> 
+ ti 
+ im 
+ al
+
+=== ID: spnJIJHuaWg ===
+TITLE: Toronto police warn of scams related to AI
+DESC: John Musselman gives us the details of the TPS event for fraud prevention month where detectives shared new sophisticated AI scam methods.  Subscribe to CTV News to watch more videos: https://www.youtube.com/ctvnews  Connect with CTV News: For live updates and latest headlines visit: http://www.ctvnews.ca/  For breaking news, fast, download the CTV News App: https://www.ctvnews.ca/app Must-watch stories and full programs at http://www.ctvnews.ca/video  CTV News on TikTok: https://www.tiktok.com/
+KEYWORD: AI scam
+VIEWS: 13531
+TRANSCRIPT: Well, Michelle, we uh heard from detectives today who talked about how sophisticated this is all becoming because of AI. Uh we'll show you some video. Of course, a lot of people are are posting information online on all kinds of different sites. And what criminals are doing is using that information against us. And in some cases, uh they're using AI to replicate a voice maybe of a family member or of a a banking representative to try to scam you out of thousands of dollars. So what police are saying is people need to be careful uh a pause before they hear from anyone who calls them claiming to be someone in a family or a bank or a financial institution. And uh this sophistication is just getting uh worse and it's costing millions and millions of dollars in losses to uh many people that we've seen in stories over the years. Here's what the detective had to tell us just a short time ago. My key message today is this. Fraud prevention is no longer only about protecting your information. It's about verifying identity. Much of the information criminals use is readily available through past data breaches, [snorts] fishing attempts, or publicly accessible sources. So if someone contacts you urgently about money, personal information or access to your accounts, pause and verify. Remember, do not rely on caller ID. Do not rely on voice recognition. Do not rely on familiarity because all of these things can be manipulated. And that includes what you're posting on social media sites, detectives say, because uh that will be used and in many cases has been used against people to scam them. So people have to be careful of what they're doing online. Reporting live, I'm John Musleman. I'll send it back to
+
+=== ID: UzZyAUA0Xk4 ===
+TITLE: A.I. MAGA Girls Are Scamming Conservative Men - Weekly Weird News
+DESC: Sponsored by Chubbies - Chubbies is here to keep you comfy and looking good year-round. Get 20% off with code weird at chubbiesshorts.com/weird! #chubbiespod  Sponsored by HelloFresh - Go to HelloFresh.com/weeklyweird10fm now to Get 10 Free meals + Free Nutribullet® Ultra Plus+ 2-in-1 Compact Kitchen System (a $189.99 value) on your 3rd box. Free meals applied as a discount on the first box, new subscribers only, varies by plan. Disclaimer: Must order the 3rd box by May 31st, 2026. ■ Social medi
+KEYWORD: AI scam
+VIEWS: 60321
+TRANSCRIPT: We're living in a golden age of grifts and scams, and that's primarily thanks to generative AI, making it so easy to fool the average person who isn't constantly actively vigilant about that sort of thing. Yeah. The craziest examples are scammers successfully using generative AI voice and/or video to pretend to be someone's boss or relative and getting them to urgently hand over a bunch of money. But AI scams run the whole gamut from truly evil at one end all the way to what might even be considered cool crimes at the other end. And today we're going to look at one such cool crime. Though to be clear, it's not even illegal. It's just dishonest. And the victims are people we have no sympathy for. So bum bum cool crime. One defining trait of MAGA Republicans is their credulousness. They'll believe anything so long as it aligns with their preconceived notions and makes them feel good. If it makes them feel horny, even better. You know what? That's a bonus. So, one of the easiest grips to pull on these people is to be a young, attractive woman who pretends to believe all the same [ __ ] that they believe. But what if you're not a young, attractive woman? Well, that's where the AI comes in. Don't worry, you can be anything. Uh, is this drag? No. No. This is good oldfashioned Republican impersonation. We like it. So, this week, Wired published a fantastic article about how a broke 22-year-old medical student in India found a lucrative source of income by pretending to be a hot Amer
+[...middle cut...]
+ of like industrial and electronic and metal. Someone will put it in the comments. Just look for chicken playing piano metal music. You'll find it. Anyways, that's it for this week's episode of Weekly Weird News. We hope you enjoyed yourself. We hope that you don't follow any of our advice or ideas that we came up with. Don't steal. Don't scam. Just don't. But you can buy a shirt that says don't on it if you go to internettoday merch.com. Check that out. Uh, also we have so many videos for you to watch if you somehow fell asleep this week and just woke up. There's a lot for you to catch up on. Check those videos out. Make sure you leave this video a like and a comment and we'll see you soon.
+
+=== ID: UXj-hql2C3Y ===
+TITLE: AI Earn Scam | TP Bot AI EARN Update | The Abhishek Samaniya
+DESC: AI Earn Update | AI EARN Withdrawal | TP BOT AI Earn Latest Update | AI Earn Withdrawal kaise kare | AI Earn Scam | AI Earn TP Scam | Telegram AI Earn Scam   ________________________________________________________  About Us - Abhishek Samaniya is the youngest entrepreneur & Digital Marketer. Having more than 7 Years of Experience in Sales & Marketing. He also works in the MLM Industry to educate people & make them wealthy. He is having a dream to make the biggest community of India.  Disclaimer
+KEYWORD: AI scam
+VIEWS: 11588
+TRANSCRIPT: दोस्तों नमस्कार आपका स्वागत है आज इस वीडियो में। आज हम बात करेंगे एi अर्न के बारे में। हो सकता है आपको बैकग्राउंड या हो सकता है इस तरीके के वीडियो पसंद ना हो। बट ये ब्लॉगिंग स्टाइल में एक अर्जेंटली वीडियो मैं बना रहा हूं। सेटअप से बहुत दूर हूं। ऑटो आउट ऑफ स्टेशन हूं और बताना चाहता हूं एi अर्न के बारे में कुछ लोगों का अपडेट और बेसिकली क्या है कि मेरे कुछ टीम के मेंबर्स भी एआई अर्न को कर रहे थे। थे इसलिए बोल रहा हूं क्योंकि अभी कुछ ना कुछ इंफॉर्मेशन आपको मेंटेनेंस वाली मिल चुकी होगी कि एi अर्न का पूरा सिस्टम मेंटेनेंस पे है और उसकी वेबसाइट ओपन नहीं हो रही कुछ लोगों के लिए ओपन नहीं हो रही कुछ लोगों का विथड्रॉल स्टार्ट है मतलब ज्यादातर लोगों का विड्रॉल ही रिसीव नहीं हो रहा जो अपडेट आ रहा है मैं आपको साइड में शो करूंगा और सबसे बड़ी बात ये है आज की डेट में कि डेली का 6% वो रिटर्न दे रहा था डेली का 6% tlegram पर जैसे कि हमें मालूम है कि इस इंडस्ट्री के अंदर कहीं ना कहीं कुछ प्लेट प्लेटफार्म डिसेंट्रलाइज तरीके से ब्लॉकचेन के ऊपर ब्लॉकचेन के ऊपर चलते हैं। वॉलेट्स के ऊपर चलते हैं। कुछ वेबसाइट के ऊपर चलते हैं। कुछ नया तरीका निकाला जाता है टेलीग्राम के ऊपर चलने वाला। आपको भी मालूम है रिसेंटली कई सारे ऐसे चीजें आई थी टैप टू अर्न वाले जिसमें क्लिक करते रहो आपको कॉइंस मिलते हैं। ऐसी बहुत सारी चीजें बहुत सारी वेबसाइट्स बहुत सारे प्रोजेक्ट्स Telegram के ऊपर चल रहे थे। तो एक नया एक टीपी बॉट करके एi अर्न के नाम से प्रमोट किया गया और tlegram के ऊपर चलाया गया। कोई वॉलेट नहीं लगता कुछ नहीं लगता। डायरेक्ट Telegram से स्टार्ट हो जाता है और अकाउंट सीधा क्रिएट हो जाता है जिसमें डेली का 6% का रिटर्न आप
+[...middle cut...]
+ोंकि आदमी की पॉकेट तो कभी भरती नहीं। वो तो बढ़ता ही रहता है। तो उस बिहाफ पर आदमी डूब जाता है। 99.99% लोग इसलिए डूब जाते हैं जो पैसा सिर्फ निवेश करके रखते हैं। और जो वही है कि जो लगवाते हैं दूसरे से खुद नहीं लगाते वो बच जाते हैं। तो चैनल को सब्सक्राइब करके रखिए और मैं यह कहूंगा कि इस तरीके के अपडेट्स तो अपडेट्स देने के लिए ये चैनल नहीं है। बट हां एक बेहतर अपॉर्चुनिटी आप तक पहुंचाने के लिए चैनल बना हुआ है। इसमें बहुत सारे अपडेट्स आपको मिल सकते हैं। तो चैनल को सब्सक्राइब करें। वीडियो पसंद आए तो आगे शेयर कर सकते हैं। बाकी मिलते हैं अगली वीडियो में। हेल्थ थोड़ी सी खराब है, आवाज खराब हो तो उसके लिए माफी चाहूंगा। मिलते हैं अगली बार। तब तक के लिए जय हिंद, जय भारत, वंदे मातरम। थैंक यू। थैंक यू सो मच।
+
+=== ID: jfRseAENrik ===
+TITLE: Georgia father warns of AI scam after he transfers $2,500 into caller's bank account
+DESC: An alleged kidnapping scam is nothing new. Advanced technology, however, can help make the calls scarily realistic. ----  11Alive is Where Atlanta Speaks. We believe that news shouldn’t be a one-way conversation, but a dialogue with you. Join in, share your thoughts and connect with new perspectives.  Subscribe to 11Alive for exclusive content: http://bit.ly/11AliveSubscribe   Download our 11Alive News app: https://interactive.11alive.com/appredirect/  Text "plus" to 404-885-7600 to download 11A
+KEYWORD: AI scam
+VIEWS: 599
+TRANSCRIPT: And this afternoon, a dad has a warning about
+scammers in Metro
+Atlanta who are using artificial
+intelligence to make their
+demands more believable. We're talking about Dale Heron. He says he usually doesn't
+answer calls from
+unknown numbers. But last Thursday, someone
+called three separate times, he picked up just in case a man
+on the phone claimed to
+have his daughter. And while the story involving a
+car wreck and cocaine
+didn't make sense. He says he recognized his
+daughter's voice. That's
+what convinced him. He rushed to transfer $2500 A I, they were able to replicate her voice somehow.
+They knew she was
+in Atlanta. They very well may have known
+that she was going
+to the airport. There was no question in my
+mind that that
+was her. But you know, again, I couldn't
+check, I couldn't
+find out and this is not the first time
+that this has happened. Dale did report this
+to Atlanta police. The BBB says most of these
+transactions are untraceable.
+
+=== ID: ksiwtXCFGwg ===
+TITLE: Lotto Cash AI App 'Shark Tank' Lottery Scam Exposed
+DESC: If you’re searching for Lotto Cash reviews and complaints, Lotto Cash scam, Lotto Cash legit, or Lotto Cash “Shark Tank,” this video breaks down what’s really going on with the Lotto Cash AI lottery system being promoted online. I analyze scam marketing videos that falsely claim Lotto Cash can predict Powerball and Mega Millions numbers using a so-called “lottery gap” powered by artificial intelligence. These ads misuse footage of a man named "Ryan" from “Shark Tank,” “Real Time with Bill Maher,
+KEYWORD: AI scam
+VIEWS: 3607
+TRANSCRIPT: Right off at the top of this video, this is all 
+about something I saw going around online called   Lotto Cash. So, if you're looking for Lotto Cash 
+"Shark Tank," Lotto Cash reviews and complaints,   whatever it may be, there's a video going 
+around online claiming this is going to help   you win the lottery multiple times and it's 
+a Lotto Cash AI app or program or system,   and it's got "The Rock" involved and Elon Musk 
+and "Shark Tank," and that's all fake, fraudulent,   and incorrect and scammy. Dr. Leonard Voss has 
+nothing to do with this. Whoever that person is,   it might be a fake person altogether. Let's watch 
+the video right here on my screen. "This new AI   makes even the unluckiest person hit at least 
+four Powerball numbers every single week without   relying on luck. So today, Sharks, I'm going to 
+present to you this AI that predicts the winning   numbers and which I already consider the biggest 
+'lottery loophole' of all time." "Okay, Ryan,   you have 30 seconds to explain this AI to us." 
+"I know this may sound crazy, but in the age of   artificial intelligence, anything can happen. 
+And this is happening. Lottery drawing." So,   this is an AI-generated—not AI-generated, 
+deepfake visuals, meaning manipulated lip   movement with AI-generated audio. That guy has 
+likely been on "Shark Tank." I haven't done,   like, a reverse image search. He probably was on 
+there to pitch something having to do with farms,   like some way to, you know, speed up farm 
+prod
+[...middle cut...]
+ allows them   to "pig butcher" you. It's what it's called—a pig 
+butchering scam—and then they can get money from   you when in reality—not reality—the whole time 
+you thought you were going to win money from them.   That's the scam. They're going to make you think 
+that or they're just going to charge your credit   card a bunch of money here right off the bat. 
+This is not good. Stay far away from these sorts   of things. I wish there was a trick to win the 
+lottery. Of course, everyone does. If it existed,   would you really be finding it in a Facebook ad 
+that leads to a scammy website with deepfakes of   celebrities? No. Like, comment, subscribe, 
+join button and thank you for watching.
+
+=== ID: jlNwmFhyGgs ===
+TITLE: Koupil jsem si AI SCAM produkty... co přišlo?
+DESC: 👕 Oblečení pro NETOPÝRA: https://www.realgeek.cz/135-attack  😎 Staň se členem Netopýre: https://www.youtube.com/channel/UCMxStfOxJOaE-RRkjFwUQtg/join  📸 Můj Instagram: https://www.instagram.com/attackkk_/ 🎶 Můj TikTok: https://www.tiktok.com/@attackkk?  📞 Email: Attack.biz@gmail.com (pro spolupráce a obchodní nabídky)  📋 Doufám, že jste si dnešní video užili.🥰  Určitě zanech odběr a zvoneček ať ti nic neunikne a podpoříš tak i mou tvorbu.🦇💜 🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇 #attack
+KEYWORD: AI scam
+VIEWS: 311930
+TRANSCRIPT: Internetové obchody jsou plné podvodů. Někdy si objednáte naprosto boží oblečení a přijde vám todle. Ou. Nebo někdy si něco objednáte, zaplatíte předem a nikdy vám to nepřijde. Každopádně, co říkáte na tydle AI reklamy, které nabízí naprosto boží a nerealistické produkty? Já a Terezka jsme na tydle reklamy klikli a všechny tydle AI produkty jsme si pořídili. Přijde nám to stejné, co na obrázku nebo na videu? To se dneska dozvíme. Každopádně ještě napište todle jméno dolů do komentu a já vám dám srdce. Jdeme na to. První věc, co jsme našli na internetu jako AI reklamu, byly tydlety krásný nehty. Ty bych si je reálně chtěla nechat dodělat. Jsou nádherný, ale viděli jsme ještě jedny, který byly ještě více nereální a to byly tydlety vodní nebo jak to říct, prostě nehty jako akvárium. Reálně to vypadá, jako by tam ta ryba opravdu byla. Ale i kdybysme to brali z toho hlediska, že tam ta ryba v tom neplave, tak i tak je to extrémně fake. Mám tu malou krabičku, ale ještě ji nebudu otáčet. Tydlety nehty jsou úplně to nejlevnější, co tady dneska máme a stály kolem 30 Kč. No nic, jdeme se na to podívat. Rodi. Do prčic, lidi, to vůbec není stejný. To je nejhorší tisk. Oh my God. Koukejte, mají to dokonce nějaký spnehty. Tak jsme připravený dračice a můžem vám ukázat teda nehty. Nevím, proč jsem si to dal já na ruku, ale už jsem začal. A nejde to dolů. Co teď z nás divy na terečiné ruce? To vypadá samozřejmě o dost hezčejc. Ty obrázky jsou opravdu opravdu ší a nejenom, že ten tisk je špat
+[...middle cut...]
+ě. Je tam opiradlo, je tam sedátko, jo, je to modrý, je to průhledný jako tam. A to je možná všechno, co to má podobnýho. Ale hlavně, jestli se tam něco vleze, tak je to jenom ráďová prdelka. Koukejte na tu krásku. Vůbec to nevypadá jako věc, co jsme si objednali. Kdybych tam napustil vodu a dal tam rybičky, možná by to bylo o něco podobnější, ale teď rozhodně ne. Ale jdu si na to zkusit sednout. Eh no jakoby, že by to bylo extrémně pohodlný, to asi ne, ale do moře dobrý. Já si myslím, že se na tom nedokážu udržet podle mě dávám určitě fake. No tak jo, to byly teda všechny produkty z AI reklam. Některý dopadly líp, než jsme si mysleli a ty jiný zase ne. Mějte se krásně. Učet, prosím. [hudba]
+
+=== ID: 6U_7JAerOXg ===
+TITLE: AI scam calls
+DESC: I gave you guys some bloopers in there.
+KEYWORD: AI scam
+VIEWS: 18
+TRANSCRIPT: All right. I don't know if this has already happened to you, but if it has, uh I'm sorry. Um but basically, if you or your loved one has uh video of them talking on the internet, whether it be Facebook, Instagram, whatever, you are at risk of having a phone call from an AI version. Basically, scammers take the those videos and run it through AI to make a perfect voice replica and say call you saying through the random phone number saying that they've been in a car crash or something and are using a stranger's phone to contact you. Now, obviously this the AIS might be a little bit off and you might be able to notice it, but if you don't, I am sorry. Uh, but you're just kind of bad at listening to things. But I don't know this because I researched this. I actually know this because it happened to one of my friends basically. So, they were just hanging out and their phone started ringing. It was their mom saying that they've been in a car crash was calling off a stranger's phone. And guess who was in the room with them? So they kind of just played along till the scammer asked for important things and that's when they said the greatest two words in existence. Then hung up and just laugh. Anyway, so now you know about the So basically now you know about the So basically now you know about the AI voice scam calls. And if this has happened to you and you fell for it, I'm sorry. If it if you this has happened to you and you didn't fall for it, congratulations. You get A+. All right. Anyway, now you know about that. Stay safe out there, guys. Why haven't I stopped the video yet? What the [ __ ]
+
+=== ID: FE1r98G5IG8 ===
+TITLE: Scammer Uses AI To Try To Swindle Family After Their Dog Disappears
+DESC: Bill and Allison Cosens say they got a phone call saying their missing 11-year-old beagle-mix named Archer had been found. They say they were sent a photo of the dog being prepped for surgery with a wound. The couple says the caller identified himself as a vet and said Archer had been run down by a car. The owners were told the surgery would cost $2,746. They were willing to pay, but then they realized that some things did not add up. Four days later, Archer suddenly showed up at their front doo
+KEYWORD: AI scam
+VIEWS: 63780
+TRANSCRIPT: Now, a case of doggy blackmail. A family gets a call that their dog was hit by a car. They say they were even sent this photo of their dog undergoing emergency treatment at a vet, but it was all fake. The photo AI. Les Trent tells us what's really going on. It's a black male caper stranger than fiction. This couple says they returned home to find their beloved dog missing from their backyard. We were so scared. We didn't know what had happened to him. Then came a phone call. Their 11-year-old beagle mix named Archer had been found. They say they were sent this photo showing the poor pooch with a terrible wound being prepped for surgery. Bill and Allison Cousins say the caller identified himself as a vet and said Archer had been run down by a car. he was going to have to have surgery because he had a broken femur and a dislocated shoulder. And we were like, "Yes, yes, whatever. Whatever needs to be done." Archer's panicked owners were told the surgery would cost $2,746. They were willing to pay up, but then they realized some things just didn't add up. First, they received a text instructing them to pay with Walmart or CVS gift cards. Then they were sent another photo of Archer posts surgery, this time with fancy bandages. I'm like, this is exactly the same as the first picture, just the two doctors. And look at the date on the X-rays. It says 1221 2022. Wow. Almost four years ago. Correct. Turns out the photos were entirely AI generated. The AI scam failed, but the heartbroken owners were still missing their dog, Archer. Then 4 days later, Archer suddenly showed up at their front door in Deltona, Florida. Here he is. Hey, Archer. Archer. Without being able to make a buck, the dognapper apparently decided to return Archer. Archer. Heyy. How do you try to take advantage of people when they're at their most vulnerable? Like that's disgusting. Archer's owners think he was confined because he's walking like he sore. The sheriff's department is investigating.
+
+=== ID: 6SUAKsy_XrU ===
+TITLE: Former TV meteorologist battles AI sextortion scam
+DESC: A Nashville mom and former TV meteorologist says she's the victim of an online sextortion scam. Bree Smith spoke to "CBS Mornings" about how she's fighting back after her image was doctored into explicit pictures and videos for money. It's a scam the FBI says targeted tens of thousands of Americans last year.  Each weekday morning, "CBS Mornings" co-hosts Gayle King, Tony Dokoupil and Nate Burleson bring you the latest breaking news, smart conversation and in-depth feature reporting. "CBS Mornin
+KEYWORD: AI scam
+VIEWS: 21082
+TRANSCRIPT: mother and a former TV meteorologist say that she's been battling online scammers for months now. Brie Smith is her name. She says her image was doctorred to create explicit pictures and videos and then they were used to try to extort money from others. The FBI says sextortion scams, that's what they're called, have been targeted tens of thousands of Americans in just the past year. First on CBS Morning, Smith sat down with Nicole Valdez to tell how she is fighting back. Strongest winds expected to be in downtown within the next 10 minutes. For nearly a decade, Brie Smith was a familiar face in Nashville. I cry myself to sleep most nights, mostly because I don't want my kids to see me. But in January, she stopped appearing on the local CBS station. A decision she made after months of fighting against deep fakes, simulated online images or videos that can seem realistic. When did you first realize that there was something wrong happening? Yeah, I got an email from someone saying, "Bri, I think you should know that there's an impersonator." The deep fakes quickly multiplied, offering private dinners, even intimate acts in exchange for hundreds of dollars, and targeted anyone who might recognize her. This is a Google sheet. Only a week old and in a week there are 24 and I don't catch all of them. 24 different accounts. Mhm. Yes, dear. It is me. It is really me. I hope she showed us this video which was fabricated to portray her saying something she didn't. I mean, you're basical
+[...middle cut...]
+is change is coming nationally. A bill known as the take it down bill just passed Congress this week. It would criminalize making deep fakes and so-called revenge porn. Tony Nicole, thank you very much. Appreciate it. I mean, that if Congress can get their act together, it sounds like they need to take action. That video that we saw there was so realistic. Real even the way it was shot, but I think it's great. As hard as hard as it is for her, I think it's great she's speaking up. They hope that most people won't speak up because you'll be too embarrassed. It's so great that she's speaking up. That's mortifying what happened to her and mom. Absolutely. It really is. You go, Bri. Yes, Nicole.
+
+=== ID: vL7fxxXj3Y8 ===
+TITLE: Florida tolling company or AI scam? Here's how to spot the difference
+DESC: CBS News Miami's Austin Carter shows us how artificial intelligence is being used in helping the scam and how you can protect yourself.    For video licensing inquiries, contact: licensing@veritone.com
+KEYWORD: AI scam
+VIEWS: 2882
+TRANSCRIPT: >> 
+ ME 
+ TH 
+ PR 
+ TH 
+ >> 
+ TH 
+ ON 
+ MO 
+ CB 
+ SH 
+ IN 
+ TH 
+ YO 
+ >> 
+ RE 
+ SU 
+ RI 
+ MI 
+ TU 
+ A  
+ WO 
+ >> 
+ >> 
+ FR 
+ ME 
+ TH 
+ OV 
+ TE 
+ TH 
+ >> 
+ >> 
+ SC 
+ TH 
+ >> 
+ UP 
+ DR 
+ TH 
+ >> 
+ FU 
+ IM 
+ TH 
+ AT 
+ EA 
+ FR 
+ TA 
+ JU 
+ PA 
+ TH 
+ OU 
+ WI 
+ TH 
+ EV 
+ CB 
+ FR 
+ ID 
+ TH 
+ NO 
+ HA 
+ DR 
+ MA 
+ RO 
+ >> 
+ TH 
+ YO 
+ >> 
+ SA 
+ OB 
+ WO 
+ NO 
+ TO 
+ IT 
+ MO 
+ CR 
+ EF 
+ SC 
+ AM 
+ SE 
+ FL 
+ HO 
+ WE 
+ YO 
+ NE 
+ ME 
+ IT 
+ RE 
+ FA 
+ AN 
+ YO 
+ UP 
+ TE 
+ TH 
+ WI 
+ AN 
+ >> 
+ AN 
+ IT 
+ BL
+
+=== ID: ctGgEhkpdE4 ===
+TITLE: The $1.6M AI Scam: How to Spot & AVOID New Investment Fraud
+DESC: Greeting Hello Alpha Wealth Strategy community! 👋 Online scams are evolving fast — and AI is making them more convincing than ever.  In this video, we uncover the shocking case of a 76-year-old who lost $1.6 million to a sophisticated AI-powered investment scam. More importantly, we break down how these scams operate, the psychological tactics used to manipulate victims, and the critical red flags you MUST recognize to protect yourself and your loved ones. Learn how to stay alert and safeguard y
+KEYWORD: AI scam
+VIEWS: 4
+TRANSCRIPT: Hey everyone and welcome to Alpha Wealth Strategy. Today we need to talk about something incredibly serious and frankly terrifying. A 76-year-old man, Ron Williams, just lost his entire life savings, a staggering $1.6 million to an AI investment scam that started with a simple text message. This isn't just a one-off tragedy. It's a chilling preview of the new wave of sophisticated fraud plaguing the internet, designed to trick even the most cautious among us. In this video, we're going to dive deep into exactly how these AI scams work, expose the psychological tricks they use, and most importantly, give you the actionable steps and critical red flags you need to protect yourself, your family, and your hard-earned money. Ron Williams story is a heartbreaking example of the pig butchering scam model. It wasn't a quick hit. It was a long game con built on trust. He was targeted as a senior, a demographic scammers often perceive as wealthy but potentially less techsavvy. The scam didn't start with a demand for money. It started with rapport. These criminals use AI to automate the initial outreach, making it look like a personal accidental message that leads to a friendly conversation. Once the connection is established, the AI lure comes into play. They introduce the victim to a fake investment platform. They claim it's powered by advanced proprietary AI algorithms that guarantee massive returns with zero risk. The scammers provide victims with login credentials to these fake sit
+[...middle cut...]
+Ron Williams is a tragedy, but it can serve as a catalyst for awareness. The landscape of fraud is changing with AI, and our vigilance must evolve with it. Don't let the promise of easy money blind you to the reality of digital theft. True wealth strategy is about long-term security and verified growth, not overnight miracles found in a DM. If this video helped you, please hit that like button and subscribe to Alpha Wealth Strategy for more essential tips on protecting your financial future. Share this with your family. It could save their life savings. Let us know in the comments if you've ever encountered a suspicious AI investment offer. Stay safe, stay smart, and I'll see you in the next
+
+=== ID: bP1tCcS9TqY ===
+TITLE: The Weird Indian Startup that Scammed Silicon Valley
+DESC: Building a real startup? Don’t fake it. Get the tools and guidance to actually make it.  🧠 Try Slidebean: https://yt.slidebean.com/sya Want more stories like this? The Startup Club breaks down the biggest wins, flops, and BS in tech every week.  🚀 Join here: https://yt.slidebean.com/quz  --  #slidebean #startups #ai #aifails   –  Subscribe to the Startup Club YT channel ► https://www.youtube.com/@StartupClubTV  –  Recommended videos: https://youtu.be/Ro4KM2vJDkY?si=DPfBvoaMYbmsZ4Y2 https://youtu
+KEYWORD: AI scam
+VIEWS: 109053
+TRANSCRIPT: In May 2025, two absurdly opposite things happened in tech. First, builder AI, a unicorn that had raised almost half a billion dollars in funding imploded because they were using humans instead of AI to do their work. I think people should forget the word coding. You're building a restaurant. You don't understand how the kitchen is built. On the other end, Duolingo had its worst PR crisis in history because the CEO said that they were going AI first, that they were going to use AI, not humans, for their courses. We're a company that really cares about our employees. This contradiction is the evidence of where we are now in tech, but also a symptom of the root problem, AI washing. And this playbook that startups need to use to get ahead cuz companies like Builder AI seem to prove writing this wave of slapping AI keywords on your product, stamping AI domains and labels works. So today I'm exploring some of these companies and how their founders managed to convince investors big tech sovereign funds to invest in companies that in the end are really just smoking mirrors. Pay no attention to that man behind the curtain. Let's first get on the same page about the builder AI story cuz these guys started this company before AI was cool or at least such a hot topic as it is today. It was first a pure unapologetic dev shop making beautiful software. But dev shops aren't sexy or venturebackable. They can't get sweet checks from tech investors because they just don't scale very well. So 
+[...middle cut...]
+me point of the journey by this ecosystem into pretending to be something that they're not. Whether it was to get rich while the hype was still there or to avoid failure cuz how far can never give up or don't take no for an answer go. If you take that sentence at face value, you could interpret it as lie about your metrics to raise money and keep the lights on. This video is going to be live on YouTube for a while. I might be very wrong about this. We'll have to wait and see. But in the meantime, you should look into our comparison between the dotcom bubble and today's bubbly behavior. Also, if you're a startup founder, don't forget to check out Slip Being. Catch you on the next one. [Music]
+
+=== ID: jG-sKci3BXI ===
+TITLE: Get These AI Scam Mobile Games
+DESC: The previous episodes: https://www.youtube.com/playlist?list=PLdEVTyXH1OBii7AVX6JWQIOSh9iPLFFFO #mobileads #scamad #aislop #mobilegame
+KEYWORD: AI scam
+VIEWS: 70
+TRANSCRIPT: You're coming with me. Help. Hey, Heat. Heat. Heat. Heat. Another night on the wall. Wait, is that a giant robot? Of course it is. Lincoln, wake up for the people. Hold it carefully, please. I'll show you. Leonitis, what a giant robot. Over there. Let's go. Boom. Oh, and what about this? No, no, no, no. New rule. What? Pyramid stays. You coming with me? I bring the old man. What? Why are you in my lab? Short version, giant robot. Long version, later. The wings are untested. So is the robot. Jump. I speak science. Science. Faster. Metal or flesh. Either way, it breaks. It's here. Eyes up. Build your city. Summon the legends. Let history take the hit. Heroes of history, play now. This new water tender is amazing. Now, if you haven't played Emergency HQ, it's the strategy game where you run the entire emergency response. firefighters, paramedics, police, every call, every decision is on you. And this right here is the airport crash tender. Compared to a regular water tender, this thing's on another level. It covers a much larger area, hits fires faster, and the extendable boom lets you spray from above with insane precision. It's basically like having multiple water tenders rolled into one. And there's also the turbo truck, which can pump huge amounts of water, but it needs a high-capacity hydrant, usually only found at airports or industrial sites. That's why the airport crash tender is such a big deal. When fires are massive and locations are remote, this truck saves the mission. And you can unlock it through special quests or grab it via inapp purchase. Either way, once you use it, you won't want to go back. So, if you like games that keep your brain busy and your heart racing, yeah, you're going to want to try Emergency HQ. Heat up here. What? Heat. Heat. Heat. Woo! Woo! Huh? Yeah. Play Klondike for free right now. Heat. Heat. Uh-huh. H. Uh-huh. Uh-huh. Uh-huh. Uh-huh. Yeah. Huh? H. Yeah. Mhm. Heat. Heat. Heat. Heat. Are you pregnant, officer? Help! Hey, heat. Hey. That's kind to win. I'll be doing a sp Heat Please Awat. Heat. Heat. Heat. Heat.
+
+=== ID: zb7grp0N7Ek ===
+TITLE: Can you spot an AI scam? | BBC Ideas
+DESC: Top tips for spotting AI scams, helping you and your family stay safe. Narrated by the BBC's Technology editor Zoe Kleinman.  Watch the other films in our AI series 👉 https://www.bbc.co.uk/topics/cxw2g82zr01t   Subscribe to BBC Ideas 👉 https://bbc.in/2F6ipav  Made by BBC Ideas in partnership with The Open University 👉 https://connect.open.ac.uk/bbc-ideas/science-technology-engineering-maths/   Animated by OOF Animation  00:00 Introduction to AI and fake content 00:20 Deep fake scam scenario 01:0
+KEYWORD: AI scam
+VIEWS: 11509
+TRANSCRIPT: Artificial intelligence
+is changing the world around us, and it's everywhere - on messaging
+and photo apps on our phones, on customer service phone lines
+and websites. And while it's very quick
+and potentially very useful, it also makes spotting scams
+and fake content trickier than ever. So what do you need to look out for? Imagine you get a frantic call
+from your friend. He's crying,
+saying he's stuck overseas, his wallet and phone stolen,
+and he urgently needs money. He's asking you to write down
+a bank account number and transfer some money right now. Before you grab a pen, ask yourself,
+"Is your friend really abroad? "Is he really in trouble?
+Is this really him?" In fact, your friend's voice
+could have been cloned and turned into something
+known as a deepfake. This is a way of using AI
+to try and mislead you, and it's scarily convincing. So it's definitely worth
+double-checking that your friend
+isn't actually happily at home and sitting in front of the telly before you start
+moving money around. Deepfake technology can also be used
+to create videos and images. A few years ago,
+these fakes had giveaways like strange facial movements
+or weird lighting. Now they're becoming
+worryingly realistic. Ever seen a social media post where
+someone's hands look oddly shaped or they have too many fingers?
+That's AI slipping up. But these mistakes
+are getting rarer. AI scams can also pop up
+when you're looking for love, maybe chatting with someone new
+on a dating app. AI-generated text
+
+[...middle cut...]
+ds
+could help them stay safe. In the UK, flagging suspected scams
+to the police via Action Fraud can help raise awareness
+and even get scammers shut down. And, finally, stay informed. Keep yourself updated
+on the latest deepfake technology and how it's being used. AI isn't going away, and while it brings
+exciting possibilities, it also requires us to be sharper,
+more aware, more thoughtful. So next time you're online
+and something feels off - pause, question, investigate. Critical thinking
+isn't just a skill, it's your best defence in a world
+where seeing or hearing is no longer believing. There's a lot more to AI than
+we can squeeze into a short film, but we hope this
+has given you a start.
+
+=== ID: RnWZ-kD6B1s ===
+TITLE: AI dog photo scam is on the rise in Fresno, vet warns
+DESC: A local veterinary clinic in Fresno is warning about a scam involving AI after they say an elderly man was contacted by someone claiming the clinic had his missing pet.  Full story: https://www.yourcentralvalley.com/news/local-news/fresno-veterinary-clinic-warns-of-ai-scam-after-man-contacted-about-his-missing-dog/  Subscribe to CBS47 and KSEE24's YouTube channel: https://www.youtube.com/c/CBS47KSEE24?sub_confirmation=1
+KEYWORD: AI scam
+VIEWS: 433
+TRANSCRIPT: to 
+ pi 
+ co 
+ it 
+ th 
+ to 
+ sc 
+ th 
+ im 
+ it 
+ tu 
+ Ho 
+ th 
+ pe 
+ Fr 
+ fr 
+ sc 
+ >> 
+ wh 
+ Fr 
+ fa 
+ An 
+ sh 
+ ca 
+ an 
+ cl 
+ ca 
+ >> 
+ co 
+ us 
+ he 
+ wa 
+ pi 
+ on 
+ ca 
+ at 
+ no 
+ ph 
+ ge 
+ >> 
+ mo 
+ co 
+ ho 
+ th 
+ th 
+ Wa 
+ >> 
+ co 
+ wi 
+ in 
+ lo 
+ wi 
+ sc 
+ ge 
+ >> 
+ en 
+ me 
+ gi 
+ th 
+ ph 
+ >> 
+ wi 
+ al 
+ to 
+ ur 
+ An 
+ go 
+ yo 
+ cr 
+ ca 
+ >> 
+ pe 
+ ho 
+ an 
+ ho 
+ pe 
+ he 
+ >> 
+ fo 
+ an 
+ we 
+ >> 
+ as 
+ tr 
+ yo 
+ yo 
+ co
+
+=== ID: LsNmODp5-MY ===
+TITLE: I Investigated VIRAL Ai Scam products!
+DESC: In this video I bought a bunch of Ai Scam products and tested them out. Some are actually cool and others were a complete SCAM. Thank you for watching!! :)  LOVE YOU GUYS instagram: https://www.instagram.com/annaaaltamirano/ for business inquiries: annaaltamiranollc@gmail.com   This video is targeted for a general audience and uses materials that are not suitable for younger viewers.  #tiktok #ai #squishy #diy #fidget #fidgettoys #honeykeyboard #aiscam #aiproducts
+KEYWORD: AI scam
+VIEWS: 253676
+TRANSCRIPT: Today we are investigating some of the weirdest things I found on the internet. AI scam products. The reason this could be a scam is because it's AI, so it's not real. But I ordered these products anyway. So, we're going to find out what showed up in the mail. And welcome to another episode of Did I Just Get Scammed? Let's find out. Starting off with this robot dog. This is called Niko Robotica. I [music] love that it's bilingual. It even says ped ladra kamina kore. And then it has a bunch of stuff in English, too. So maybe this is a bilingual dog like me. I'm bilingual, too. So maybe we'll get along. But anyways, I saw a bunch of videos on Tik Tok of this really cute mini poodle. It looks just like this little guy. And the dog looks so real. Obviously, it's AI, but you could actually buy that dog. So, I did. And I have no idea what's going to be in here. Imagine if something shows up and it actually looks like that. I would freak out. But in the end, the goal is to introduce this dog to my dogs, Mila and Spacy, and see what they think. And if they become friends, then this is going to be five stars. If they don't, then I don't know what I'm going to do with this. You guys can have it. Okay, let's see what's in this box. Oh my god, why does this look like macaroni? This looks so weird. See, this is what happens when you order AI things from Tik Tok or from Amazon or from wherever. You end up with a macaroni dog. This looks like Fido. It looks like it looks like a burnt spaghe
+[...middle cut...]
+ut you know what? Let's give it a twirl. Okay. Because if it has a good twirl, then maybe maybe it's somewhat of a good dress. Ready? [laughter] Not a good twirl at all either. And I'm a little dizzy now. I thought I was going to look like Glenda the Good Witch, you know, giving like fairy tale godmother. Okay, I wanted to be I wanted to be a fairy princess. You know what? AI sucks. It makes you believe something that isn't true. And I I fell for it once again. So, if you ever see a fairy dress online that looks like it's fake because it's too good to be true, don't buy it. Comment a purple heart on this video if you made it this far. And I will see you guys in the next video. Love you. Bye.
+
+=== ID: qdhHwRqmcw8 ===
+TITLE: India’s Fugitive Startup Founder Uses 700 Indian Engineers to Scam Microsoft | Biggest AI Scam
+DESC: Check NIAT B-TECH Degree Course  https://bit.ly/45nhIG3  Discover the shocking truth behind one of the largest AI scams involving a Microsoft-backed Indian Origin Founder's startup. Explore how they used 700 Indian engineers to deceive global tech giant Microsoft using "AI washing" pretending manual operations were AI-driven. India's Enforcement Directorate (ED) now seeks these founders linked to multiple scams, including the infamous Videocon scandal. Get an in-depth breakdown of how the scam u
+KEYWORD: AI scam
+VIEWS: 139683
+TRANSCRIPT: Imagine if you're an ambitious entrepreneur with a dream startup idea. But unfortunately, you don't know how to do coding or make an app. Thus, obviously, you're bootstrapped, so you don't have the money to hire coders. What do you do? Out comes a pretty AI bot, Natasha. Hi there. I'll help you build an app. That will be as simple as ordering a pizza. This was the promise of builder AI. No coding ability, not much money, no problem. Natasha AI assistant at your service to build your app cheap and fast. Fantastic, isn't it? Let's examine. Although built in London, this was the brainchild of an Indian origin founder Sachin Dv Dougal and his partner Sor Abdut. Suchin was a prodigy of sorts. Built his first computer at just 14, then built a business out of it to buy candies and tennis lessons. By 17, he created software for financial giants like Deutsche Bank. But it was because of the struggles he faced finding good front-end developers while building a photosharing app Shoto that his light bulb switched on. If it was so hard for me, how would people without engineering backgrounds ever build an app? And with this realization, he founded Engineer AI in 2016, later changing the name to Builder AI. Suchin hustled his way to his first significant funding in 2018, securing $29.5 million from Lakesar, Jungle Ventures, and Soft Banks Deep Core. But just a year later in 2019, the Wall Street Journal questioned Builder AI's outlandish claims. All engineers, no AI. Even its chief busines
+[...middle cut...]
+India. And there is still a pending non-bailable arrest warrants against him in the video moneyaundering case. But like India's slowmoving extradition process in the Nirv Modi Vijay Malia cases, Sachin Duggal's British citizenship will make it tough to get him extradited. Builder AI's propriety tools like Metapart Tuve and the AI bot Natasha are now being auctioned to get whatever value possible while chief wizard Sachindugal is left licking his own wounds. Bisbos limmerick. There was once a wizard so sly sold code as if made by AI. With a wave and a grin, he rad millions in till the truth knocked him clean from the sky. You will also find these sources listed in a video description section.
+
+=== ID: BlzeYJPcTKA ===
+TITLE: AI Chatbot Fraud Alert! Online Scam का खतरनाक नया तरीका! ऐसे करें बचाव! | Zee Business
+DESC: AI Chatbot Fraud भारत में तेजी से बढ़ता Online Scam है, जिसमें Fake DHL bots, Fake Customer Support Chatbots और Voice Cloning scams शामिल हैं। ये धोखाधड़ी बहुत ही स्मार्ट तरीके से काम करती है, जिससे पहचानना मुश्किल हो जाता है। इस वीडियो में जानिए— AI Chatbot Fraud क्या है और कैसे काम करता है Fake DHL bots और WhatsApp पे Meta Security नाम के नकली बॉट्स Voice Cloning Scam से कैसे बचें Quick Heal का Antifraud.AI कैसे मदद करता है बैंकिंग, delivery और कस्टम चार्ज scam की पहचान Online Scam से बचने के 
+KEYWORD: AI scam
+VIEWS: 1909
+TRANSCRIPT: ऑनलाइन फ्रॉड के केसेस हर आए दिन हमारे सामने आते रहते हैं। लेकिन अब साइबर क्रिमिनल्स और भी स्मार्ट हो गए हैं। अब फ्रॉड करने का नया तरीका है एआई चैट बॉक्स। यह आपके सामने ऐसी चैट शुरू करते हैं कि आपको लगेगा कि आप किसी बैंक, डिलीवरी सर्विस या गवर्नमेंट एजेंसी से बात कर रहे हैं। पर असल में यह एक बड़ा ट्रैप है। साइबर सिक्योरिटी कंपनी क्विक हील की रिपोर्ट के मुताबिक इंडिया में एआई चैट बॉट फ्रॉड केसेस तेजी से बढ़ रहे हैं। स्कैमर्स अब ऐसे बॉट्स बनाते हैं जो पूरी तरह ऑटोमेटेड फ्रॉड फैक्ट्रीज की तरह काम करते हैं। मतलब एक ही सर्वर से हजारों लोगों को टारगेट किया जा सकता है। सोचिए आपके सामने बैंक का सपोर्ट चैट बॉट आया जिसमें लिखा है सर आपके अकाउंट में प्रॉब्लम है। प्लीज शेयर ओटीपी। सुनने में एकदम सच लगता है, लेकिन यही है स्कैम। स्कैमर्स की ट्रिक्स भी नेक्स्ट लेवल की हैं। कभी यह आपको फेक कस्टमर सपोर्ट दिखाते हैं। कभी कोई पुराना फ्रेंड बनकर इमोशनल ट्रैप कर लेते हैं और सबसे डेंजरस है वॉइस क्लोनिंग। इमेजिन कीजिए किसी ने आपके फैमिली मेंबर की आवाज कॉपी करके आपसे तुरंत पैसे मांग लिए। हाल ही में ऐसे कई केसेस सामने आए हैं जैसे फेक डीएचएल बॉट्स जो आपसे कस्टम फी मांगते हैं। WhatsApp पर फेक मेटा सिक्योरिटी बॉट्स जो आपके लॉगिन और पेमेंट डिटेल्स चुरा लेते हैं और वॉइस क्लोनिंग तो परिवार की आवाज तक कॉपी करके पैसे निकलवा लेती है। [संगीत] फ्रॉड पहचानने के लिए आपको कुछ सिग्नल्स पर अलर्ट रहना चाहिए। जैसे कि अगर कोई ओटीपी, पासवर्ड या बैंक डिटेल्स मांगे तो यह फ्रॉड है। ग्रामर मिस्टेक्स, वियर्ड लिंक्स या जल्दी डिसीजन लेने का प्रेशर यह भी डेंजर सिग्नल है। और सबसे बड़ी बात कोई भी जेन्युइन कंपनी कभी भी चैट में सेंसिटिव या कॉन्फिडेंशियल डिटेल्स नहीं पूछती है। क्विकल ने हाल ही में लॉन्च किया है एंटी फ्रॉड एI इंडिया का पहला एआई बेस्ड फ्रॉड प्रिवेंशन सॉल्यूशन। यह सस्पिशियस लिंक्स, वेबसाइट्स और चैट्स को इंस्टेंटली ब्लॉक करता है। डार्क वेब पर लीक्ड डाटा ट्रैक करता है और माइक, कैमरा, मिसयूज डिटेक्ट करके तुरंत अलर्ट देता है। लेकिन सबसे जरूरी है अवेयरनेस। देखिए, टेक टूल्स तभी काम करेंगे जब हम खुद अलर्ट रहेंगे। एआई जनरेटेड फ्रॉड अब रियलिटी बन चुका है। स्कैमरर्स स्मार्ट हो गए हैं तो हमें भी स्मार्ट बनना पड़ेगा। याद रखिए सिर्फ एक गलत क्लिक आपकी पूरी सेविंग्स चुटकियों में खत्म कर सकता है। तो स्टे अवेयर स्टे सेफ। [संगीत]
+
+=== ID: Vpi8SAJabMg ===
+TITLE: How AI is creating sophisticated scams that leave experts second-guessing | ABC NEWS
+DESC: Professor of Cyber Risk and Policy, Dr Lennon Chang, says that AI is being used to create scams that are better at storytelling and can even generate images to trick victims.  Subscribe: http://ab.co/1svxLVE Read more here: https://www.abc.net.au/news/2025-04-28/scammers-using-ai-produce-sophisticated-scams/105150946  ABC News provides around the clock coverage of news events as they break in Australia and abroad. It's news when you want it, from Australia's most trusted news organisation.  For 
+KEYWORD: AI scam
+VIEWS: 8157
+TRANSCRIPT: Artificial intelligence is seemingly everywhere and is increasingly being used to create sophisticated scams that are even leaving experts second-guessing. 2025 report from the National Anti-Scam Center found Australians lost $945 million to investment scams last year. That's accounting for almost half of the total $2 billion fleeced by scammers. Now, Dr. Lennon Chang is an associate professor in cyber risk and policy at Deacon University and joins us now from Melbourne. Can you tell us how is AI changing the nature of these scams? I I think all kinds of scams are now using uh AI as a way to to facilitate the the scam process. For example, uh in Australia, we see quite a bit of virtual kidnapping. And what AI can do now for to assist the virtual kidnapping will be that um they can come up with a better story and create the images with the the uh the the victims to that their parents and their their relatives back in their hometown believe the the kidnapping is true so that um convince them to pay for the ransom. So, I mean, I want to ask you about the typical red flags, but I guess a lot of the basic due diligence is probably not enough when it comes to artificial intelligence. Um, you know, some of those past rules for verification go out the window. What what does go out the window in this? So, what can't we trust anymore? And what what can we use to to verify this? Yeah, it's actually making all the in old days we do we we suggest people to do the fact checking and uh do t
+[...middle cut...]
+ee the news today on the uh the scam of uh invest investment into uh minings if it's Australian companies they definitely have a ABN or a registration with the authority. So they might be the place to go and check or even a phone call to to those authorities to check whether the company is a real one or fake one. But the issue here will be if it is uh from overseas, it might be difficult to to really do the double checking um that might be something that um we need to to raise more awareness especially when when the the fraud the scams comes out. Dr. Lennon Chang, associate professor in cyber risk and policy at Deacon University. Thank you for speaking with us today. Thank you for having me.
+
+=== ID: Zw1ujec7_G4 ===
+TITLE: Scammers are using AI to fuel crypto fraud schemes, IRS warns
+DESC: The Internal Revenue Service is warning about scammers using AI tools to carry out crypto fraud schemes. CBS News' Anna Schecter reports.  CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the glo
+KEYWORD: AI scam
+VIEWS: 3493
+TRANSCRIPT: Every year, millions of Americans from all walks of life are targeted by cyber criminals. And this year, the problem's getting worse as bad actors are using increasingly sophisticated AI tools to hone the perfect crime, targeting people who are unfamiliar with these new technologies and emerging financial platforms. Anna Shakar is head of the CBS News crime and public safety unit and joins us now with a look into this and a cautionary tale. Anna, good morning. Good morning. It's such a sad story, but it's so important to get this word out. You know, I went inside this scam. We really saw the anatomy of this AI enhanced SCA scheme that swindled one woman out of her entire life savings. Let's take a look at her story. I can't believe I just handed over all that money. Kyle Holder never saw the scam coming from about $243,000 that was sent. And I feel like a fool. The first WhatsApp message came around Christmas 2024. I just thought maybe this was a way that I could, you know, use my time because I had a lot of time. I wasn't using my time and start something new and and and make money. The scammers created a character called Nyama, a single parent. And she was explaining what happened in her life and that, you know, she's a single parent and I I'm a single parent. And she would ask me, you know, she was always asking about me and then she would say, "Is the money being transfer?" You know, Nyama coached her how to create two cryptocurrency wallets and transfer her life savings 
+[...middle cut...]
+? Well, the vast majority of people don't report it because of that shame. And what law enforcement sources have told me is you've got to report. Just do it immediately. There's no judgment. You can do so anonymously. And the more victims they have, they can sort of create that map, that anatomy of the scam. And it helps them get closer to the criminal, even if it's in cryptocurrency, which is so hard to identify the bad actor. But they say, "Please report because it will help them get rid of those bad actors on online." Thank you so much. Viewers should be on the lookout for this. Tell your friends, tell your neighbors, tell your family members as well. Um, great reporting, Anna. Thank you.
+
+=== ID: HYqxPIhuAlc ===
+TITLE: Lotto Cash AI App Scam — My Review of 'Lottery Loophole'
+DESC: Lotto Cash AI App Scam — My Review of 'Lottery Loophole'  Lotto Cash AI app reviews are becoming a popular search topic as more people come across questionable ads on Facebook and Instagram claiming to show celebrities like Dwayne "The Rock" Johnson promoting the product. These Lotto Cash AI app reviews need to be seen in the proper context — the entire setup appears to be a scam. The ads falsely claim the links lead to foxnews.com, but instead they redirect to lottomania.online, lottomax.site o
+KEYWORD: AI scam
+VIEWS: 13527
+TRANSCRIPT: Right off the top of this video, please hit the like button down below, the thumbs up button. That will tell Google and YouTube my video has value and credibility about this Lotto Cash product. This product, Lotto Cash AI, or it's an app. It's Lotto Cash Online, whatever you want to call it. It claims to have different celebrity endorsements. It doesn't. Claims it's going to help you, you know, win the lottery easily. And that's just not going to be the case. There are a lot of these different products out there like lottery defeater, lottery or lotto mania, lotto champ, all these different things out there with different names claiming they're going to be able to help you win the lottery and maybe they have some sort of partnership with a real genuine lottery winner from the past that you can find news articles about. Not trustworthy. So, let's look at this. Claims The Rock endorsed this. Dwayne the Rock Johnson. Let's hit play. If you don't hit at least four numbers in the next lottery draw, I'll send you 10 grand straight to your account. So this is a deep fake meaning altered lip movement. Deep fake visuals. That's deep fake. It's talking about the the changed visuals. And the audio you hear of words that Dwayne the Rock Johnson never said has been created with AI based upon listening to him talking in other videos or this original video, whatever it may be. And he never said these things. He's never endorsed it. No one's endorsed Lotto Cash, AI, Lotto Cash Online, anythi
+[...middle cut...]
+st a small number of other people. It's just not worth it. I'm going to lose money, right? Unless you guys are going to do a fundraiser for me, and I don't think you are. So, I'm showing you lots of red flags. That's my review. Sometimes you can find enough red flags with the product. Call it a scam and then not need to purchase it, and that's a review, right? Hit the like button down below, comment, subscribe. I really hope that you got something out of this video. Any of these products out there that make big promises about making money with a lottery, they have a secret. This is how you how you win. It's with AI. We have an app. We have a solution. It's on aonline website. All just bogus.
+
+=== ID: lBnXicYpzIU ===
+TITLE: The AI Investment Scam That Seniors Fall For Every Time
+DESC: A retired man thought he had found a once-in-a-lifetime investment opportunity. Instead, he became the victim of a devastating $1.6 million crypto scam — and it all started with a simple text message.  In this true story, we break down how a scammer posing as a woman named “Jenny” used friendly conversation, fake investment platforms, and even AI-generated videos to build trust and manipulate her victim. Over the course of months, what felt like a legitimate relationship turned into a nightmare 
+KEYWORD: AI scam
+VIEWS: 580
+TRANSCRIPT: A 76-year-old man hands a paper bag containing $110,000 in cash to a complete stranger standing at his front door. And he does it willingly because a woman he has never met, a woman who may not even exist told him to. And that was just the beginning. Right now, you're probably asking yourself, "How could this happen?" An excellent question, which is why I made it the name of this channel. How does a grown man, a retired insurance agent who knows a thing or two about life-changing disasters, get scammed out of $1.6 million? That's the question a recent NBC News segment tried to answer, although they told a woefully incomplete story. So, let's dig in and see where we can fill in the gaps. It's not enough to know that this man got scammed. Real scam awareness comes from knowing how scammers manipulate, deceive, and then destroy their victims. Ron Williams is 76. He's retired, lives in Brooklyn. One day, he gets a random text from someone calling herself Jenny. To those who are familiar with how scams like this work, the random text message is a classic opening move. Scammers send innocent messages to hundreds, perhaps thousands of phones at a time, and anyone who bothers to respond automatically becomes a target. Ron unfortunately replied. I can't tell you what Jenny's initial text message was about or exactly how Ron replied because NBC News didn't report it. Maybe this doesn't seem like an important detail, but everyone needs to know what this looks like when it happens. This 
+[...middle cut...]
+nk Jenny is even a real person? At this point, I'm wondering After losing $1.6 million, Ron shouldn't be wondering anything. There is zero chance that Jenny exists. But accepting that Jenny isn't real also means accepting that the money is gone, and he may not be ready for that yet. If you've been scammed and want to share your story, please get in touch with me. My name is Michael. Don't get scammed and thank you for watching. Hey handsome. This video is totally fake, but can you do something for me? Like this video and subscribe to How Could This Happen? How Could This Happen is the greatest channel on YouTube. You should like and subscribe right now. Also, Michael is incredibly sexy. Lol.
+
+=== ID: JncRWDKXxIw ===
+TITLE: Finelo Review: We’ve Seen This Scam Before
+DESC: ✅ Start your free Wealthy Affiliate test drive ▶ https://www.wealthyaffiliate.com/a_aid/7fde30e5/data1/aw  ✅ EXTENDED Skillshare Trial: https://skillshare.eqcm.net/c/2305384/298081/4650  Finelo promises life-changing amounts of money from just a $20 investment—but it’s all smoke and mirrors. In this Finelo review, I break down how their flashy and deceptive ads hide the truth: AI-generated courses, unauthorised charges and an impossible refund policy. Don’t fall for the hype—watch my Finelo scam
+KEYWORD: AI scam
+VIEWS: 54968
+TRANSCRIPT: seriously you just cannot make this stuff up invest $20 spend an hour a day and boom you're raking in $350 $465 sometimes $650 a day by day 30 you'll have made $6,500 in pure profit you're not just investing in these massive companies like Microsoft and Netflix you are now Warren Buffet on steroids all from $20 and a dream the ad makes it look like you actually investing in these real companies and just stacking up the profits day by day they toss around phrases like take control of your financial future and they throwing in a few glowing testimonials from the so-called members sound too good to be true that's because it is this ad isn't just hyped up it's absolutely ridiculous and once you dig a Little Deeper you'll see it's actually downright deceptive because finel is not all that it claims to be in fact this is a scam that we've seen many times before but more on that in a second so if you actually click on the ad you're going to be immediately funneled into their so-called wealth growth challenge which sounds super fancy doesn't it except it's just really a glorified quiz designed to emotionally manipulate you as you go through it they ask you really weird questions like how would you describe your financial situation what income level do you expect to achieve and when was the last time you could afford something stuff like that uh so let's just put whatever in here this month because the truth is doesn't matter what answers you put in here uh the result is always the sa
+[...middle cut...]
+ invest in stocks and shares or how to succeed on YouTube or how to master coding or anything else like that then skillshare is a really good option for just $14 a month you're going to get access to thousands of solid high quality training now normally skillshare offer just a 7-Day free trial but hit the link in the description below and you're going to get a full and extended 30-day free trial so check it out so whether it's building an online business with wealthy affiliate or you know learning how to become a master investor with skill share you know the truth is there are better options out there you don't have to waste your time with scams like this because you really do deserve better
+
+=== ID: U9h0-6NnmAQ ===
+TITLE: ‘Fake IDs, Fake Homework’: Google’s Nano Banana Pro Sets Off Worldwide Scam Scare | What Happened
+DESC: Google’s latest imaging model, Nano Banana Pro, has sparked global concern after a series of viral incidents highlighted how advanced AI-generated visuals could be misused across identity verification, education and online refund systems. The tool’s hyper-realistic text and image outputs have triggered renewed conversations about fraud risks, digital trust and the readiness of existing security frameworks. Watch full report.  #GoogleAI #NanoBananaPro #AIScams #AI Fraud #TechNews #MintNews #Trend
+KEYWORD: AI scam
+VIEWS: 32831
+TRANSCRIPT: What if one AI tool became so good it could fool banks, teachers, companies, even entire identity verification systems? Because that is exactly what Google's new Nano Banana Pro is apparently capable of doing right now. Google launched Nano Banana Pro, an upgraded version of its image generation and editing model, promising better text rendering and stronger character consistency. And just like its predecessor, it immediately topped multiple benchmarks, becoming, according to many users, the most powerful image AI in the world. But the moment it went public, the internet began testing it in the wild. and that has led to viral incidents sparking a global debate about privacy, identity fraud, and trust in the digital world. Let's go through them one by one. A Bengaloo based tech professional wanted to show how dangerous AI misuse can get. So, he used Nano Banana Pro to generate highly realistic fake pan and adar cards. The cards showed the name Twitter pit Singh and images so perfect that most people couldn't tell they were fake. That post triggered a wave of concern online. Some users pointed out that Google's Gemini adds a hidden synth ID watermark, which can be checked using the Gemini app. Harveine responded, "No one is going to scan every ID proof through the Gemini app." Another user said the fake cards wouldn't match databases and highlighted QR like verification patterns. Harvine replied, "When you show Adar at a hotel or airport, do they really scan it?" And suddenly t
+[...middle cut...]
+pen box deliveries. out. Someone took a much darker view, saying this is what happens in a low trust society. Google's Nano Banana Pro is not the villain. The real danger is outdated verification systems facing 2025 level AI, identity fraud, homework fraud, refund fraud, all exposed within just a few days. So the question now isn't, is Google's AI too powerful? The real question is, can businesses, schools, and governments upgrade fast enough to survive this new world where images, handwriting, and proof can no longer be trusted? Tell us in the comments. Is Nano Banana Pro a technological leap or a security nightmare waiting to blow up? And for more news and updates, keep watching Mint News.
+
+=== ID: CyXRQFj4BzI ===
+TITLE: LiCrown Scam Alert 🚨 LiCrown New Update Today | LiCrown Withdrawal | LiCrown Ai Real Or Fake?
+DESC: LiCrown Scam Alert 🚨 LiCrown New Update Today | LiCrown Withdrawal | LiCrown Ai Real Or Fake?       -------------------------------------------------------------------             👇𝙈𝙮 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘾𝙝𝙖𝙣𝙣𝙚𝙡👇  https://whatsapp.com/channel/0029VbCZzjBKAwElAVjyS13y             🤑𝙁𝙤𝙧 𝘿𝙖𝙞𝙡𝙮 𝙐𝙥𝙙𝙖𝙩𝙚 𝙁𝙤𝙡𝙡𝙤𝙬🤑 https://whatsapp.com/channel/0029VbCZzjBKAwElAVjyS13y            -------------------------------------------------------------------                     🆂🅲🅰🅼 🅰🅻🅴🆁🆃 📢 LiCrown Ai Jo Ke 1 Month Sa Bhe Phahly 
+KEYWORD: AI scam
+VIEWS: 703
+TRANSCRIPT: अस्सलाम 
+ अनदर 
+ lon. 
+ ड्रामा 
+ आप 
+ आपके 
+ आपकी 
+ अपनी 
+ तो 
+ रीइन्वेस्ट 
+ विथड्रा 
+ इन्वेस्टमेंट 
+ हो 
+ lonai 
+ है। 
+ के 
+ यानी 
+ अपनी 
+ ऊपर 
+ भी 
+ क्राइटेरिया 
+ आपकी 
+ है 
+ होता। 
+ कर 
+ करवाना 
+ करवाना 
+ विथड्रा 
+ बिल्कुल 
+ जिसकी 
+ ज्यादा 
+ यहां 
+ अजमल 
+ ने 
+ टिकटटॉकर 
+ अभी 
+ ऊपर 
+ देखता 
+ जाके 
+ है 
+ WhatsApp 
+ रहे 
+ डिपॉजिट 
+ रहे 
+ क्लियरली 
+ है। 
+ रही। 
+ पैसे 
+ जो 
+ मैं 
+ अगर 
+ करवा 
+ अगर 
+ लेना 
+ उसकी 
+ $4 
+ सिर्फ 
+ विड्रा 
+ ऊपर 
+ जाएंगे। 
+ जाएंगे। 
+ विड्रा 
+ इनका 
+ इन्वेस्टमेंट 
+ देंगे। 
+ किस्म 
+ ना 
+ है। 
+ lron. 
+ ना 
+ है। 
+ रीइन्वेस्ट 
+ करो। 
+ लोगों 
+ रखना। 
+ हैं, 
+ इसकी 
+ स्टेटस 
+ के 
+ यूजर 
+ करें 
+ देते 
+ उसके 
+ अगर 
+ यहां 
+ मैंने 
+ मैंने 
+ नीचे 
+ कर 
+ लेकिन 
+ किसी 
+ टीम 
+ यहां 
+ स्कैमर 
+ यहां 
+ नहीं 
+ अपडेट्स 
+ के 
+ डिस्क्रिप्शन 
+ काइंडली 
+ वगैरह 
+ तरह 
+ अंदर 
+ स्कैम 
+ वहीं 
+ इंशाल्लाह 
+ लिए
+
+=== ID: STYNYRvWkks ===
+TITLE: 76-year-old loses $1.6 million savings to AI investment scam
+DESC: A 76-year-old man, Ron Williams, lost $1.6 million to an artificial intelligence scam that began with a random text message. NBC News' Vicky Nguyen reports on a new type of fraud plaguing the web.  For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com  » Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC » Subscribe to Here's the Scoop podcast: https://www.nbcnews.com/heres-the-scoop-daily-podcast  Every day, NBC News helps people u
+KEYWORD: AI scam
+VIEWS: 264763
+TRANSCRIPT: SA 
+ OT 
+ >> 
+ >> 
+ HE 
+ LO 
+ TO 
+ >> 
+ AN 
+ >> 
+ IN 
+ SA 
+ TE 
+ CA 
+ TU 
+ WI 
+ AN 
+ CH 
+ >> 
+ IT 
+ >> 
+ WA 
+ AN 
+ WI 
+ IN 
+ SE 
+ PL 
+ SU 
+ >> 
+ TH 
+ ME 
+ YO 
+ ME 
+ AN 
+ TH 
+ EV 
+ >> 
+ SE 
+ SE 
+ US 
+ SA 
+ TO 
+ >> 
+ >> 
+ TO 
+ MO 
+ JE 
+ $1 
+ OP 
+ PA 
+ TO 
+ WI 
+ RU 
+ HI 
+ CA 
+ >> 
+ A 
+ >> 
+ JE 
+ >> 
+ BU 
+ OF 
+ IT 
+ >> 
+ TA 
+ MI 
+ TO 
+ TA 
+ ST 
+ TH 
+ VI 
+ HO 
+ >> 
+ CO 
+ >> 
+ SC 
+ PO 
+ >> 
+ SU 
+ MI 
+ EV 
+ AN 
+ >> 
+ JE 
+ WE 
+ TH 
+ IS 
+ >> 
+ OU 
+ >> 
+ DE 
+ SA 
+ SC 
+ >> 
+ YO 
+ LO 
+ TA 
+ >> 
+ SE 
+ HA 
+ SC 
+ IN 
+ RE 
+ SA 
+ SC 
+ >> 
+ TR 
+ TH 
+ PE 
+ TH 
+ TH 
+ CO 
+ >> 
+ >> 
+ UG 
+ TH 
+ HE 
+ FU 
+ HI 
+ PA 
+ TH 
+ CO 
+ CA 
+ FO 
+ IN 
+ ME 
+ >> 
+ BE 
+ BE 
+ >> 
+ SA 
+ SC 
+ TH 
+ OF 
+ RE 
+ SC 
+ MO 
+ RE 
+ HI 
+ >> 
+ DE 
+ TH 
+ AR 
+ UN 
+ AN 
+ BE 
+ AN 
+ HA 
+ PE 
+ TH 
+ >> 
+ AB 
+ >> 
+ LO 
+ TH 
+ TH 
+ ON 
+ WH 
+ TH 
+ LE 
+ >> 
+ SO 
+ >> 
+ WI 
+ AN 
+ SO 
+ >> 
+ TH 
+ GO 
+ LI 
+ TH 
+ >> 
+ FA 
+ >> 
+ >> 
+ PE 
+ >> 
+ GU 
+ HI 
+ SH 
+ TO 
+ HE
+
+=== ID: 3-EqCFqjKI0 ===
+TITLE: AI OTP Scam 2026 ! শুরু হয়েছে নতুন টাকা লুট! সবাইকে সতর্কবার্তা
+DESC: ২০২৬ সালে নতুন ধরণের অনলাইন স্ক্যাম শুরু হয়েছে — যেখানে OTP না দিলেও আপনার ব্যাংক একাউন্ট খালি হয়ে যেতে পারে!   AI ও ফিশিং প্রযুক্তি ব্যবহার করে এই নতুন ডিজিটাল প্রতারণাগুলো এখন প্রতিদিন হাজারো মানুষকে ফাঁদে ফেলছে।  এই ভিডিওতে জানুন —   🔹 কিভাবে OTP ছাড়াই টাকা চুরি হচ্ছে   🔹 নতুন স্ক্যাম যেগুলো ২০২৬-এ বেড়েছে   🔹 কিভাবে বুঝবেন আপনি ফাঁদে পড়ছেন কিনা   🔹 এবং কীভাবে নিরাপদ থাকবেন    সাবধান থাকুন, নিজের তথ্য কখনো কাউকে শেয়ার করবেন না।   👉 ভিডিওটি শেষে আপনার অভিজ্ঞতা কমেন্টে জানাতে ভুলবেন না।   
+KEYWORD: AI scam
+VIEWS: 128745
+TRANSCRIPT: দিস চ্যানেল ডাজ নট প্রমোট এনি ভায়োলেন্ট হার্মফুল অর ইল্লিগাল অক্টিভিটিস। অল কন্টেন্ট প্রোভাইডেড বাই দিস চ্যানেল ইজ মিন্ট ফর এান এডুকেশনাল পারপাস অনলি। বর্তমানে সময়টা খেয়াল করুন। এখন হয়তো আপনি আপনার অফিসে বা বাড়িতে পরিবারের সাথে সময় কাটাচ্ছেন অথবা রাত্রে আপনি ঘুমোতে যাবেন ভাবছেন। আমরা সবাই কি ভাবি? আমাদের জীবনের নিয়ন্ত্রণ তো আমাদের হাতেই। তাই না? কিন্তু কল্পনা করুন এমন এক পরিস্থিতি বর্তমানে যেখানে কোন চোর আপনার বাড়িতে ঢুকলো না কোন তালা ভাঙলো না আপনার পকেটেও হাত দিল না তবুও সকালবেলা যখন আপনি ঘুম থেকে উঠে দেখলেন আপনার গত 10 বছরের ধরে যে আপনি কষ্ট করে ইনকাম করেছেন এবং জমিয়েছেন সব শূন্য অবাক লাগছে হ্যাঁ অবাক লাগাটাই স্বাভাবিক 2024 সাল গত আর 2025 সালে আমরা বলতাম যে অচেনা কোন লিংক এলে ক্লিক করবেন না বা অচনা কোন লিংক হলে হাত দেবে না তাহলে আমাদের সাথে কিছু প্রতারণা হতে পারে কিন্তু 2026 সালে দাঁড়িয়ে এই উপদৃষ্টি অনেক পুরন হয়ে গেছে কেন কারণ এখন হ্যাকার বা সাইবার অপরাধীরা আপনার ভুলের অপেক্ষা করে না তারা ব্যবহার করছে এআই আর্টিফিশিয়াল ইন্টেলিজেন্স তারা হ্যাক করছে মানুষের মনকে ইয়েস আজকের এই ভিডিওতে আমরা অন্ধক সেই দরজা হদ্দিশ দেব আপনি জানেনও না সেগুলো আপনার অজান্তে আপনার স্মার্টফোনেই খোলা আছে কিংবা আপনি অজান্তেই ভুল করতেই পারেন আমরা কোন আপনাকে ভয় দেখাতে আসিনি আমরা এসেছি আপনাকে ডিজিটাল চাবিগুলো দিতে যেগুলো দিয়ে আপনি এবং আপনার পরিবারের সুরক্ষা নিশ্চিন্ত করতে পারবেন ভিডিওটি শেষ অব্দি দেখুন কারণ এটা কোন এন্টারটেইনমেন্টের ভিডিও নয় আর লাস্ট তিনটি বিষয় আপনি যদি জানেন তাহলে আপনি কিন্তু অনেকেই উপকার পাবেন ঠিক আছে নমস্কার বেঙ্গল মানি মেন্টর আমি সদ্য দাস আশা করি আপনি খুব ভালো আছেন এবং আপনার প
+[...middle cut...]
+ঠান এবং বন্ধুদেরকে সবাইকে জানান। বিশেষ করে আপনি আপনার মা-বাবার সাথে আপনি এটা শেয়ার করুন। কারণ সাইবার অপরাধরা তাদের সহজ লক্ষ্যবস্তু তারা জানায় কিন্তু কাদেরকে টার্গেট করা যেতে পারে। যদি আপনার মনে হয় এই কয়েকটা জিনিসে আপনার লিস্ট চায় আপনি লিস্ট বলে কমেন্ট করুন। আমি আপনাকে কমেন্টে লিস্ট দিয়ে দেব। আপনি লিস্টটা পড়ে নিতে পারেন বা আপনি স্ক্রিনশটও নিয়ে রাখতে পারেন। ভালো থাকবেন, সুস্থ থাকবেন। দেখা হচ্ছে নেক্সট ভিডিওতে। আর ভিডিওটা শেষ করার আগে আমি আপনাকে একটাই কথা বলতে চাই। কয়েকদিন আগেই আমি একটা ভিডিও বানিয়েছিলাম। হ্যাপ এর মাধ্যমে টাকা চুরি হচ্ছে ওটিপি ছাড়াও। সেটা কিভাবে? এই যে স্ক্রিনে দেখতে পাচ্ছেন এই ভিডিওটা ক্লিক করে দেখুন। ওখানেই আপনার সঙ্গে কথা হচ্ছে। ভালো থাকবেন, সুস্থ থাকবেন। নমস্কার।
+
+=== ID: IdT-8MnvuXk ===
+TITLE: AI scammers creating fake videos
+DESC: Scammers are using AI to create convincing fake videos, but Heather Sullivan has some smart tips to help you protect yourself from falling victim.  Subscribe to FOX 26 Houston: https://www.youtube.com/myfoxhouston26?sub_confirmation=1  Watch FOX 26 Houston Live: https://www.fox26houston.com/live  Houston area news, weather, traffic, sports and breaking news from FOX 26 Houston. Watch news and local programming daily from KRIV.  Watch more FOX 26 Houston on YouTube: What's Your Point?: https://ww
+KEYWORD: AI scam
+VIEWS: 235112
+TRANSCRIPT: po 
+ wa 
+ us 
+ cr 
+ Wo 
+ lo 
+ of 
+ Su 
+ on 
+ su 
+ an 
+ Th 
+ of 
+ re 
+ me 
+ an 
+ fr 
+ wa 
+ bu 
+ do 
+ of 
+ an 
+ al 
+ Fa 
+ St 
+ ac 
+ se 
+ ap 
+ su 
+ ve 
+ fu 
+ st 
+ th 
+ li 
+ it 
+ vo 
+ we 
+ Tu 
+ ju 
+ th 
+ so 
+ fa 
+ sm 
+ mo 
+ wa 
+ se 
+ fo 
+ Fa 
+ ge 
+ to 
+ wa 
+ so 
+ Cy 
+ Fa 
+ gr 
+ cr 
+ lo 
+ re 
+ pe 
+ ca 
+ th 
+ sy 
+ th 
+ Yo 
+ se 
+ wi 
+ wo 
+ ma 
+ to 
+ th 
+ sc 
+ of 
+ ge 
+ te 
+ an 
+ af 
+ av 
+ wh 
+ ex 
+ se 
+ pl 
+ yo 
+ ac 
+ it 
+ ge 
+ wo 
+ co 
+ li 
+ us 
+ th 
+ ev 
+ ge 
+ th 
+ re 
+ th 
+ pr 
+ ke 
+ pr 
+ ab 
+ ac 
+ co 
+ mu 
+ se 
+ ac 
+ al 
+ fa 
+ th 
+ ac 
+ be 
+ Yo 
+ me 
+ al 
+ of 
+ Sa 
+ ab 
+ ha 
+ fa 
+ co 
+ fo 
+ Ce 
+ Or 
+ is 
+ be 
+ pi 
+ va 
+ Te 
+ me 
+ fi 
+ wh 
+ se 
+ 50 
+ wa 
+ my 
+ st 
+ ha 
+ di 
+ ne 
+ wo 
+ ba 
+ ce 
+ ha 
+ so 
+ vo 
+ th 
+ to 
+ an 
+ Bu 
+ th 
+ no 
+ de 
+ bu 
+ I' 
+ in 
+ li 
+ Ye 
+ yo 
+ ca 
+ we 
+ it 
+ Ye 
+ at 
+ wi 
+ fa 
+ fo 
+ ki 
+ on 
+ ca 
+ Ma 
+ wi 
+ Ye
+
+=== ID: e_dWxpWBoAk ===
+TITLE: Woman scammed $81,000 from AI-generated video of celeb, daughter says
+DESC: Authorities are investigating an alleged scam on a woman for more than $80,000 through fake AI generated videos of "General Hospital" star Steve Burton.  READ more from GMA:  How a man says he fell for a travel scam while rebooking a United Airlines flight: https://tinyurl.com/5ntc4htz   SUBSCRIBE to GMA on YouTube: https://bit.ly/2Zq0dU5   SIGN UP to get the daily GMA Wake-Up Newsletter:  https://tinyurl.com/yc34mz6t  VISIT GMA: https://www.goodmorningamerica.com  FOLLOW: TikTok: https://tiktok
+KEYWORD: AI scam
+VIEWS: 15370
+TRANSCRIPT: Authorities investigating a stunning scam. A woman allegedly swindled out of more than $80,000 through fake AI generated videos of General Hospital star Steve Burton. The story was first reported by our LA station KABC and chief national correspondent Matt Gutman is in Los Angeles with more. Matt, this one is chilling. And it's chilling, Rachel, for a couple of reasons. Investigators believe that if the scam had been allowed to go on longer, it might have cost this woman over $400,000. Also chilling because the deep fake General Hospital star Steve Burton looked and sounded so authentic that he managed to convince the victim to send over tens of thousands of dollars and actual cash and gift cards, even Bitcoin. Does it ever feel a little bit familiar? This morning, authorities are investigating a shocking scam using the AI generated likeness of General Hospital star Steve Burton. Hello, Abigail. I love you so much, darling. I had to make this video to make you happy, my love. Vivian Ruval Cava says her mother, Abigail, believed she was in a relationship with the actor after receiving fake videos like this. I hope this puts a smile on your heart, which looked and sounded like the real Steve Burton. Something big is going on here. According to a police report, her mother sent the scammer posing as Burton more than $81,000 in prepaid gift cards, cash, and Bitcoin after he told her he lost property in the LA fires. know that nothing will ever make me hurt you or lie to you, my qu
+[...middle cut...]
+. I don't know who you are." And you just see, it's so sad. You see the devastation. The LAPD tells me they're still investigating and that these types of scams are more pervasive than we think and that the scammers are very good at covering their tracks. So, they say the rule of thumb is never send money to someone who you have not met physically in person. And if someone is asking for money online or over the phone, no matter how friendly they might seem, it's probably a scam, guys. All right, Matt. Thank you. That's unbelievable. Sounds like him, looks like him, but it's not him. Not him. Yeah. Beyond beyond good advice there from Matt as well to stay alert. All right. Thank you for that.
+
+=== ID: wRgIB7eR13U ===
+TITLE: AI "Humanizers": The Scam For Lazy Students
+DESC: Wake up babe, new AI technology dropped! Now it's generative AI that helps... fix your generative AI? — Support me on Patreon! https://www.patreon.com/j4mlab Join the community! https://discord.gg/aNtudHG More Jamlab: https://twitch.tv/jamlab https://youtube.com/@jamlablive
+KEYWORD: AI scam
+VIEWS: 51289
+TRANSCRIPT: Would it surprise you if I told you that kids students these days in schools are using AI to cheat on their homework and assignments in particular to write essays for them? Would that surprise you? No. Oh, you already knew that you Oh, you are a student that uses AI to cheat on your assignments. Well, that's not cool. No, no, you you shouldn't do that. I remember reading this book when I was a kid. Well, I forget what it's called, but it was like the homework machine or something, right? And this kid who's like a super like Jimmy Neutron makes a machine that does their homework for them. You know what? I I don't know the rest of the plot. There was probably something some moral about how you should do your own homework in there. But the point is that the homework machine is real now. Okay? And it's not just the students. Even teachers are using AI to generate lesson plans or to grade homework for them, which is, you know, what are we even doing, man? But some teachers aren't terrible at their job. They actually, you know, want to teach and so they don't use AI. They want to prevent their students from cheating with AI. They use these things called AI detectors. I guess you copy and paste in some text, like the students essay, and it's supposed to analyze it and give you an estimate of the likelihood that it was generated by chatbt, for example, or some other language model. Now, it's worth mentioning off the bat that these tools aren't the greatest. I mean, they're kind of li
+[...middle cut...]
+rs inside of boxes, one of which is 24/7 AI support. Not even customer service, just 24/7 AI support. Oh, and I I left the page to go check out their affiliate program, but it didn't realize I was doing that. So, it just got scared that I was leaving the page and had to pop up saying that I can get 10,000 words for free if you give us all your personal information. Um, but yeah, they have they have an affiliate program for Write Crane. What's even real anymore? And and even this has a AI Joran in the corner. A like it's just it's just a mountain of slop. We're living a top at least. It's kind of funny sometimes hopefully. But thank you for watching and of course I'll see you in the next one.
+
+=== ID: x6RXTGsG17Y ===
+TITLE: Lotto Genius AI Reviews: AI Lottery System SCAM!
+DESC: 🎯 Lotto Genius AI Reviews: AI Lottery System SCAM! 🎯  In this video, we expose the truth behind the so-called “Lotto Genius AI” system that claims to boost your lottery-winning chances using artificial intelligence. Is it a groundbreaking tool or just another scam trying to steal your money?  We dive deep into how it works (or doesn’t), analyze the red flags, and explain why lottery prediction software like this simply doesn’t add up. From fake success stories to misleading algorithms, here’s ev
+KEYWORD: AI scam
+VIEWS: 983
+TRANSCRIPT: Lottogenius AI reviews AI lottery system scam. Lottogenius AI markets itself as a revolutionary AI based lottery prediction system that claims to boost your chances of winning big by using machine learning and past draw data. While it might sound high-tech and convincing, there is no scientific basis or real world proof that any AI, including this one, can accurately predict random lottery results. The lottery is a game of chance governed by strict randomness making it immune to predictive algorithms. What raises even more concern is the way Lotto Genius AI is promoted. The system uses persuasive sales tactics such as fake testimonials, limited time offers, and claims of extraordinary success rates yet offers no transparency about its developers, how the algorithm works, or any verifiable success stories from real users. These are classic signs of a scam. Users have reported being lured in with promises of free trials only to be hit with hidden charges, upselles, or subscription traps. Additionally, some users mention being bombarded with spam emails or follow-up messages encouraging further purchases. The software often relies on flashy dashboards, generic number generators, and pseudocientific jargon to appear credible. But in truth, there is no difference between it and a random number picker you could find for free online. Moreover, it prays on the false hope that technology can somehow bypass the odds of a game that is inherently unpredictable. Once you pay, you are likely to find yourself with nothing more than arbitrary number suggestions, no customer support, and no way to get your money back. If Lotto Genius AI was truly capable of beating the lottery, the creators wouldn't need to sell it. They'd be billionaires. In conclusion, Lotto Genius AI fits the mold of typical lottery prediction scams that offer illusions of control over a fundamentally uncontrollable game. Avoid wasting your money on these systems. If you do play the lottery, treat it as entertainment and never invest in systems that promise guaranteed success. There's no shortcut to luck and no AI system, not Lotto Genius or any other can change that.
+
+=== ID: E6CEVRAjiIw ===
+TITLE: Aumentan estafas con inteligencia artificial que clonan identidad y vacían cuentas
+DESC: La Comisión Federal de Comercio reportó un aumento significativo de estafas con inteligencia artificial en 2024, donde delincuentes clonaron identidades mediante llamadas y videos falsos, para engañar a usuarios y vaciar cuentas bancarias, dificultando distinguir cuentas oficiales de las fraudulentas. #noticiasnmásunivision #estafas #estafasia  Acompaña a Carolina Sarassa y Elyangelica Gonzalez todas las mañanas en La Voz de la Mañana. Mantente informado con las últimas noticias, videos y fotos 
+KEYWORD: AI scam
+VIEWS: 3760
+TRANSCRIPT: UN 
+ >> 
+ E 
+ E  
+ VA 
+ TR 
+ ID 
+ PA 
+ GU 
+ Có 
+ FR 
+ ME 
+ NU 
+ SE 
+ >> 
+ CO 
+ LA 
+ IN 
+ AU 
+ 20 
+ 12 
+ MI 
+ 15 
+ LO 
+ IN 
+ US 
+ CA 
+ IM 
+ DE 
+ MA 
+ C 
+ VI 
+ IN 
+ MU 
+ PR 
+ IN 
+ PU 
+ S 
+ HA 
+ WH 
+ GR 
+ VO 
+ PU 
+ EL 
+ EN 
+ AR 
+ C 
+ H 
+ MU 
+ I 
+ >> 
+ IN 
+ PE 
+ P 
+ EJ 
+ Ví 
+ IA 
+ A  
+ S 
+ >> 
+ SO 
+ AM 
+ FA 
+ CR 
+ A 
+ PR 
+ P 
+ DE 
+ AL 
+ CI 
+ EL 
+ I 
+ FR
+
+=== ID: TXswPTTukow ===
+TITLE: L.A. woman loses home after being targeted in AI deepfake romance scam using actor's face
+DESC: A Southern California woman has lost her home after an online romance scam used artificial intelligence pretending to be General Hospital actor Steve Burton to swindle her out of thousands of dollars and eventually, her home. KTLA's Sandra Mitchell reports on Aug. 27, 2025.  Details: https://ktla.com/news/local-news/woman-loses-home-scammed-by-ai-deepfake-scammer-pretending-to-be-general-hospital-actor/  KTLA 5 News - Keeping Southern Californians informed since 1947.
+KEYWORD: AI scam
+VIEWS: 18809
+TRANSCRIPT: SEAT AHEAD OF THE 2026  MIDTERMS.  >> A CRUEL CON WITH THE  HOLLYWOOD TWIST A SOUTH VALLEY  WOMAN IS LEFT FINANCIALLY  DEVASTATED AFTER SCAMMERS USE  SOPHISTICATED AI TO POSE AS A  SOAP STAR AND STEAL HER LIFE  SAVINGS THEY WERE ABLE TO USE  DEEPFAKE VIDEOS TO STRING HER  ALONG FOR MORE THAN A YEAR  SANDRA MITCHELL IS LIVE IN  HOLLYWOOD WITH MORE ON THE  SCAM AND THE DAMAGE IT HAS  DONE SANDRA.  >> I CAN SHARE MORE THAN  $80,000 STOLEN BY THESE CON  ARTIST I TALKED TO THE VICTIM  TONIGHT'S TOLD ME SHE'S REALLY  EMBARRASSED THAT SHE FELL FOR  NOW WE'RE GOING TO SHOW YOU  MORE THAT DEEP FAKE VIDEOS SO  YOU CAN SEE FOR YOURSELF.  >> A LITTLE ABIGAIL, I LOVE  YOU SO MUCH DARLING WITH HIS  STRIKING LOOKS IN REASSURING  VOICE YOU MIGHT UNDERSTAND HOW  ABIGAIL ROOF, A COP A CELL FOR  HIM I THOUGHT IT NOT WITH  PERSON.  >> AND THEY'LL MOVE IN HAVE A  GOOD LIFE TOGETHER. I HOPE  THIS PUTS A SMILE ON YOUR  HEART.  >> BUT THIS VIDEO IS A  DEEPFAKE CREATED BY A SCAMMER  STEALING THE LIKENESS OF  GENERAL HOSPITAL ACTOR STEVE  BURTON, RUEFUL CAPA A 66  YEAR-OLD FROM SOUTH LA THOUGHT  SHE WAS HAVING AN ONLINE  AFFAIR WITH BURTON. BUT THIS  IS ARTIFICIAL INTELLIGENCE  USED TO REPLICATE BURTON'S  FOIST AND LIKENESS THE REVIEW  WILL I MEAN IT'S  >> WE SO BUT BUT EVEN NOW IT  SEEMS LIKE A REAL BITE TO RAIL  ACTOR OF 5 HE'S NOT.  >> BUT YEAH, I WOULD I DIDN'T  I DON'T KNOW STARTING MORE  THAN A YEAR AGO AFTER MEETING  ON FACEBOOK RUBALCABA STARTED  SENDING THE SCAMMER MONEY.  >> THE PERSON PROMI
+[...middle cut...]
+DDRESS THE  ISSUE ON SOCIAL MEDIA BE  CAREFUL OF FAKES AND IMPOSTERS  BUT FOR RUBALCABA THE WARNING  COMES TOO LATE SHE AND HER  FAMILY OF LOST THEIR HOME.  >> THEY'LL BE FORCED TO MOVE  OUT GETTING STILL, IT'S GOING  TAKE AND YOU SHOULD ALWAYS  KNOW THAT NOTHING WILL EVER  MAKE ME HURT YOUR LIE TO YOU  WHY SOMEBODY ASKED ME FOR  MONEY  >> YOU'RE YOU KNOW I WAS IN A  FANTASY WORLD.  >> HER DAUGHTER HAS HIRED REAL  ESTATE ATTORNEYS BUT THE  BOTTOM LINE IS IF THEY DON'T  COME UP WITH THE MONEY TO BUY  BACK THEIR HOUSE THE FAMILY  WILL BE EVICTED WITHIN A WEEK  BY THE WAY THERE IS A GOFUNDME  TO HELP THEM WITH THEIR  ATTORNEYS FEES AND THEY JUST  WANT THE MESSAGE OUT THERE SO  NOBODY ELSE FALLS
+
+=== ID: riLctiWQUOA ===
+TITLE: AI impersonation scams on the rise
+DESC: The technology is being used to create realistic videos to impersonate people to steal data from banks, insurance companies, and health care providers.
+KEYWORD: AI scam
+VIEWS: 2979
+TRANSCRIPT: Artificial intelligence is making it even easier for scammers to trick us. Yeah, the technology is being used to create hyper realistic videos and audio to impersonate people. Kelly O'Grady found out scammers are targeting those looking for love or companies looking to hire. -- Could we start off with a brief introduction into
+-- yourself? You're watching a job interview, -- but the applicant on the left isn't exactly
+-- real. I've been working in a software engineering area. -- About 10
+-- years. Both are AI deepfakes. Their faces altered, attempting to get a job with a stolen identity. Vijay Balasubramanian is the CEO of Pindrop Security, a company that detects AI fraud. He says they've seen a 900% increase in AI scams in 2 years. Last year, the Justice Department accused North Korea of attempting to infiltrate more than 300 US corporations. With fake job applicants trying to extort the companies and gain access to private data. -- Are these tools
+-- being used just for job scams? No, we're seeing romance scams. We're seeing elder abuse. We're seeing account takeover. We're seeing hiring scams. AI deepfakes are easy to make. In less than 10 minutes, -- his teammate won of
+-- me. Hey Kelly, I am so humbled and honored. -- First
+-- off, thank you, VJ for having me. -- In
+-- another office, Pinrop Vice President Dee Russell posed as me applying for a job. The ability to distinguish real humans from AI generated ones is becoming critical. Oh, this is weird. I'm gonna have bad d
+[...middle cut...]
+storytelling skills makes me a strong candidate. -- That was not a real
+-- person. It's just a bot that's been trained on just your LinkedIn profile and 30 seconds of your speech. Oh, I'm not buying it. It's wild, right? Yeah, yeah, it's interesting. That was Kelly O'Grady reporting, by the way. Pindrop tells us the biggest threat that they're seeing is AI bots impersonating customers to steal money, personal data from things like banks, insurance companies, and even healthcare providers. Yeah, so you know, while experts say this tech is gonna keep getting smarter, they believe humans will too, and if we keep dedicating resources toward AI development, you know, we'll be able to outsmart it.
+
+=== ID: ER4AL_SjPbw ===
+TITLE: Microsoft Hiding Losses from OpenAI - SEC Ignoring AI Bubble Fraud
+DESC: Support Content at - https://donorbox.org/etcg LinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/
+KEYWORD: AI scam
+VIEWS: 23039
+TRANSCRIPT: Welcome back. As you know, I am Eli, the computer guy here for the daily blog, where I shake my brain nipples every day in order to get some of that dirty dirty YouTube money so I can afford to provide you folks inerson hands-on technology education that empowers you to do whatever the hell it is you want to do in Durham, North Carolina. Uh, we have a class coming up on AI and web scraping. We have a class coming up on extending AI cap capabilities with REST API calls. If you're interested in those classes, go to silicon dojo.com to see what the schedule currently is. Uh, if you want to help support the project, again, freed user is not actually free. There's a donor box link down below. And I do have to say, I do have to say for all those people out there that are like, Eli, Eli, stop shaking those brain nipples. What we really want is technology education, you you can just go do something very inappropriate. If I said the words, I get cancelled on YouTube, and that would not be very good. But just go do something inappropriate to yourself. I do have to say it right now. We have the most views on this channel that we've gotten since literally March of 2016. That is right. The channel the channel is growing. Why? I don't know. I don't know. But it's true. So anyways, people like to see the brain nipples. That is the reality. So I think this is an interesting story today coming from the Wall Street Journal and this particular journalist talking about Microsoft. not exactly bei
+[...middle cut...]
+ about is silicon dojo. Silicon dojo.com free to end user or hands-on technology education that empowers you to do whatever the hell it is you want to do in Durham, North Carolina. We have a class coming up on AI and web scraping next week. We have a class coming up on extending AI capabilities with REST APIs in a couple of weeks. We have more and more classes uh coming down the pike. So if you're able to come to Durham to actually take the classes, do make sure to go to silicon dojo.com to see what our schedule is. Do remember freezer is not free. That's why I shake the brain nipnips every day. If you want to throw some money into the donor box link down below, that would be ever so lovely.
+
+=== ID: EyW9OIuo12Q ===
+TITLE: Scammer Astonished by How Easy it Was to Grift Gullible MAGA Perverts
+DESC: Some online scammers are taking advantage of Trump’s gullible supporters with AI-generated models. Wired spoke to a medical student who made thousands of dollars a month by sharing risque photos of an AI model espousing right-wing talking points. In fact, the student in question seemed genuinely shocked by how easy it was to dupe Trump’s supporters with low effort AI slop. In this video we’ll talk about the scams Trump’s supporters keep falling for again and again and again….  Read the Full Stor
+KEYWORD: AI scam
+VIEWS: 75239
+TRANSCRIPT: There are still so many opportunities in this big, beautiful country, my friends. You just have to know where to look. I say that because online entrepreneurs are realizing that idiocy itself can actually be commodified and turned into a money-making venture, much like everything else in a latestage capitalist society. and some business geniuses managed to find a way to actually harvest American stupidity and milk global Americans for financial gain again and again and again. I'm of course talking about Donald Trump supporters. And even though he's already scammed them himself multiple times, there's apparently still lots and lots of money that can be made off of these brain dead [ __ ] And that's what a 22-year-old medical student from North India did when he was trying to make some extra cash to get himself through med school. He is one of thousands, if not millions of people outside of America who see lots of opportunities within America to make money. Now, we learned last year that some of the biggest proTrump accounts on Twitter were actually run by people in foreign countries since Elon Musk started letting everybody monetize their tweets. But the industry has obviously expanded well beyond Twitter at this point, and the 22-year-old med student in question decided to actually spill the tea on just how lucrative it is to exploit some of the dumbest people in our country. Now, he didn't initially plan to prey on MAGA dummies specifically. In fact, he thought that it would
+[...middle cut...]
+, if not billions off of these people by hawking them NFTTS and various shitcoins, as well as shoes and watches and even Bibles. And to this day, they still think that he has their best interest in mind. They haven't gotten the sense that, hey, maybe this man is just using us. So, if they've proven time and time again that they are the most gullible people ever, then it's not that surprising to see everyone exploit them for their stupidity and farm it for monetary gain. It doesn't matter how obvious the grip is, they fall for it every [ __ ] time and they never get the sense that they're being used. Hence why it keeps happening. I'm going to come. Do not come. Welcome to the come zone. Come.
+
+=== ID: N1pVEN4ocsI ===
+TITLE: AI Earn Scam Alert 🚨| 3x Deposit करे या ना करे – Important Warning ⚠️
+DESC: AI Earn Scam Alert 🚨| 3x Deposit करे या ना करे – Important Warning ⚠️  @Missionudaan.7   DISCLAIMER: यह वीडियो केवल शिक्षा और जागरूकता (Educational & Awareness Purpose) के लिए है। मैं किसी भी कंपनी/बॉट/प्रोजेक्ट को प्रमोट नहीं करती हूँ। यह वीडियो किसी भी प्रकार की financial advice नहीं है। Crypto, Bots या Online Platforms में निवेश पूरी तरह आपके अपने जोखिम पर है। अगर कोई loss या नुकसान होता है तो उसकी पूरी जिम्मेदारी यूज़र की होगी। किसी भी deposit से पहले अपनी स्वयं की रिसर्च (DYOR) करें।  आज मै
+KEYWORD: AI scam
+VIEWS: 1134
+TRANSCRIPT: कितने लोग यहां पर एi अर्न के यूज़र्स हैं? आप लोग कमेंट्स में बता सकते हैं कि आपने भी एआई अर्न ज्वाइन किया है। आजकल tlegram में एi अर्न काफी ट्रेंडिंग चल रहा है और यह इतनी तेजी से चला कि मतलब अगर आप एआई अर्न यूजर है तो आप देखते होंगे कि जैसे ही आप उठते हैं और tlegram वोट को मतलब एआई अर्न को खोलते हैं तो आपने कल उसकी जो काउंटिंग है लोगों की कुछ और देखी होगी और आज अचानक से इतनी ज्यादा बढ़ गई और इसका सबसे बड़ा रीजन यह है कि यह एक 20 डेज का प्लान था। या प्लान है। बोल सकते हैं अभी भी अचानक से यहां पर तीन दिन से कुछ विड्रॉल्स के रिगार्ड इशू चल रहे हैं। जिस वजह से लोग काफी परेशान है। यहां पर कुछ कंडीशंस लगाई गई है। ठीक है? तो इसमें हमें क्या करना है, क्या नहीं करना है। आज की वीडियो में मैं आपको बताने वाली हूं। तो सभी लोगों ने इस वीडियो को ध्यानपूक देखना है। अगर आप एआई यूज़र्स हैं और अगर पहली बार चैनल पर आ रहे हैं तो चैनल को जरूर सब्सक्राइब कीजिएगा क्योंकि यहां पर मैं आपको हर जितने भी ऑनलाइन प्लेटफार्म हो या ट्रेडिंग के रिगार्डिंग हो कुछ ना कुछ आपको अपडेट यहां पर देती रहती हूं और सावधान एंड सतर्क करने के लिए भी आपको मैं यहां पर एडवाइस कर सकती हूं। है ना? तो सभी लोग ध्यान से देखिएगा और चलिए स्टार्ट करते हैं कि हमें आगे क्या करना है, क्या नहीं करना है। ठीक है? और डेली अपडेट के लिए आप मेरे Telegram चैनल से जुड़ सकते हैं। वहां पर आप मेरे को डायरेक्ट मैसेज भी कर सकते हैं और मैं आपको वहां पर रिप्लाई भी करती हूं और कोई भी क्वेरीज है मेरे से वहां पर सवाल कर सकते हैं। ठीक है? लिंक मैं आपको डिस्क्रिप्शन बॉक्स में दे दूंगी। अच्छा सबसे पहले मैं पूछना चाहूंगी कि कितने लोग यहां पर बोट अल्फा के यूज़र्स
+[...middle cut...]
+ उतना ही आगे बढ़ता जाएगा। तो अगर यह ऐसे ही आगे करके डिपॉजिट डिपॉजिट करवाते रहेंगे तो फिर विड्रॉल फिर वही बिल्कुल भी और कई लोग कर रहे हैं तो बिल्कुल गलत कर रहे हैं कि डिपॉजिट भी कर रहे हैं तो उनके लिए बिल्कुल मैं आपको यही बोलना चाहूंगी कि डिपॉजिट अभी बिल्कुल ना करें और खासकर 3x तो बिल्कुल ना करें। ठीक है? स्टार्ट ही ना करें। तो विड्रॉ पर क्लिक ही ना करें। देखते हैं चारप दिन में कंपनी किस मोड पर ले जाती है। क्या वो यूज़र्स के लिए नई टेक्निक्स लेके आती है वो तभी पता चलेगा। ठीक है? तो आप लोग जुड़े रहिए। अगर आप एआई एंड यूज़र्स हैं तो आप भी कमेंट्स कर सकते हैं। यस। ठीक है? तो मिलती हूं मैं बहुत जल्दी आपको नई वीडियो में नई अपडेट के साथ में। तब तक के लिए आप बने रहिएगा। थैंक यू सो मच। बाय-बाय। गुड नाईट।
+
+=== ID: zXLAmy8EbiM ===
+TITLE: Project Apollo AI Review: SCAM or Legit? (Don't Download "Private AI Paycheck")
+DESC: Project Apollo is a SCAM. This Project Apollo AI review exposes the "private AI paycheck" fake system. Avoid the Project Apollo cost and download; the video uses a deepfake of "James Cooper" and appears to show unauthorized clips of Tristan Viney. This "AI-powered feedback system" is a deceptive scheme. The marketing features a spokesperson named "James Cooper," who claims to have worked with Elon Musk and Jeff Bezos at Tesla, but he is an AI-generated deepfake. The Project Apollo scam also uses
+KEYWORD: AI scam
+VIEWS: 8778
+TRANSCRIPT: Right at the top of this video, this video  busts a scam called Project Apollo, a supposed   AI-powered feedback system, a private AI paycheck  system. This has all the makings of being a scam,   and I—I'll show you why. So, I first found on a  website, you can see here it has a Tesla logo,   Google, Meta, and OpenAI, even though none of them  endorsed this at all; it kind of gives you the   feeling they did. It just says "entertainment"  at the top and "breaking news," but it's not a   news website. It is a website look like it's  coming from Brazil. That is as scammy as it   gets. How they are paying AI paychecks of up  to $5,453.25 per week for just 15 minutes of   simple smartphone tasks. Watch now. And that is  a way-too-good-to-be-true claim. Anything saying,   "Hey, you just have to spend a small amount of  time, you can make a whole lot of money that'll   allow you to quit your job," is going to be a  scam. It is not going to be legitimate. And so   this thing you can see here called Project Apollo  AI-powered feedback system. There's a video that   plays here for this. I'm going to hit play on it  so you can see it. And this button you can see   down here, "Yes, I want to change my financial  life now," is only showing up because I already   finished the video. I'm going to restart it so  you can watch it and so you can kind of get an   idea of what this is promising because it is  as scammy as it gets. Again, this is about   Project Apollo reviews about an AI-powere
+[...middle cut...]
+ This is just not good at all. I   noticed some phone numbers and everything.  If you look at your credit card statement,   there should be a good phone number for you  to use. But if you saw scammy advertising   claiming you're going to be able to make a lot of  money—15 minutes, and you can make $5,000 a week   or something like that, no tech skills needed, you  just buy something and suddenly you can make tons   of money—that is a scam marketing attempt and  it is all going to be a scam. Project Apollo,   the AI-powered lottery prediction engine. I  hope that you've been able to benefit from my   video here. Like, comment, subscribe. The join  button is down below. Thank you for watching.
+
+=== ID: O-6oNscA0AQ ===
+TITLE: Kits.AI Review: Voice Cloning Scam or Real Deal? (2026)
+DESC: 🤑 Best Deals on Amazon: https://amzn.to/3JPwht2   🏆 MY TOP PICKS + INSIDER DISCOUNTS: https://beacons.ai/savagereviews I tried them all so you save time AND money! 🔥  Can an AI really clone your favorite singer’s voice? 🎤 Kits.AI claims it can—but users tell a very different story.  In this video, I break down the reality behind Kits.AI voice cloning: constant pitch problems, robotic results, disappearing community models, and subscriptions that keep charging even after cancellation attempts. De
+KEYWORD: AI scam
+VIEWS: 2623
+TRANSCRIPT: An AI voice cloning platform with a 1.8 out of five star rating on Trustpilot. Plot twist, it gets worse. Kids.ai promises studio quality vocal cloning that can make anyone sing like their favorite artists. Clone voices, play instruments, isolate vocals, 100% royalty-free. It sounds like the musical equivalent of Discovering Fire until you dive into what users actually experience after paying their monthly fees. The platform markets itself as ethically sourced voice technology with fair artist compensation. They claim every voice model comes from licensed artists who benefit through revenue sharing agreements. Responsible on paper. Sure. The free plan even promises workflow upgrades without a credit card. But reviews paint a completely different picture. Musicians report that clone voices can't hit basic notes, frequently crack, distort, or go completely out of tune. One professional paid for premium features only to discover the output was unusable during time-sensitive projects. The AI mastering tool reportedly failed for multiple days straight, forcing users to pay elsewhere just to finish work. The business model raises red flags. Users describe being hit with spam emails and aggressive upselling after signing up. Features that used to be free suddenly moved behind payw walls. Community created voice models, including popular characters and celebrities, disappeared when the company decided to monetize everything. Customer service doesn't help. Subscription cancellations o
+[...middle cut...]
+higher tiers are required for basic functions. The $24 creator plan reviewers describe it as beta quality software with frequent crashes and limited vocabulary. Several users recommend free alternatives like weights.gg GG that supposedly deliver better results without monthly fees. The consensus kits.ai feels more like a salesunnel than a real creative tool. Bottom line, you're paying premium prices for substandard voice cloning wrapped in aggressive marketing. Your money is better invested in audio software that actually works. If this saved you from paying for robotic vocal disasters, excellent. I investigate AI tools that promise creative breakthroughs but deliver subscription nightmares.
+
+=== ID: hD-rX0tjJ6A ===
+TITLE: 76-Year Old Loses $1.6 Million Savings To AI Investment Scam
+DESC: 
+KEYWORD: AI scam
+VIEWS: 2780
+TRANSCRIPT: I ain't gonna lie, man. Reading this title is pretty damn sad. And I I I said this is where we were headed. And especially like with older folks, man, who they really don't understand the technology technology that's going on right now, how advanced it is. But y'all see the title, man. 76 year old loses 1.6 6 million savings to AI investment scam. Look, man, check on your loved ones, especially your your your older folks, your parents, your grandparents, because hey, they be getting them phones in their hands and, you know, they just be they be looking talking about some trying to figure out what's going on and they don't, you know, just check on them, please. We ain't going to waste no more time. Let's jump right into it. There we go. Ron Williams never imagined he'd have to tell his son he lost everything he'd saved up to someone he never met. At first, I was devastated and I felt stupid. The 76-year-old retired insurance agent from Brooklyn says it started with a random text message from someone calling herself Jenny. And he's an insurance agent. someone calling themselves Jenny [sighs and gasps] boy that turned into friendly banter with Jenny sending this video and saying she was 33 Christian and living in Boston. It was easy communication. It felt very comfortable. Jenny soon told William she was making a fortune investing and asked him to join her. Within about 6 months, he'd invested $1.6 million. he could see his money growing on the platform. But William's son had su
+[...middle cut...]
+lk about it but I'm just wondering if there was like some flirting going on you know cuz obviously you didn't you didn't see u the wife or you didn't see you know there wasn't another woman in the picture so he's probably lonely she's probably flirt with him telling him all these things and we're going to meet someday and all this and got him. Damn, man. 1.6 million and and and it's some some dude with a big old beard probably just chilling back there typing in all the words to say. Wow. Y'all be careful out there. Appreciate y'all coming over and watching. Please like, share, and subscribe because these videos like like this need to be on people's radar, man. For real. All right, peace out.
+
+=== ID: hvWylYTQfuo ===
+TITLE: 5 New AI Scams You Should Tell Your Parents About
+DESC: Secure your business effortlessly with a 3-month NordPass trial! Use ”bycloud” activation code at https://nordpass.com/bycloud Limited time offer!  I felt like I had to share the stuff in this video for quite some time, so it's a different type of video than usual! Let me know what you think!  Number 1 [Senate Hearing] https://youtu.be/3x7ghdE1UIs  Number 2 [News Article] https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html  Number 5 [Replika Breakdown] https://you
+KEYWORD: AI scam
+VIEWS: 37483
+TRANSCRIPT: while our lives are getting easier thanks to AI automating a lot of the boring tasks the growing concerns that it brought alone still cannot be understated as a person that's constantly reminded by my friends and family that I live in a tech bubble I think there needs to be a video where everyone can kind of get onto the same page especially when it comes to malicious practices that can be applied with AI technology keep in mind that all these AI Technologies I'll be sharing today is only developed in the past few years and at most four this video is also not about some speculation of what AI could do but is what AI can do as of right now and has actually happened already so feel free to send this video to your non Tech friends your parents your grandparents or even your pets as I will be going through five AI deceitful and disingenuous usages which people should at least be aware about in order to protect themselves from malicious actors in this big technological Paradigm Shift we are going through cuz of AI first up we have the classic phone call scams well impersonation scam is probably nothing new but imagine it sounding exactly like your relatives or your friends calling you and asking you for some money while being a fully interactive conversation this exact scenario happened to Martin cassado a well-known entrepreneur in a general partner of a16z while he was on a trip in Japan his dad was convinced he was in the jail after a car accident and needed 10K bail and if he 
+[...middle cut...]
+d not need to use their own credentials or passwords for their own convenience it also make compliance with strong passwords super easy thanks to the password generator feature also the password Health metrics identify weak reused or old passwords within the company too so secure your business effortlessly now with a 3mon n past trial this is a limited time offer they gave me to offer to you guys so use code bcloud norp pass.com bcloud and thank you norpass for sponsoring this video a big shout out to Andrew lelas chriso Alex Jay Deacon Alex Mares migul fifou and many others that supporting me through patreon or YouTube but follow my Twitter if you haven't and I'll see youall in the next one
+
+=== ID: PcAagzRsJX4 ===
+TITLE: KRON4 reporter falls victim to AI apartment scam: What to look out for
+DESC: KRON4's Rob Nesbitt explains a real estate scam that uses AI. Read more: https://www.kron4.com/news/technology-ai/kron4-reporter-falls-victim-to-ai-apartment-scam-what-to-know-to-avoid-it-happening-to-you/
+KEYWORD: AI scam
+VIEWS: 63461
+TRANSCRIPT: ARE SCAMMED.  >>THAT'S ALL AROUND THAT. ITS  WHOLLY BECOMING MORE  PROMINENT. THE NEWEST VICTIM  SAYS WE'RE LEARNING ARE PEOPLE  LOOKING FOR APARTMENTS TO RENT  HERE AND KRON FOUR'S ROB  NESBITT WAS ONE OF THEM AND HE  JOINS US NOW LA LIVE. ROB, I'M  SORRY. THIS HAPPENED. IT  SEEMED LIKE A LIKE A REALLY  ANNOYING HASSLE TO HAVE TO GO  THROUGH AND WE'LL GET INTO ALL  THE DETAILS. BUT YOU WERE JUST  TRYING TO GET A BETTER DEAL IN  THAT APARTMENT. JUST MOVE. I  CITY FOUND A VERY GOOD DEAL,  TOO GOOD TO BE TRUE. YOU COULD  SAY ON TIKTOK. SO THAT WAS THE  APP.  >>VIDEO CAME UP ON MY  ALGORITHM AND I LIKED IT WAS A  ONE BEDROOM. SO I REACHED AND  I GOT A RESPONSE. AND THEN  ABOUT A WEEK LATER AND $2000  TAKEN ON MY CHECKING ACCOUNT  AND FRAUDULENT CHARGES. SO  WHAT'S BETWEEN HERE? WELL,  THIS IS THE APARTMENT WENT TO  LOOK AT FRANKLIN STREET IN SAN  FRANCISCO. THAT'S REAL VIDEO  THAT I TOOK NEAR UNION.  EXACTLY. AND THAT'S VIDEO ON  TIKTOK OF THE SAME BUILDING  AND THE APARTMENT FOR RENT. I  LIKE THE LOOKS OF IT. SO AS  YOU ARE NOW, SOMEONE GOT BACK  TO ME SAYING GOOD NEWS, THE  APARTMENTS AVAILABLE. SO I  FILLED OUT AN APPLICATION FEE  PAID THE APPLICATION FEE $280  CENTER ZELLE PAYMENT AND THEN  THE FOLLOWING DAY. THAT'S WHEN  I WENT MY CHECKING ACCOUNT AND  I SAW $300, $400 BASICALLY  TAKING OUT ONE OF THE TIME.  THERE'S OVER 2000 IN TOTAL  WITHIN, YOU KNOW. HOURS OF  EACH OTHER PEOPLE. NOT SELL IS  LIKE THE BANK OF AMERICA JET  TRANSFERRING CAPTION, OK,  YEAH, I USE IT ALL THE 
+[...middle cut...]
+ON TO THE  DETAILS. YOU ALWAYS HEAR ABOUT  DOMAINS WITH E-MAILS TO MAKE  SURE THEIR OFFICIAL FOR THIS.  IT WASN'T EMAIL RIGHT IN THE  BIO ARE JUST AS EMAIL AND YOU  CLICK EMAIL. BUT IT DOESN'T  SAY THE E-MAIL ADDRESS. AND  WHEN I WENT BACK AND LOOKED AT  THAT ACTUALLY EMAIL DOMAIN WAS  NOT OFFICIAL COMPASS EMAIL  FROM THAT COMPANY. WAS A G  MAIL ACCOUNT WITH THE NAME.  NICK, A NUMBER AND YOU SAW  SOME RED FLAGS. BUT THAT'S  HINDSIGHT. GREAT STORY. I'M  SORRY. THIS HAPPENED TO HIM  YOUR SHERIFF ALISA LEARN FROM  AND THE TIKTOK DELETED. SO I'M  PRETTY HAPPY AT THE END OF THE  DAY. YES, SOMETHING GOOD. KIDS  GOT A GENEROUS OF YOU SHARE  THIS WITH EVERYBODY. ALL  RIGHT. AND THAT LINE HERE,  BUYE
+
+=== ID: O-txcbEYHxQ ===
+TITLE: This $1.5 Billion AI Scam Was Just a Call Center..
+DESC: This $1.5 Billion AI Scam Was Just a Call Center CHECK OUT OUR MATS HERE: https://mat.city/  My other Socials: Twitter: @atozy Instagram: @atozy  atozy is a budget talk show where I react / give my reaction to current internet topics and other viral trends. the channel is a comedy / satire comedy / entertainment / reacts / reaction / react / channel.
+KEYWORD: AI scam
+VIEWS: 360841
+TRANSCRIPT: This $ 1.5 billion AI company turned out to be a scam as it was just people. One of the hottest AI startups of the decade has just filed for bankruptcy because their AI was actually just 700 guys in India pretending to be codegenerating robots. You can't make this up. So, uh, Builder AI, a startup once backed by Microsoft, Soft Bank, and guitar sovereign wealth fund just collapsed because it was exposed as a scam. That has to suck for Soft Bank. That's another L for Soft Bank. But this company was valued at $1.5 billion. Over $450 million were raised. And it was even considered the future of noode AI software development. Except here's the twist. The AI, it doesn't exist. It was all humans behind the scenes writing code manually while executives pitched away a fantasy to investors, clients, and for the media. Doesn't know how to build software. They don't know how to deploy it. They don't know how it scales. They don't know the service partners they need to go to. They don't know they need to go to Azure. Um they don't know who to use for payments. And our platform is designed around this vision of build, run, and scale. And our vision is really that you could be Joe's pizzeria and become Domino's. So how did builder AI fake its way to the top? How did it all unravel? And what does this mean for the future of AI startups? Spoiler, it's not great. So back in 2016, a guy named Sashende Dev Dugal founded Builder AI, originally called Engineer AI. The pitch was simply software as
+[...middle cut...]
+ms like we're kind of exiting that funny money stage where we're not just like throwing way too much money at buzzword AI projects. That's also crazy because this company literally lared their way into becoming a unicorn. So, um, well played for a while, but that didn't turn out too well. But other than that, until next time, uh, if you're one of those people that are deploying, uh, millions of dollars into AI tech startups, you should probably stay skeptical. What? But I realize that probably applies to no one here. So, what I would recommend is subscribing to this account, maybe dropping a like on this video if you enjoyed the video, and I'll see you guys in the next video. May I have your
+
+=== ID: nn3jUTzpRxc ===
+TITLE: Unboxing A Scam: AI Robot Puppy
+DESC: This is a full unboxing of the ai puppy scam which I did a full video on the main channel that you can find here: https://www.youtube.com/watch?v=ZsbLhnrpGT8
+KEYWORD: AI scam
+VIEWS: 974258
+TRANSCRIPT: Okay, so we're going to be opening one of those AI puppies. Uh I ordered this off of Amazon. It came all the way from uh China. It actually says that it came by way of Chicago, Illinois. Uh but I looked at the tracking. It does say that it originally came from China. So I guess it came through like some sort of service in Chicago. I'm going to obviously don't want to show my address or anything. So we'll try and keep that off the screen. But let's go ahead and open this up. Uh, doesn't right here. Let's see. Comes in a box. I don't know what that means in Chinese. Uh, I'm sure someone someone watching can figure that out. Let's see what else we got here. Another thing that doesn't really say anything, but let's uh let's open it up. So, the box So, the box is all beat up. Obviously, uh that's not a good look when you you buy one of these these AI puppies and your box comes all beat up like that. Nothing else is in this box over here. So, this is the uh Niko Niko Robotic. I think that's how you pronounce it. Robotica. Niko Robotica. And I guess these are the different because they have different versions of the dogs. I guess Pied, Ladra, Camina, Core. I guess those are the uh the different um dogs that you can It's not really focusing on that, but different dogs that you can buy. It's got the uh the different things on the side. It says, "No, the creation of our robotic puppy plush toy is much more than just a simple manufacturing process. It is a true exciting adventure. Our d
+[...middle cut...]
+n around for a very long time. Again, cute. There's nothing wrong with just selling this as is, but if you claim this is an AI puppy to try and get more sales, right? If you use fake AI footage on YouTube and advertisements to promote this, it's lifelike like lifelike in every way. Obviously, that's a lie. It's not true. Um, and that that needs to stop. If you just want to sell it as, you know, a cute little robotic, you know, puppy that just like runs around and gets super annoying after after 15 seconds of it squeaking like that. You could you could advertise it as that. That's there's nothing wrong about that. But advertising this as an AI puppy obviously is not not true and should not be
+
+=== ID: J6kUOvZfgjE ===
+TITLE: My Realistic Robot Puppy Review | AI Robot Dog Scam | Nicco Robot
+DESC: My Realistic Robot Puppy Review | AI Robot Dog Scam  🚨 SCAM ALERT! 🚨 If you've seen ads for the "Realistic Robot Puppy" claiming to be handcrafted and ultra-realistic, STOP! This is just another AI-generated scam designed to trick pet lovers into wasting their money.  🔎 What’s the scam? These ads show an adorable, lifelike robot puppy with realistic movements, sounds, and interactive features—but the truth is far from it! Many buyers never receive their order, while others get a cheap plastic to
+KEYWORD: AI scam
+VIEWS: 5190
+TRANSCRIPT: hey everyone today we're exposing another scam this one is targeting pet lovers you've probably seen those super cute robot puppy ads on YouTube and Facebook they claim to offer a realistic puppy experience with lifelike movements adorable sounds and interactive responses sounds great right but don't fall for it these ads are designed to catch your attention instantly they show an adorable puppy toy that wags its tail barks and responds to touch some even claim that the puppies are Handmade by skilled Craftsmen but here's the truth those short videos they're AI generated and totally fake if this sounds familiar that's because it is a while back we exposed a fake robot puppy called Milo this new scam is just a copypaste version with a different name same picture same false claims just a new name a quick search on Amazon reveals the truth the exact same toy is sold under different names my realistic robot puppy 2025 new robot dog AI NCO robot puppy and many more but they're all the same toy same pictures same ads same deception clicking on the Facebook ads takes you to poorly made Shopify websites they use fake discounts Limited stock warnings and countdown timers to pressure you into buying fast without thinking twice a reverse image search on AliExpress exposes the scam completely these lifelike puppies they cost just $1 or $2 yes scammers are buying cheap toys and selling them at huge mark UPS using fake ads and those five-star reviews on their websites fake you can't even submit your own review but on trust pilot and other platforms the truth comes out many buyers never get their puppy some receive cheap plastic toys that look nothing like the ads no interactive features no lifelike behaviors just disappointment the websites running these scams like queer shop and Palace 67.com were just created recently and the owners they hide their details or are linked to suspicious locations legitimate businesses don't hide like this these realistic robot puppy ads they're a complete scam they sell cheap lowquality toys while pretending they're high-tech handmade products so don't waste your money if something looks too good to be true it probably is
+
+=== ID: AYijnaNv8m8 ===
+TITLE: $15K Stolen From a Florida Woman in AI Voice Clone Scam
+DESC: $15K lost in AI scam after a Florida mother receives a phone call that sounds exactly like her daughter crying. The caller claims she caused a crash involving a pregnant woman and needs immediate bail money. A man posing as a public defender takes over and instructs her to withdraw cash and hand it to a legal courier.  Bank records confirm the $15,000 withdrawal. Law enforcement confirms there was no arrest. The suspects later call back demanding another $30,000. Investigators are now reviewing 
+KEYWORD: AI scam
+VIEWS: 3650
+TRANSCRIPT: literally screamed in a cry of I can't believe this has happened to us. A possible AI powered scam leaves a do woman out 15 grand. She says someone using her daughter's voice traricked her into handing over the money. $15,000 left Sharon Brightwell's bank account and no agency has acknowledged receiving bail funds in her daughter's name. Bank records confirm the withdrawal. The sheriff's office confirms no arrest occurred. No public defender is assigned to her daughter. Those facts sit alongside a phone number still visible in Brightwell's recent calls. The call came midweek. Late morning, she answered without hesitation. The voice on the other end was crying. She says it was her daughter's voice. Not similar, not close. Exact. When I picked up the phone, it was my daughter's voice. It was her crying voice. She was hysterical. The caller said she had been texting while driving. There had been an accident. A pregnant woman was involved. Authorities had taken her phone. The line felt unstable. There were short gaps between sentences. Brightwell remembers asking, "Are you hurt?" The response came through tears. "Mom, I need you." I'll do whatever I need to do to help you. Are you okay? A man entered the call. He identified himself as a public defender coordinating with the sheriff's office. His tone was measured. He said the case was time-sensitive. Bail had to be posted before formal booking. He gave an amount, $15,000. Brightwell recalls a brief pause before she responded. She
+[...middle cut...]
+c defender acknowledges involvement. No arrest record exists. The courier has not been identified. Responsibility remains distributed across a call, a voice, a signature, and a door closing. Reporting on similar cases shows increasing complexity in voice-based impersonation claims, though classification varies by jurisdiction. Institutional responses differ by branch policy and investigative capacity. Documentation and personal recollection do not always align precisely in timing or wording. Individuals with records that clarify procedural steps in comparable cases are encouraged to share documentation for review. The agony I went through that day, that's just evil for people to do that to a
+
+=== ID: FLsTa5YkSrI ===
+TITLE: AI Earn Scam | TP Bot AI EARN Update | Anant DeFi
+DESC: AI Earn Update | AI EARN Withdrawal | TP BOT AI Earn Latest Update | AI Earn Withdrawal kaise kare | AI Earn Scam | AI Earn TP Scam | Telegram AI Earn Scam   Call Now - 91 - 9625103116 📞📞📞 👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻  👇🏻👇🏻👇🏻👇🏻👇🏻 WhatsApp Me - https://wa.me/message/ZRMZTTAC2PCQH1 👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻  Join WhatsApp Group - https://shorturl.at/qNY24 👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻  ____________________________________________________________________  “Inspiring People to Create Wealth through Data, DeFi, and Community Po
+KEYWORD: AI scam
+VIEWS: 1276
+TRANSCRIPT: दोस्तों एक प्लान आता है 2025 में एक बहुत बड़ा जलवा बिखेरता है। नाम है एआई आर्ट टेलीग्राम से शुरू होता है। छोटे से सफर से एक बहुत बड़ा सफर तय करता है और उसके बाद अब वो सीन आ चुका है। वही हरकतें जो कई सारे प्लांस करते हैं। अपडेट्स की घोषणा ये चेंजेस वो चेंजेस और कई सारे निर्देश वगैरह-वगैरह और उसके बाद क्या होता है? उसके बाद होता है टाटा बाय-ब हम कौन आप कौन अगर यही चीज चलती रही तो वाकई बड़ा दुख होता है दर्द होता है क्योंकि सिर्फ जरूरी नहीं है कि जो पैसा गया या जो एफर्ट्स गए इंपॉर्टेंटली जो एफर्ट्स खराब हुए वो किसी के भी हो अपने हो या अपनों के हो तो वो बुरा तो लगता है। दोस्तों एi अर्न कह सकते हैं कि क्लोज हो गया या अभी तक नहीं हुआ। भाई जो हरकतें हैं, जो चीजें हैं, जो अपडेट्स हैं, उस हिसाब से बिल्कुल क्लियर है कि अब आप उससे उम्मीद ना ही करें तो अच्छा है। मैं लेट हूं। मुझे पता है इस वीडियो को बनाने में और मकसद यही है कि यहां पर मैं सिर्फ दो-तीन इंपॉर्टेंट बातें करके इस वीडियो को पर्पस पूरा करूंगा कि मैं यह वीडियो क्यों बना रहा हूं। सबसे पहले मुझे कहीं ना कहीं इस चीज को मैं मानता हूं कि अगर मैं इस इंडस्ट्री में हूं तो मेरी मौलिक जिम्मेदारी बन जाती है कि मैं लोगों को आगाह करूं उनके फंड मैनेजमेंट की तरफ क्योंकि ऐसे प्लांस जो बहुत ही शॉर्ट प्लेटफॉर्म्स पे टेलीग्राम WhatsApp दुनिया भर के छोटे-छोटे वेबसाइट्स पे जिनका कोई बहुत बड़ा कोर नहीं होता। जिसका कोई बहुत बड़ा फाउंडेशन नहीं होता है। उसके बावजूद भी क्योंकि जिनका फाउंडेशन ही कमजोर है ऐसी चीजों के स्कैम होने के ऐसी चीजों के खराब हो जाने के भाग जाने के जो चांसेस होते हैं ना चूना लगाने वाले जो चांसेस होते हैं वो बहुत ज्यादा बढ़ जाते हैं।
+[...middle cut...]
+मंथ्स टू डेज एगो तो बहुत ज्यादा ना बताते हुए क्योंकि यह वीडियो शॉर्ट रखनी चाहता हूं मैं और बस मरहम का इंट्रोडक्शन है आप देख लो आपको लगाना है कि नहीं लगाना है तो यह एआरके के साथ और बहुत सारी संवेदनाएं और प्रार्थनाओं के साथ मैं इस वीडियो को खत्म करता हूं अपने मैं उम्मीद करता हूं और प्रार्थना करता हूं भगवान से कि आपका जो भी लॉसेस हुए हैं या आप परेशान अगर हैं किसी वजह से तो वह सारी चीजें उन चीजों की पूर्ति हो जाए। अलग-अलग तरीके से अच्छे तरीके से आपकी वो सारी पूर्तियां हो जाए। जिस पर्पस में जिस पर्पस से आप इन्वेस्टमेंट करते रहे हैं जो भी आपकी मजबूरियां हैं, जरूरतें हैं, वह सारी चीजें पूरी हो और बहुत ही दिल से प्यार भरा आप सभी को नमस्कार। इस वीडियो को देखने के लिए बहुत-बहुत शुक्रिया फिर मिलते हैं।
+
+=== ID: pZdGALXaw0Y ===
+TITLE: This AI-powered crypto scam is targeting Canadians
+DESC: Fake ads using AI are luring Canadians into cryptocurrency scams, promising double the returns. Pat Foran reports on how the scheme works.  Subscribe to CTV News to watch more videos: https://www.youtube.com/ctvnews  Connect with CTV News: For live updates and latest headlines visit: http://www.ctvnews.ca/  For breaking news, fast, download the CTV News App: https://www.ctvnews.ca/app Must-watch stories and full programs at http://www.ctvnews.ca/video  CTV News on TikTok: https://www.tiktok.com/
+KEYWORD: AI scam
+VIEWS: 43805
+TRANSCRIPT: And Michelle, we hear from people every week who have lost money investing in cryptocurrencies after watching fake ads or news stories. Some people lose a little, some people lose a lot, but once the money is gone, it's almost impossible to get it back. We got stung big time. Donald and Gilane Perkins of Ottawa say it was in January when they saw a video of then finance minister Christia Freeland. She appeared to be talking about an investment opportunity that could make them rich. I urge each of you to seize this opportunity and register for the project. I personally guarantee the safety of your funds. We bought into it and we got swindled by a very smooth talking couple of individuals. The Perkins started out investing just a few hundred but eventually handed over their life savings of more than 42,000. when we went to access the money, they wouldn't give it to us and said that we had to give them $10,000. Mark Carney came on with a woman that is very uh prominent in the bank system. Brenda Dion of Whitby invested in cryptocurrencies after watching a deep fake video of Prime Minister Mark Carney. Make your initial deposit. From that point on, the algorithm earns on your behalf. Dion says after she handed over her banking information, the fraudsters cleaned out her bank account of $16,000. I said, "I don't want you taking this money out of my account." I said, "Stop taking my money." Fraudsters are using fraudulent ads on on social media to to get victims. The Canadian Anti-
+[...middle cut...]
+pletely fake. If you're opening up your search engine and you're searching up a crypto investment that the first 5 to 10 results like you know are going to be more than likely fraudulent platforms. The Perkins have health problems and were hoping to boost their retirement savings but instead lost it all. I have a bag in my stomach and uh I go to dialysis three times a week. You know, this is good portion of our life savings. And you should be skeptical of videos you see online urging you to invest and do your own research. Also, if you lose money to a crypto scam, you'll be contacted by someone saying they can get it back for a fee. And that's also a scam. On your side, I'm Pat Foran. If you
+
+=== ID: fxoQDpJbAbw ===
+TITLE: AI Scams: How to SPOT them and Stay SAFE - BBC
+DESC: Have you ever come across an AI scam?   Here’s how to spot them - helping you and your family stay safe.  Made in partnership with The Open University.   To watch the other animations in this series, visit the BBC Ideas website.  #BBCIdeas #AI #AIScam #Scam #Technology   Subscribe and 🔔 to the BBC 👉 https://bit.ly/BBCYouTubeSub Watch the BBC first on iPlayer 👉 https://bbc.in/iPlayer-Home
+KEYWORD: AI scam
+VIEWS: 7509
+TRANSCRIPT: Artificial intelligence
+is changing the world around us, and it's everywhere - on messaging
+and photo apps on our phones, on customer service phone lines
+and websites. And while it's very quick
+and potentially very useful, it also makes spotting scams
+and fake content trickier than ever. So what do you need to look out for? Imagine you get a frantic call
+from your friend. He's crying,
+saying he's stuck overseas, his wallet and phone stolen,
+and he urgently needs money. He's asking you to write down
+a bank account number and transfer some money right now. Before you grab a pen, ask yourself,
+"Is your friend really abroad? "Is he really in trouble?
+Is this really him?" In fact, your friend's voice
+could have been cloned and turned into something
+known as a deepfake. This is a way of using AI
+to try and mislead you, and it's scarily convincing. So it's definitely worth
+double-checking that your friend
+isn't actually happily at home and sitting in front of the telly before you start
+moving money around. Deepfake technology can also be used
+to create videos and images. A few years ago,
+these fakes had giveaways like strange facial movements
+or weird lighting. Now they're becoming
+worryingly realistic. Ever seen a social media post where
+someone's hands look oddly shaped or they have too many fingers?
+That's AI slipping up. But these mistakes
+are getting rarer. AI scams can also pop up
+when you're looking for love, maybe chatting with someone new
+on a dating app. AI-generated text
+
+[...middle cut...]
+ds
+could help them stay safe. In the UK, flagging suspected scams
+to the police via Action Fraud can help raise awareness
+and even get scammers shut down. And, finally, stay informed. Keep yourself updated
+on the latest deepfake technology and how it's being used. AI isn't going away, and while it brings
+exciting possibilities, it also requires us to be sharper,
+more aware, more thoughtful. So next time you're online
+and something feels off - pause, question, investigate. Critical thinking
+isn't just a skill, it's your best defence in a world
+where seeing or hearing is no longer believing. There's a lot more to AI than
+we can squeeze into a short film, but we hope this
+has given you a start.
+
+=== ID: kLMavuX7v5Q ===
+TITLE: Hamilton County officials are reporting an increase in AI scam calls
+DESC: Deputies say scammers are using AI-generated voice technology to impersonate them, often telling victims they missed jury duty and that they owe money.
+KEYWORD: AI scam
+VIEWS: 219
+TRANSCRIPT: Over in Hamilton County, officials are reporting an increase in AI scam calls. People are pretending to be local judges or court officials. Deputies say scammers are using AI generated voice technology to impersonate them, often telling victims that they missed jury duty and they owe some money. The Hamilton County Sheriff's Office says they and officials will not request money over the phone, but if you are a victim or you want to report suspicious activity, you should call authorities.
+
+=== ID: UMw8gqFd_ME ===
+TITLE: AI Experts Break Down the Latest AI Scams
+DESC: Squarespace ► Head to http://squarespace.com/corridorcrew to save 10% off your first purchase!  Our videos are made possible by Members of CorridorDigital, our Exclusive Streaming Service! Try a membership yourself with a 14-Day Free Trial ► http://corridordigital.com/  Wren, Sam, and Niko use their visual effects knowledge to uncover the most diabolical AI scams on the internet. Get ready for the CONTENT HOSE!   This video was Directed and Edited by Matt Cairns ► https://www.instagram.com/mattj
+KEYWORD: AI scam
+VIEWS: 1049442
+TRANSCRIPT: hey what's up we're the bunkin Bros and we're back today to show you some AI scams that are infiltrating your feed but you don't know how to spot it well guess what we're going to tell you exactly what to look for in today's episode of [Music] debunking guys check this out this one oh my God it was so good I was just browsing my feed one day and someone said what I ordered versus what I got and I immediately saw wait a second that's another mid Journey AI image on a storefront AI image AI video and they even have ai image to video on there last time we showed you guys storefronts that are items that don't exist at all but look at this this is actually a real store where if you buy this you will receive something okay what do you get yeah what do you get cuz these look very intense you get oh it's print no no it's freaking it's printed on it wow they just printed the AI image on the shirt we have the shirt at home the shirt at home so yeah you're looking at a picture you want to tell if it's AI cuz these look pretty realistic so what do you look for here's some things that you can do to tell if something is AI the first thing to do is to pick a skinny line anywhere in the image and try to trace it and follow it especially along the patterns the more you look at these lines they start to not really make sense they break up and they become like embedded in themselves it's really ugly also because AI image generators are basically replicating little parts of image patterns notice
+[...middle cut...]
+ho are Discerning with this kind of stuff I mean there's a transaction you are giving them money you want to make sure the product matches your specifications somewhere Within These they do need to mention is this real is this CGI is this AI because ultimately that is going to matter to a lot of people we'd love to keep making more of these episodes if you like it please leave some comments you know telling us what you'd like us to look at like any specific types of AI video or scams or other things out there that are mulative any crazy news stories have caught your interest please let us know thanks for watching everyone remember debunk atod digital.com and we'll see you in the next episode
+

@@ -1,0 +1,318 @@
+Sweep tag    : _positive
+Keywords file: KEYWORDS_positive.md
+Manifest     : scripts\brightdata_snapshots_positive.json
+Raw output   : tiktok\data\raw\tiktok_positive_raw.json
+Raw output   : youtube\data\raw\youtube_positive_raw.json
+
+Loaded 62 keywords from KEYWORDS_positive.md
+Firing 124 triggers (TikTok + YouTube)...
+
+    [1/124] tiktok/'AI helped my career' -> sd_mojkax99joyavcvu8
+    [2/124] youtube/'AI helped my career' -> sd_mojkays021olq16z18
+    [3/124] tiktok/'vibe coding' -> sd_mojkb06sx0dnuzz40
+    [4/124] youtube/'vibe coding' -> sd_mojkb1ud3n6v4iyz
+    [5/124] tiktok/'AI hiring boom' -> sd_mojkb3z71mawq7hc0f
+    [6/124] youtube/'AI hiring boom' -> sd_mojkb5fc1u4im16rye
+    [7/124] tiktok/'AI made my job easier' -> sd_mojkb6tt14wcmxkf3a
+    [8/124] youtube/'AI made my job easier' -> sd_mojkb88mou60o3fil
+    [9/124] tiktok/'ChatGPT made me productive' -> sd_mojkb9mv23w7834v1d
+    [10/124] youtube/'ChatGPT made me productive' -> sd_mojkbb1v2rkt9wtclb
+    [11/124] tiktok/'built this with AI' -> sd_mojkbchh1uthjazj5p
+    [12/124] youtube/'built this with AI' -> sd_mojkbdxjl1jdvzk8u
+    [13/124] tiktok/'Cursor changed my life' -> sd_mojkbg7524dynbafy7
+    [14/124] youtube/'Cursor changed my life' -> sd_mojkbhlv18mov5p5jw
+    [15/124] tiktok/'AI side hustle' -> sd_mojkbizdzsp33rbkv
+    [16/124] youtube/'AI side hustle' -> sd_mojkbkd3mt1zx83an
+    [17/124] tiktok/'agent did my job for me' -> sd_mojkblq479f8zu214
+    [18/124] youtube/'agent did my job for me' -> sd_mojkbn4nwho2nyqzu
+    [19/124] tiktok/'Midjourney art' -> sd_mojkbonrj5zgs1myj
+    [20/124] youtube/'Midjourney art' -> sd_mojkbq482lgmog5ret
+    [21/124] tiktok/'AI made me an artist' -> sd_mojkbrjkgy7pn5cym
+    [22/124] youtube/'AI made me an artist' -> sd_mojkbsvh2igzoifhn5
+    [23/124] tiktok/'Sora is insane' -> sd_mojkbucu10rd7bf7uy
+    [24/124] youtube/'Sora is insane' -> sd_mojkbvta1tpxzej22c
+    [25/124] tiktok/'Suno cooked' -> sd_mojkbx722qwy0gshv5
+    [26/124] youtube/'Suno cooked' -> sd_mojkbyj5s7ps40hbc
+    [27/124] tiktok/'Suno AI music' -> sd_mojkc02o1bpzuf6crn
+    [28/124] youtube/'Suno AI music' -> sd_mojkc1ldl197xtcvf
+    [29/124] tiktok/'AI voice cover' -> sd_mojkc3001ai5t2nzp
+    [30/124] youtube/'AI voice cover' -> sd_mojkc4fc1298whvvcz
+    [31/124] tiktok/'Runway AI' -> sd_mojkc5solhw445c2w
+    [32/124] youtube/'Runway AI' -> sd_mojkc766218nbedpzk
+    [33/124] tiktok/'made art with AI' -> sd_mojkc8jv24y94ouull
+    [34/124] youtube/'made art with AI' -> sd_mojkc9xg1ipozucs6i
+    [35/124] tiktok/'AI girlfriend' -> sd_mojkcbb41gp87u15o0
+    [36/124] youtube/'AI girlfriend' -> sd_mojkccoi1avlfxa0ch
+    [37/124] tiktok/'character ai' -> sd_mojkce231d12o61y9t
+    [38/124] youtube/'character ai' -> sd_mojkcffy1uzu3vacll
+    [39/124] tiktok/'Claude is my therapist' -> sd_mojkcgvfk0mn7shk0
+    [40/124] youtube/'Claude is my therapist' -> sd_mojkci9u1ptw2yuf4f
+    [41/124] tiktok/'my AI bestie' -> sd_mojkcjt3xw3gfiy49
+    [42/124] youtube/'my AI bestie' -> sd_mojkcladpmdso0s46
+    [43/124] tiktok/'talking to ChatGPT instead of therapy' -> sd_mojkcmq92q1wyw2xsx
+    [44/124] youtube/'talking to ChatGPT instead of therapy' -> sd_mojkco7r2iz2v69v6b
+    [45/124] tiktok/'ChatGPT helped me study' -> sd_mojkcq7w20ajxypipr
+    [46/124] youtube/'ChatGPT helped me study' -> sd_mojkcrq01uequn8ez7
+    [47/124] tiktok/'AI explained it better' -> sd_mojkct612ltgf12d77
+    [48/124] youtube/'AI explained it better' -> sd_mojkcukk2jt5jccys5
+    [49/124] tiktok/'ChatGPT got me through finals' -> sd_mojkcw0g25gchl424h
+    [50/124] youtube/'ChatGPT got me through finals' -> sd_mojkcxh02oe4ggjndk
+    [51/124] tiktok/'AI homework help' -> sd_mojkczl6ov9psgxny
+    [52/124] youtube/'AI homework help' -> sd_mojkd10k17xsc8ecdh
+    [53/124] tiktok/'AI helped me learn' -> sd_mojkd2f51fmsfl7wpt
+    [54/124] youtube/'AI helped me learn' -> sd_mojkd3uxueii9rbpp
+    [55/124] tiktok/'AI changed my life' -> sd_mojkd59919q3gdtm4u
+    [56/124] youtube/'AI changed my life' -> sd_mojkd6opyurh5odoo
+    [57/124] tiktok/'AI is the future' -> sd_mojkd83yuq5xqrwxr
+    [58/124] youtube/'AI is the future' -> sd_mojkd9hj1qysv0nab3
+    [59/124] tiktok/'AI helped me cope' -> sd_mojkdawr2cuo7jkizh
+    [60/124] youtube/'AI helped me cope' -> sd_mojkdcdh1gfq81r6h
+    [61/124] tiktok/'AI is amazing' -> sd_mojkdduz1n0po02hi1
+    [62/124] youtube/'AI is amazing' -> sd_mojkdf823nsaxlja0
+    [63/124] tiktok/"I'm cooked without AI" -> sd_mojkdgmk8z2ielqcd
+    [64/124] youtube/"I'm cooked without AI" -> sd_mojkdi298b1wx8754
+    [65/124] tiktok/'funny AI video' -> sd_mojkdjfq2hzyy8p1oi
+    [66/124] youtube/'funny AI video' -> sd_mojkdkw77cke23rp6
+    [67/124] tiktok/'AI lip sync' -> sd_mojkdm9npyjol8ec6
+    [68/124] youtube/'AI lip sync' -> sd_mojkdnoi2ly5205j8w
+    [69/124] tiktok/'AI animation' -> sd_mojkdp38lfygzp4kb
+    [70/124] youtube/'AI animation' -> sd_mojkdqk22dy142etgj
+    [71/124] tiktok/'AI face swap funny' -> sd_mojkdrxt1ntrjccxcq
+    [72/124] youtube/'AI face swap funny' -> sd_mojkduel27zqt3aekn
+    [73/124] tiktok/'AI edit viral' -> sd_mojkdvslybfg87c1r
+    [74/124] youtube/'AI edit viral' -> sd_mojkdxb0bde1nej6w
+    [75/124] tiktok/'Claude is goated' -> sd_mojkdyp36kwyrlq43
+    [76/124] youtube/'Claude is goated' -> sd_mojke05kp88o3iynp
+    [77/124] tiktok/'AI mind blown' -> sd_mojke1kvhpf7vd9c0
+    [78/124] youtube/'AI mind blown' -> sd_mojke3xlc2o1s07ne
+    [79/124] tiktok/'GPT cooked' -> sd_mojke5ep19tiiaw5va
+    [80/124] youtube/'GPT cooked' -> sd_mojke6u91pzjf7n3r
+    [81/124] tiktok/'Sonnet ate' -> sd_mojke8fh1lcwa4gc4v
+    [82/124] youtube/'Sonnet ate' -> sd_mojke9v71v5i3tv3pf
+    [83/124] tiktok/'this prompt is insane' -> sd_mojkebba2688hhl87x
+    [84/124] youtube/'this prompt is insane' -> sd_mojkecv7ri9y7pl2l
+    [85/124] tiktok/'AI is incredible' -> sd_mojkeeatydjc5qkrk
+    [86/124] youtube/'AI is incredible' -> sd_mojkefrpejxl6cbbo
+    [87/124] tiktok/'AI is so good now' -> sd_mojkeh5l14o118m8zj
+    [88/124] youtube/'AI is so good now' -> sd_mojkeioj2bfnvnfndw
+    [89/124] tiktok/'AI saved me hours' -> sd_mojkek4a26jbbed841
+    [90/124] youtube/'AI saved me hours' -> sd_mojkelkv121m7kw5a3
+    [91/124] tiktok/'AI saved me time' -> sd_mojkemzx1uymqhn2le
+    [92/124] youtube/'AI saved me time' -> sd_mojkeodzr4pdnaecw
+    [93/124] tiktok/'ChatGPT getting smarter' -> sd_mojkepsmz6nl6rsek
+    [94/124] youtube/'ChatGPT getting smarter' -> sd_mojker5uc9jo4py9m
+    [95/124] tiktok/'Claude is the best' -> sd_mojkesjw28t8jfqpgh
+    [96/124] youtube/'Claude is the best' -> sd_mojketwu23hxrn1po5
+    [97/124] tiktok/'Cursor is amazing' -> sd_mojkevao1hjatdowwl
+    [98/124] youtube/'Cursor is amazing' -> sd_mojkewpz1g1myovl8n
+    [99/124] tiktok/'AI chatbot helpful' -> sd_mojkey711i1ai8foal
+    [100/124] youtube/'AI chatbot helpful' -> sd_mojkf07q1ae4a6p626
+    [101/124] tiktok/'AI underrated' -> sd_mojkf1oa24sd9gjsp9
+    [102/124] youtube/'AI underrated' -> sd_mojkf32n1z4pwz6tx
+    [103/124] tiktok/'AI is the real deal' -> sd_mojkf4id28y3lvz0tt
+    [104/124] youtube/'AI is the real deal' -> sd_mojkf5xc27wjfnq61r
+    [105/124] tiktok/'#proAI' -> sd_mojkf7en26wt5yv5av
+    [106/124] youtube/'#proAI' -> sd_mojkf8rv2qa54wo4yp
+    [107/124] tiktok/'#AIenthusiast' -> sd_mojkfa5dz2az7p0kz
+    [108/124] youtube/'#AIenthusiast' -> sd_mojkfbkr267wl7cr8z
+    [109/124] tiktok/'#FutureWithAI' -> sd_mojkfd262o841vl4sk
+    [110/124] youtube/'#FutureWithAI' -> sd_mojkfeh028c0vztrxu
+    [111/124] tiktok/'proudly use AI' -> sd_mojkffw3twdg36rw0
+    [112/124] youtube/'proudly use AI' -> sd_mojkfh9zlkfg2ribz
+    [113/124] tiktok/'#AIart' -> sd_mojkfipp25o8gwhe9s
+    [114/124] youtube/'#AIart' -> sd_mojkfka9ccx8o5rfh
+    [115/124] tiktok/'built with AI' -> sd_mojkflpg1y3cvot7gz
+    [116/124] youtube/'built with AI' -> sd_mojkfn482bat9gzuf6
+    [117/124] tiktok/'team AI' -> sd_mojkfpg9g8vyazp6c
+    [118/124] youtube/'team AI' -> sd_mojkfqv4irbgqtfe0
+    [119/124] tiktok/'AI underhyped' -> sd_mojkfs9p2f9mg4mgvd
+    [120/124] youtube/'AI underhyped' -> sd_mojkfto6702iq2ahw
+    [121/124] tiktok/'why I love AI' -> sd_mojkfv2q2d96r1hd04
+    [122/124] youtube/'why I love AI' -> sd_mojkfwgtz8dgd9v07
+    [123/124] tiktok/'I love AI' -> sd_mojkfxw9tugje81jz
+    [124/124] youtube/'I love AI' -> sd_mojkfza1kk6lfx0ck
+
+  Triggered 124 jobs.
+  Manifest saved -> scripts\brightdata_snapshots_positive.json
+
+Polling every 30s (max 120m)...
+
+
+WARNING: 124 jobs still pending after 120m
+  Re-run with the manifest to resume polling.
+
+Done in 142m 3s
+Sweep tag    : _positive
+Keywords file: KEYWORDS_positive.md
+Manifest     : scripts\brightdata_snapshots_positive.json
+Raw output   : tiktok\data\raw\tiktok_positive_raw.json
+Raw output   : youtube\data\raw\youtube_positive_raw.json
+
+RESUME mode — loaded 124 snapshots from manifest
+
+Polling every 30s (max 120m)...
+
+    [30s] tiktok/'Cursor changed my life': 94 records
+    [30s] tiktok/'AI is incredible': 0 records
+    [30s] youtube/'#proAI': 107 records
+      -> tiktok: 94 unique videos in raw
+      -> youtube: 107 unique videos in raw
+    --- 3/124 complete, 121 pending ---
+
+    [96s] youtube/'AI helped my career': 313 records
+    [96s] youtube/'AI made my job easier': 330 records
+    [96s] youtube/'agent did my job for me': 333 records
+    [96s] youtube/'Cursor changed my life': 376 records
+      -> youtube: 1359 unique videos in raw
+    --- 7/124 complete, 117 pending ---
+
+    [180s] tiktok/'Sora is insane': 94 records
+    [180s] youtube/'built this with AI': 416 records
+      -> tiktok: 188 unique videos in raw
+      -> youtube: 1725 unique videos in raw
+    --- 9/124 complete, 115 pending ---
+
+    [338s] youtube/'AI made me an artist': 358 records
+    [338s] youtube/'ChatGPT made me productive': 352 records
+    [338s] youtube/'AI voice cover': 469 records
+      -> youtube: 2790 unique videos in raw
+    --- 12/124 complete, 112 pending ---
+
+    [420s] youtube/'AI side hustle': 468 records
+    [420s] youtube/'Runway AI': 447 records
+    [420s] youtube/'AI helped me cope': 317 records
+    [420s] youtube/'character ai': 442 records
+    [420s] youtube/'Claude is goated': 356 records
+    [420s] youtube/'AI girlfriend': 467 records
+    [420s] youtube/"I'm cooked without AI": 333 records
+      -> youtube: 5445 unique videos in raw
+    --- 19/124 complete, 105 pending ---
+
+    [537s] youtube/'Sora is insane': 477 records
+    [537s] tiktok/"I'm cooked without AI": 77 records
+    [537s] youtube/'made art with AI': 437 records
+    [537s] youtube/'AI hiring boom': 416 records
+    [537s] tiktok/'Sonnet ate': 75 records
+    [537s] youtube/'this prompt is insane': 438 records
+    [537s] youtube/'GPT cooked': 369 records
+    [537s] youtube/'AI explained it better': 353 records
+    [537s] youtube/'Claude is the best': 327 records
+    [537s] youtube/'AI saved me time': 284 records
+    [537s] youtube/'vibe coding': 413 records
+      -> tiktok: 339 unique videos in raw
+      -> youtube: 8569 unique videos in raw
+    --- 30/124 complete, 94 pending ---
+
+    [755s] tiktok/'AI helped my career': 147 records
+    [755s] tiktok/'Suno cooked': 113 records
+    [755s] tiktok/'agent did my job for me': 107 records
+    [755s] youtube/'Suno AI music': 434 records
+    [755s] youtube/'AI homework help': 452 records
+    [755s] youtube/'AI is the future': 397 records
+    [755s] youtube/'ChatGPT helped me study': 338 records
+    [755s] youtube/'ChatGPT got me through finals': 335 records
+    [755s] tiktok/'AI is so good now': 120 records
+    [755s] youtube/'Claude is my therapist': 353 records
+    [755s] youtube/'AI changed my life': 349 records
+    [755s] youtube/'AI animation': 423 records
+    [755s] youtube/'AI mind blown': 447 records
+    [755s] youtube/'AI chatbot helpful': 376 records
+    [755s] youtube/'ChatGPT getting smarter': 452 records
+    [755s] youtube/'AI face swap funny': 422 records
+    [755s] youtube/'AI is the real deal': 425 records
+    [755s] youtube/'AI underrated': 425 records
+    [755s] youtube/'AI is so good now': 312 records
+    [755s] youtube/'#AIart': 401 records
+    [755s] youtube/'Cursor is amazing': 432 records
+    [755s] youtube/'team AI': 335 records
+    [755s] youtube/'I love AI': 457 records
+      -> tiktok: 815 unique videos in raw
+      -> youtube: 14941 unique videos in raw
+    --- 53/124 complete, 71 pending ---
+
+    [1039s] tiktok/'ChatGPT made me productive': 134 records
+    [1039s] tiktok/'AI hiring boom': 162 records
+    [1039s] tiktok/'AI side hustle': 150 records
+    [1039s] tiktok/'AI made me an artist': 144 records
+    [1039s] tiktok/'built this with AI': 157 records
+    [1039s] tiktok/'AI girlfriend': 143 records
+    [1039s] tiktok/'made art with AI': 146 records
+    [1039s] tiktok/'Claude is my therapist': 89 records
+    [1039s] tiktok/'talking to ChatGPT instead of therapy': 151 records
+    [1039s] tiktok/'ChatGPT helped me study': 151 records
+    [1039s] youtube/'Midjourney art': 467 records
+    [1039s] tiktok/'AI homework help': 144 records
+    [1039s] tiktok/'ChatGPT got me through finals': 118 records
+    [1039s] tiktok/'AI helped me cope': 123 records
+    [1039s] tiktok/'AI is amazing': 132 records
+    [1039s] tiktok/'AI face swap funny': 124 records
+    [1039s] tiktok/'Claude is goated': 109 records
+    [1039s] tiktok/'AI mind blown': 131 records
+    [1039s] tiktok/'AI saved me hours': 142 records
+    [1039s] tiktok/'AI saved me time': 113 records
+    [1039s] tiktok/'ChatGPT getting smarter': 150 records
+    [1039s] tiktok/'Claude is the best': 129 records
+    [1039s] tiktok/'Cursor is amazing': 117 records
+    [1039s] tiktok/'AI chatbot helpful': 153 records
+    [1039s] tiktok/'AI underrated': 120 records
+    [1039s] tiktok/'#proAI': 125 records
+    [1039s] tiktok/'#AIenthusiast': 119 records
+    [1039s] tiktok/'#FutureWithAI': 146 records
+    [1039s] tiktok/'proudly use AI': 144 records
+    [1039s] youtube/'AI edit viral': 422 records
+    [1039s] tiktok/'AI underhyped': 109 records
+    [1039s] youtube/'proudly use AI': 403 records
+    [1039s] tiktok/'why I love AI': 108 records
+    [1039s] youtube/'Sonnet ate': 321 records
+    [1039s] tiktok/'I love AI': 134 records
+    [1039s] youtube/'AI saved me hours': 329 records
+    [1039s] youtube/'#AIenthusiast': 441 records
+    [1039s] youtube/'AI underhyped': 420 records
+    [1039s] youtube/'#FutureWithAI': 345 records
+    [1039s] youtube/'built with AI': 353 records
+      -> tiktok: 4422 unique videos in raw
+      -> youtube: 17715 unique videos in raw
+    --- 93/124 complete, 31 pending ---
+
+    [1459s] tiktok/'vibe coding': 179 records
+    [1459s] tiktok/'Suno AI music': 184 records
+    [1459s] tiktok/'AI made my job easier': 153 records
+    [1459s] tiktok/'Midjourney art': 180 records
+    [1459s] tiktok/'character ai': 165 records
+    [1459s] tiktok/'Runway AI': 168 records
+    [1459s] tiktok/'AI voice cover': 187 records
+    [1459s] tiktok/'AI explained it better': 153 records
+    [1459s] tiktok/'my AI bestie': 144 records
+    [1459s] tiktok/'AI helped me learn': 175 records
+    [1459s] tiktok/'AI changed my life': 128 records
+    [1459s] tiktok/'AI is the future': 179 records
+    [1459s] tiktok/'funny AI video': 168 records
+    [1459s] tiktok/'AI lip sync': 166 records
+    [1459s] tiktok/'AI animation': 139 records
+    [1459s] tiktok/'AI edit viral': 172 records
+    [1459s] tiktok/'GPT cooked': 155 records
+    [1459s] youtube/'Suno cooked': 441 records
+    [1459s] tiktok/'this prompt is insane': 158 records
+    [1459s] youtube/'funny AI video': 392 records
+    [1459s] tiktok/'AI is the real deal': 120 records
+    [1459s] youtube/'AI helped me learn': 329 records
+    [1459s] youtube/'AI is amazing': 351 records
+    [1459s] tiktok/'#AIart': 146 records
+    [1459s] tiktok/'built with AI': 176 records
+    [1459s] tiktok/'team AI': 175 records
+    [1459s] youtube/'AI lip sync': 442 records
+    [1459s] youtube/'talking to ChatGPT instead of therapy': 450 records
+    [1459s] youtube/'why I love AI': 469 records
+    [1459s] youtube/'AI is incredible': 445 records
+      -> tiktok: 7543 unique videos in raw
+      -> youtube: 20062 unique videos in raw
+    --- 123/124 complete, 1 pending ---
+
+    [1904s] youtube/'my AI bestie': 420 records
+      -> youtube: 20438 unique videos in raw
+    --- 124/124 complete, 0 pending ---
+
+
+Done in 37m 2s
+  tiktok: 7543 unique videos in tiktok\data\raw\tiktok_positive_raw.json
+  youtube: 20438 unique videos in youtube\data\raw\youtube_positive_raw.json

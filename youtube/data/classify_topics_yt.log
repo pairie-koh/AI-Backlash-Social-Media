@@ -1,0 +1,83 @@
+Loading youtube_ai_backlash_final.csv...
+  total rows: 23865  final-YES rows: 5937
+
+=== Topic classification ===
+  Model: gpt-5-mini
+  Keys: 7, workers: 14
+  Rows to classify: 5937
+  Resuming: 10 already done
+  Pending: 5927
+    [100/5927] 8.9/s | parse_err: 0 | err: 0 | ETA 11.0m
+    [200/5927] 9.3/s | parse_err: 1 | err: 0 | ETA 10.2m
+    [300/5927] 9.6/s | parse_err: 2 | err: 0 | ETA 9.7m
+    [400/5927] 9.8/s | parse_err: 3 | err: 0 | ETA 9.4m
+    [500/5927] 9.6/s | parse_err: 3 | err: 0 | ETA 9.4m
+    [600/5927] 9.4/s | parse_err: 3 | err: 0 | ETA 9.5m
+    [700/5927] 9.1/s | parse_err: 3 | err: 0 | ETA 9.5m
+    [800/5927] 9.0/s | parse_err: 3 | err: 0 | ETA 9.5m
+    [900/5927] 8.3/s | parse_err: 3 | err: 0 | ETA 10.0m
+    [1000/5927] 8.4/s | parse_err: 3 | err: 0 | ETA 9.8m
+    [1100/5927] 8.3/s | parse_err: 3 | err: 0 | ETA 9.7m
+    [1200/5927] 8.3/s | parse_err: 3 | err: 0 | ETA 9.5m
+    [1300/5927] 8.3/s | parse_err: 3 | err: 0 | ETA 9.3m
+    [1400/5927] 8.2/s | parse_err: 3 | err: 0 | ETA 9.1m
+    [1500/5927] 8.2/s | parse_err: 3 | err: 0 | ETA 9.0m
+    [1600/5927] 8.1/s | parse_err: 3 | err: 0 | ETA 8.9m
+    [1700/5927] 8.1/s | parse_err: 3 | err: 0 | ETA 8.7m
+    [1800/5927] 8.0/s | parse_err: 3 | err: 0 | ETA 8.6m
+    [1900/5927] 8.0/s | parse_err: 3 | err: 0 | ETA 8.4m
+    [2000/5927] 7.9/s | parse_err: 3 | err: 0 | ETA 8.3m
+    [2100/5927] 7.8/s | parse_err: 3 | err: 0 | ETA 8.1m
+    [2200/5927] 7.8/s | parse_err: 3 | err: 0 | ETA 8.0m
+    [2300/5927] 7.7/s | parse_err: 3 | err: 0 | ETA 7.8m
+    [2400/5927] 7.7/s | parse_err: 3 | err: 0 | ETA 7.6m
+    [2500/5927] 7.7/s | parse_err: 3 | err: 0 | ETA 7.5m
+    [2600/5927] 7.6/s | parse_err: 3 | err: 0 | ETA 7.3m
+    [2700/5927] 7.6/s | parse_err: 3 | err: 0 | ETA 7.1m
+    [2800/5927] 7.5/s | parse_err: 3 | err: 0 | ETA 6.9m
+    [2900/5927] 7.5/s | parse_err: 3 | err: 0 | ETA 6.7m
+    [3000/5927] 7.5/s | parse_err: 3 | err: 0 | ETA 6.5m
+    [3100/5927] 7.5/s | parse_err: 3 | err: 0 | ETA 6.3m
+    [3200/5927] 7.5/s | parse_err: 3 | err: 0 | ETA 6.1m
+    [3300/5927] 7.5/s | parse_err: 3 | err: 0 | ETA 5.9m
+    [3400/5927] 7.4/s | parse_err: 3 | err: 0 | ETA 5.7m
+    [3500/5927] 7.4/s | parse_err: 4 | err: 0 | ETA 5.4m
+    [3600/5927] 7.4/s | parse_err: 4 | err: 0 | ETA 5.2m
+    [3700/5927] 7.4/s | parse_err: 4 | err: 0 | ETA 5.0m
+    [3800/5927] 7.4/s | parse_err: 4 | err: 0 | ETA 4.8m
+    [3900/5927] 7.4/s | parse_err: 4 | err: 0 | ETA 4.6m
+    [4000/5927] 7.4/s | parse_err: 4 | err: 0 | ETA 4.3m
+    [4100/5927] 7.4/s | parse_err: 4 | err: 0 | ETA 4.1m
+    [4200/5927] 7.4/s | parse_err: 5 | err: 0 | ETA 3.9m
+    [4300/5927] 7.4/s | parse_err: 5 | err: 0 | ETA 3.7m
+    [4400/5927] 7.4/s | parse_err: 5 | err: 0 | ETA 3.4m
+    [4500/5927] 7.4/s | parse_err: 5 | err: 0 | ETA 3.2m
+    [4600/5927] 7.4/s | parse_err: 5 | err: 0 | ETA 3.0m
+    [4700/5927] 7.4/s | parse_err: 5 | err: 0 | ETA 2.8m
+    [4800/5927] 7.4/s | parse_err: 5 | err: 0 | ETA 2.5m
+    [4900/5927] 7.4/s | parse_err: 5 | err: 0 | ETA 2.3m
+    [5000/5927] 7.4/s | parse_err: 6 | err: 0 | ETA 2.1m
+    [5100/5927] 7.4/s | parse_err: 6 | err: 0 | ETA 1.9m
+    [5200/5927] 7.4/s | parse_err: 7 | err: 0 | ETA 1.6m
+    [5300/5927] 7.4/s | parse_err: 7 | err: 0 | ETA 1.4m
+    [5400/5927] 7.4/s | parse_err: 8 | err: 0 | ETA 1.2m
+    [5500/5927] 7.3/s | parse_err: 8 | err: 0 | ETA 1.0m
+    [5600/5927] 7.3/s | parse_err: 8 | err: 0 | ETA 0.7m
+    [5700/5927] 7.3/s | parse_err: 9 | err: 0 | ETA 0.5m
+    [5800/5927] 7.3/s | parse_err: 9 | err: 0 | ETA 0.3m
+    [5900/5927] 7.3/s | parse_err: 9 | err: 0 | ETA 0.1m
+    [5927/5927] 7.3/s | parse_err: 9 | err: 0 | ETA 0.0m
+
+  Done in 13m 31s. API calls: 5927, errors: 0, parse errors: 9
+
+Saved 23865 rows back to C:\Users\hello\AI-Backlash-Social-Media\youtube\data\youtube_ai_backlash_final.csv
+
+=== PRIMARY TOPIC DISTRIBUTION (final-YES) ===
+         deepfake   1294  (21.8%)
+              art   1138  (19.2%)
+             jobs   1075  (18.1%)
+      general_neg    722  (12.2%)
+     surveillance    659  (11.1%)
+      environment    570  ( 9.6%)
+       regulation    265  ( 4.5%)
+        education    201  ( 3.4%)

@@ -1,0 +1,183 @@
+Loading raw data...
+  Raw videos: 8108
+  After dedup: 8108 unique videos
+
+=== LLM classification (backlash vs neutral) ===
+  Using model: anthropic/claude-sonnet-4
+  Keys: 7, workers: 21 (3 per key)
+  Videos to classify: 8108
+  Pending: 8108 (skipping 0 already classified)
+    [50/8108] 5.0/s | YES: 24 NO: 26 | errors: 0 | ETA: 26.9m
+    [100/8108] 7.4/s | YES: 47 NO: 53 | errors: 0 | ETA: 18.0m
+    [150/8108] 9.0/s | YES: 64 NO: 85 | errors: 0 | ETA: 14.8m
+    [200/8108] 10.1/s | YES: 86 NO: 113 | errors: 0 | ETA: 13.1m
+    [250/8108] 10.7/s | YES: 114 NO: 135 | errors: 0 | ETA: 12.2m
+    [300/8108] 11.3/s | YES: 139 NO: 160 | errors: 0 | ETA: 11.6m
+    [350/8108] 11.6/s | YES: 178 NO: 171 | errors: 0 | ETA: 11.1m
+    [400/8108] 11.9/s | YES: 211 NO: 188 | errors: 0 | ETA: 10.8m
+    [450/8108] 12.1/s | YES: 232 NO: 217 | errors: 0 | ETA: 10.5m
+    [500/8108] 12.3/s | YES: 254 NO: 245 | errors: 0 | ETA: 10.3m
+    [550/8108] 12.5/s | YES: 275 NO: 274 | errors: 0 | ETA: 10.1m
+    [600/8108] 12.6/s | YES: 292 NO: 307 | errors: 0 | ETA: 9.9m
+    [650/8108] 12.7/s | YES: 309 NO: 340 | errors: 0 | ETA: 9.8m
+    [700/8108] 12.9/s | YES: 321 NO: 377 | errors: 0 | ETA: 9.6m
+    [750/8108] 13.1/s | YES: 324 NO: 423 | errors: 0 | ETA: 9.4m
+    [800/8108] 13.2/s | YES: 355 NO: 442 | errors: 0 | ETA: 9.2m
+    [850/8108] 13.2/s | YES: 380 NO: 466 | errors: 0 | ETA: 9.1m
+    [900/8108] 13.3/s | YES: 401 NO: 495 | errors: 0 | ETA: 9.0m
+    [950/8108] 13.4/s | YES: 421 NO: 525 | errors: 0 | ETA: 8.9m
+    [1000/8108] 13.3/s | YES: 441 NO: 555 | errors: 0 | ETA: 8.9m
+    [1050/8108] 13.3/s | YES: 444 NO: 602 | errors: 0 | ETA: 8.8m
+    [1100/8108] 13.4/s | YES: 446 NO: 650 | errors: 0 | ETA: 8.7m
+    [1150/8108] 13.3/s | YES: 459 NO: 687 | errors: 0 | ETA: 8.7m
+    [1200/8108] 13.4/s | YES: 494 NO: 702 | errors: 0 | ETA: 8.6m
+    [1250/8108] 13.5/s | YES: 534 NO: 712 | errors: 0 | ETA: 8.5m
+    [1300/8108] 13.5/s | YES: 557 NO: 739 | errors: 0 | ETA: 8.4m
+    [1350/8108] 13.6/s | YES: 588 NO: 758 | errors: 0 | ETA: 8.3m
+    [1400/8108] 13.6/s | YES: 609 NO: 787 | errors: 0 | ETA: 8.2m
+    [1450/8108] 13.6/s | YES: 631 NO: 815 | errors: 0 | ETA: 8.1m
+    [1500/8108] 13.7/s | YES: 647 NO: 849 | errors: 0 | ETA: 8.1m
+    [1550/8108] 13.6/s | YES: 673 NO: 873 | errors: 0 | ETA: 8.0m
+    [1600/8108] 13.7/s | YES: 696 NO: 899 | errors: 0 | ETA: 7.9m
+    [1650/8108] 13.8/s | YES: 720 NO: 925 | errors: 0 | ETA: 7.8m
+    [1700/8108] 13.8/s | YES: 736 NO: 959 | errors: 0 | ETA: 7.7m
+    [1750/8108] 13.8/s | YES: 762 NO: 982 | errors: 0 | ETA: 7.7m
+    [1800/8108] 13.8/s | YES: 791 NO: 1003 | errors: 0 | ETA: 7.6m
+    [1850/8108] 13.8/s | YES: 826 NO: 1018 | errors: 0 | ETA: 7.5m
+    [1900/8108] 13.9/s | YES: 864 NO: 1030 | errors: 0 | ETA: 7.4m
+    [1950/8108] 13.8/s | YES: 905 NO: 1039 | errors: 0 | ETA: 7.4m
+    [2000/8108] 13.9/s | YES: 947 NO: 1047 | errors: 0 | ETA: 7.3m
+    [2050/8108] 14.0/s | YES: 992 NO: 1052 | errors: 0 | ETA: 7.2m
+    [2100/8108] 14.0/s | YES: 1029 NO: 1065 | errors: 0 | ETA: 7.1m
+    [2150/8108] 14.0/s | YES: 1062 NO: 1082 | errors: 0 | ETA: 7.1m
+    [2200/8108] 14.0/s | YES: 1093 NO: 1101 | errors: 0 | ETA: 7.0m
+    [2250/8108] 14.0/s | YES: 1125 NO: 1119 | errors: 0 | ETA: 7.0m
+    [2300/8108] 14.0/s | YES: 1156 NO: 1138 | errors: 0 | ETA: 6.9m
+    [2350/8108] 14.0/s | YES: 1193 NO: 1151 | errors: 0 | ETA: 6.9m
+    [2400/8108] 14.0/s | YES: 1229 NO: 1164 | errors: 0 | ETA: 6.8m
+    [2450/8108] 14.1/s | YES: 1265 NO: 1178 | errors: 0 | ETA: 6.7m
+    [2500/8108] 14.1/s | YES: 1293 NO: 1199 | errors: 0 | ETA: 6.6m
+    [2550/8108] 14.1/s | YES: 1313 NO: 1229 | errors: 0 | ETA: 6.6m
+    [2600/8108] 14.1/s | YES: 1339 NO: 1253 | errors: 0 | ETA: 6.5m
+    [2650/8108] 14.1/s | YES: 1376 NO: 1266 | errors: 0 | ETA: 6.4m
+    [2700/8108] 14.1/s | YES: 1419 NO: 1273 | errors: 0 | ETA: 6.4m
+    [2750/8108] 14.1/s | YES: 1443 NO: 1299 | errors: 0 | ETA: 6.3m
+    [2800/8108] 14.2/s | YES: 1458 NO: 1333 | errors: 0 | ETA: 6.2m
+    [2850/8108] 14.1/s | YES: 1473 NO: 1368 | errors: 0 | ETA: 6.2m
+    [2900/8108] 14.1/s | YES: 1488 NO: 1403 | errors: 0 | ETA: 6.1m
+    [2950/8108] 14.1/s | YES: 1512 NO: 1429 | errors: 0 | ETA: 6.1m
+    [3000/8108] 14.2/s | YES: 1535 NO: 1456 | errors: 0 | ETA: 6.0m
+    [3050/8108] 14.1/s | YES: 1566 NO: 1475 | errors: 0 | ETA: 6.0m
+    [3100/8108] 14.1/s | YES: 1591 NO: 1500 | errors: 0 | ETA: 5.9m
+    [3150/8108] 14.1/s | YES: 1609 NO: 1532 | errors: 0 | ETA: 5.9m
+    [3200/8108] 14.1/s | YES: 1639 NO: 1551 | errors: 0 | ETA: 5.8m
+    [3250/8108] 14.1/s | YES: 1649 NO: 1591 | errors: 0 | ETA: 5.7m
+    [3300/8108] 13.2/s | YES: 1657 NO: 1633 | errors: 0 | ETA: 6.1m
+    [3350/8108] 12.2/s | YES: 1668 NO: 1672 | errors: 0 | ETA: 6.5m
+    [3400/8108] 11.3/s | YES: 1684 NO: 1706 | errors: 0 | ETA: 6.9m
+    [3450/8108] 10.6/s | YES: 1699 NO: 1741 | errors: 0 | ETA: 7.3m
+    [3500/8108] 10.0/s | YES: 1721 NO: 1768 | errors: 0 | ETA: 7.7m
+    [3550/8108] 9.4/s | YES: 1742 NO: 1797 | errors: 0 | ETA: 8.1m
+    [3600/8108] 9.0/s | YES: 1784 NO: 1805 | errors: 0 | ETA: 8.4m
+    [3650/8108] 8.6/s | YES: 1819 NO: 1820 | errors: 0 | ETA: 8.6m
+    [3700/8108] 8.3/s | YES: 1842 NO: 1847 | errors: 0 | ETA: 8.9m
+    [3750/8108] 8.0/s | YES: 1863 NO: 1876 | errors: 0 | ETA: 9.1m
+    [3800/8108] 7.6/s | YES: 1886 NO: 1903 | errors: 0 | ETA: 9.4m
+    [3850/8108] 7.4/s | YES: 1898 NO: 1941 | errors: 0 | ETA: 9.6m
+    [3900/8108] 7.3/s | YES: 1921 NO: 1968 | errors: 0 | ETA: 9.6m
+    [3950/8108] 7.3/s | YES: 1935 NO: 2004 | errors: 0 | ETA: 9.4m
+    [4000/8108] 7.4/s | YES: 1967 NO: 2022 | errors: 0 | ETA: 9.3m
+    [4050/8108] 7.4/s | YES: 2002 NO: 2037 | errors: 0 | ETA: 9.1m
+    [4100/8108] 7.5/s | YES: 2031 NO: 2057 | errors: 0 | ETA: 8.9m
+    [4150/8108] 7.5/s | YES: 2054 NO: 2084 | errors: 0 | ETA: 8.8m
+    [4200/8108] 7.6/s | YES: 2074 NO: 2112 | errors: 0 | ETA: 8.6m
+    [4250/8108] 7.6/s | YES: 2096 NO: 2139 | errors: 0 | ETA: 8.4m
+    [4300/8108] 7.6/s | YES: 2122 NO: 2163 | errors: 0 | ETA: 8.3m
+    [4350/8108] 7.7/s | YES: 2153 NO: 2182 | errors: 0 | ETA: 8.1m
+    [4400/8108] 7.7/s | YES: 2177 NO: 2208 | errors: 0 | ETA: 8.0m
+    [4450/8108] 7.8/s | YES: 2202 NO: 2233 | errors: 0 | ETA: 7.9m
+    [4500/8108] 7.8/s | YES: 2228 NO: 2257 | errors: 0 | ETA: 7.7m
+    [4550/8108] 7.8/s | YES: 2265 NO: 2270 | errors: 0 | ETA: 7.6m
+    [4600/8108] 7.9/s | YES: 2295 NO: 2290 | errors: 0 | ETA: 7.4m
+    [4650/8108] 7.9/s | YES: 2329 NO: 2305 | errors: 0 | ETA: 7.3m
+    [4700/8108] 8.0/s | YES: 2363 NO: 2321 | errors: 0 | ETA: 7.1m
+    [4750/8108] 8.0/s | YES: 2403 NO: 2331 | errors: 0 | ETA: 7.0m
+    [4800/8108] 8.0/s | YES: 2446 NO: 2338 | errors: 0 | ETA: 6.9m
+    [4850/8108] 8.1/s | YES: 2485 NO: 2349 | errors: 0 | ETA: 6.7m
+    [4900/8108] 8.1/s | YES: 2522 NO: 2361 | errors: 0 | ETA: 6.6m
+    [4950/8108] 8.1/s | YES: 2552 NO: 2381 | errors: 0 | ETA: 6.5m
+    [5000/8108] 8.2/s | YES: 2580 NO: 2403 | errors: 0 | ETA: 6.3m
+    [5050/8108] 8.2/s | YES: 2611 NO: 2422 | errors: 0 | ETA: 6.2m
+    [5100/8108] 8.3/s | YES: 2646 NO: 2437 | errors: 0 | ETA: 6.1m
+    [5150/8108] 8.3/s | YES: 2688 NO: 2444 | errors: 0 | ETA: 5.9m
+    [5200/8108] 8.3/s | YES: 2720 NO: 2462 | errors: 0 | ETA: 5.8m
+    [5250/8108] 8.4/s | YES: 2759 NO: 2473 | errors: 0 | ETA: 5.7m
+    [5300/8108] 8.4/s | YES: 2774 NO: 2508 | errors: 0 | ETA: 5.6m
+    [5350/8108] 8.4/s | YES: 2784 NO: 2547 | errors: 0 | ETA: 5.4m
+    [5400/8108] 8.5/s | YES: 2803 NO: 2578 | errors: 0 | ETA: 5.3m
+    [5450/8108] 8.5/s | YES: 2820 NO: 2611 | errors: 0 | ETA: 5.2m
+    [5500/8108] 8.5/s | YES: 2852 NO: 2629 | errors: 0 | ETA: 5.1m
+    [5550/8108] 8.6/s | YES: 2885 NO: 2646 | errors: 0 | ETA: 5.0m
+    [5600/8108] 8.6/s | YES: 2915 NO: 2665 | errors: 0 | ETA: 4.9m
+    [5650/8108] 8.6/s | YES: 2952 NO: 2678 | errors: 0 | ETA: 4.8m
+    [5700/8108] 8.6/s | YES: 2978 NO: 2702 | errors: 0 | ETA: 4.6m
+    [5750/8108] 8.7/s | YES: 3011 NO: 2719 | errors: 0 | ETA: 4.5m
+    [5800/8108] 8.7/s | YES: 3038 NO: 2742 | errors: 0 | ETA: 4.4m
+    [5850/8108] 8.7/s | YES: 3067 NO: 2762 | errors: 0 | ETA: 4.3m
+    [5900/8108] 8.8/s | YES: 3105 NO: 2774 | errors: 0 | ETA: 4.2m
+    [5950/8108] 8.8/s | YES: 3127 NO: 2802 | errors: 0 | ETA: 4.1m
+    [6000/8108] 8.8/s | YES: 3129 NO: 2850 | errors: 0 | ETA: 4.0m
+    [6050/8108] 8.8/s | YES: 3135 NO: 2893 | errors: 0 | ETA: 3.9m
+    [6100/8108] 8.8/s | YES: 3159 NO: 2918 | errors: 0 | ETA: 3.8m
+    [6150/8108] 8.8/s | YES: 3193 NO: 2934 | errors: 0 | ETA: 3.7m
+    [6200/8108] 8.7/s | YES: 3224 NO: 2953 | errors: 0 | ETA: 3.6m
+    [6250/8108] 8.7/s | YES: 3254 NO: 2973 | errors: 0 | ETA: 3.6m
+    [6300/8108] 8.7/s | YES: 3276 NO: 3001 | errors: 0 | ETA: 3.5m
+    [6350/8108] 8.7/s | YES: 3299 NO: 3028 | errors: 0 | ETA: 3.4m
+    [6400/8108] 8.7/s | YES: 3311 NO: 3066 | errors: 0 | ETA: 3.3m
+    [6450/8108] 8.6/s | YES: 3325 NO: 3101 | errors: 0 | ETA: 3.2m
+    [6500/8108] 8.6/s | YES: 3345 NO: 3131 | errors: 0 | ETA: 3.1m
+    [6550/8108] 8.6/s | YES: 3368 NO: 3158 | errors: 0 | ETA: 3.0m
+    [6600/8108] 8.6/s | YES: 3393 NO: 3183 | errors: 0 | ETA: 2.9m
+    [6650/8108] 8.6/s | YES: 3416 NO: 3210 | errors: 0 | ETA: 2.8m
+    [6700/8108] 8.6/s | YES: 3445 NO: 3231 | errors: 0 | ETA: 2.7m
+    [6750/8108] 8.5/s | YES: 3490 NO: 3236 | errors: 0 | ETA: 2.6m
+    [6800/8108] 8.5/s | YES: 3529 NO: 3247 | errors: 0 | ETA: 2.6m
+    [6850/8108] 8.5/s | YES: 3566 NO: 3260 | errors: 0 | ETA: 2.5m
+    [6900/8108] 8.5/s | YES: 3600 NO: 3276 | errors: 0 | ETA: 2.4m
+    [6950/8108] 8.5/s | YES: 3627 NO: 3299 | errors: 0 | ETA: 2.3m
+    [7000/8108] 8.5/s | YES: 3646 NO: 3330 | errors: 0 | ETA: 2.2m
+    [7050/8108] 8.5/s | YES: 3665 NO: 3361 | errors: 0 | ETA: 2.1m
+    [7100/8108] 8.5/s | YES: 3692 NO: 3384 | errors: 0 | ETA: 2.0m
+    [7150/8108] 8.5/s | YES: 3733 NO: 3393 | errors: 0 | ETA: 1.9m
+    [7200/8108] 8.4/s | YES: 3767 NO: 3408 | errors: 0 | ETA: 1.8m
+    [7250/8108] 8.4/s | YES: 3804 NO: 3421 | errors: 0 | ETA: 1.7m
+    [7300/8108] 8.4/s | YES: 3834 NO: 3439 | errors: 0 | ETA: 1.6m
+    [7350/8108] 8.4/s | YES: 3851 NO: 3472 | errors: 0 | ETA: 1.5m
+    [7400/8108] 8.4/s | YES: 3866 NO: 3506 | errors: 0 | ETA: 1.4m
+    [7450/8108] 8.4/s | YES: 3881 NO: 3541 | errors: 0 | ETA: 1.3m
+    [7500/8108] 8.4/s | YES: 3891 NO: 3581 | errors: 0 | ETA: 1.2m
+    [7550/8108] 8.4/s | YES: 3901 NO: 3621 | errors: 0 | ETA: 1.1m
+    [7600/8108] 8.3/s | YES: 3910 NO: 3662 | errors: 0 | ETA: 1.0m
+    [7650/8108] 8.3/s | YES: 3926 NO: 3696 | errors: 0 | ETA: 0.9m
+    [7700/8108] 8.3/s | YES: 3965 NO: 3707 | errors: 0 | ETA: 0.8m
+    [7750/8108] 8.3/s | YES: 4009 NO: 3713 | errors: 0 | ETA: 0.7m
+    [7800/8108] 8.3/s | YES: 4036 NO: 3733 | errors: 0 | ETA: 0.6m
+    [7850/8108] 8.3/s | YES: 4067 NO: 3751 | errors: 0 | ETA: 0.5m
+    [7900/8108] 8.3/s | YES: 4108 NO: 3760 | errors: 0 | ETA: 0.4m
+    [7950/8108] 8.3/s | YES: 4147 NO: 3771 | errors: 0 | ETA: 0.3m
+    [8000/8108] 8.3/s | YES: 4178 NO: 3790 | errors: 0 | ETA: 0.2m
+    [8050/8108] 8.2/s | YES: 4217 NO: 3801 | errors: 0 | ETA: 0.1m
+    [8100/8108] 8.2/s | YES: 4249 NO: 3819 | errors: 0 | ETA: 0.0m
+    [8108/8108] 8.2/s | YES: 4253 NO: 3823 | errors: 0 | ETA: 0.0m
+
+  Done in 16m 23s. API calls: 8108, errors: 0
+    YES: 4253 (52.5%)
+    NO: 3823 (47.2%)
+    UNKNOWN: 32 (0.4%)
+
+Saved 8108 videos to C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_ai_backlash_filtered.csv
+
+=== FINAL SUMMARY ===
+  BACKLASH (YES): 4253 videos, 1,627,951,030 views
+  NOT BACKLASH (NO): 3823 videos, 2,586,857,362 views

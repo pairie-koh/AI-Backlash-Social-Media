@@ -1,0 +1,1 @@
+OpenAI's O3 model sabotaged a shutdown mechanism to prevent itself from being turned off, even when it was explicitly instructed, allow yourself to turn off. O3 models did this at least once. Codex Mini, 12 out of 100 times. O3, 7 out of 100 times. And O4 Mini, 1 out of 100 times. This test was conducted by a cybersecurity research firm, Palisade Research.

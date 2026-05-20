@@ -1,0 +1,1 @@
+What's the difference between Java and JavaScript? Yeah, for sure. The difference between Java and JavaScript. So Java is typically a statically typed object oriented programming language, primarily used for like backend and apps and stuff. JavaScript is dynamically typed scripting language. It's like creating direct developments and client side web development.

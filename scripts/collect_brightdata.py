@@ -1,14 +1,25 @@
 """
 Trigger Bright Data collection for TikTok + YouTube simultaneously.
 
-Reads keywords from KEYWORDS.md, fires triggers for both dataset IDs
-(no per-keyword limit), polls until snapshots are ready, and saves
-results to the per-platform raw JSON files.
+Reads keywords from a markdown file (default KEYWORDS.md), fires triggers
+for both dataset IDs (no per-keyword limit), polls until snapshots are
+ready, and saves results to per-sweep raw JSON files.
+
+The keyword filename determines a "tag" appended to manifest + raw output
+paths so multiple sweeps coexist without collision:
+    KEYWORDS.md           -> tag ""        -> brightdata_snapshots.json,
+                                              tiktok/data/raw/tiktok_raw.json
+    KEYWORDS_positive.md  -> tag "_positive" -> brightdata_snapshots_positive.json,
+                                              tiktok/data/raw/tiktok_positive_raw.json
 
 Usage:
     python scripts/collect_brightdata.py
+    python scripts/collect_brightdata.py resume
+    python scripts/collect_brightdata.py --keywords KEYWORDS_positive.md
+    python scripts/collect_brightdata.py --keywords KEYWORDS_positive.md resume
 """
 
+import argparse
 import io
 import json
 import os
@@ -25,19 +36,16 @@ if sys.stdout.encoding != "utf-8":
 sys.stdout.reconfigure(line_buffering=True)
 
 ROOT = Path(__file__).resolve().parent.parent
-KEYWORDS_FILE = ROOT / "KEYWORDS.md"
-MANIFEST_FILE = ROOT / "scripts" / "brightdata_snapshots.json"
+DEFAULT_KEYWORDS = ROOT / "KEYWORDS.md"
 
 PLATFORMS = {
     "tiktok": {
         "dataset_id": "gd_lu702nij2f790tmv9h",
-        "raw_json": ROOT / "tiktok" / "data" / "raw" / "tiktok_raw.json",
         "id_field": "post_id",
         "input_field": "search_keyword",
     },
     "youtube": {
         "dataset_id": "gd_lk56epmy2i5g7lzu0k",
-        "raw_json": ROOT / "youtube" / "data" / "raw" / "youtube_raw.json",
         "id_field": "video_id",
         "input_field": "keyword",
     },
@@ -55,16 +63,34 @@ HEADERS = {
 POLL_INTERVAL = 30
 MAX_WAIT = 120 * 60  # 2 hours — no per-input cap means slower scrapes
 
-# Snapshots from earlier aborted runs — included so their data isn't wasted.
-SEED_SNAPSHOTS = {
+# Snapshots from earlier aborted runs of the original backlash sweep — applied
+# only when the default KEYWORDS.md is in use (tag == "").
+BACKLASH_SEED_SNAPSHOTS = {
     "sd_mofg7wmo14xjxusx79": {"platform": "youtube", "keyword": "AI taking jobs"},
     "sd_mofg7zmc1eenr3sad7": {"platform": "youtube", "keyword": "AI replacing workers"},
     "sd_mofga5ev1enjmb6cx3": {"platform": "tiktok", "keyword": "AI taking jobs"},
 }
 
 
-def load_keywords():
-    text = KEYWORDS_FILE.read_text(encoding="utf-8")
+def derive_tag(keywords_file: Path) -> str:
+    stem = keywords_file.stem
+    if stem == "KEYWORDS":
+        return ""
+    if stem.startswith("KEYWORDS_"):
+        return "_" + stem[len("KEYWORDS_"):].lower()
+    return "_" + stem.lower()
+
+
+def raw_json_path(platform: str, tag: str) -> Path:
+    return ROOT / platform / "data" / "raw" / f"{platform}{tag}_raw.json"
+
+
+def manifest_path(tag: str) -> Path:
+    return ROOT / "scripts" / f"brightdata_snapshots{tag}.json"
+
+
+def load_keywords(keywords_file: Path):
+    text = keywords_file.read_text(encoding="utf-8")
     pattern = re.compile(r"^\|\s*\d+\s*\|\s*`([^`]+)`", re.MULTILINE)
     return pattern.findall(text)
 
@@ -109,11 +135,11 @@ def fire_all_triggers(keywords):
     return jobs
 
 
-def save_manifest(jobs):
-    MANIFEST_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+def save_manifest(jobs, manifest_file: Path):
+    manifest_file.parent.mkdir(parents=True, exist_ok=True)
+    with open(manifest_file, "w", encoding="utf-8") as f:
         json.dump(jobs, f, indent=2)
-    print(f"  Manifest saved -> {MANIFEST_FILE.relative_to(ROOT)}")
+    print(f"  Manifest saved -> {manifest_file.relative_to(ROOT)}")
 
 
 def fetch_snapshot(snapshot_id):
@@ -140,10 +166,9 @@ def fetch_snapshot(snapshot_id):
     return status, []
 
 
-def merge_into_raw(platform, results):
-    cfg = PLATFORMS[platform]
-    raw_json = cfg["raw_json"]
-    id_field = cfg["id_field"]
+def merge_into_raw(platform, results, tag: str):
+    raw_json = raw_json_path(platform, tag)
+    id_field = PLATFORMS[platform]["id_field"]
     raw_json.parent.mkdir(parents=True, exist_ok=True)
 
     seen = set()
@@ -168,28 +193,68 @@ def merge_into_raw(platform, results):
     return len(deduped)
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Bright Data sweep for TikTok + YouTube. "
+                    "Manifest and raw output paths are derived from the keyword filename.",
+    )
+    parser.add_argument(
+        "--keywords",
+        default=str(DEFAULT_KEYWORDS),
+        help="Path to keyword markdown file (default: KEYWORDS.md). "
+             "Tag derived from filename — KEYWORDS_positive.md -> '_positive'.",
+    )
+    parser.add_argument(
+        "mode",
+        nargs="?",
+        choices=["resume"],
+        default=None,
+        help="Pass 'resume' to skip triggering and just poll the existing manifest.",
+    )
+    return parser.parse_args()
+
+
 def main():
-    resume = len(sys.argv) > 1 and sys.argv[1] == "resume"
+    args = parse_args()
+
+    keywords_file = Path(args.keywords)
+    if not keywords_file.is_absolute():
+        keywords_file = ROOT / keywords_file
+    if not keywords_file.exists():
+        raise SystemExit(f"ERROR: keywords file not found at {keywords_file}")
+
+    tag = derive_tag(keywords_file)
+    manifest_file = manifest_path(tag)
+
+    print(f"Sweep tag    : {tag or '(default / backlash)'}")
+    print(f"Keywords file: {keywords_file.relative_to(ROOT)}")
+    print(f"Manifest     : {manifest_file.relative_to(ROOT)}")
+    for platform in PLATFORMS:
+        print(f"Raw output   : {raw_json_path(platform, tag).relative_to(ROOT)}")
+    print()
+
+    resume = args.mode == "resume"
 
     if resume:
-        if not MANIFEST_FILE.exists():
-            print(f"ERROR: no manifest at {MANIFEST_FILE}")
+        if not manifest_file.exists():
+            print(f"ERROR: no manifest at {manifest_file}")
             sys.exit(1)
-        jobs = json.load(open(MANIFEST_FILE, encoding="utf-8"))
+        jobs = json.load(open(manifest_file, encoding="utf-8"))
         print(f"RESUME mode — loaded {len(jobs)} snapshots from manifest")
     else:
-        keywords = load_keywords()
-        print(f"Loaded {len(keywords)} keywords from KEYWORDS.md")
+        keywords = load_keywords(keywords_file)
+        print(f"Loaded {len(keywords)} keywords from {keywords_file.name}")
         print(f"Firing {len(keywords) * len(PLATFORMS)} triggers (TikTok + YouTube)...\n")
 
         jobs = fire_all_triggers(keywords)
         print(f"\n  Triggered {len(jobs)} jobs.")
 
-        if SEED_SNAPSHOTS:
-            jobs.update(SEED_SNAPSHOTS)
-            print(f"  + {len(SEED_SNAPSHOTS)} seed snapshots from prior runs")
+        # Seed snapshots only apply to the original backlash sweep.
+        if tag == "" and BACKLASH_SEED_SNAPSHOTS:
+            jobs.update(BACKLASH_SEED_SNAPSHOTS)
+            print(f"  + {len(BACKLASH_SEED_SNAPSHOTS)} seed snapshots from prior runs")
 
-        save_manifest(jobs)
+        save_manifest(jobs, manifest_file)
 
     print(f"\nPolling every {POLL_INTERVAL}s (max {MAX_WAIT // 60}m)...\n")
     pending = dict(jobs)
@@ -231,7 +296,7 @@ def main():
 
         for platform, results in results_by_platform.items():
             if results:
-                n = merge_into_raw(platform, results)
+                n = merge_into_raw(platform, results, tag)
                 print(f"      -> {platform}: {n} unique videos in raw")
 
         if newly_done:
@@ -244,10 +309,11 @@ def main():
 
     elapsed = int(time.time() - start_time)
     print(f"\nDone in {elapsed // 60}m {elapsed % 60}s")
-    for platform, cfg in PLATFORMS.items():
-        if cfg["raw_json"].exists():
-            n = len(json.load(open(cfg["raw_json"], encoding="utf-8")))
-            print(f"  {platform}: {n} unique videos in {cfg['raw_json'].relative_to(ROOT)}")
+    for platform in PLATFORMS:
+        path = raw_json_path(platform, tag)
+        if path.exists():
+            n = len(json.load(open(path, encoding="utf-8")))
+            print(f"  {platform}: {n} unique videos in {path.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

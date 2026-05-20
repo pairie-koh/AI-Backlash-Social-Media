@@ -1,0 +1,1 @@
+How are web designers using custom cursors without making them annoying? There's a thin line between a cursor that enhances the page and one that distracts. This adds feedback without getting in the way. A custom cursor should enhance your site and not frustrate people.

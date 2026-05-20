@@ -1,0 +1,1 @@
+So if you go into your settings and then you go to interface, you scroll all the way down to legacy cursor, select that and then that'll change the cursor for you.

@@ -1,0 +1,1 @@
+Ultralytics YOLO 11 enables real-time apple counting, streamlining inventory, and yield estimation for enhanced efficiency in modern farm management.

@@ -1,0 +1,1049 @@
+=== ID: 558hf7WV7XA ===
+TITLE: 50 Million Streams… But It’s Not Real? The AI Music Shock
+DESC: 🎶 A chart-topping hit — but not a single note was made by a human.  The new single “Electric Emotions” exploded across streaming platforms, hitting 50 million streams in just two weeks. Fans were obsessed… until they learned the shocking truth: 📌 The vocals, lyrics, and music were all created by AI model MuseGen-9 — perfectly mimicking the style of a famous artist.  In this video, we break down: 🤖 How AI made a song so convincing that millions believed it was real 🎤 Why the music industry is spl
+KEYWORD: protect artists from AI
+VIEWS: 3
+TRANSCRIPT: A new hit single just dropped, but here's the twist. It wasn't made by a human. This month, an AI generated song titled Electric Emotions topped charts in multiple countries and racked up over 50 million streams within 2 weeks. Listeners were blown away until they discovered the voice, lyrics, and composition were entirely artificial. Created by the AI model Muse Gen 9, the song used deep learning to mimic the vocal style of a popular artist. So well, in fact, that fans didn't realize it wasn't real. According to The Verge, the track sparked outrage in the music industry. Some artists called it impressive, others called it theft. Record labels are now scrambling to implement watermarks to distinguish AI music from human-made tracks. Meanwhile, copyright experts are raising concerns over ownership and royalties. Is this the future of music where anyone can produce a hit using just a prompt or a warning that creative authenticity is slipping away? The line between tech and talent is blurring fast.
+
+=== ID: WqtdH9dLMKI ===
+TITLE: Celine Dion's SHOCKING AI Warning: Is Your Favorite Music Next? (Urgent Alert!)
+DESC: Celine Dion's SHOCKING AI Warning: Is Your Favorite Music Next? (Urgent Alert!)   "In a startling turn of events, the legendary Celine Dion has issued an urgent warning about the rapidly advancing capabilities of Artificial Intelligence, specifically how it threatens the very core of her musical legacy and the broader music industry. In this video, we delve deep into the concerns raised by Celine Dion, exploring the implications of AI's ability to replicate and even generate human voices and mus
+KEYWORD: protect artists from AI
+VIEWS: 6
+TRANSCRIPT: Selene Dion issues urgent warning as AI threatens her music career Seline Dion is speaking out against a rising issue that could impact her Legacy AI generated content mimicking her voice and likeness the music icon who has been battling stiff person syndrome since 2022 is now facing a new challenge as unauthorized AI tracks claiming to be her real music continue to spread online. Dion's team recently took to social media to issue a firm warning making fans aware that fake songs falsely attributed to her are circulating the statement emphasized that these AI generated recordings are not authorized by the singer and urged listeners to be cautious protecting the Integrity of seline's music is our top priority the message read calling for action against misleading content this latest development comes as Dion Works to regain her strength and return to music despite her health struggles the legendary singer made a triumphant appearance at the 2024 Paris Olympics proving her resilience however the rise of AI generated deep fake tracks now poses another challenge raising concerns about authenticity in the music industry fans have rallied behind Dion supporting her call for stricter regulations on AI content as technology evolves artists like Dion are speaking out to protect their voices not just in music but in the digital age the message is clear while AI may be powerful it can't replicate the heart and soul of a true artist
+
+=== ID: HulG43P0A0s ===
+TITLE: AI Music is Getting Artists BANNED?! (What Indie Artists Must Know)
+DESC: AI-generated music is exploding—but indie artists are paying the price. In this episode of the FATTZ Media Podcast, we dive into the growing problem of distribution platforms banning or flagging AI music uploads, and what that means for your career.  ✅ Here’s what you’ll learn:  Why AI-generated music is being flagged by distributors  How to protect yourself from account bans & lost revenue  Why building a direct fanbase is your safety net  How email marketing beats social media for engagement  
+KEYWORD: protect artists from AI
+VIEWS: 4
+TRANSCRIPT: Hey guys, welcome to the Fats Media podcast. My name is Seymour and this podcast we're going to be talking about AI music being flagged by distribution platforms and what you can do about it and how you can still make money. But if you're one of those people that gets off videos within the first 30 seconds, go ahead. This video is not for you. But if you're an artist and you're a content creator and you want to know how to make some money, stay on. We're going to make this a quick little video. I'm going to talk to you about making money with AI generated content. [Music] Now, if you're one of those people that making AI generated music does not bother you, so if you don't know what's going on when you are creating AI generated music, you're feeding it prompts, you're feeding it lyrics, you're feeding it your vocals, and if you didn't read the terms and conditions, They are using that to train the AI. On top of that, they have some companies have uploaded or pirated your music and other people's music to train the AI in how to generate these kinds of music. So, they're taking songs that already exist and pushing it into the AI to train it. So, it knows how to regurgitate, how to release music when you ask for a certain type of music. Now, if you're one of these people, it does not bother you at all. you consider it like a sampling kind of. You have to understand the people that created that music aren't getting paid right now for that kind of stuff. So, there's a huge lawsuit
+[...middle cut...]
+o that, but if you want part of the management um plan, you get all that included. You get the website, you get AI makes you master, you get social media posts sent to you so you can post them, you get designs of cover, artwork, a ton of stuff. Check out the website, you'll see there's a list of over 14 things that we do when you sign up to that plan. All right, but if you're still watching, I appreciate you and that's just what I'm trying to build right now. So check out Tik Tok, fatsmedia.com, Instagramfatsmedia.com. And if you have any questions, comment or send an email, and I'll get back to you as soon as possible, within 24 hours, uh, most likely. All right, thanks for watching. Peace.
+
+=== ID: rrb6lE9Cx9s ===
+TITLE: AI Art Copyright ATTACK! 🤯 Unpacking CEAT2I & Watermark Evasion
+DESC: Hey everyone, it's San-No from High School Radio, diving into a critical issue in the world of AI art: copyright evasion! 🎨 Ever wondered how AI models learn from artists' work and what happens when data is used without permission?  In this video, I'm breaking down a fascinating research paper titled "Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models." We'll explore how personalized text-to-image (T2I) models are vulnerable to Copyright Evasion Attacks 
+KEYWORD: protect artists from AI
+VIEWS: 31
+TRANSCRIPT: [Music] All right, that's all the time we have for today. Stay tuned for more fun stuff from High School Radio. This is Sign Now signing off. Hey everyone, and a big hello to you all. It's your Husano and today is May 7th, a wonderful Wednesday. You know, I was digging through the archives and I found this super interesting paper that's totally trending. So, I thought, let's talk about it. Okay, so the title is um um towards data set copyright evation attack against personalized textile image diffusion models. If you want to check it out, the pow [Music] is/sax.org/2505.2824 bond. Yeah, it's a bit of a mouthful, I know. So like what's this paper all about? Well, you know how these awesome text image AI models like state of the fusion can create amazing pictures from just words? It's like magic. And people are now fine tunning these models to make them personalized, like to copy a specific artist's style or a particular brand's look, which is cool, but it brings up a big hoof problem in an authorized data set usage. Imagine if you're an artist and someone uses your art without asking to train an AI to make copies of your style. Not cool, right? Or company needs that release data sets for say research only. Research only and then someone uses it to make money. That's a big no no. So data set ownership verification odav. It's like owners embed these secret watermarks into their duct sets. These watermarks are usually invisible, but if the eye is trained on this watermark data an
+[...middle cut...]
+at the link twice is a pretty effective way. Bypass current data set watermarking and text to age models. The authors did a ton of tests and then we consistently got low watermark success rates, meaning the water marks were mostly [Music] gone. While the AI could still generate highquality images from normal prompts really shows that we need even stronger ways to protect it assets. If you want to make sure creators rights are respected, fuel goes a lot, but super interesting. Don't you think makes you think about the future of VI and creep? Well, that's all the time we have for this Archive Gem today. This has been Son, hoping you learned something cool. Catch you next time. Bye-bye. [Music]
+
+=== ID: IUnH-xJlS3o ===
+TITLE: Spotify's AI Crackdown: 75 Million Spammy Songs Removed to Protect Artists!
+DESC: Spotify AI crackdown, Spotify removes spammy songs, AI in music, music streaming updates. Dive into Spotify's latest moves to combat AI-generated spam and impersonation in the music industry. Learn how the platform removed 75 million 'spammy' tracks and introduced new protections for artists, including enhanced impersonation rules, advanced spam filters, and AI disclosure credits. Discover why this is crucial for authentic creators and listeners, and how it balances AI's creative potential with 
+KEYWORD: protect artists from AI
+VIEWS: 1
+TRANSCRIPT: Spotify takes a bold stand, removes 75 million spam tracks, and cracks down on AI misuse by bad actors. Spotify is stepping up its game to protect artists and music creators from the darker side of artificial intelligence. The streaming giant recently announced a series of robust measures aimed at curbing AI related abuses, including a crackdown on impersonation, a new spam filtering system, and mandatory AI disclosures in music credits that follow industry standards. In a detailed post titled, "For the record published on its website, Spotify revealed it had already removed a staggering 75 million tracks deemed spammy." The company acknowledged the rapid and sometimes unsettling advances in generative AI technology, especially for creative professionals. At its best, AI opens up incredible new possibilities for artists to craft music and for listeners to discover fresh sounds, the post explains. But at its worst, AI can be exploited by bad actors and content farms to flood the platform with lowquality or deceptive content, confusing listeners and undermining genuine artists trying to build their careers. This harmful AI generated content not only degrades the listening experience, but also attempts to divert royalties away from rightful creators. Spotify emphasizes that the future of the music industry is still being shaped and aggressively defending against the negative impacts of generative AI is crucial to unlocking its full potential for artists and producers. The compan
+[...middle cut...]
+er economic and creative opportunities, and reduce the overwhelming noise of irrelevant content that threatens to drown out genuine voices. But here's where it gets controversial. Should platforms like Spotify have the power to decide what counts as spam or authentic music? Could these new rules unintentionally stifle innovation or limit how artists experiment with AI? And what about the balance between protecting artists and allowing AI to democratize music creation? We'd love to hear your thoughts. Do you agree with Spotify's tough stance on AI misuse, or do you think it might go too far? How do you see AI shaping the future of music? Join the conversation and share your perspective below.
+
+=== ID: 9S4ZuElXxp4 ===
+TITLE: People Are Scamming Art School With AI...
+DESC: Take control and protect your files! Sign up to Proton for FREE! https://proton.me/katliente  Disclaimer: Please do NOT send hate to anyone mentioned in my videos. Everything that is said is alleged and there are always 2 sides to every story, and the truth.  ▶ Check out my art and resources here: kofi: https://ko-fi.com/katliente/ etsy: https://www.etsy.com/shop/KatlienteTwitch  ▶ Other socials:  twitch: https://www.twitch.tv/katliente/about instagram: https://www.instagram.com/katliente.ttv/ t
+KEYWORD: protect artists from AI
+VIEWS: 43461
+TRANSCRIPT: a game that we played a couple times on this channel now. It's called, "Is this AI?" We are once again in the lovely subreddit r/is this AI. So, we have this very first post and they write, "Is that AI?" It looks like it is, but it would be crazy if it were. Even her channel is very consistent with content like this. I feel like I've actually seen videos like this on my page, like specifically her video with this with the flowers. We're making some croissants. Recently, when I was out, I received a scary text. a two-factor authentication notification for my Twitch account. Except I never requested it. And a week later, I got two two-factor authentication text for my bank account. Somebody tried hacking into my account. And this is just a warning that it could happen to anyone. For most of you, your data online is not safe. And many people don't realize exactly how much sensitive information you're sending and receiving through email, which you don't want in the hands of third-party companies that might sell your data or do who knows what with it. That's why as many are switching to Proton, including Proton Mail and Proton Drive. It's part of Proton's ecosystem of encrypted and secure products trusted by over 100 million users worldwide, which their tagline is Proton, privacy by default. Because did you know privacy is not the default setting for most companies? But not with Proton. With Proton Drive and Mail, you can stay extra protected through a number of amazing features. 
+[...middle cut...]
+onna get a shrutery board." And then you end up with nothing like that. Slash, to be honest, I don't even want to eat that because I don't know what half the stuff is. And please don't misconrue my words. Not saying it in like a I think Dutch food is bad. It's like a what the hell is this thing? What is this? So, if you guys like this video, I appreciate it if you like and subscribe. Don't forget to check me out on Etsy. I have digital art there for streamers and creators. I also have a coffee with free resources like a free sponsorship guide and I stream on Twitch three days a week. Mondays and Saturdays at 600 p.m. PST and Thursdays at 7:30. Hope to catch you all there or in another video.
+
+=== ID: f4X14KJ5H3g ===
+TITLE: Spotify Removes 75M AI Tracks: New Policies Target Voice Clones & Spam
+DESC: Spotify is cracking down on AI-generated music! In a major move, they've removed 75 million spammy tracks and introduced new policies to protect artists and listeners. This video breaks down Spotify's three-pronged approach: a stricter impersonation policy targeting voice clones, an updated spam filter to combat mass uploads and duplicates, and AI disclosures in music credits for transparency. We'll discuss the implications for artists, listeners, and the future of AI in music. Learn how Spotify
+KEYWORD: protect artists from AI
+VIEWS: 1
+TRANSCRIPT: A battle for authenticity in music streaming. Spotify's bold move against AI deception. In a move that's sure to spark debate, Spotify has declared war on AI generated deception, removing a staggering 75 million tracks from its platform in the past year alone. But here's where it gets controversial. The streaming giant is not just targeting spammy content. It's going after AI voice clones and impersonations, raising questions about creativity, ownership, and the future of music. Could this be the beginning of a new era in streaming? Or is Spotify overstepping its bounds? Spotify's latest announcement, https/spotify.com/20250925 Spotify strengthens AI protections outlines a three-prong strategy to combat what it calls bad actors in the AI space. The company aims to protect both artists and listeners from content designed to confuse, deceive, and flood the platform with lowquality slop. But this is the part most people miss. Spotify isn't just cleaning house. It's redefining what it means to be an authentic artist in the digital age. The three-pronged approach, protecting artists and listeners first. Spotify has updated its impersonation policy, https/spotify.com/artists/article/usic that impersonates another artist's voice, giving artists clear recourse against unauthorized AI voice clones. This means that unless an artist explicitly authorizes their voice to be used, any AI generated imitation will be removed. It's a bold stance that prioritizes artist rights, but leaves room
+[...middle cut...]
+ard-earned money to fund lethal dystopian technologies this raises a profound question can a platform that profits from creativity also be complicit in its destruction. Final thoughts, a call to action. Spotify's new policies are a significant step toward protecting the integrity of music streaming, but they also open up a Pandora's box of ethical and creative questions. As AI continues to reshape the industry, we must ask ourselves, what does it mean to be an artist in the digital age? And who gets to decide? We'd love to hear your thoughts. Do Spotify's actions go far enough or are they a case of too little too late? Share your opinions in the comments below and let's keep the conversation
+
+=== ID: 1kDfPqTfv3I ===
+TITLE: Did FINAS Just Accidentally REPLACE Artists with AI?
+DESC: The opinions expressed in this video are solely those of the creators and should not be perceived as personal attacks or intended malice towards any individuals or entities mentioned. Our goal is to foster open discussion and share viewpoints respectfully.  A new bill to protect freelancers is great news... but could it be the very thing that pushes companies to replace human artists with AI?    In Part 2 of our deep dive into the new FINAS Gig Worker Bill, we explore the unintended consequences
+KEYWORD: protect artists from AI
+VIEWS: 44
+TRANSCRIPT: Welcome back to another episode of T talks talk talk. So this is basically I would say a very indepth movement right for the creativity creativity freelance area as well as the the independent artists, right? you have every right to take that specific event company or whatever, whatever to to this tribunal and say, "Hey, yo, he's supposed to pay me like like a thousand bucks uh after the event, but he didn't pay for [ __ ] I want to bring this up. Like, I just thought about it. We we can we can do an episode about it." Would you think that this would be one of the biggest reasons why companies would switch over to AI artists? But let's talk about this fenas really. What do you think stands for independent artists now? Do you think there's no more excuses to get shows? There's no more excuses to do songs. There's no more excuses to do. There's still excuses to get shows because shows about how who who on your side basically when it comes to being in the industry. But when it comes to like payments, there's no excuses for company. Yeah. It's a security thing because it's security. It's Yeah. because they they offer security for people who's doing freelance and [ __ ] like that. Do you think more people would shift? I mean generally now we have uh based on statist statistics we have more independent artists than label artists at the moment right uh as of 2005 right at 2005 2025 sorry back back 10 years 20 years 2025 right so we do have more independent artists than label artists
+[...middle cut...]
+So which is make sure you know what your rate is. Uh don't don't be as an extra and wanting to be paid a million dollars for being an extra. It's not it's ridiculous, dog. Uh I mean in in the word you use in this time and now. You can't be ignorant, right? It's at your fingertips, man. Everybody got a smartphone. Pretty sure your grandma has one too, right? Yeah. So make sure you check it out. But do let us know what you think. Uh whether you support this or you don't support it. uh from a company standpoint, from an artist standpoint, we would love to hear it. Uh generally, anything else to say before we end? No, let's uh let's wrap it up. So, thank you so much for watching. Peace and love.
+
+=== ID: JKpmAI8baxg ===
+TITLE: AI Is Attacking Artists. Here’s How You Fight Back
+DESC: AI Is Attacking Artists. Here’s How You Fight Back  AI is replacing artists, musicians, writers, and creatives — and the world doesn’t even seem to care. Generative AI tools are flooding the internet with music, images, poetry, scripts, and videos created by algorithms trained on the stolen work of real artists. Most people can’t tell the difference. Worse — most people no longer care.  Timestamps: 0:00 Intro 0:44 Lean Into Your Humanity 1:38 Your Process Is The Goldmine 2:28 Don't Compete On Sp
+KEYWORD: protect artists from AI
+VIEWS: 3800
+TRANSCRIPT: Dosť bolo nekonečného umývania riadu. Znásobte svoju umývaciu silu s novou Jarou! Hustá pena preniká do mastnoty neuveriteľne ľahko. Vďaka koncentrovanému zloženiu umyjete dvakrát toľko riadu, než by ste čakali. Jar. Nakopnite svoju umývaciu silu.
+
+=== ID: 9XwSeTq6Jk8 ===
+TITLE: Preventing AI from Generating Exact Images
+DESC: The conversation discusses the use of AI in art and the impact it has on artists. Artists are using anti-AI poison to create images that confuse and disrupt AI-generated art. While AI makes it easier for people to create art, it also threatens the livelihood of artists. The use of poisoning tools like Glaze and Nightshade can prevent AI from generating exactly what people are looking for. The conversation explores the ethical implications of AI replacing human artists and the need for corporate 
+KEYWORD: protect artists from AI
+VIEWS: 16
+TRANSCRIPT: [Music] what's going on everybody and welcome to the other side of the firewall podcast we're talking about the ladies and great and S secur news as well as we highlight those movers and shakers and glass cying Breakers those people of color who made to the other side FAL firewall my name is Ryan Williams as always I'm joined by shant what's going on and Chris abacon what's going on everybody what's going on Chris so uh welcome back uh again Monday Tuesday our topics Wednesday discussion Thursdays ask CP this week will be Rebecca ski from black girls hack she's a COO really good conversation definitely check that one out then Fridays everything else movies books games all that good stuff but without further Ado I'll give it a Shannon everybody so this article comes from scientificamerican.com right written by Lauren leer and the title of the title of this one is artists are slipping anti- aai poison into their art um and then it's like here's how it works right so what started happening was um you have these digital artists right or these people that make their living whether it be um their they you you might catch them out there on Fiverr you know with people reaching out saying Hey I want this type of artwork for this whether it be a game cover um you know or or what are some of the other uses here not just games but like uh even even when it comes to like uh thil thumbnails yeah yeah exactly right so you got people out here that do this as they're living right well AI has 
+[...middle cut...]
+ics Wednesday discussion uh TH or yeah Wednesday discussion like this and then Thursdays ask a cissp that will be uh Rebecca ski from black girls hack uh she's the CEO over there and really good conversation so definitely tune in for that one and then Fridays everything else movies books games all that good stuff uh hit me up on all the websites that go by my name or the website or I'm sorry not the we we don't have a website or the podcast thing so either other side of the firewall the other side of the FW or ask CSP I'm at R right security guy and where can I find you Chris you can find me on LinkedIn under Chris avacon last time is spelled a bacon there it is stay safe stay secure [Music]
+
+=== ID: QTQOl_EX670 ===
+TITLE: Commercializing AI Art: Innovation or Exploitation?! 🤯
+DESC: Full video transcript: https://tinyurl.com/2p9e3e3y Read the blog post: https://medium.com/@plu4_21447/commercializing-ai-art-innovation-or-exploitation-3212541a344a  Sources:  Edmond de Belamy https://www.bbc.com/news/technology-45980863 https://www.nytimes.com/2018/10/25/arts/design/ai-art-sold-christies.html  Copyright and Fair Use https://www.smithsonianmag.com/smart-news/us-copyright-office-rules-ai-art-cant-be-copyrighted-180979808/ https://www.copyright.gov/rulings-filings/review-board/do
+KEYWORD: protect artists from AI
+VIEWS: 537
+TRANSCRIPT: In October of 2018, an art piece at Christie’s
+New York was auctioned off for $432,000, a massive 4000% increase from its initial estimate
+of $10,000. Bidders from in the room, over the phone, and 
+online had gathered to participate in this   fierce competition. After just seven minutes, the 
+painting was sold to an anonymous phone bidder. Titled Edmond de Belamy, the artwork was created 
+by a Paris-based art-collective called Obvious.   Printed on a 70 by 70 cm canvas and encased within 
+a gilded wooden frame, the portrait of a slightly   blurry man looks like it could have been painted 
+by a classical artist. But upon closer inspection,   the artist signature in the bottom corner displays 
+something unexpected: it’s a math equation,  revealing that the portrait was not 
+produced by a human, but by an AI machine.   The artwork was marketed by Christie’s as the 
+first AI generated piece to be put up for auction. Currently, there is a lot of discourse 
+surrounding the commercialization   of AI art and whether it is legal to be 
+profiting off of AI generated artworks.   Well, let’s see what the laws say about the issue. During a 2019 ruling, the US Copyright 
+Office rejected a copyright request for   an AI generated work, saying that it “lacks the 
+human authorship necessary to support a copyright   claim” because the artist “provided no evidence 
+on sufficient creative input or intervention by   a human author in the Work.” We can deduce 
+from this ruling that any piece of art
+[...middle cut...]
+ making it harder to 
+recognize patterns and define an artist’s style. But let’s hope this doesn’t devolve into a 
+digital arms race. We need to strike a middle   ground between the artists and this rising 
+tech, but this solution may take years to   even conceptualize. Determining what even 
+constitutes an AI work that's appropriate   to be sold is something that needs to 
+be reviewed on a case-by-case basis. For now, we can’t let this situation discourage 
+future artists from spreading their talents online   for the world to appreciate. Let’s just hope we 
+can reach a morally good conclusion that balances   and preserves the spirit of inspiration 
+and innovation that makes humanity unique.
+
+=== ID: _f01VgJC8nE ===
+TITLE: Professor launches intellectual property rights platform to protect musicians amid AI’s｜Taiwan News
+DESC: AI technology is developing rapidly in the field of pop music songwriting. Now, the protection of intellectual property rights has become even more important. Plagiarism is no longer confined to humans. Unique compositions can also be appropriated and duplicated by AI. Wen-Pin Hope Lee, a National Taiwan Normal University professor, has launched a platform to help protect musicians’ intellectual property rights. FTV reporter Stephany Yang gives us the details.  Singers Hsu Meng and Davis Ni perf
+KEYWORD: protect artists from AI
+VIEWS: 207
+TRANSCRIPT: AI technology is developing rapidly in the field of pop music songwriting now the protection of intellectual property rights has become even more important plagiarism is no longer confined to humans unique compositions can also be appropriated and duplicated by AI one pink hope Lee a national Taiwan Normal University Professor has launched a platform to help protect musicians intellectual property rights after TV reporter Stephanie Yang gives us the details singer Shong and Davis n performed their original songs recently AI technology has developed rapidly in the field of pop music songwriting this is highlighting the importance of the protection of intellectual property rights AI comp posing is super fast it can generate quite nice lyrics and music in 30 seconds sometimes one's songs are used by others without you even knowing it and you receive no revenues from royalties AI involves Big Data through AI data through everyone's ways of creating output is produced under so-called calculations of Melody and Harmony however the music that humans frequently create is unpredictable this will Define the difference between Ai and human Creation in the future and it's a topic worth exploring ing a new tool I'm interested in is the conversion of vocal sounds that is when you write a song you have someone to help you sing the chorus this AI vocal is very New wimping Hope Le's talents as a composer have been rewarded with a golden Melody award he's also a professor at National Taiwan No
+[...middle cut...]
+ss and allow an artist to manage the copyrights of their lyrics music and recording Works creators are protected throughout the entire process we use blockchain technology to solve this problem so that the Creator can achieve complete records in every second and every hour of Creation in the future all so-called contractual or creative disputes will be resolved all at once this is the first in Taiwan the use of AI technology to create lyrics and music coupled with the popularity of social media and audio creation platforms has given rise to an Era where everyone can be a Creator the protection of intellectual property rights is all important FTV reporter Stephanie Yang and guen high in taipe
+
+=== ID: hLyvHOvhfU8 ===
+TITLE: Spotify's AI Revolution: Protecting Artists and Fans
+DESC: Spotify takes a stand against AI misuse with a series of new measures. Learn about the removal of 75 million 'spammy' tracks, the crackdown on impersonation, and the introduction of AI disclosures. Discover how Spotify aims to create a safer and more transparent music ecosystem for artists and listeners alike. Join the discussion and explore the future of music streaming with AI.
+KEYWORD: protect artists from AI
+VIEWS: 1
+TRANSCRIPT: Picture this. A digital music landscape overrun by fake tracks that mimic your beloved artists, potentially stealing their spotlight and earnings. Spotify is stepping up to protect the real voices in the industry. In a bold move to safeguard creators, the streaming powerhouse has announced sweeping changes to combat the misuse of artificial intelligence AI, including tougher rules on impersonation, an innovative spam detection system, and mandatory disclosures for AI involved music. But here's where it gets controversial. While AI can spark groundbreaking creativity, it also opens the door for bad actors to flood platforms with deceptive content. Let's dive into the details and explore why this matters for artists, fans, and the future of music. Spotify shared these updates in a detailed for the record blog post on Thursday, revealing that they've already purged 75 million tracks deemed spammy. Think lowquality, repetitive, or misleading uploads that clutter the ecosystem. The rapid evolution of generative AI, which uses algorithms to create new content like music or voices from scratch, has been a double-edged sword. On one hand, it's empowering musicians to experiment with fresh sounds and helping listeners uncover hidden gems. On the other, it enables unscrupulous individuals or automated content farms to produce and distribute slop. That's industry slang for subpar, often AI generated material that confuses audiences, undermines genuine artists livelihoods, and disrupts t
+[...middle cut...]
+wn out artists voices. But here's the controversial twist. Some argue that Spotify's measures might stifle legitimate AI experimentation, potentially limiting how emerging artists innovate. Others wonder if these rules are enough to curb the flood of fakes, or if they just shift the problem elsewhere. Is AI destined to revolutionize music for the better, or will it erode the authenticity that makes songs resonate? Do you think platforms like Spotify should take an even harder line, or is there room for more freedom in AI's role? Share your opinions in the comments. Do you side with the artists protecting their craft, or do you see AI as an unstoppable wave of progress? We'd love to hear your
+
+=== ID: dx-2iufcpQY ===
+TITLE: New Tennessee law seeks to protect artists from AI Fakes
+DESC: http://www.vondranlegal.com - Vondran Legal® California Music and IP entertainment lawyer.  Artificial intelligence meets the right of publicity.  Yes, you can share this video!!  NEW TENNESSEE AI MUSIC LAW  It sounds like Tennessee has passed a new law concerning AI and music, which is relatively uncharted territory. Here are some potential areas such a law might address:  1. Copyright and Intellectual Property: This could include how AI-generated music is treated under copyright law. For insta
+KEYWORD: protect artists from AI
+VIEWS: 155
+TRANSCRIPT: hello and welcome to vandin legal news today we're discussing a groundbreaking new law from Tennessee designed to protect artists and musicians from the unethical use of artificial intelligence introducing the ensuring likeness voice and image security or Elvis act effective July 1st of this year the Elvis act significantly expands Tennessee's protection of personal rights law by creating an enforcable property right in a person's name photograph Voice or likeness this legislative move comes in response to the in increasing prevalence of AI generated content mimicking famous artists you might recall back in 2023 the viral AI generated song that imitated Drake in the weekend this incident alarmed the music industry and prompted the Tennessee General Assembly to take action generative AI which creates content by training on a vast amount of public and license material has raised critical issues in the music industry particularly concerning songwriter compensation and intellectual property rights the Elvis act introduces two key provis first it prohibits the unauthorized commercial use of an individual's voice in addition to their name image and likeness second it establishes liability for the creation or distribution of Technology primarily used to produce an individual's likeness without their consent this legislation mandates that developers of generative AI tools exercise caution as violations can cause criminal charges as well as civil actions while other states like New Yo
+[...middle cut...]
+ek to establish a federal right of publicity the no fakes Act and the no AI fraud Act act both aiming to prevent unauthorized digital replicas of individuals the expansive language of the Elvis act raises questions about its practical limitations and potential conflicts with the First Amendment and federal copyright laws it is likely to face further scrutiny in judicial interpretation in summary the Elvis act represents a significant step in protecting artists in the rapidly evolving AI landscape its impact will be closely monitored and could influence future Federal legislation thank you for watching and stay tuned for more vant updates on this and other important legal developments [Music]
+
+=== ID: dKY24SpeYKo ===
+TITLE: How to protect your IP from AI training (Attn: Artists/Creators) | AI Show
+DESC: The Supreme Court just declined to hear a case that could reshape AI copyright law. The implications are massive—and nobody's talking about them.  In This Episode:  Why the Supreme Court rejected Stephen Thaler's AI copyright case for his DABUS system The core ruling: copyright requires a human author, not just a machine Where the line gets blurry: what counts as "human authorship" in the AI age? The liability question: if AI has no copyright owner, who gets sued for infringement? Does protectin
+KEYWORD: protect artists from AI
+VIEWS: 124
+TRANSCRIPT: If AI output has no copyright owner, who bears the liability when it infringes upon existing work? Does copyright protection for AI creations threaten the training data that built those models? Where's the line going to be drawn here for these machines? Reuters has this article, US Supreme Court declines to hear dispute over copyrights for AI generated material. So uh the US Supreme Court has uh declined Monday to consider whether AI generated art can be cop copyrighted um which is rejecting uh Missouri scientist Steven Fowler's appeal. So, there's been a sort of long-standing um case that he's brought to different courts and now it's been attempted to be escalated to the Supreme Court. The Supreme Court is, you know, denying to to see it. Um now, uh Steven has this system, uh Dabbas. I I can't remember exactly what it stands for, but it's basically saying it's a device for autonomous bootstrapping of unified sensients. That's what it is. Um but uh he he wants to copyright this the the production of this or what this system produces. Okay. First of all I have to question like why are people bringing this you know to to each court and trying to you know raise it all the way to the Supreme Court. uh partially you have to recognize uh this is a uh PR technique where if things go to the Supreme Court and they get rejected or whatever well it gets covered by the news you know and so if this inventor wants to get his name out in the world uh wants people to know the name of his sys
+[...middle cut...]
+ it, can see it, etc. uh it can be found by a search engine. It can be crawled by, you know, robots. It can it can do all of that. Well, then you're opening it up to for fair use basically. And one way to protect against fair use of your materials is to put up a payw wall. And so will this push with these type will these types of rulings push creation behind a payw wall? And so now it won't be as freely available and so will that stifle creativity and then will that just kind of snuff out this industry? Um, I I I wonder about that. If you want to learn more and keep up to date with this quickly advancing world of AI, go ahead and like, comment, and subscribe. There's new episodes every week.
+
+=== ID: CDxP8RLSvmc ===
+TITLE: Corrupt AI in the Music Industry: How Bad Actors Exploit Technology
+DESC: n this follow-up video, we uncover the darker side of AI technology in the music industry. Discover how corrupt individuals and organizations are exploiting AI to manipulate the music scene. We'll explore the tactics used, from generating fake music streams to stealing creative works and passing them off as original.  Learn about the impact of these unethical practices on artists, fans, and the industry as a whole. We'll discuss real-world cases and the ongoing battle to protect artistic integri
+KEYWORD: protect artists from AI
+VIEWS: 5
+TRANSCRIPT: now let's look at this I can even like even bring it back even further and talk about orchestras the keyboards must have been and so it's not natural progression but it is more convenient it is though certain things but long as you keep it in the 3D [Music] realm is anyone hearing me is this mic on everything just have a certain vibe to it like it does you get the people that say the old NPC sound better than the new [Music] NPC well I say like with a computer and I use a computer to make beats I mean I came off for buying the expensive MPCs and expensive keyboards and mixers and yeah and then you got have to take it and put it into the computer into the 2D [Music] R and you recorded it in now recreating it in a 2d realm and I think that's how we should only interface with 2D real it's like creating something not to overtake something that creates plugins they are convenient they are I use them every day I use them every day [Music] but I also have analog and I know how to inject Vibe and feeling back into it as much as I can as much as possible you're getting the same plugins man how many times you going to buy ptech plugin before you realize that it's not it I can imagine someone getting one of these would you you think some might be like really be in a studio like hey man I need you to make this beat what would that beat come out like would it use quantization would it use that would it use it I don't know it probably would it probably would it probably would what do all t
+[...middle cut...]
+'s a different vibe it's a different feeling and the same thing goes with like using plugins same thing with using Hardware that's people that use Hardware just went still went back and got a real bass player and it's major benefits than that especially if you're a producer oh especially if you're a producer you have aoua they've been making plugins but now they like you know we going to bring it to the analog on you you know if you like our plugins you going to like this analog cuz they know plugins they sound good and it looks good when you make it look like something eventually people going to want the real thing eventually people going to want the real thing cuz that right brain kicks in
+
+=== ID: RezedMxZZ0k ===
+TITLE: Artists, AI Art, and Resisting Dystopia | Webinar Presentation and Q & A September 21, 2023
+DESC: A lively webinar discussion on the ways generative AI is revolutionizing the art industry and impacting artists' work and livelihoods, along with exploration of some steps artists can take to protect their work from unauthorized mimicry by AI models. Includes a live Q & A with the presenter, Shawn Shan, computer scientist and research at the University of Chicago.  Access a digital copy of the accompanying slides and a transcript of the audio at this link: https://drive.google.com/drive/folders/
+KEYWORD: protect artists from AI
+VIEWS: 103
+TRANSCRIPT: Hello. Welcome, everybody. Thanks for joining us this evening. We are very excited to be here again. I'm so excited to see some familiar names, some new names out there in the attendees list. We've missed you. If you don't know who I am, my name is Myranda. I am the Program Director at Artly World Nonprofit. And most of you know us through our Artist Relief Project that we started back during the pandemic to provide free resources to artists, help you transition online, learn about social media, learn about grant writing and all sorts of other things. And as many of you know, we paused our program at the beginning of this year, and we're really excited. We were taking some time to reevaluate the resources for artists and really redefine what it is that you needed access to. And after talking to countless performers, artists, musicians around the United States and here in Austin, we're based out of Austin after lots and lots of conversations, the thing that kept coming up is the artists community's concerns with artificial intelligence and the impact that it's going to have on your work and livelihood. There's a lot of both excitement in the air, as well as fear in the air. And we have restarted ARP with this latest iteration of programing to support you and help you enhance your knowledge about A.I. and the different ways that you could possibly leverage it for its economic potential, as well as its creative potential. So these conversations that we're about to start having, 
+[...middle cut...]
+I will share the slides for this with you and you can pull that. I will also includes all the links by the Glaze, Twitter, our website, Web Glaze, as well as my personal emails as well. Yeah, yeah. So yes, we will be sharing the slides. Keep an eye on your email to all attendees. We'll share the slides with you, and there'll be contact info there and, and links. But with that, thank you everybody for coming. Thank you so much again, Shawn. We look forward to hearing about the developments with Glaze and and moving forward. So I'm very excited. And thanks for being our first webinar in this new iteration of the ARP project. Yeah, absolutely. Right. Thanks. Have a good evening, everybody. Bye.
+
+=== ID: 1EEyR8T9g9Q ===
+TITLE: Can AI and Human Artistry Coexist?
+DESC: In this inaugural episode of The Young Creator Electorate, host Sabbath Canady explores one of the most pressing questions facing young creators today: what does the rise of artificial intelligence mean for the future of human creativity?   Theatre artist and recent college graduate Nicholas Gilomen takes center stage with a powerful monologue that captures the complex relationship between AI technology and working artists. Speaking directly to an AI voice, Nicholas wrestles with questions that 
+KEYWORD: protect artists from AI
+VIEWS: 6
+TRANSCRIPT: Hi, I'm Casey Lewaiters, founding producer of Could be Pretty Cool. In the leadup to the 2024 presidential election, pundits and political analysts thought that they had Gen Z voters figured out. The predictions were confident, the headlines were bold, and the conventional wisdom seemed clear. Then election day came. The reality proved more complex than the headline suggested. Jinzy voters defied easy categorization, showing up to make their voices heard in ways that challenged mainstream assumptions. But beyond the statistics and exit polls lies a deeper story, one we believe is best told through the voices of young creators. As our society grapples with artificial intelligence, climate change, and economic uncertainty, Gen Z artists are observing and responding through their art, their music, and their stories. In this Georgia Public Broadcasting Student Voices Collective special, we'll hear from the painters, musicians, actors, and filmmakers who are processing our postelection reality through their creative work. They're asking hard questions about technology, truth, and what it means to be a human in America in 2025. Here is the Young Creator Electorate. Welcome to the Young Creator Electorate, a podcast special presented by Could Be Pretty Cool News. I'm your host, Sabbath Kennedy, a sophomore at Spellelman College. In this show, we dive into the vibrant world of young artists and creators who are using their art as a powerful catalyst to spark conversations about our p
+[...middle cut...]
+inding the areas where AI can make somebody's life safer or easier, not necessarily take away an entire industry. Thank you so much for coming to speak with me today. That was a really interesting conversation. You've been listening to the Young Creator Electorate brought to you by Could be Pretty Cool News. I'm Sabbath Kennedy and I hope this episode has inspired you to think about the intersection of art and politics in new ways. If you enjoyed the show, don't forget to subscribe and share with a friend. Remember, every brushstroke, every lyric, and every performance can be a step towards change. Until next time, keep creating, keep questioning, and keep engaging with the world around you.
+
+=== ID: uCd3u7y98e4 ===
+TITLE: Nightshade, The Poisoning Tool Causing Chaos For AI Art
+DESC: A poisoning is circulating the internet. Its mission is to protect artists from what it deems abusive generative AI. Find out how this innovative technology could be the end of AI art models like Midjourney, Dall-E, Leonardo AI and its competitors.
+KEYWORD: protect artists from AI
+VIEWS: 39
+TRANSCRIPT: could AI generated artwork become a thing of the past in recent years we've seen the rise of AI generated artwork platforms like mid journey and do e these platforms have been using vast data sets scraping trillions of images from the internet to create unique AI generated pieces of art the realism of the pieces particularly the intricate details of hands has been astounding but this level of realism has sparked concerns within the art community could the human touch and artwork the subtle nuances the understanding of Form and Function be lost could the very essence of creativity be at risk these platforms may be able to mimic the complexities of a hand but can they truly understand its function the art world has been left pondering these questions but what if there was a way to fight back against the rise of AI art Nightshade a software developed to poison AI models its counterpart glaze confuses AI with non-existent brush strokes and colors created by computer scientists at the University of Chicago these Technologies were born from concern over AI generated artworks enhanced realism particularly the accuracy of the hands depicted by mid Journey an AI art platform Nightshade shows AI images that do not exist similar to a puzzling jigsaw with morphing pieces while glaze acts as a decoy diverting ai's attention from the true task as a team they Shield artists Styles and hinder AI from producing incorrect portrayals they mainly protect new artwork and therefore benefit active 
+[...middle cut...]
+que Artistic Styles but for AI companies it may mean significant setbacks as they grapple with the challenge of training their models on accurate and reliable data yet as promising as Nightshade may appear it's not without controversy the use of this software has sparked ongoing legal and ethical debates questions about the legality of its use the rights of artists and the potential risks to the progress of AI are being hotly debated and so we find ourselves at a Crossroads the marriage of Art and technology is a complicated one and Nightshade has certainly stirred the pot the battle for the future of AI art is far from over and Nightshade might just be the GameChanger we've been waiting for
+
+=== ID: r2xLB7EVU8w ===
+TITLE: a humAIn art video. just some thoughts about humanity, the internet & AI.
+DESC: Hola everyone! Back now with April's video. :)  This one is totally not like my other videos. It's going to be experimental, unpolished and all over the place.   As AI keeps harvesting our data by accessing all our devices and online media platforms, the more I realize that its hard to stay away from it. And the only way to understand it, is to engage with it.  While using Gemini AI, I asked for prompt for a blog post but ended up learning about the resistance movements that artists have been do
+KEYWORD: protect artists from AI
+VIEWS: 10
+TRANSCRIPT: Hi everyone. Thank you for coming back to April's video. Today you're going to be witnessing a very trippy unstructured un really weird trippy video today because I decided to play with some of the graphics on Premiere Pro out of curiosity. Uh I have been researching somewhat quote unquote researching on Google Gemini. Okay, so excuse me for using AI but I'm glad I do use it. I'm very curious especially this question that I had. I was trying to plan a blog post and I was kind of stuck on what should I ask. So I asked Google Gemini write me a blog post about why the internet needs human art and it gave me a whole bunch of stuff thinking stuff and it was just mostly blob of information that wasn't what I wanted you know and then eventually I got to a point where I kept diving deeper and if I ended up taking it to some digital artists were resisting AI there was different ways that they were resisting AI And I was like, "Oh, that's very interesting topic." So I looked at the thing that they were using to resist there. I guess there's night shade and glaze to protect digital artists their artwork from being pirated off the internet or social media and confusing by creating bugs for it or also making the artist being like the god of inent AI and building like its own world building telling it what to do. Those are the type of things that I found on there. One of the things that really did catch my attention when I was looking and reading of all these things for Google Gemini was a
+[...middle cut...]
+t. We're this something else or we're in this timeline. And it would be nice to actually be able to see people grow together or learn together or explore together. And I think that was that's the really the whole purpose of this video is to show you that what it's the best time right now to show your human art in 2026 as an artist, as a creative, writer, whatever it is that you want as a human because at the end of the day, yes, AI could probably replace our jobs, but they will never be human and they will never ever have a soul. And you're human, so enjoy it. Enjoy it. Anyways, I talked enough. Thank you so much for watching towards the end and I hope to see you all in the next video. Ciao.
+
+=== ID: 1_e1TQbQi2Y ===
+TITLE: Hashtag Trending: Linux vs Windows 11, Canadians and AI, Cultural Sites Hit by AI Bots, and...
+DESC: In this episode of Hashtag Trending, host Jim Love discusses a new campaign encouraging users to switch from Windows 10 to open source Linux and LibreOffice ahead of Windows 11's costly upgrades.   A TD Bank survey reveals a surprising confidence gap among Canadians in their AI skills.   Cultural institutions are overwhelmed by AI bots harvesting data, impacting public access to knowledge.   Lastly, musician Lee Jordan introduces 'Poisonify,' a tool to combat AI scraping his music by makin
+KEYWORD: protect artists from AI
+VIEWS: 99
+TRANSCRIPT: An open- source group launches don't upgrade escape Windows 11 campaign. Canadians think they're terrible at AI, but they're probably wrong. AI bots are eating the internet and choking cultural sites in the process, and a musician leads the fight against AI with a Trojan horse poison pill. Welcome to hashtrending. I'm your host, Jim Love. Let's get into it. Microsoft handed the open- source movement its biggest recruiting opportunity in years. And in the spirit of better late than never, it appears that the open- source movement may try to capitalize on it. On October 14th, 2025, just 4 months away, Windows 10 support officially ends, leaving millions of users facing an expensive choice. And although the movement to Windows 11 has accelerated, there is still an incredible base of people who have not yet moved. The Document Foundation, makers of Libra Office, an open-source office substitute, are seizing the moment with an international campaign called endof10.org. Their message is entirely simple. Don't upgrade to Windows 11. Escape Microsoft entirely. And here's why they think that now's the time. Windows 11 is more than a simple upgrade. It forces deeper cloud integration, requires Microsoft accounts, and demands new hardware that makes millions of perfectly good PCs obsolete. Plus, subscription costs keep climbing. So, the group's alternative pitch, Linux plus Libra Office, gives you the same functionality without licensing fees. It works on older hardware, and it can use 
+[...middle cut...]
+st venture capital funded AI companies, musicians now have a technological tool that fights fire with fire. There's a link to the YouTube video at technewsday.ca or.com, take your pick, under podcasts. And that's our show. As a musician and as a technologist and a cyber security podcaster, I'm a little torn about this final story, but I'd love to hear what you think about it or any other issues. You can reach us at editorial technewsday.ca. And if you enjoy the podcast, want to support the show, tell a friend. And of course, you're welcome to support us financially at buymeacop.com/techpodcast. That's buy me aacop.com/tech podcast. I'm your host, Jim Love. Have a wonderful Wednesday. [Music]
+
+=== ID: TlVDHcPewuQ ===
+TITLE: Spotify Removes 75 Million Spam Songs & Cracks Down on AI Abuse in Music
+DESC: Discover how Spotify is tackling the rise of AI-generated spam and impersonation in music streaming. In this video, we explore Spotify's new measures including the removal of 75 million spammy tracks, enhanced AI voice impersonation policies, advanced spam-filtering systems, and AI transparency disclosures. Learn how these changes protect artists and improve listener experience while embracing AI's creative potential. Stay informed about the future of AI in the music industry and what it means f
+KEYWORD: protect artists from AI
+VIEWS: 4
+TRANSCRIPT: In a bold move that shored to spark debate, Spotify has purged 75 million spammy songs from its platform, cracking down on the misuse of AI by what it calls bad actors. But here's where it gets controversial. As AI reshapes the music industry, Spotify is walking a tight rope between embracing innovation and protecting artists from deception. Could this be the beginning of a new era in music streaming or a slippery slope towards censorship? Let's dive in. The streaming giant announced its sweeping changes in a for the record post, acknowledging the double-edged sword of AI. On one hand, AI is revolutionizing how artists create and listeners discover music. On the other, it's being exploited to flood platforms with lowquality content, impersonate artists, and siphon royalties. Spotify's response, a threeprong strategy to clean up its act. First up, impersonation. Spotify has tightened its policies, explicitly banning AI voice clones and unauthorized vocal impersonations, unless the artist gives the green light. But this is the part most people miss. The company is also tackling a sneaky tactic where fraudsters upload music to another artist's profile. To combat this, Spotify is testing new prevention tools with distributors, aiming to stop these attacks at the source. The question remains, will this be enough to outsmart determined bad actors? Next, spam filtering. Spotify's new system targets mass uploads, duplicates, SEO manipulation, and artificially short tracks, all made e
+[...middle cut...]
+system. But not everyone is convinced. Some argue that overregulation could stifle creativity, while others worry about the feasibility of enforcing these rules globally. And let's not forget the irony. Spotify is cracking down on AI in music while simultaneously embracing it for audiobooks. Is this a case of having your cake and eating it too, or a pragmatic approach to balancing innovation and integrity? What do you think? Is Spotify's AI crackdown a necessary safeguard for artists and listeners? Or does it go too far? Could this lead to a fairer music industry, or will it stifle the very innovation it aims to protect? Share your thoughts in the comments. Let's keep the conversation going.
+
+=== ID: SbCBaopgbqw ===
+TITLE: Artists Are Fighting AI With AI
+DESC: In this video I discuss techniques artists are using to protect their artwork from being "stolen" by people training large language models to generate artwork.  My merch is available at https://based.win/  Subscribe to me on Odysee.com https://odysee.com/@AlphaNerd:8  ₿💰💵💲Help Support the Channel by Donating Crypto💲💵💰₿  Monero 45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436 Bitcoin bc1qyj5p6hzqkautq4d3zgzwfllm7xv9wjeqkv857z  Ethereum 0x35B505EB5b71
+KEYWORD: protect artists from AI
+VIEWS: 340992
+TRANSCRIPT: people have been told for years now that automation was going to take away their jobs and this sentiment has been greatly magnified in recent years by the proliferation of neural networks and large language models that people generally refer to as artificial intelligence but one thing that I think a lot of people got wrong about the disruptions that would be caused by AI are the actual field of work and Fields of expertise that AI was going to endanger or potentially even eliminate because growing up I was told that the manual labor jobs were going to be the first ones to go especially the low skill manual labor jobs you know the kind of stuff that oh you can just go off to a trade school and learn how to do that and this made sense to me when I was growing up when I was younger because I would look back at the history of technological innovations especially in the world of farming and food production because basic agriculture literally took Humanity from a hunter gatherer species like that's what we did for most of our existence as Homo sapiens or whatever like everybody's job was food production and it turned us into what we have now where people are able to specialize into all these different fields of work that have abs absolutely nothing to do with food production and of course this got exponentially more true with things like industrialization because then instead of having to feed and house a bunch of uppity surfs on your potato Plantation and having to worry about the
+[...middle cut...]
+ I see it like kind of the high level view of all this is it's ultimately more free software that's being added into the world that anyone's able to use and it's clearly useful for some people which I'm always for I just kind of wish there was a version of nightshade that was able to run on Linux instead of forcing people to use Windows or Mac OS but but let me know what you think in the comments below should Nightshade be legally treated like a harmful piece of malware do you think it's actually going to be effective at protecting AI generated artwork or will people just use computers to fight against the other computers that are trying to corrupt the artwork generating computers in the end
+
+=== ID: DMxWIq1bcyw ===
+TITLE: Spotify Removes 75M AI Tracks: New Policies Target Voice Clones & Spam
+DESC: Spotify is cracking down on AI-generated music! In a major move, they've removed 75 million spammy tracks and introduced new policies to protect artists and listeners. This includes a ban on unauthorized voice clones, an updated spam filter, and mandatory AI disclosures in music credits. We break down what this means for the future of music streaming, the impact on artists, and how Spotify is balancing AI innovation with ethical concerns. Will these changes be enough to address the growing backl
+KEYWORD: protect artists from AI
+VIEWS: 3
+TRANSCRIPT: Spotify's AI crackdown, a battle for authenticity and artist protection. In a bold move, Spotify has declared war on AI bad actors, removing a staggering 75 million tracks and targeting voice clones. But here's where it gets controversial. Spotify's actions are a double-edged sword, sparking debates and raising questions about the future of music and technology. The AI dilemma. SpyFi's recent announcement highlights its commitment to protecting artists and listeners from deceptive practices. The company aims to combat music that confuses and misleads, a growing concern as AI tools make it easier to generate large volumes of music. But how far should this protection go? And what does it mean for the future of artistic expression? Impersonation policy. A clearer recourse. Spotify's updated impersonation policy gives artists a stronger voice against AI voice clones and unauthorized impersonations. This policy ensures that artists voices and identities are respected, especially when it comes to unauthorized use. However, it also raises questions about the fine line between artistic inspiration and imitation, content mismatch, fraudulent uploads, and artist profiles. Impersonators fraudulently uploading music to other artists profiles is a serious issue. Spotify's partnership with music distributors aims to tackle this problem, add its source. By reducing the wait time for content review, artists can now report mismatch even before a release, providing a quicker response to potent
+[...middle cut...]
+ing. Massive attack in particular has publicly criticized Spotify for funding lethal technologies. This artist exodus highlights a growing concern among musicians and sanss about the ethical implications of AI and its potential impact on the music industry. Conclusion: A complex balance. Spotify's AI crackdown is a necessary step to protect artists and listeners, but it also sparks debates about the role of AI in music. As the platform navigates this complex landscape, it must strike a balance between innovation and authenticity. What do you think? Should Spotify's AI policies go further, or are they already taking the right steps? Share your thoughts in the comments and join the discussion.
+
+=== ID: 4IxdEUr-ixs ===
+TITLE: Are AI-Generated Images Legal? Copyright Issues You Need to Know
+DESC: AI-generated art is revolutionizing design, but it’s not without legal risks. In this video, we discuss the copyright issues surrounding AI art tools like MidJourney and DALL·E. Learn why using copyrighted images in AI prompts can open the door to lawsuits and how you can protect yourself while creating unique, original work.  Key Points Covered:  How AI is trained using images scraped from the internet and what that means for copyright infringement The legal gray area of who owns AI-generated a
+KEYWORD: protect artists from AI
+VIEWS: 154
+TRANSCRIPT: So where does AI source its photos to create such masterpieces? It's hard not to talk about the elephant in the room. As we discussed before, Midjourney, Dolli, and other AI photo generation tools took a huge swath of photos from the entire internet to train its AI bots to generate images. That means that copyrighted photos, illustrations, and graphics were compiled together to teach the bot what the user might want to see. There is an interesting article that claims that one of the founders of MidJourney knew this was the case and admitted to not knowing what to do about giving proper copyright ownership to the artists of the images uh this AI bot uses. When creating AI art, you can also add reference images to help the bot further detail what you're looking for. And there's no way to prevent users from uploading copyrighted work from Google search into the prompts. That means if you're using images that do not have a Creative Commons Zero license or a public domain license, you could be opening up yourself to being sued for deriving artwork from copyrighted images. So, does that mean AI tools have infringed on creators rights? This was going to come to a head at some point. Several artists have banded together to sue Midjourney in other art portfolio websites like de Deviant Art for allowing copyrighted derived AI work to be posted without giving proper credits to the authors. And it's going to be a very tricky court case. On one hand, AI tools have been trained by absorbin
+[...middle cut...]
+ rather than using them directly. So if you ask for a logo prompt idea, modify that prompt just a tiny bit to make it your own. Post-processing, you can edit AI generated images extensively using tools like Photoshop or Illustrator. In the end, the big takeaway is the more human-guided interaction there is between the AI generated content, the better you can protect yourself. and short clear ownership depends significantly on how much original creative human input you add to the II generated imagery. Always enhance and adapt images creatively to clearly establish your copyright. Ensure your final designs contain meaningful creative human modifications and are free from infringement concerns.
+
+=== ID: zzxNT2jgapI ===
+TITLE: Intelligent Use of AI & Protection for Artists Part 2
+DESC: Intelligent Use of AI & Protection for Artists Part 2: Can you copyright AI?, Squeezing Workers with A.I., What if you can’t beat them... (4:49 trt) In this series, you will learn: How can you protect your intellectual property? See a Midjourney demo. from guest A.I. artist Kevyn Bashore. Taped on 08-21-23. 168 Film Project is a scripture-focused, international community & proving ground for filmmakers, writers and actors of all levels of experience, since 2003. 168 Film Project is a scripture-f
+KEYWORD: protect artists from AI
+VIEWS: 19
+TRANSCRIPT: Now, on the uh decision that was handed down today, um I'm going to pull it up and let you see it and then we can talk about it and and I'll let Kevin weigh in on this. So, let me just share my screen. All right. This is from Reuters. Um, US copyright office today says that some AI assisted works may be copyrighted. Now, this is not the one that you sent me, Kevin. This says, let's see, this is March from March 2023, but uh Oh, I sent you two. There was one uh one from today, actually. Yeah. Yeah. This one apparently in March they said some could could be copyrighted but today they said that it can't be copyrighted. So I mean if if your entire platform is derivative then how can you copyright that you know um that's that's kind of frames the argument and I think um I I'll I'll look up that other article so I can show you but um I think that uh it'd be good to start uh Kevin with um who are the players like uh Chaos or I'm sorry, Discord, Midjourney, Chat, GPPT. I don't even know what Dal E is. I haven't read about them. So maybe you can take some of those areas. Um back let me start with this. The something oddly enough that happened a while back say 14 years ago actually has influenced my decision to what I'm doing right now. And that is I became a uh a videographer cinematographer for itock um itock on online and for stock uh video and soon after I did that Getty Images bought Eyestock. Eyestock was the David and Getty was the Goliath. And Getty knows that you you don't try
+[...middle cut...]
+spring, I happened to hit it right on the nose the very day or the very week that between Discord Midjourney released uh version five and Adobe Firefly came out the same week and um everybody Getty was saying what they're doing. Um you got Google, you got um stable diffusion, you got chat GP that we're talking about. Um all these different groups and businesses are now diving in. And so this is why my my critique of this is we could talk about all these hard things and you know how to protect yourself, which we're going to be doing, or suggestions on how to, but I'm also going to show you a little bit of maybe what you could do. um at you making your own decision on how you could utilize AI.
+
+=== ID: TLZJxM1VbIo ===
+TITLE: Truth About Art Career in India: Fake Art, AI & Market Reality
+DESC: In this honest cut we dig into what most artists and buyers don’t talk about: how art actually sells in India, why fake / AI-generated work is shaking trust, and what both creators and collectors need to watch out for.  We cover: • The three rules every art student should follow — consistency, hard work, and intent. • Why selling art is different from making art — galleries vs social media buyers. • Real cases of AI / copied art being sold as original and why this is a growing problem in India. 
+KEYWORD: protect artists from AI
+VIEWS: 51
+TRANSCRIPT: बट आपको ऐसी आप मुझे आप वर्कशॉप्स कंडक्ट करते हो। ऐसी कोई मुझे आप तीन चीजें बताओ व्हिच स्टूडेंट्स शुड फॉलो व्हाइल पर्स्यूइंग आर्ट। कंसिस्टेंसी ओके फर्स्ट थिंग क्योंकि वो बहुत जरूरी है। आप आप जब तक आप डेली प्रैक्टिस नहीं करोगे तब तक वो थोड़ा मुश्किल है कि किसी भी आर्ट को जो चीज आप आना ये सिर्फ नॉट ओनली फॉर आर्ट विद एनी आर्ट फॉर्म या विद एनी स्किल कि एनी स्किल ना आप जब तक उसमें कंसिस्टेंट नहीं रहोगे तो आप उसको नहीं अचीव कर पाओगे। द सेकंड थिंग इज हार्ड वर्क। वो आपको बहुत और इंटेंट क्या है वो भी आपका बहुत जरूरी है। वो इंटेंट आपका जब तक क्लियर नहीं होगा व्हाट डू यू वांट टू डू इन योर लाइफ दैट इज मोरेंट। कोई भी चीज को करने के लिए वो बहुत जरूरी है। एंड थर्ड आई टोल्ड यू ऑलरेडी। नहीं सेकंड और मैंने दो पॉइंट सुने थे। अच्छा। अच्छा थर्ड इज़ इंटेंट यू सेड। अच्छा थर्ड इज़ इंटेंट। या ब्यूटीफुल आई थिंक दी थ्री आर गुड कासेप्ट्स व्हिच सॉरी कट मैं थोड़ा ज़ोन आउट हो गया था बट दीज़ थ्री आर नाइस कासेप्ट्स व्हिच व्हिच एवरीवन शुड आई थिंक पर्स्यू बट हाउ इजी डू यू थिंक इज़ हाउ इजी डू यू थिंक इट इज़ टू सेल अ पेंटिंग इन इंडिया अ इट्स नॉट अ इसके दो पहलू है आप कैसे बेसिकली आर्टिस्ट का काम ही नहीं है सेल करना। आर्टिस्ट का काम तो बनाना है। बनाना है। सेल करना नहीं है। तो सेल कौन करता है? आर्ट गैलरीज है। आर्ट गैलरीज ऑब्वियसली आर्ट गैलरीज सेल करते हैं। बट जब से ये सोशल मीडिया आया है अ तो लोग चाहते हैं डायरेक्ट कांटेक्ट करना या वो जो अपने कस्टमाइज पेंटिंग करवाते हैं या जो आरसी पेंटिंग करवाते हैं तो वो तो आपको आर्ट गैलरी में नहीं मिलेगी। सही बात है। उसके लिए तो आपको डायरेक्ट आर्ट सेक्टेगा। नहीं बट बहुत सारे बिकॉज़
+[...middle cut...]
+सब पे रोक लगाए। क्या होना चाहिए? आर्टिस्ट आए पेंटिंग बनाए। पेंटिंग सीधा गवर्नमेंट इंस्टीट्यूशन को भेजें। वो रिव्यू करेंगे कि सही है, गलत है, कैसे है? उस पे ऑथेंटिसिटी का मार्क लगाएंगे कि दिस इज़ एन ओरिजिनल आर्ट वर्क। एंड दिस इज नॉट अ फेक और दिस इज नॉट अ कॉपी एंड देन इट शुड गो टू द कंज्यूमर। सो आपको क्या लगता है? यस इट शुड बी अ क्योंकि बहुत सारे ऐसे कॉपी आर्ट वर्क्स मेरे पास भी आते हैं करने के लिए बट आई रिजेक्ट देम कि ये ऑलरेडी किसी का है। मैं क्यों उसको मैं आई विल नॉट कॉपी। आपको बनवाना है। यू कैन टेल मी द कंटेंट। और मैं उसमें कुछ अलग से डिजाइन करके आपको देती हूं। अ कॉपी आई थिंक नहीं होना चाहिए क्योंकि सब आर्टिस्ट का की वो अपनी अलग मेहनत होती है। तो उस मेहनत की थोड़ी वैल्यू आई गेस होनी चाहिए।
+
+=== ID: 6z9T7ql-8SE ===
+TITLE: The future of Prince’s legacy in the age of AI a decade after his death
+DESC: A look at Prince's career on the 10th anniversary of his death. His longtime lawyer discusses what it takes to protect a music icon's legacy in the age of Artificial Intelligence. NBC News' Chloe Melas reports.  For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com  » Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC » Subscribe to Here's the Scoop podcast: https://www.nbcnews.com/heres-the-scoop-daily-podcast  Every day, NBC News 
+KEYWORD: protect artists from AI
+VIEWS: 18703
+TRANSCRIPT: voice that spans genres and generations. Prince now gone for 10 years because he was the greatest artist musician of all time. A true artist. That's El Londell McMillan, Prince's longtime attorney who helped the artist fight his record label to gain control of his music back in the9s. Now he says that he works to protect Prince's legacy as a manager of his estate, a task that has to evolve with time and technology. I spy a purple piano behind you. He's at Paisley Park, Prince's home turn museum. Well, I am now in the coveted Studio B live room. Prince Rogers Nelson rose to fame in 1984 with his breakout hit Purple Rain. The film and its soundtrack becoming a cultural phenomenon. The project produced chart topping hits and the winner is Prince for Purple Rain earned him an Oscar. I could have never imagined this in my wildest dreams. Across his career, Prince sold millions of records. His fight to own his music still shapes conversations today about artist rights. He wanted to free himself from the incumbrances and the contracts and those people that he felt had restrained him at the time. Prince's legacy is no stranger to controversy. From the start, Prince died without a will, triggering years of legal battles over control of his estate worth more than $100 million, which was split between family members. Half of them later sold their stakes to a music company, Primary Wave, which came in a bigger wave of some major artists selling their cataloges in 9 figure deals, while ot
+[...middle cut...]
+tate was like the the or trying to raise these questions of of legacy and what that looks like in this in this age of technology that's evolving so quickly. Yeah. Hi, it's clear that he had a really good idea as to how he wanted his legacy to look. And there is going to be that celebration with a lot of performances, VIP tours, more unreleased music, shaka, more daycat Graham, you name it. So if you're in Minnesota, go by Paisley Park. They're going to be celebrating Prince's life and legacy June 3rd through 7th. Hie Chloe Malas, thank you very much. We thank you for watching and remember, stay updated on breaking news and top stories on the NBC News app or watch live on our YouTube channel.
+
+=== ID: IBRkq8Nz46Y ===
+TITLE: AI-Generated Music: Viral Phenomena and Industry Backlash
+DESC: The advent of artificial intelligence (AI) in music creation has led to a surge in AI-generated music going viral. This Podcast explores the implications of this trend, focusing on the rapid rise of AI-generated music, its impact on the music industry, and the industry's response to protect its interests.  AI-generated music has gained significant attention in recent years, with notable examples such as the viral song "Heart on My Sleeve," which features AI-cloned voices of Drake and The Weeknd.
+KEYWORD: protect artists from AI
+VIEWS: 83
+TRANSCRIPT: so have you heard that new Drake in the weekend track you mean hard on my sleeve yeah the one that well kind of blew up the internet yeah it's uh it's certainly got people talking for a few different reasons I think well for one thing it's AI generated right not actually Drake in the weekend yeah that's right it was created using artificial intelligence which makes it well kind of groundbreaking definitely raises a whole bunch of questions about like what even is music now yeah big questions and to make things even more well I guess controversial is the word the song supposedly about Drake in the weekend fighting over Selena Gomez oh right I read about that add a whole other layer of like is this real or is this fake what's the point it really glurs the lines doesn't it I mean think about it anyone could create a Drake song or a Taylor Swift song with the right software what does that even mean for artists and their music it's a bit unnerving right like I love music but if anyone can just churn out a hit song with a few clicks does it devalue the art that's a question a lot of people are crapping with the creator of heart on my sleeve who calls themselves ghost riter which by the way is a pretty clever pseudonym released a statement saying this is just the beginning and that feels well a bit ominous wouldn't you say a little bit yeah almost like a challenge like they're saying hey music industry get ready for a wild ride and honestly it feels like they might be right the tech
+[...middle cut...]
+ in music because ultimately the future of music is in our hands right it's up to all of us to decide what kind of world we want to create that's the beauty of it it's an ongoing conversation a collaborative composition that we're all writing together and on that note I think it's time to wrap up this deep dive we've covered a lot of ground explored some complex ideas and hopefully sparked some thought-provoking conversations along the way it's been a pleasure exploring these Uncharted territories with you the pleasure was all mine and to all our listeners out there thank you for joining us on this journey keep your ears open your mind's curious and remember the music is just getting started
+
+=== ID: mNrIgppHd8k ===
+TITLE: 🤖🎨 AI Art Theft Controversy #AIArt #Ethics #ai #technology #video #movie #syntheticmedia  PART 1
+DESC: 🤖🎨 AI Art Theft Controversy #AIArt #Ethics #ai #technology #video #movie #syntheticmedia  PART 1   Hey everyone, welcome back to our channel! 🌟 Today, we’re diving into a highly debated and ethically charged topic - AI Art Theft Controversy. 🤖🎨 With the rise of AI-generated art, questions about originality, creativity, and ethics have come to the forefront. Let’s explore the controversies surrounding AI art theft, its impact on artists and the creative industry, and the potential legal and ethic
+KEYWORD: protect artists from AI
+VIEWS: 8
+TRANSCRIPT: AI art is taking the World by storm it's a new and exciting way to create art using artificial intelligence AI art generators are trained on massive data sets of images and learn to create original pieces these AI tools can produce stunning and imaginative artworks in seconds this accessibility and speed have made AI art incredibly popular from social media to galleries AI generated art is everywhere people are drawn to the novelty and beauty of AI art it ows anyone to become an artist even without years of training you can simply type in a prompt and the AI will generate a Unique Piece based on your description this ease of use has democratized art creation making it accessible to everyone however this rapid rise in popularity has also sparked controversy the use of copyrighted images to train these AI models has raised legal and ethical questions artists are concerned about their work being used without consent or compensation this has led to heated debates about the ownership and originality of AI art the rise of AI art presents both exciting opportunities and complex challenges that we need to address as a society major tech companies like open AI anthropic and meta are facing legal challenges over AI art artists and creators allege that their copyrighted Works have been used without permission to train AI models these law suits claim that using copyrighted material without consent or compensation is a violation of intellectual property rights the outcome of these cases w
+[...middle cut...]
+righted material in AI training the decisions made in these cases will have far-reaching consequences for artists tech companies and the future of AI art beyond the legal complexities AI art also raises profound ethical concerns one of the biggest questions is who owns the copyright to AI gen ated art is it the person who created the AI model the user Who provided the prompt or the AI itself the lack of clear ownership raises concerns about plagiarism and authenticity if an AI generates a piece of art that is strikingly similar to an existing work is it considered plagiarism how do we determine the originality of AI art when it's created by algorithms trained on vast data sets of human creat
+
+=== ID: XmQUrXbV534 ===
+TITLE: Tech Uncensored: Generative AI is a Crisis for Copyright Law with Ben Zhao
+DESC: We are at a critical juncture when generative AI's impact on copyright law is being hotly debated. The ambiguity surrounding AI-generated works' authorship and ownership has led to numerous lawsuits against AI companies.   As of late 2024, there were at least 30 major copyright lawsuits against generative AI companies related to image copyright infringement.   NOW, more recently, there was a landmark ruling where Thomson Reuters won a significant victory in its copyright infringement lawsuit aga
+KEYWORD: protect artists from AI
+VIEWS: 101
+TRANSCRIPT: hi everyone we are at a critical time when generative ai's impact on copyright law is being hotly debated and there's this ambiguity surrounding AI generated Works authorship and ownership and this has led to numerous lawsuits against AI companies welcome to Tech uncensored everyone my name is Tessie Jones and as of late 2024 there have been at least 30 major copyright lawsuits against generative AI companies related to image copyright infringement Getty Images Su stability AI in both the US and Canada sorry and the UK for $1.7 billion doar and they alleged the misuse of over 12 million copyrighted photos to train some of these AI models at the same time a group of visual artists sued companies like stability AI mid Journey Deviant Art Runway AI for using their artworks without permission to train the AI image generators so in another case in Jang versus Google visual artists sued Google claiming their copyrighted images were used to train the image and model without their consent so more recently there was a landmark ruling where Thompson Reuters actually won a significant victory in its copyright infringement lawsuit against an an AI startup called Ross intelligence and Ross intelligence which is a legal start legal AI startup shuttered its doors in I believe it was 2021 but they were found to have infringed on Thompson reuter's copyright by using using their proprietary headnotes and their structure to actually train their AI powered legal research tool so while this has I
+[...middle cut...]
+Ben for coming today I wish I could talk to you a lot more because there this is a huge issue and um I I wanted to spend a lot more time on on the effects of glaze and Nightshade I think we'll probably see a lot more of that in the coming years so thank you so much for for contributing that to to the creative and artistic community my pleasure and uh for everyone else uh thank you for joining us today if you want us to explore other topics please uh email us at communications altitude accelerator.com it's powered and produced by altitude accelerator we're hosted on Spotify you can find us wherever you get your podcast so until next time I'm hessie Jones please stay curious and be in inspired
+
+=== ID: YCYTueuXhik ===
+TITLE: AI's Impact on Music: UK Celebs Unite to Protect Creators' Rights
+DESC: Get a Grip – Upgrade Your Phone Experience! https://amzn.to/4j1k694 Discover the impact of AI on UK creatives! Over 400 artists & writers urge government to protect creators' rights as AI-generated tracks raise questions about ownership. Join the debate: Share your thoughts in the comments below! #DuaLipaDaily #CreativityIn peril #AIrights
+KEYWORD: protect artists from AI
+VIEWS: 15
+TRANSCRIPT: Tired of dropping your phone or struggling to prop it up? Meet the PopSockets phone grip with expanding kickstand in black. Your new must-have accessory? Don't miss out. Grab yours today. Click the link in the video description to shop now on Amazon. Welcome back to Duual Lia Daily. Today we're talking about a story that's got everyone in the creative industries buzzing. Over 400 UK celebrities are urging the government to protect creators from AI. Imagine you're a singer songwriter like Du Lipa working tirelessly on your next album. Suddenly, an AI algorithm comes along and starts generating tracks that sound eerily similar to yours. Not only does it feel disheartening, but it also raises serious questions about who owns the rights to creative work in this digital age. That's exactly what's happening with the rise of generative AI tools. As these tech firms continue to advance, concerns are growing about their impact on the creative industries. In fact, a recent open letter signed by over 400 UK artists, writers, and performers is calling for better copyright protections. Dual Lipa Daily can confirm that this includes music industry heavy hitters like Sir Elton John and Florence Welch. The issue centers around an amendment to the data use and access bill which aims to compel AI developers to disclose when copyrighted works are being used to train their models. It's a crucial step towards fair licensing arrangements and safeguarding the UK's position as a global leader in cre
+[...middle cut...]
+s could hurt innovation and stifle creativity. Dual Lipa Daily wants to hear from you. Do you think AI developers should be held accountable for using copyrighted work? Share your thoughts with us in the comments below. As we look ahead to a crucial vote in the House of Lords next week, it's clear that the creative industries are at a crossroads. Will we find a way to balance innovation and artistic expression? Or will we lose control over our own work? One thing's for sure, as Dual Lipa Daily continues to follow this story, we'll be keeping you updated on any developments that affect the world of music and beyond. Stay tuned for more on this pressing issue, and let's keep creating together.
+
+=== ID: nMysKhkuQLQ ===
+TITLE: 3 Reasons Why AI Generated Artwork MIGHT NOT Protected by Copyright #ai
+DESC: The three reasons why you need to think about copyright for AI artwork: Lack of originality: Copyright law protects original works of authorship, which are the products of a creator's own imagination and creativity. While AI-generated artwork may involve complex algorithms and sophisticated processing techniques, it ultimately lacks the element of human creativity and intent that is necessary for copyright protection.  No legal standing: AI-generated artwork cannot legally own property or hold c
+KEYWORD: protect artists from AI
+VIEWS: 388
+TRANSCRIPT: the ultimate question of 2023 is is your artwork really yours if you've been publishing books on Amazon you'll want to learn and stick around to learn the surprising truth about copyright in AI generated art you guys know that I recently hired an attorney to do some copyright work for me and having conversations with him really opened this door to make me remember the importance of protecting your work it's really cool to be able to do a coloring book but imagine it taking off and making you five thousand dollars a month and you cannot protect it because you used AI in this video we're just breaking down the three reasons why AI generated art is not protected by copyright laws and at the end of the video I'm going to share the four ways to actually use AI to be able to protect your work through the law so it's really important to remember that this law has been around forever and so there are specific guidelines I'm not an attorney this video is for educational purposes but I'm sharing it with you here just so you can gain Clarity and you don't make any mistakes I have since um published my AI coloring books because I want to make sure that I follow these prompts at the end of this video to make sure I do it correctly so let's dive into it number one is lack of originality you may have seen a lot of prompts on mid-journey or other YouTube videos where people are saying draw this in Cloud Monet or do this in Pablo Picasso like when you just rip off another artist it's really h
+[...middle cut...]
+just taking exactly what it spits out and that most importantly you have a vision and a goal in mind and I think that is the most powerful thing that makes us human is having these ideas like AI needs to be prompted to be successful but you don't there is inspiration all around you for you to like cleave to so if you're struggling and maybe you haven't done that children's book because you don't feel like you're a great artist go through these four ways and work it out in mid-journey inside of they have a Discord chat for mid-journey and it's such a cool cool process if you want more videos like this definitely subscribe hit the like and I'll see you in the next video love you guys peace out
+
+=== ID: M2wPnrSGG3Y ===
+TITLE: Nightshade Tool ‘poisons’ AI Models Protecting Artists
+DESC: In this episode, we delve into the intriguing realm of AI defense as we discuss the disruptive impact of the "Nightshade Tool," exploring how it strategically 'poisons' AI models to safeguard artists and creators. Tune in to unravel the innovative measures taken to protect digital art in an ever-evolving technological landscape.    Invest in AI Box: ⁠https://Republic.com/ai-box⁠ Get on the AI Box Waitlist: ⁠⁠⁠https://AIBox.ai/⁠⁠⁠ ⁠AI Facebook Community⁠ ⁠Learn more about AI in Music⁠ ⁠Learn more
+KEYWORD: protect artists from AI
+VIEWS: 12
+TRANSCRIPT: for the last year there's been a ton of controversy around the rights of AI images and these AI image generators like mid journey and Dolly and they're stealing you know pictures from artists and blah blah blah there's all these lawsuits going on in the midst of all the lawsuits there is a bunch of artists that have decided to take matters into their own hands with a new tool that Jamie and I want to break down for you and it is called Nightshade this is a essentially a tool that you can use to poison your your images against AI models that might try to suck them in and train an AI model and it actually ruins the output of AI models Jamie you want to tell us a little bit about what exactly is going on here yeah so you know there's some companies out there like I know Adobe where they take the high road if you're going to submit AI generated art you have to you know prove that it's your own intellectual property and that you didn't steal the style from someone so there's there's companies like that but I would imagine there's going to be lots out there that don't either care about that or take that into account when it comes to AI generated art so you know the problem is with artists they could easily have an AI model just generate uh use their style and their art and and copy it you know essentially and so um that's really going to be a growing problem the more um AI is used specifically AI images so Nightshade is really cool basically uh Alters the pixels I guess from what I
+[...middle cut...]
+ally have already scraped like the entire internet so they've already I don't know how they could ever yeah that's a lot of content but in any case um I think this is a cool tool and there's ways that it's definitely helping people protect their uh their art and their Investments so it's kind of cool thank you so much for tuning in to the podcast podcast today if you liked it make sure to leave us a review on Apple podcast or Spotify or wherever you listen to your podcast uh drop us a comment we read them all and we' love to know what you hear about the uh the podcast let us know if there's anything else you want to hear about on here but we hope that you all have an amazing rest of your day
+
+=== ID: wnG1lh2eBtk ===
+TITLE: AI Deepfakes in Music: Innovation or Infringement?
+DESC: "Stronger Laws Needed to Counter AI Deepfakes in Music Industry"  MPs in the UK have recently championed a new law against the rise of AI-generated deepfakes in the music industry. As artificial intelligence technology advances, there's been a noticeable surge in its application to impersonate well-recognized celebrities.   In April, numerous prominent British artists, including Jess Glynne, Mumford and Sons, Sam Smith, and Zayn Malik, advocated for more stringent legal protection against the ma
+KEYWORD: protect artists from AI
+VIEWS: 18
+TRANSCRIPT: can artificial intelligence create the next pop sensation or could it potentially rob a music star of their unique voice and identity as technology advances artificial intelligence is increasingly playing a role in the music industry opening up new possibilities for creativity and Innovation yet at the same time it's sparking controversies and raising serious ethical questions what happens when technology blurs the line between the real and the artificial this is not a hypothetical question but a pressing reality we must confront today artificial intelligence has made its way into the music industry with deep fake technology leading the charge picture this a beloved singer's voice perfectly mimicked by a machine singing songs they've never recorded this isn't a futuristic fantasy it's the reality of today made possible by Deep fake technology deep fak's ability to create hyperrealistic content has given rise to a unique form of creativity imagine AI generating a new album for a band like the Beatles or a postumus release from a legendary artist like Prince but this technology isn't just about creating new music it's also capable of impersonating voices with uncanny accuracy from the smooth cuning of Frank Sinatra to the unique rap flow of Kendrick Lamar no voice is off limits for deep fake technology but this new reality isn't being embraced by everyone a group of high-profile music stars from the UK including Jess Glenn Mumford and Suns and Zay Malik have voiced their concer
+[...middle cut...]
+thical boundaries the all-party Parliamentary group on music has set the tone emphasizing the need for a specific personality right to protect artists from misappropriation and false endorsement the Elvis act in Tennessee which prevents AI from mimicking an artist's Voice without permission serves as a compelling precedent it's high time the UK and other countries follow suit introducing similar protections for creators in essence the goal isn't to stifle ai's potential but to ensure it doesn't overshadow the rights and integrity of artists it's not about rejecting AI but about ensuring it serves as a tool for creativity and innovation without compromising the rights and integrity of artists
+
+=== ID: lHv5nA8eNu4 ===
+TITLE: Should we trust AI? Facial recognition leads to lawsuit against police
+DESC: Owen Alterman talks about the facial recognition technology and how much an error can cost you.   Articles: https://www.i24news.tv/en  Facebook: https://www.facebook.com/i24newsEN/ Twitter: https://twitter.com/i24NEWS_EN Instagram: https://www.instagram.com/i24news/  #i24NEWS #IsraelBusinessBeat #aitechnology   Israel Business Beat is a magazine program bringing you an insider’s look into the latest break-throughs out of the ‘Start Up Nation’. Sundays 9:30 PM GMT
+KEYWORD: AI facial recognition
+VIEWS: 946
+TRANSCRIPT: is facial recognition foolproof well according to this mother it's not and in fact it's discriminatory a black mother is suing the city of Detroit and a Detroit police the department detective after she was falsely arrested while eight months pregnant by officers using an unreliable facial recognition match in February of this year Porsha Woodruff was home helping her 6 and 12 year old kids get ready for school with six police officers arrived at her door with an arrest warrant for carjacking and robbery Porsha was baffled and assumed it was a joke she denied the allegations and pointed to her obviously pregnant State still she was handcuffed taken to jail and held for 11 hours the mother later learned she was implicated in a alleged incident after the facial recognition software identified her in a lineup of six photos that included her mug shot from a 2015 arrest police had access to her current driver's license photo issued in 2021 but used the older photo all the criminal charges were dropped less than a month later for inch of efficient evidence Porsche's lawsuit claims additional recognition Technologies are proven to misidentify Black citizens at a higher rate the lawsuit is the latest to zero in on facial recognition technology and its potential risks following warnings by experts about ai's tendency towards air and bias along with the dangers of inaccurate facial recognition usage and for more on this I'm joined by I-24 news senior correspondent Owen Altman Owen how 
+[...middle cut...]
+aven't done and by the software and by the technology simply capturing them look I suspect that over time the technology is going to get better I think we all expect that and there will be fewer errors and this can be relied on to a greater degree but until we get there obviously this is a cautionary tale of how none of us whether they be police departments journalists or others should be able to be willing to rely on AI and not question the results we're finding we're all obviously learning how to adjust and how to use it effectively and efficiently and properly and the way to do it is to use it as a tool but not to use it as the only tool and not to treat its results as faultless thank you
+
+=== ID: NuSSpnhXyE0 ===
+TITLE: Kim Iversen AI Bot Guest Trained On Fiorella (this is my current opinion - UPDATED IN TEXT)
+DESC: (UPDATE: Her name is alleged as Tiffany Cianci with an extensive backstory. There is even an article on her in the New York Times, but they aren't giving freebies to see it. I am not ready to retract despite possibly looking foolish. She has shady social media connections and looks like an AI bot. She makes facial movements very similar if not exact to Fiorella.  There is another appearance by her in November, 2024 and she to me looks even more like an avatar/cartoon version of Fiorella. These s
+KEYWORD: AI facial recognition
+VIEWS: 14
+TRANSCRIPT: That [ __ ] thing on the right is not a human being. And I think it it's based on Fiorella. There's apparently many facial movements that the human makes can make and that the demented shadow government, the demented uh military social scientists, they're [ __ ] That's what's going on. That's why they need to [ __ ] with the water now. They're [ __ ] with the water for the d to have more data. They're [ __ ] with us. D waiting on a Sunday for what I've read between your life in so D yesterday what I see. things you said to me. D. You ride up. On a southern train only. I promise. Watch the I'm going to run home big tech company forums. We're going to shadow ban. We're not We're going to post [ __ ] that's obviously fake. And then we're going to use learning language models to fill in the emptyness. We'll call it the dead internet. We'll steal what other people have said and we'll call it the dead internet. And then we'll have fake conversations about the dead internet.
+
+=== ID: 2SdpzTZTznw ===
+TITLE: What are the risks and ethics of facial recognition tech? | Public Interest Technology
+DESC: How do we ensure that facial recognition technology is developed responsibly and ethically?  Risk Bites dives into the rather serious risks and ethical problems presented by face recognition. Because this such an important issue, we can only scratch the surface in 4 minutes – so please do check out the links and resources below!  As you may have noticed, we’re also experimenting with using a black glass dry erase board (it’s another consequence of coronavirus, where I’m filming from my home offi
+KEYWORD: AI facial recognition
+VIEWS: 21048
+TRANSCRIPT: For some time now, we've had
+apps that can learn to recognize your face,
+and unlock your phone. Or pick you out in a photo. But what happens when this same technology
+is used to pick you out in a crowd, or track your movements, or even make a judgement call
+on what str of person you are? Facial recognition is attracting more and more
+attention for its potential downsides, and for good reason. No-one likes a technology that
+potentially threatens what's important to them, including their safety, their autonomy,
+and even their liberty. But navigating the risks and ethics of
+facial recognition can be tricky. For instance, facial recognition tech that can
+benefit you as an individual would seem to make sense. Unlocking your phone, say, or proving you are, indeed, who
+you say you are. But what if the tech only works for some
+people, and not for others? If your face doesn't fit the tech,
+would that be fair? Especially if we get to the point where your face
+becomes your passport To purchasing groceries,
+boarding planes, or even voting! OK, so this doesn't sound so good. But what if we eventually have apps that
+use facial recognition to tell us when we're getting
+sick for instance, or when we're mentally
+run down, or even when we need to
+seek help from others? This could be a really boon for helping us
+stay healthy and well. Unless, of course, you only get advice
+you can trust if you have the right skin color, or just the right facial features. Challenges like this can be overcome if 
+[...middle cut...]
+like this also come
+with some really large questions around who has the right to analyze you
+without your consent, especially if they then use the information
+for their benefit ... ... not yours. And it opens the door to social manipulation where your face becomes the key
+to somebody else's success. The bottom line here
+is that while there are many potential benefits
+to facial recognition, there are also a lot of ethical
+hurdles to overcome if the tech is to be developed
+and used responsibly. And here, we should all have a say
+In how the technology's used and how it is not! For more information on the risks and
+ethics of facial recognition, do check the blurb below. And as always, stay safe.
+
+=== ID: JI4n6LTYB6M ===
+TITLE: When AI Gets an Innocent Man Arrested… Then This Happens
+DESC: ai false arrest, facial recognition mistake, innocent man arrested, ai gets it wrong, police body cam footage, false identification case, wrongful arrest caught on camera, technology failure ai, ai bias and errors, police rely on ai, mistaken identity arrest, surveillance technology gone wrong, casino trespassing arrest, public freakout police, law enforcement bodycam, viral police encounter, shocking arrest footage, reacting to police videos, real consequences ai mistake, crazy moments caught o
+KEYWORD: AI facial recognition
+VIEWS: 298
+TRANSCRIPT: when AI gets an innocent man arrested. So, uh very very peculiar. Peppermill has this pretty sophisticated uh artificial intelligence software. Apparently not sophisticated enough that analyzes faces of previous trespassers and they did a 100% match to whenever they trespassed him before presented an ID that had a different name. They look like the same exact guy. I am not Mike. I don't know nothing about Mike. So either he is who he says he is and he's not have ever actually trespassed, which I doubt because their software is pretty cool and the fact that he's acting super suspicious. I'll be 100% honest. It could legitimately be. You have a doppelganger running around. Well, unless I've gone crazy, I'm pretty sure it's not me. Nightmare becomes reality at a Reno, Nevada casino when AI facial recognition technology misidentifies someone leading to a wrongful arrest and lands an innocent man behind. I don't really know the percentages, but I've had to correct chat GPT many times. I'll ask chat GPT about like certain things about pool. I love playing pool and it'll tell me something. I'm like, "Wait a minute, you're wrong on this." And then chat GPT will like, "Oh, thank you for correcting me." 5 minutes later, I ask it another question. And I'm like, "Wait a minute. You're also wrong on this." Oh, well, thanks again for correcting. Like, yo, you get a you get a lot of [ __ ] wrong. It's like, I thought you were like, you're supposed to be good at this [ __ ] You're supposed t
+[...middle cut...]
+was diagnosed with a strain of both the right and left shoulder and contusions on both wrists. On July 30th, 2025, Jason filed a complaint in federal court against Reno police officer Richard Jagger. While at the jail and after his identity had been confirmed, his arrest papers were changed from John Doe to Jason Killinger. The federal complaint states that this meant Jason would be prosecuted for trespassing, even though Michael had been the only one who was trespassed. According to the complaint, Jason's charge of trespassing was eventually dismissed. However, he now has a criminal record. He's got a criminal record now, even though none of this was his fault. Unbelievable. [music] [music]
+
+=== ID: nwRB9NTx6IU ===
+TITLE: Police release Tennessee grandmother after AI facial recognition led to her arrest
+DESC: A Tennessee grandmother is demanding justice after spending months in jail. She says she was wrongfully arrested after an AI facial recognition tool falsely linked her to bank fraud. NBC News’ Kathy Park reports on the details of the arrest.   For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com  » Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC » Subscribe to Here's the Scoop podcast: https://www.nbcnews.com/heres-the-scoop-dai
+KEYWORD: AI facial recognition
+VIEWS: 353868
+TRANSCRIPT: FA 
+ KA 
+ >> 
+ GR 
+ AF 
+ WR 
+ AF 
+ HE 
+ AN 
+ BA 
+ TE 
+ FE 
+ AR 
+ TH 
+ AN 
+ DE 
+ IN 
+ FR 
+ A 
+ MI 
+ TH 
+ SO 
+ WA 
+ OR 
+ IN 
+ TE 
+ PO 
+ FE 
+ >> 
+ SY 
+ ID 
+ TH 
+ TO 
+ AS 
+ AL 
+ PH 
+ >> 
+ BE 
+ AR 
+ SP 
+ AN 
+ BA 
+ IN 
+ >> 
+ A 
+ EX 
+ DI 
+ AN 
+ QU 
+ TO 
+ AB 
+ MO 
+ >> 
+ AG 
+ HO 
+ >> 
+ AT 
+ WI 
+ OF 
+ YO 
+ BE 
+ PR 
+ HO 
+ TH 
+ >> 
+ TE 
+ DO 
+ DR 
+ AR 
+ TH 
+ PO 
+ FA 
+ TH 
+ OV 
+ >> 
+ WH 
+ MA 
+ SU 
+ >> 
+ MI 
+ >> 
+ KA 
+ TH 
+ AN 
+ AU 
+ >> 
+ AR 
+ CI 
+ LA 
+ ST 
+ BU 
+ A 
+ MO 
+ JU 
+ HE 
+ HE 
+ FU 
+ HE
+
+=== ID: 9mtza1evsRw ===
+TITLE: New A.I. face recognition tool
+DESC: 
+KEYWORD: AI facial recognition
+VIEWS: 128
+TRANSCRIPT: all right a new site is hoping to raise awareness into how a fraction of your online pictures are being used it's mydaily.com all right how many pictures do you post online moms dads friends and teachers we're constantly sharing a part of ourselves online and that's especially true in this pandemic it's just one way to keep in touch but did you ever think that when you're posting pictures of yourself or friends and family online that they can be used to develop facial recognition systems to identify individuals offline now training a facial recognition system to identify people requires a slew of photos of faces and those photos are often gathered from the internet it's usually impossible to figure out if the images you've uploaded are among them but this site is helping with that exposing ai lets you see whether a picture you posted has been used to advance artificial intelligence to use the site just type in your flickr username the url of a specific flickr photo or hashtag like wedding or birthday to find out if whether your pictures are included if so exposing ai will show you a thumbnail of each exposing ai examines just a smidgen of the facial data that's in use it's really just the tip of the iceberg i mean think about all the places that you're posting your precious picks [Music] facial recognition is increasingly moving out of the labs and into the domain of big business staking their future on ai not to mention facial recognition software is being used more and more by police at airports and even on smart phones and doorbells
+
+=== ID: nT_PXjLol_8 ===
+TITLE: Facial recognition technology will change the way we live
+DESC: Facial recognition technology will transform the way we live in 2018. Machines that can read and recognise our faces will go mainstream, opening up exciting possibilities and posing new dangers  Click here to subscribe to The Economist on YouTube: http://econ.trib.al/rWl91R7   In 2018 machines that can read your face will go mainstream, changing the way we live. Your face will become your password, unlocking smartphones and bank accounts, but the technology will also have the power to covertly t
+KEYWORD: AI facial recognition
+VIEWS: 270954
+TRANSCRIPT: in 2018 machines that can read your face will go mainstream changing the way we live your face will become your password unlocking smartphones and bank accounts face recognition 2018 will change our lives but the technology will also have the power to covertly track your movements moving into a world where machines can follow you around and characterising based only on your face is worrying because it potentially limits your freedom he will even be able to guess your sexuality through facial features alone in 2018 we'll be forced to face the future the human face has an astonishing variety of features which not only help us recognize others but read and understand them through a constant flow of intentional and unintentional signals it's one of the unique functions that separates man from machine until now 2018 is going to be a landmark year for face recognition because there has been a huge amount of progress in the underlying technology known machine learning and what that allows you to do is pull a very accurate face print out of a photograph that uniquely identifies a person pioneering facial recognition technology hasn't yet hit the mainstream in 2018 it will be in our pockets facial recognition is going to go mainstream in 2018 largely because the latest iPhone has face recognition technology built into it you look at it and it recognizes you by next year there'll be millions of those devices out in the world and they're gonna get used to unlocking our phone then we're 
+[...middle cut...]
+ with face recognition they won't actually know necessarily it'll be through security services it'll be through shops that are profiling you and that's with the more worrying side of it but tech companies are forging ahead with their plans to make facial recognition and everyday part of our lives you cannot stop progress and the fear of privacy the advantages of security of business information are far greater than some privacy this technology is a new kind of power and the only way we have of dealing with technologies currently is to make regulations that repress bad uses and allow for the perceived good uses 2018 will be a year or we start to work out what some of those are [Music] you you
+
+=== ID: aeXIgKuX_zY ===
+TITLE: Flock & Ring
+DESC: This video discusses Amazon sidewalk, Ring, Flock, their involvement in surveillance, and cooperation with law enforcement. In a few days, Ring will enable facial recognition on their doorbell cameras.  JOIN THE DISCORD! 👉 https://discord.gg/WYqqp7DXbm  0:00 – Overview 0:49 - Amazon sidewalk 5:23 – Ring + Flock partnership  Sources: https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage https://www.flocksafety.com/blog/flock-safety-and-ring-partner-to-help-neighborhoods-wor
+KEYWORD: AI facial recognition
+VIEWS: 681446
+TRANSCRIPT: In 2014, a startup called IoT Era launched a Kickstarter campaign selling GPS trackers that didn't require an internet or cellular connection and had no monthly fees. They were actually trying to sell these trackers in order to build a crowdsourced mesh [music] network. In 2017, they got acquired by Ring and then in 2018, Ring got acquired by Amazon. [music] In 2021, Amazon launched their own mesh-like network called Amazon Sidewalk. At the same time, Amazon partnered with the smart tech company Tile. And of course, what's really making the headlines is that just last month, Ring partnered with Flock Safety, putting all of this information into the hands of law enforcement. [music] Not to mention, next month, just a few days after this video comes out, Ring plans to roll out facial recognition to all Ring doorbell cameras. Let's start with Amazon Sidewalk. This is a free-touse shared network offered by Amazon comprised of Bluetooth low energy for short distance communication and Laura and other radio protocols for longer distance communication. After launching Amazon Sidewalk, Amazon partnered with Tile, the Smart Tag company, announcing that Tile Smart Tags will be joining the Amazon Sidewalk Network. This seems to be one of their first ways to legitimize the Sidewalk Network while also getting to compete with Apple Air Tags. Fast forward to the present day and over 90% of the people inside the United States live within an Amazon Sidewalk covered area. The more people that j
+[...middle cut...]
+ll through a few years ago. We already know that you can still be tracked if you have your phone in your pocket, even if you turn off your location, thanks to Wi-Fi probing, Bluetooth beacons, and plenty of other techniques. Of course, there's ways to get around this, but with the rise of networks like Amazon Sidewalk, Ring, Flock, and other AI powered surveillance networks that use things like your face and license plate instead of something strictly digital, [music] surveillance resistance might get a lot more difficult going forward. If you made it this far, you might be interested in subscribing to the channel and checking out some of my other content. And as always, thanks for watching.
+
+=== ID: yKAdEwts2Q4 ===
+TITLE: Controversial facial recognition tool admittedly used by Toronto police
+DESC: The Toronto Police Service has admitted to using a controversial facial recognition app from Clearview AI, without the knowledge of Chief Mark Saunders, who halted the activity on Feb. 5. As Jeff Semple explains, the revelation comes after the department initially denied using the technology.  For more info, please go to https://globalnews.ca/news/6547256/toronto-police-service-confirms-some-members-tested-clearview-ais-controversial-facial-recognition-tool/ Subscribe to Global News Channel HER
+KEYWORD: AI facial recognition
+VIEWS: 14682
+TRANSCRIPT: the Toronto Police Service has made a disturbing admission officers use secret facial recognition technology from Clearview AI to dig up sensitive personal information based on nothing more than photos they were ordered to stop using the controversial tool last week but just last month the police denied using it at all Jeff's simple reports I'm appalled that this check is being used that reaction from Ontario's former privacy commissioner after Toronto police admitted to using facial recognition technology from clear view AI the company's app can cross-reference a person's image against a database of billions of photographs scraped from social media and millions of other websites without consent the American firm CEO defends his tech on constitutional grounds but there is also a First Amendment right to public information clear view AI sparked controversy last month in the United States after the New York Times revealed the tech was already being used to make arrests following those revelations Global News asked Toronto police whether Clearview AI software it was being used here the answer not anymore in a statement a spokesperson said that some members of the service began using Clearview AI in October with the intent of informally testing this new and evolving technology the chief directed that its use be halted immediately upon his awareness and the order to cease using the product was given on February 5th in other words the tech was used for months without the police chi
+[...middle cut...]
+e from an unnamed Canadian detective stable calling Clearview hands down the best thing that has happened to victim identification in ten years within a week and a half we made eight identifications of either victims or offenders this is the technology that snuck in through the cracks in our regulations through the cracks in our laws some of the world's biggest tech companies are now demanding the clear view AI stop using their social media platforms a number of class-action lawsuits have also popped up and the Toronto Police say that they will now work with Ontario's privacy commissioner to determine whether the software is an appropriate tool for investigations Robin Jeff sample in Toronto
+
+=== ID: 119qaiu1GcQ ===
+TITLE: Federal Study Finds Racial And Gender Bias In Facial Recognition Algorithms | NBC News NOW
+DESC: A new study from the Department of Commerce says that facial recognition technology may have more trouble recognizing people of color and women. NBC News’ investigates the potential downfalls of this new technology. » Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC » Watch more NBC video: http://bit.ly/MoreNBCNews  NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNB
+KEYWORD: AI facial recognition
+VIEWS: 7644
+TRANSCRIPT: INTELLIGENCE TO DEMONSTRATE JUST HOW THIS TECH WORKS AND ITS HOW THIS TECH WORKS AND ITS POTENTIAL DOWNFALLS. POTENTIAL DOWNFALLS. >> TODAY WE’RE IN A MIXED >> TODAY WE’RE IN A MIXED REALITY STUDIO TO GET THE BIG REALITY STUDIO TO GET THE BIG PICTURE ON FACIAL RECOGNITION. PICTURE ON FACIAL RECOGNITION. WHEN AN ARTIFICIALLY INTELLIGENT WHEN AN ARTIFICIALLY INTELLIGENT COMPUTER RECOGNIZES A FACE, TELL COMPUTER RECOGNIZES A FACE, TELL US WHAT IT RECOGNIZES. US WHAT IT RECOGNIZES. >> IT RECOGNIZES OPEN FACE. >> IT RECOGNIZES OPEN FACE. IT NEEDS TO FIND OUT IF THERE’S IT NEEDS TO FIND OUT IF THERE’S A FACE IN THE PHOTO. A FACE IN THE PHOTO. IT DOES THAT BY LOOKING FOR 68 IT DOES THAT BY LOOKING FOR 68 DIFFERENT FACIAL LANDMARKS THAT DIFFERENT FACIAL LANDMARKS THAT TYPICALLY REPRESENT WHAT WE TYPICALLY REPRESENT WHAT WE WOULD THINK OF AS VISIBLE HUMAN WOULD THINK OF AS VISIBLE HUMAN FACE. FACE. WITHIN THOSE 68 DIFFERENT WITHIN THOSE 68 DIFFERENT GROUPINGS WE’RE LOOKING FOR GROUPINGS WE’RE LOOKING FOR EDGES OR GRADIENTS. EDGES OR GRADIENTS. THE EDGES TYPICALLY REPRESENT A THE EDGES TYPICALLY REPRESENT A GROUP OF PIXELS THAT’S THE SAME GROUP OF PIXELS THAT’S THE SAME COLOR OR SHIFTS FROM A DARKER COLOR OR SHIFTS FROM A DARKER COLOR TO A LIGHTER ONE. COLOR TO A LIGHTER ONE. IN THE OPEN FACE THERE’S IN THE OPEN FACE THERE’S TYPICALLY EIGHT DIFFERENT TYPICALLY EIGHT DIFFERENT LANDMARKS THAT REPRESENT A HUMAN LANDMARKS THAT REPRESENT A HUMAN EYE AND MANY OTHER COMPRISE AN EYE AND MANY O
+[...middle cut...]
+OUT IN SOME CASES WE’RE FINDING OUT LAW ENFORCEMENT AND FEDERAL LAW ENFORCEMENT AND FEDERAL AGENCIES HAVE BEEN USING IT FOR AGENCIES HAVE BEEN USING IT FOR SOME TIME WITHOUT OUR KNOWLEDGE SOME TIME WITHOUT OUR KNOWLEDGE OR CONSENT. OR CONSENT. A LOT OF CASES WE’RE FINDING OUT A LOT OF CASES WE’RE FINDING OUT THIS TECHNOLOGY DOESN’T WORK AS THIS TECHNOLOGY DOESN’T WORK AS AS WELL ON PEOPLE OF COLOR OR AS WELL ON PEOPLE OF COLOR OR WOMEN OR, YOU KNOW, GENDER FLUID WOMEN OR, YOU KNOW, GENDER FLUID OR NONBINARY PEOPLE. OR NONBINARY PEOPLE. SO, THIS IS IMPORTANT NOW FOR US SO, THIS IS IMPORTANT NOW FOR US TO TAKE A MOMENT TO UNDERSTAND TO TAKE A MOMENT TO UNDERSTAND FULLY EXACTLY WHAT WE WANT OUR
+
+=== ID: L8FEu0WrirA ===
+TITLE: Edmonton police test body cameras with AI facial recognition
+DESC: Edmonton police will deploy body cameras equipped with AI facial recognition this December, a Canadian first to test the technology for the U.S. company Axon Enterprise.  #police #news #tech  The National is the flagship of CBC News, showcasing award-winning journalism from across Canada and around the world. Led by Chief Correspondent Adrienne Arsenault, our team of trusted reporters helps you make sense of the world, wherever you are.  Subscribe to get the latest news daily, and watch live sta
+KEYWORD: AI facial recognition
+VIEWS: 1813
+TRANSCRIPT: Edmonton police trying out brand new artificial intelligence in the fight against crime. If this technology can help us identify some of the suspects in our database who are wanted for serious criminal warrants, we want to explore that as an option. Body cameras with facial recognition will be deployed on the streets through December. A Canadian first to test the technology for the US company Axon Enterprises. We have done a lot of lab-based testing and simulated testing, but this will be our infield testing opportunity to make sure that the um results that we have had um match what we would see in the field. Phases captured by the body cameras will be compared with mug shots in a database of people wanted on warrants for major crimes. Any matches will be verified by humans, but during the pilot project, officers on the streets won't be told. Not too long. Alberta's information and privacy commissioner is raising concerns. There are a number of issues with facial recognition technology, particularly around accuracy. And as you can appreciate, if you are involved with the police, if there is a mismatch with a person of interest with your face, it's going to have an immediate and serious impact on you. Well, I don't know why Canadians should be the guinea pigs for an experiment like this. One professor says the cameras were meant as an accountability tool for police. Now we're seeing the cameras being turned around essentially on on us and being pitched this uh technology that would essentially turn officers into mobile surveillance units. Edonians are conflicted. Anything that can make their job safer and easier for them, I'm I support. It could seem a little invasive. How reliable is it? You know, how many false hits will they get? Up to 50 officers will wear the cameras until the end of the month. Then police will decide the next steps. Julia Wong, CBC News, Edmonton. [Music]
+
+=== ID: B9M4F_U1eEw ===
+TITLE: When AI Gets an Innocent Man Arrested
+DESC: In today's body camera video, we're covering the arrest of Jason Killinger.  We are a news agency dedicated to delivering factual reporting on criminal investigations, public safety, and law enforcement procedures.  This video is a documentary intended to inform and educate viewers about real events of public concern.  It was produced for journalistic and educational purposes, and is presented in the public interest.
+KEYWORD: AI facial recognition
+VIEWS: 3649309
+TRANSCRIPT: So, uh, very very peculiar. Peppermill has this pretty sophisticated, uh, artificial intelligence software that analyzes faces of previous trespassers. And they did a 100% match on this guy who whenever they trespassed him before presented an ID that had a different name. They look like the same exact guy. I am not Mike. I don't know nothing about Mike. So either he is who he says he is and he's not have ever actually trespassed, which I doubt because their software is pretty cool and the fact that he's acting super suspicious. I'll be 100% honest. It could legitimately be. You have a doppelganger running around. Well, unless I've gone crazy, I'm pretty sure it's not me. Nightmare becomes reality at a Reno, Nevada casino when AI facial recognition technology misidentifies someone, leading to a wrongful arrest and lands an innocent man behind bars. What the What the What the get his ID then? Why do I even carry that mother? The following is based on official police records and the footage has never been seen before until now. Please note that all persons charged with a crime are presumed innocent unless and until proven guilty in a court of law. On September 17th, 2023, the Peppermill Casino calls the Reno Police Department to report that a trespasser has unlawfully returned to the casino. They report that they have the man in custody, but he's claiming to go by an entirely different name than the man they've previously trespassed. Officer Richard Jagger arrives at the casino 
+[...middle cut...]
+'s charge of trespassing was eventually dismissed. However, he now has a criminal record. According to the complaint, facial recognition technology has led to wrongful arrests in Louisiana, New Jersey, Maryland, and Texas. Many cities now conclude that for an arrest, there has to be some kind of secondary corroborating evidence that is unrelated before there can be sufficient justification to arrest. Jason Killinger's case remains ongoing. If you'd like to see select new videos early and help us keep uncovering case files that rarely come to light, you'll find extra footage and unseen details on our Patreon. Channel memberships here on YouTube also includes early access to select new videos.
+
+=== ID: Jel5QVl4w7A ===
+TITLE: You train an AI facial recognition model at any cost
+DESC: We must keep mining, but at what cost? ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ //PLAY THE GAME//https://store.steampowered.com/app/2276980/FACEMINER/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ //SUGGEST A GAME// https://forms.gle/x8mNqE6azwbiGWU89 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Subscribe: https://www.youtube.com/channel/UCPjlbo-qmnCUko8glJyCuBA?sub_confirmation=1 Join this channel to get access to perks: https://www.youtube.com/channel/UCPjlbo-qmnCUko8glJyCuBA/join ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ // S
+KEYWORD: AI facial recognition
+VIEWS: 802
+TRANSCRIPT: gretings and welcome to a game called face Miner in this game we are working for a company that wants to up its profits in addition to improve its AI facial recognition software so we are going to be picking faces out of data sets and there ends up being a little bit of a dystopian twist in there the time frame is $ 1999 as you can probably tell from the computer interface that we are staring at right now and I hope you guys are ready minor OS let's do this so I always start let's start with uh documents because I have a feeling face Miner is going to open up the actual application jobl listing document embracing the digital Frontier we are an industry leader in sophisticated biometric data acquisition seeking highly proficient individuals to join our cohort of data management professionals principal duties and responsibilities acquire catalog and systemize extensive biometric data sets facilitate transactions transferring curated data to our Elite clientele reinvest Financial returns in the augmentation of our Premier data Center infrastructures administer optimal utilization and distribution of data center resources maintain flexibility and adaptability and a rapidly evolving digital environment essential qualification Superior organizational aptitude unwavering commitment to professional ethics and confidentiality capability to function effectively with limited oversight compensation and benefits a remuneration package to uh commensurate with experience incluses a performa
+[...middle cut...]
+d do really was choose whether or not to spend the money that we were earning in one way or another and I think that probably could have resulted in something different although I don't know if it would have had a different ending completely or if we would have just gotten a different Run Cycle evaluation for ourselves personally and the role that we played in getting to this point so I don't know it's interesting um if you guys would like to check out the game yourself it's always Linked In the description but I think on that note I'm going to say for well friends thank you so much for being here remember we're not alone out there and I'll see you guys in another video so until then bye-bye
+
+=== ID: WVThvqh7ixY ===
+TITLE: Man suing for wrongful arrest after police used facial recognition technology to help identify him
+DESC: More police departments across the U.S. are using the technology, but there aren’t well established national guidelines on how it should be used. 60 Minutes reports, Sunday.  "60 Minutes" is the most successful television broadcast in history. Offering hard-hitting investigative reports, interviews, feature segments and profiles of people in the news, the broadcast began in 1968 and is still a hit, over 50 seasons later, regularly making Nielsen's Top 10.  Subscribe to the “60 Minutes” YouTube c
+KEYWORD: AI facial recognition
+VIEWS: 68710
+TRANSCRIPT: right can i see what we're looking at the cop 
+gets a piece of paper and it says there you go   tell me larseny on it i'm like bro i didn't 
+steal nothing i'm like y'all got the wrong   person williams who's 43 and now recovering from a 
+stroke was handcuffed in front of his wife melissa   and their two daughters we thought it was maybe a 
+mistaken identity like did someone use his name he   was brought to this detention center and locked in 
+a cell overnight police believe williams was this   man in the red hat recorded in a detroit store 
+in 2018 stealing 3 800 worth of watches when   detroit detectives finally questioned williams 
+more than 12 hours after his arrest they showed   him some photos including from the store security 
+camera so he turns over the paper and he's like   so that's not you and i looked at it picked 
+it up and held it up to my face and i said   i hope y'all don't think all black people 
+look alike at this point i'm upset like bro   why am i even here he's like so 
+i guess the computer got it wrong   the police officer said the computer got 
+it wrong yeah the computer got it wrong
+
+=== ID: yd_j2D5jezU ===
+TITLE: Top Artificial Intelligence Fails in Image and Facial Recognition
+DESC: Lots of smartphones, tablets, and other gadgets have facial and image recognition technologies built-in. However, they are not always foolproof. We have assembled a list of some of the biggest image and facial recognition fails across industries.  Check out our list to find out what went wrong.  The full article read here: https://skywell.software/blog/top-artificial-intelligence-fails/ To learn more about Computer Vision services visit our website: https://skywell.software/computer-vision-servi
+KEYWORD: AI facial recognition
+VIEWS: 280
+TRANSCRIPT: 
+
+=== ID: FHouMqy1gVI ===
+TITLE: A.I. facial recognition error causes grandmother to be jailed for 3 months, lawyer says
+DESC: A Tennessee woman said she ended up in a North Dakota jail for two months because of a facial recognition software error.  Now a lawsuit may be in the works.  U.S. Marshals showed up at Angela Lipps' house in Carter County in July of last year. The 50-year-old grandmother of five learned she was accused of a crime in North Dakota, a state she'd never even visited.  Read more: https://wcti12.com/news/nation-world/tennessee-grandma-mistakenly-sent-to-north-dakota-jail-due-to-ai-error-attorney-says
+KEYWORD: AI facial recognition
+VIEWS: 704
+TRANSCRIPT: happened. We have not yet received their initial report. >> A Carter County woman says she ended up in North Dakota jail for two months because of a facial recognition software error. >> Now, a lawsuit may be in the works. News Five's Rebecca Pepin gives us a timeline of events. >> U.S. marshals showed up to Angela Lip's house in Carter County in July of last year. The 50 year old grandmother of five learned she was accused of a crime in North Dakota, a state she'd never even visited. >> But as best I can tell, her face was selected by an AI program and an officer reviewed her social media and deemed her a sufficient fit, and that caused an arrest warrant to be issued for her. >> According to court documents, Fargo police were investigating a bank fraud case where someone had used a fake U.S. military ID to take out thousands of dollars between April and May of 2025. Lips attorney says it appears AI software that examines surveillance video flagged lips as a possible suspect. >> It appeared that officers had information that Miss Lips was from out of state and had no connection to the area. I haven't seen any information suggesting to officers that she was ever in the area or took part in these activities. >> Arrest reports show lips was taken into custody in North Dakota at the end of October, then finally released at the end of December. >> She had exculpatory evidence readily available and easily accessible. She was able to provide that to her attorney. I don't know the de
+[...middle cut...]
+vil rights lawsuit. >> I just want to highlight that this is a, you know, potentially very troubling circumstance. What we have here is a person who had no connection to North Dakota, did not engage in any conduct that made her a criminal suspect and merely because a computer, you know, selected her photo, among others, she was dragged halfway across the country and criminally charged. >> Rice adds. He hopes this case serves as a reminder to other police departments across the country. >> And it just highlights the need for law enforcement to, you know, be thorough and complete in their investigations to make sure that people are not improperly subject to detention and charging when they hav
+
+=== ID: mzBmBGD5NaM ===
+TITLE: AI facial recognition tech has a dark side, as Rite Aid case shows
+DESC: Artificial intelligence facial recognition technology is used at airports, grocery stores, stadiums and entertainment venues. People even use it to unlock their smartphones several times a day. However, computers don’t always get things right.  The biometric face-scanning technology is growing in popularity among private businesses. However, what happens when proper safety measures are not put in place?  Full story: https://san.com/cc/ai-facial-recognition-tech-has-a-dark-side-as-rite-aid-case-s
+KEYWORD: AI facial recognition
+VIEWS: 752
+TRANSCRIPT: [Music] it's used at airports grocery stores stadiums even entertainment venues I'm talking about facial recognition technology and what happens when computers get it wrong it's called the express Access program and basically it's like a FastPass if you go to Cedar Point just go right up to the line it's free and all you need is the old money maker right here you may even use it to unlock your smartphone several times a day the biometric face scanning technology is growing popularity among private businesses but what happens when proper safety measures aren't put in place this week the Federal Trade Commission cracked down on Pharmacy chain Right Aid banning the retail store from using AI facial recognition for the next 5 years in a federal complaint the FTC accused R Aid of using the tech without warning customers and said the system sparked false positive alerts flagging customers as matching someone who had previously been identified as a shoplifter prompting Right Aid employees to follow customers around the store search them ask them to leave or even call the police all while the customer had not engaged in any type of criminal activity back in February Porsche woodriff was 8 months pregnant and getting her two children ready for school one morning in Detroit when she says the cops knocked on her door and said she was under arrest for a carjacking it was a crime she did not commit and it all started Ed with an automated facial recognition search that mistakenly matched v
+[...middle cut...]
+ some food or beer during halftime First Energy field in Cleveland Ohio city field in NYC and the Rose Bowl in Pasadena California have all implemented some form of facial recognition technology at dozens of airports clear the private security screening company plans to unveil the tech at its screening checkpoints in 2024 the Transportation Security also announced it would Implement AI facial recognition privacy Advocates and critics of AI facial recognition technology have warned regulation on the tech is limited and that your personal information could end up in the wrong hands proponents of the rising AI software argue facial recognition helps companies achieve a safe and secure operation
+
+=== ID: uGeRTmDdqUI ===
+TITLE: US police forces using controversial facial recognition technology - BBC News
+DESC: Controversial facial recognition firm, Clearview AI says it now has 30 billion images, scraped from platforms such as Facebook, taken without users' permissions.  It claims its technology is being used by hundreds of police forces in the US.  The company has repeatedly been fined millions of dollars in Europe and Australia for breaches of privacy.  Critics argue that the use of Clearview by law enforcement puts everyone into a "perpetual police line-up" – and that the technology doesn’t always w
+KEYWORD: AI facial recognition
+VIEWS: 168399
+TRANSCRIPT: in March 2017 Andrew Conlin got into a friend's car a few minutes later they smashed into this tree yeah what would the car would have been against here right yes if it wasn't for facial recognition technology Andrew May well be in prison right now I think we made it about a mile and a half into a three mile trip Andrew is in the front passenger seat his friend is driving and he was probably hitting 80 90. I mean I was saying you know slow down but it was falling on deaf ears I don't think he responded at all that basically reached the conclusion that somebody was going to die that night the car has hit a tree the drive that was thrown into bushes nearby he died from his injuries I'm very fortunate to have walked away from that wreck one of the first people on the scene pulled Andrew out of the car he told the police what happened did anybody see what happened any of you guys see what happens that's not the driver no he was the passenger despite the man's testimony the police suspect Andrew was in fact the driver there was no way that that's the passenger the passenger side of that vehicle was all smashed in there's no way the pastor survived them that's the driver after telling the police what happened the man left the scene without making a formal statement we know where this person is that pulled them out because we really know that's what we're trying to find after relent the investigation the police concluded that Andrew had been the driver he was charged with vehicular 
+[...middle cut...]
+r but even though facial recognition technology worked in this case they're both still torn by the technology writing that was a pretty grainy footage and they still you know within a matter of I believe it was actually seconds from when they uploaded the image or however that worked to having other photos of you um and then from those photos finding your friend and ultimately you was not a big reach I can acknowledge the usefulness while still saying that's really creepy it is I know facial recognition can help in policing it can also be abused and it can get things wrong it's up to lawmakers to strike a balance between the battle for justice and our right to privacy [Music] foreign foreign
+
+=== ID: js4bGGoYhM8 ===
+TITLE: How To Understand Clearview AI Facial Recognition Technology | Capabilities & Risks
+DESC: This video provides a comprehensive guide on understanding Clearview AI's facial recognition technology. Learn about its core functionalities, how it collects and processes data, its primary applications, and the significant privacy and ethical risks associated with its use. Get a clear overview of what Clearview AI is and its implications. #ClearviewAI #FacialRecognition #AIDataPrivacy #TechTutorial #EthicalAI
+KEYWORD: AI facial recognition
+VIEWS: 288
+TRANSCRIPT: In this video, we're giving an honest review of Clear View AI, a facial recognition technology company that has raised major privacy and ethical concerns. Founded in 2017, Clear View AI created a tool that collects publicly available images from the internet to identify individuals, primarily marketed to law enforcement agencies. The company claims its technology has helped solve numerous criminal cases. Clear view AI offers advanced facial recognition with high accuracy and has been used by law enforcement to identify suspects. However, the company has faced criticism for scraping billions of images without consent, resulting in privacy concerns and multiple legal challenges. Notably, it was fined €30.5 million by the Dutch Data Protection Authority. And in the US, it reached a class action settlement valued up to $51.75 million. Ethical concerns include lack of consent and the potential misuse of the technology for unauthorized surveillance, doxing, or suppression of free speech. While Clear View AI provides powerful tools for identification, its practices highlight serious risks to personal privacy and civil liberties. Overall, Clearview AI is a technologically advanced platform, but users and organizations should carefully consider the privacy, legal, and ethical implications before engaging with it. If this review helped, make sure to like and subscribe for more honest tech and privacy insights.
+
+=== ID: S3SXqQUJEZ0 ===
+TITLE: 4 Investigates: Police use of AI facial recognition
+DESC: Most of us want dangerous criminals off our streets but at what cost? Would you volunteer your photo for a police lineup? What about your personal information?  Turns out, you don’t have much of a choice.   Story: https://www.kob.com/new-mexico/4-investigates-police-use-of-ai-facial-recognition/  - Watch KOB 4: https://www.KOB.com/live - Subscribe to KOB 4: https://www.youtube.com/@KOB4?sub_confirmation=1 - Visit KOB.com: https://www.KOB.com/ - Download the KOB 4 app: https://www.KOB.com/apps/ -
+KEYWORD: AI facial recognition
+VIEWS: 4074
+TRANSCRIPT: BE 
+ 4- 
+ AF 
+ MO 
+ CR 
+ BU 
+ WO 
+ FO 
+ WH 
+ IN 
+ YO 
+ .. 
+ BR 
+ DO 
+ WE 
+ CR 
+ AC 
+ SO 
+ FR 
+ BU 
+ ON 
+ TR 
+ "w 
+ ju 
+ be 
+ AR 
+ TU 
+ SO 
+ PI 
+ IT 
+ IN 
+ AN 
+ CA 
+ HE 
+ CE 
+ OF 
+ PO 
+ "w 
+ it 
+ ot 
+ so 
+ AP 
+ LO 
+ AC 
+ CL 
+ OF 
+ PI 
+ EX 
+ TE 
+ AR 
+ HE 
+ IN 
+ CL 
+ TO 
+ PH 
+ "y 
+ wh 
+ in 
+ or 
+ co 
+ yo 
+ yo 
+ be 
+ th 
+ "s 
+ su 
+ so 
+ TH 
+ DA 
+ TH 
+ MA 
+ "t 
+ ev 
+ th 
+ "I 
+ do 
+ se 
+ id 
+ pe 
+ mi 
+ in 
+ pa 
+ pe 
+ co 
+ UN 
+ RA 
+ WR 
+ TH 
+ th 
+ sp 
+ pe 
+ fo 
+ we 
+ st 
+ ' 
+ th 
+ pa 
+ ge 
+ Lo 
+ je 
+ "d 
+ "w 
+ wh 
+ co 
+ ou 
+ th 
+ ca 
+ ou 
+ ad 
+ me 
+ AL 
+ RU 
+ TE 
+ TH 
+ LI 
+ 75 
+ FO 
+ WE 
+ CH 
+ PA 
+ YE 
+ "w 
+ ki 
+ bo 
+ co 
+ ac 
+ be 
+ da 
+ AS 
+ SY 
+ CO 
+ SE 
+ TH 
+ WH 
+ TH 
+ FO 
+ MU 
+ "t 
+ le 
+ be 
+ up 
+ ah 
+ CR 
+ KO 
+ MA 
+ .. 
+ QU 
+ TO 
+ IN 
+ PO 
+ OT 
+ AL 
+ BE 
+ IM 
+ CO 
+ "t 
+ in 
+ no 
+ ma 
+ cl 
+ of 
+ IN 
+ 49 
+ OT 
+ CL 
+ PE 
+ CO 
+ "w 
+ to 
+ fa 
+ "d 
+ so 
+ id 
+ "y 
+ ha 
+ lo 
+ te 
+ de 
+ ca 
+ pi 
+ WH 
+ LE 
+ "w 
+ wa 
+ po 
+ st 
+ no 
+ "t 
+ te 
+ en 
+ ce 
+ mo 
+ do 
+ as 
+ co 
+ TH 
+ SU 
+ PR 
+ "t 
+ em 
+ ba 
+ "w 
+ te 
+ bo 
+ RI
+
+=== ID: U2KUjv7lY_U ===
+TITLE: TN grandmother wrongfully arrested after false AI facial recognition
+DESC: A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota, a state she says she'd never been to before.  (Credit: NBC)  Subscribe to WRAL: https://youtube.com/c/wral5  Download the WRAL App: https://www.wral.com/download-wral-apps/5787234/
+KEYWORD: AI facial recognition
+VIEWS: 744
+TRANSCRIPT: Fargo Police Chief David Sabolski publicly acknowledged investigative errors Tuesday in the case of Angela Lips, a Tennessee grandmother jailed for 5 months after an AI system flagged her as a fraud suspect. Sabolski says the error started with West Fargo police who ran a photo from a fake ID through their own AI system, Clear View AI, which they've used since 2020. our partner agency over at West Fargo purchased their own AI facial recognition system that we were not aware of at the executive level anyway. Um, and we would not have allowed that to be used and it has since been prohibited. That information was passed to Fargo detectives who Zabolski says wrongly assumed West Fargo had also submitted surveillance photos to the state certified facial recognition hub, the North Dakota State and Local Intelligence Center. West Fargo Police Chief Pete Nielsen disputes that and held his own press conference after Fargo PD's to address the discrepancy. Did you guys submit those photos to to ND Slick? We did and they had the same con uh conclusion as our um intelligence unit that they believe that it was possibly Miss Lips. West Fargo never charged Lips, saying the evidence wasn't there. Neielson also acknowledged the two departments should have addressed the public together. We're here now to explain our side, which we should have probably been there together to do it. On March 20th, Zabolski issued a temporary directive setting new limits on how facial recognition can be used going forward. We will no longer be sending or utilizing information received from West Fargo's AI system because simply it's their own system. We don't know how it's run or how it's overseen. When asked why he had not directly apologized to lips, Zabolski said the investigation is active.
+
+=== ID: 7xpd6FwKtfg ===
+TITLE: Bounty hunters detain wrong man after using AI facial recognition software
+DESC: The bounty hunters allegedly kidnapped a man with a similar name to a wanted criminal.
+KEYWORD: AI facial recognition
+VIEWS: 455
+TRANSCRIPT: And is AI to blame for two bounty hunters now charged with kidnapping after grabbing the wrong man? Richardson police say those bounty hunters used a flash bang and stormed a home to catch a man who was not the capital murder suspect they were looking for when they tried to turn that man in. Police say the bounty hunters claimed they'd used artificial intelligence, facial recognition and gotten a false match for a man with a similar name.
+
+=== ID: Bxpx8izG5nA ===
+TITLE: Facial Recognition Software Under Fire After Misidentification Causes Wrongful Arrest | NBC News NOW
+DESC: NBC News’ Jacob Ward reports on the fallout of a wrongful arrest of a Michigan man due to misidentification from facial recognition software.  » Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC » Watch more NBC video: http://bit.ly/MoreNBCNews  NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existin
+KEYWORD: AI facial recognition
+VIEWS: 55242
+TRANSCRIPT: police departments nationwide are under a microscope this summer and now a piece of technology that some departments use is also coming under fire that's facial recognition NBC News technology correspondent Jacob ward joins me now and Jake you spoke to a man who was wrongly arrested because of facial recognition technology what happened to him Alison it's an incredible story this is perhaps the first known instance in which someone has been arrested because of facial recognition and in this case something that Ben I'm sorry when I say first known I mean first known to have been wrongly arrested using facial recognition Robert Williams who lives just outside Detroit basically came home and was put under arrest on his you know front stoop in front of his two young daughters in front of his wife simply because Detroit Police Department had used facial recognition to pick him out from a an instance in which someone had shoplifted watches from a downtown boutique he described to us what it was like to then see just how wrong they had gotten it once he was had spent the night in jail an innocent man spending the night in jail being presented with what turned out to be a couple of blurry photographs and then a picture of his driver's license listen to what he said about what it's like to look at such inaccurate evidence I looked at the paper and and it honestly made me chuckle I sit say no that's not me so I picked that one up sarcastically and put it to my face and I said I hope yo
+[...middle cut...]
+onditions but the manner of death is undetermined in that autopsy report abrasions were were noted in that autopsy report as part of the restraint over that course of that 12 to 14 minutes and that's sort of where the question mark goes as to what happens to those three officers from here yeah Vaughn we've just been looking at images and you see a father a son it's really just heartbreaking Vaughn Hilliard thanks so much for your reporting thanks my friend hey NBC News fans thanks for checking out our YouTube channel subscribe by clicking on that button down here and click on any of the videos over here to watch the latest interviews show highlights and digital exclusives thanks for watching
+
+=== ID: Dc-fMxaRKd8 ===
+TITLE: Can Clearview AI's Facial Recognition Find You?
+DESC: Become a Patron! http://www.patreon.com/everydAI  Twitter -  http://twitter.com/jordanbharrod Facebook - http://www.facebook.com/jordanbharrod Instagram - http://www.instagram.com/jordanbharrod  Thank you to Kasia, Jeff, Gerald, Milan, Ian, Becky, Jino, Daniel, Narskogr, Jason, and Mariano for being $5+/month Patrons!  Jordan Harrod hosts a YouTube channel focused on highlighting the ways we interact with artificial intelligence every day.   Sources:   Initial Reporting on Clearview AI from NYTi
+KEYWORD: AI facial recognition
+VIEWS: 4980
+TRANSCRIPT: have you seen every picture of yourself in the age of social media more of us are online than ever before we post pictures of ourselves and pictures of each other all the time but what about the pictures you didn't post the ones that aren't on your social media profiles the ones that you don't remember taking have you seen them Clearview AI has and they're using these photos to help their clients learn everything about you in my video on surveillance one of the things that Kade Crawford and I talked about is the increasing ease with which it's possible to track people as they move from one place to another some of these systems are opt-in like apps like find my friend and the location feature on Snapchat but others are built into our world unavoidable and often unnoticed it's normal one of the applications of these surveillance systems is another AI system we've discussed facial recognition with a network of cameras and enough training data to create a good algorithm you could identify anyone on this Street whether they happen to be walking out of a Starbucks on their way to work or running from the scene of a crime this system is what Clearview AI has been selling to more than 600 law enforcement agencies and a few private companies for the last year in selling this product to law enforcement from local police precincts to the FBI and Department of Homeland Security Clearview AI claims to aim to exonerate the innocent identify victims of child sexual abuse and other crimes a
+[...middle cut...]
+ot selling to private companies and that leads down a dark path of selling this to the public which is not a great idea the company is currently against selling this product to the public but we'll see what happens what do you think do you think that Clearview AI system could find you let me know in the comments if you like this video you can let me know by Smashing that like button and subscribing to my channel you can also support me on patreon where you get behind the scenes looks at my PhD life and what goes into video production otherwise you can now find me on every platform under my human name if you'd like to follow my day-to-day PhD Antics and I will see you guys in the next one bye
+
+=== ID: oaW2nOGUHoA ===
+TITLE: China Deepfake Consent Rules Shift AI Avatar Compliance | CaraComp Biometric News Daily
+DESC: China’s new AI avatar draft rules make one missing consent record a major deepfake risk.  00:00 — China’s draft AI avatar rules shift enforcement toward proving explicit consent, with fines of 10,000 to 200,000 yuan and ongoing deletion duties if consent is withdrawn. 00:45 — Employee interest in biometrics is rising, but governance is lagging as employers collect biometric data faster than policies, notice, and retention controls are keeping up. 01:30 — In healthcare, continuous biometric ident
+KEYWORD: AI facial recognition
+VIEWS: 4
+TRANSCRIPT: An elderly mother fooled by her dead son's face. 67% of your co-workers scanned without knowing the hospital hallway where your identity disappears. Here's what happened. An elderly woman in China saw her deceased son speak to her on screen. She believed it, at least for a moment. The video hit 90 million views on Weibo. That single clip pushed Beijing to rewrite the rules. China's new draft regulations don't ask whether an AI avatar looks real. They ask whether the real person said yes. For anyone whose face has ever been online, that's a bigger shift than it sounds. According to biometric update, the draft classifies your face and voice as sensitive personal information, requiring explicit standalone consent before any avatar can be built from them. The deep fake problem just stopped being about detection. It became about paperwork. From Beijing to your office badge, the consent question is spreading fast. Someone swiped into their office this morning using their face. They didn't sign anything. They didn't read a policy. They just showed up, looked at a camera, and the door opened. Twothirds of US employers now collect biometric data from workers. But fewer than one in four employees knows it's happening. That's not adoption. That's a lawsuit waiting for a plaintiff. According to MCNE Wallace and URI, Illinois law finds companies up to $5,000 per violation. One case already settled for $650 million. No hack, no breach, just missing consent forms and a nine-figure check. Co
+[...middle cut...]
+is racing to fix it. Healthcare biometrics is projected to grow from $9 billion to 42 billion by 2030. For patients, it means fewer wrong charts, wrong meds, wrong rooms. According to biometric update, facial recognition confidence can drop 30 to 40% at just a 30deree head turn. Barely a glance. A single check is a snapshot. Continuous verification is a promise. Three stories, one thread. In China, consent decides if an avatar is legal. In offices, consent decides if a scan is a lawsuit. In hospitals, continuous checks decide if you get the right care. Identity isn't a moment anymore. It's a chain. Links to every story in today's podcast, Deep Dives, are in the description. See you tomorrow.
+
+=== ID: BZjWFg6GGPE ===
+TITLE: AI Facial Recognition Caused a Wrongful Arrest…
+DESC: AI facial recognition is already being used in law enforcement, but it’s not perfect. This case shows how a wrongful arrest can happen when AI makes a probabilistic mistake instead of a definitive identification.  This episode is brought to you by DaaS (Developers as a Service). If you want to work with us on a project or hire your first or next developer, go here: https://workwithdaas.com  Book a call and we will walk you through it.  00:00 The wrongful arrest case explained 00:30 What happened
+KEYWORD: AI facial recognition
+VIEWS: 6
+TRANSCRIPT: as a as a upstanding citizen, you're like, "Oh, I don't have a problem with it. I'm not doing anything wrong." You know, I'm going by the rules and stuff like that. And bam, you get smacked with this random thing that you didn't do two, three states away and like had no idea of up first actually with essentially like all of the AI deep fake and video and everything like that. You know, obviously there's going to come the day where like this stuff comes out in court cases and and everything like that. So, there was apparently a wrongful arrest. You know the lady's name? Yeah. Angela Lips. Five months in jail. Five months in jail after. And she's a grandma in Tennessee, guys. That is crazy. Yeah. So, this is crazy. So, a little bit more on what happened with this. Basically, if you ever watch police videos like I I'm not afraid to admit I do like on social media sometimes I'll get in a doom scroll and I'll get a bunch of police body cam video, you know, recordings coming up or whatever. But one thing that was super interesting to me is that in some places they are now starting to use facial recognition software to get your identity when you're not complying. So, it was really hard to get people to do obviously blood samples. it's really hard even to do a a thumb print sometimes if their hands are really messed up or you know whatever. And so now they've basically said the safest way to be able to identify somebody with AI is you know using facial recognition AI and facial recog
+[...middle cut...]
+ around how this stuff should be treated. Yeah. And it's crazy when you think about it like as a as a upstanding citizen you're like oh I don't have a problem with it. I'm not doing anything wrong, you know, I'm going by the rules and stuff like that or so I think. And then bam, you get smacked with this like random thing that you didn't do two, three states away and like had no idea of. I mean, yeah, it's crazy. Hey, David Mel here, your host from SAS podcast. And if you enjoyed this video, go ahead and check out some of our other clips right here. And you can go ahead and see one of our other episodes or even clips from this same episode from SAS with DAS podcast. We'll see you on the next
+
+=== ID: HaGQ8d5edPs ===
+TITLE: Community members react to approval of Aurora police's AI facial recognition tool
+DESC: Police in Aurora have been approved to use a new AI tool for facial recognition, and community members are worried. FOX31's Gabrielle Franklin asked residents to weigh in.  » Subscribe to FOX31 on YouTube: https://bit.ly/2PntEm4​ » Watch more FOX31 videos: https://bit.ly/3vIWTjd​  Visit our homepage: https://kdvr.com​​ Download the FOX31 App: https://kdvr.com/apps​​ Subscribe to our newsletters: https://kdvr.com/newsletters​ FOX31 on Facebook: https://facebook.com/fox31denver​ FOX31 on Twitter: 
+KEYWORD: AI facial recognition
+VIEWS: 835
+TRANSCRIPT: 807, 9, 9, SAFE.  >> MEANWHILE, WE'RE POLICE  WILL SOON HAVE A NEW TOOL AT  THEIR CITY COUNCILMEMBERS PASS  AN ORDINANCE JUST LAST NIGHT  ALLOWING THE CITY'S POLICE  DEPARTMENT TO USE ARTIFICIAL  INTELLIGENCE FOR FACIAL  RECOGNITION. FOX 31 POLITICAL  REPORTER GABRIEL FRANKLIN  JOINS US LIVE NOW. AND  GABRIEL. SOME COMMITTEE  MEMBERS ARE VOICING SOME  CONCERNS ABOUT THIS NEW  TECHNOLOGY. RIGHT? TELL YOU,  SOME CITY COUNCIL MEMBERS SAY  THAT THIS NEW TECHNOLOGY WILL  HELP POLICE IDENTIFY SUSPECTS  WHILE SOME COMMUNITY MEMBERS  WORRY.  >> THAT SOME INNOCENT PEOPLE  COULD GET CAUGHT IN THE  CROSSHAIRS.  >> THE MOTION PASSES 5, YES  VOTES, 2, NO VOTES FROM  COUNCILMEMBER COMES  COUNCILMEMBER MEDINA AND THEN  WITH 3 COUNCIL MEMBERS ABSENT  OR CITY COUNCIL MEMBERS  APPROVED A MEASURE ALLOWING  CITY POLICE TO USE AI FACIAL  RECOGNITION SOFTWARE TO  PRODUCE TIPS AND LEADS.  >> POLICE SAY THEY PLAN TO USE  THE TECHNOLOGY TO FIND  SUSPECTS AND FOLLOW UP ON  TIPS, NOT FOR ARREST OR  IMMIGRATION ENFORCEMENT. SOME  COMMUNITY MEMBERS ARE  CONCERNED TO PACKAGE THIS NEW  AI SYSTEM AS IF IT'S GOING TO  PROTECT THOSE THAT IT IS  SUPPOSED TO SERVE. WE'RE NOT  BUYING THAT. WE ARE NOT BUYING  THAT. THIS IS GOING TO BE AN  ACCELERATOR.  >> TO THE DISCRIMINATORY  PRACTICES THAT WERE ALREADY  SEEN. THIS IS NOT GOING TO ALL  OF A SUDDEN BE USED TO ENSURE  THAT PEOPLE THAT ARE NOT  INVOLVED ARE GUILTY OF A CRIME  ARE PROTECTED. THIS ACTUALLY  IS DOING THE OPPOSITE  >> ARE STILL UNDER A CONSENT  DECREE AND SOME COMMUNITY  MEMBERS THINK BACK TO POLICE  INVOLVED IN INCIDENTS LIKE THE  DEATH OF ELIJAH MCCLAIN OR  THIS 2020 INCIDENT OF A FAMILY  BEING PULLED OVER AND PLACED  IN HANDCUFFS AFTER POLICE  MISTAKENLY IDENTIFIED THEIR  CAR IN CONNECTION TO A CRIME.  SUPPORTERS OF THE CHANGE  BELIEVE THE NEW TECH WILL  LESSEN THOSE INCIDENTS. WE  REALLY NEED TO REBUILD THIS  TRUST.  >> I AM HOPING THAT THIS IS A  TOOL THAT WILL DO THAT SO THAT  WE AREN'T PULLING THE WRONG  PEOPLE OUT OF VEHICLES AND  ARTS INCORRECTLY IDENTIFYING  PEOPLE. I THAT IS WHAT I TRULY  BELIEVE. THIS IS GOING TO BE  ABOUT. IF I FEEL AT ANY POINT  THAT THAT IS NOT THE AND AND  THIS IS SOME S
+
+=== ID: 1sSdTpkJh1o ===
+TITLE: Tech companies pause, end AI facial recognition contracts with police
+DESC: Amazon, IBM and Microsoft all announced plans to pause or end selling facial recognition software to law enforcement. Amazon and Microsoft say they’re hoping for legislative guidance when it comes to selling facial recognition software. But, why did they stop now? Will these temporary holds change the future of the AI facial recognition market? Juliet dives into AI facial recognition software flaws, how IBM continues to work with police and the the privacy issue facial recognition has in the EU.
+KEYWORD: AI facial recognition
+VIEWS: 547
+TRANSCRIPT: Huge players in AI facial recognition
+technology have pulled out of or at least paused contracts with police
+departments following worldwide protests condemning police brutality and racist
+policing how was effect the technology going forward stick around hey everyone
+welcome back to today in tech I'm Juliet Beauchamp Amazon IBM and Microsoft have
+all announced plans to take a step back from the AI facial-recognition business
+IBM is exiting the business altogether saying in a letter to Congress it no
+longer offers its general purpose facial recognition software and it also says
+that it opposes the use of AI for surveillance racial profiling and other
+violations of privacy Amazon and Microsoft took less sweeping action with
+each company pausing the sale of its respective software's to police Amazon
+is putting a one-year hold on the sale of its recognition software to police
+while Microsoft is waiting on legislative guidance before selling its
+software to law enforcement there's a whole slew of reasons for this first
+tech companies are under pressure to take decisive action and respond to the
+killings of George Floyd and Brianna Taylor by police officers second facial
+recognition software has long had a racial bias problem last year the ACLU
+ran a test using Amazon's recognition software of the software's false matches
+40% were people of color if used by law enforcement that means that people of
+color could be falsely identified as suspects at high rates and third law
+makers and
+[...middle cut...]
+the EU if you're interested in learning more about AI
+facial recognition tools check out our recent video link below it dives deeper
+into how exactly it works as well as more on the privacy concerns and I want
+to hear from you do you think the use of AI facial recognition tools by police is
+justified what kind of laws would you like to see in place before companies
+start to offer these tools again let me know in the comments below thanks so
+much for watching this episode of today in tech if you liked this video be sure
+to give it a thumbs up and subscribe to our channel and hit the notification
+bell in the corner so you can be alerted every time that we post a new video see
+you next time you
+
+=== ID: Xv_dG74gSQ8 ===
+TITLE: How to find out if facial recognition is being used where you shop
+DESC: AI is watching. It sounds like something from a sci-fi movie: http://tinyurl.com/3tvd6m99 #ai #facial #shopping  _______________ Stay up to date with our social media:  WKRC on Facebook: https://www.facebook.com/WKRCTV/ WKRC on Twitter: https://twitter.com/Local12 WKRC on Instagram: https://www.instagram.com/local12wkrc/?hl=en WKRC on TikTok: https://www.tiktok.com/@local12wkrc?lang=en  Subscribe to WKRC on YouTube: https://www.youtube.com/channel/UC673WfesrYoCgG9VsekGlEQ/?sub_confirmation=1  Fo
+KEYWORD: AI facial recognition
+VIEWS: 2892
+TRANSCRIPT: AI is watching sounds like something from a sci-fi movie or perhaps one hit wonder Rockwell in 1984 but if you go to some big chain stores you may be under the watchful eye of artificial intelligence and not even know it here to talk about what it means for you what it means for your privacy is our buddy our friend Tech expert Dave Hatter is here Dave first of all did you get the Rockwell reference I did Bob I was just going to comment on how much I appreciate that being an old guy you know and if I could sing I would I would hum a little tune for you a little bit of it for you but it's true someone does always seem to be watching us now and with facial recognition that just takes it to a new level yeah and and some of these big chain stores and I didn't quite realize this they had already in some cases started implementing these things and the FTC said hey don't don't do that what's what's going on yeah so this this came up because there's a website out there called banf facial recognition.com I encourage people to check it out again it's banf facial recognition.com and there are folks concerned about facial recognition that's shouldn't be a surprise to people there have been a lot of concerns with facial recognition not only from the security of the data but it's got a lot of bias and it's had a lot of problems you've seen governments use it and then stop using it because of the bias so I'm not saying there won't come a time where it won't ever be useful but at the moment i
+[...middle cut...]
+that would allow you to avoid this kind of issue and again I I can tell you there's no chance that if I know a store is doing this I will shop in that store and and I think you know as a consumer you just got to make your voice clear and vote with your checkbook yeah the technology is certainly not going to slow down we're seeing that just about everywhere right now Dave as always we appreciate your time buddy go listen to some Rockwell pleas my pleasure Bob happy New Year and I'm going to listen to some Rockwell day in your honor I appreciate that very much thanks for checking out local 12's YouTube channel click the links and hit subscribe so you can be notified anytime we post new stories
+
+=== ID: 2ntlaBB0phw ===
+TITLE: Smile, you're on camera: Facial recognition becomes widespread in London • FRANCE 24 English
+DESC: With CCTV cameras on almost every street corner, London is the European capital with the most video surveillance, and facial recognition is becoming increasingly prevalent. According to London's Metropolitan Police, this tool allows them to be more efficient in making arrests. But locals are divided on its implications for their privacy. Our France 2 colleagues report, with FRANCE 24's Florent Marchais. #London #CCTV #facialrecognition  Read more about this story in our article: https://f24.my/B
+KEYWORD: AI facial recognition
+VIEWS: 42549
+TRANSCRIPT: In London, riding the tube or waiting at a crosswalk can trigger invisible surveillance checks. Cameras in the city can scan faces and instantly [music] connect to a police database. Here, facial recognition is not a science fiction fantasy. It's become an everyday tool for cracking down on crime. We were able to observe law enforcement officers in action. This red van equipped with cameras is parked next to a busy pedestrian street. Inside, the sergeant coordinating the operation must remain anonymous for security reasons. The system every time it goes and puts a box around somebody's head, it's doing a comparison against the watch list. You've got 16 and a half thousand people on the watch list today. How many people are you able to scan at the same time? It can do hundreds in a minute. So, we've done this at large scale events such as football fixtures where you've got uh the game finishes. So, you think you got 60,000 seat stadium. Outside, police officers are equipped with special phones that alert them if a suspect is detected. You click on the person walking through, then you'll get obviously a better image of them, what they're wearing, etc. We conducted a test by temporarily entering my face into the database of wanted individuals. As I walk down the street, the system recognizes me within a few seconds. An alert is sent to the police. In just 1 hour, the technology allows them to apprehend five people. Some suspects have arrest warrants placed on them, while others 
+[...middle cut...]
+ else, then that's less random. So probably less discriminatory, maybe better. For now, the use of facial recognition is poorly regulated in the United Kingdom. NOS's are calling for more safeguards and denounce a lack of transparency from the police. Technology. You could have people on these watch lists who potentially could be a witness to a crime or might know somebody who might be wanted. Children as young as 12 have been added to these watch lists. Again, the police have not been able to tell us why. London is already the most heavily surveiled capital in Europe. But most of its hundreds of thousands of cameras in public spaces are too subpar to allow for widespread facial recognition.
+
+=== ID: XJ6u1KxM3WY ===
+TITLE: Tennessee woman says she was wrongfully jailed in North Dakota due to AI facial recognition error
+DESC: A Tennessee grandmother said she was wrongfully arrested and jailed in a bank fraud case after an error with facial recognition software.  Angela Lipps, 50, claims she spent nearly six months in jail after U.S. Marshals arrested her at her home in July 2025 as a fugitive from North Dakota. Lipps says she had never been to the state before.  "I've never been to North Dakota. I don't know anyone from North Dakota,” Lipps told WDAY News. "It was so scary. I can still see it in my head, over and ove
+KEYWORD: AI facial recognition
+VIEWS: 2222
+TRANSCRIPT: made more than 7000 arrests. [MUSIC] A Tennessee grandmother says a mistake with facial recognition led to her arrest. She says that she was wrongfully jailed in a bank fraud case. 50 year old Angela Lipps says that she spent nearly six months in jail. U.S. marshals arrested her in July 2025. She was accused of being a fugitive from North Dakota. Lipps said that she never even been to North Dakota. After she was taken there, she hired a lawyer. S S S S S S S ao prove that she was not in the state when the fraud happened. But Lipps
+
+=== ID: BBKmUrppsBM ===
+TITLE: Is facial recognition technology 'racist'?
+DESC: Alvi Choudhury was wrongfully arrested for a crime he did not commit after facial recognition technology linked him to a burglary a hundred miles away - in a city he'd never visited.   Warnings by human rights organisations have repeatedly been raised about the bias of automated facial recognition technology, according to a recent Home Office report.  Asian subjects like Alvi are 100 times more likely to be misidentified than their white counterparts.  Black subjects are 137 times more likely to
+KEYWORD: AI facial recognition
+VIEWS: 4404
+TRANSCRIPT: Now, [music] 26-year-old Alvie Trout, this is an incredible story, by the way, was wrongfully arrested for a crime he did not commit. And this happened after facial recognition technology linked him to a burglary 100 miles away in a city that he never visited. Now, warnings by human rights organizations have repeatedly pointed to stuff like this. They've said that the bias of automated facial recognition technology, this is according to a recent Home Office report, is skewed. Asian subjects like Alvie here, are, get this, 100 times more likely to be misidentified than is a white counterpart. Black subjects are 137 times more likely to be misidentified. And black women are 247 times more likely to be misidentified by facial recognition technology. Well, Alvie Chowry, who's the person that this all happened to, joins us now alongside uh Ako Hart, director of the human rights organization Liberty. Alvi, before we get into what's gone wrong, talk us through your experience because it must have been horrific. Yeah, it was um very shocking. So the way it started, I was working remotely this day and I was working. I was speaking to a client. I hear a knock on the door and then I go downstairs. I open the door and I see two police officers and they were actually leaving and I opened the door and I said hello officers with a smile on my face saying I'm not in trouble, am I? As a joke. And then all of a sudden it's Alvie, right? And I was like yes. And I was like has anything happened?
+[...middle cut...]
+o see um is some proper legislation in place. Well, look, um a home office spokesperson told this program, "Retrospective facial recognition underos constant improvement and review, and a new national facial matching system is under development with an improved independently tested algorithm." Um, so they in a sense they're saying that they're listening to this and they are addressing it and we will await results. I just hope that never happens to you again. Thank you so much for coming in and talking to us about it. And they sort of picked on the wrong person because you're a tech expert and uh you were in the wrong place, weren't you at the right time. So good to speak to you this morning.
+
+=== ID: Pqdg9PRbng4 ===
+TITLE: #Cleveland Police use AI facial recognition and it backfires
+DESC: Facial Recognition Backfires on Police in Ohio Murder Case. https://gizmodo.com/police-use-of-facial-recognition-backfires-in-murder-case-2000555901  If you would like to support my cause in keeping law enforcement accountable through copwatching, you may support me financially here by donating to my cash app. Donations are strictly voluntary, and used only for the means to keep law enforcement accountable and transparent in the course of their duties.  https://cash.app/$SocialinformMedia
+KEYWORD: AI facial recognition
+VIEWS: 132
+TRANSCRIPT: one day somebody does something unspeakable to someone else to someone you hardly knew and you do something about it because you can from gizmodo.com Cleveland Ohio police may have botched their chances of convicting an alleged murderer by using the controversial clear viw AI facial recognition tool as the sole evidence justifying a search of the suspect's home in February of last year the department arrested Kon tobert and charged him with the murder of Blake story who was shot twice in the back after leaving a blood plasma donation center now investigators honed in on Tober after they sent a CCTV video of a suspect to the Northeast Ohio Regional Fusion Center a group that pools the surveillance capabilities of local state and federal agencies and received an identification of the man in the video according to court records based on the identification Cleveland PD obtained a search warrant for tolbert's home where officers allegedly recovered a firearm and other evidence but a kyoga County Judge Koga County Judge ruled earlier this month that none of that evidence is admissible at trial the Cleveland plane dealer was the first to report report the ruling tolbert's attorneys argued that Cleveland P's vague account of receiving an identification from the fusion Center left out a crucial fact the only evidence pointing to Tolbert was a report from Clear viiew AI which explicitly said in disclaimer at the bottom that the results are to be treated as investigative leads and shoul
+[...middle cut...]
+they get this CCTV closed circuit TV of this guy walking you know and they go that's him look we put it on AI and it came back yeah because AI artificial intelligence is perfect yes I've tried a couple different AI things with pictures and it never comes up with what exactly you want it comes up with its version of what you want So based on that um so they take that match from Ai and they go we got the guy we got the guy even though there's that thing at the bottom that you know cops can't read very well sometimes it says don't use this as sole evidence to make an arrest use it you know with supporting evidence so what did they do they submit it as sole evidence good old Cleveland PD [Music]
+
+=== ID: OFOiY0sm2ws ===
+TITLE: Clearview AI violated Canadian privacy law with facial recognition: report
+DESC: Canadian privacy commissioners have found that American technology company Clearview AI violated Canadian law when it collected images of people without their knowledge or consent.   Watch The National live on YouTube Sunday-Friday at 9 p.m. ET  Subscribe to The National:  https://www.youtube.com/user/CBCTheNational?sub_confirmation=1  Connect with The National online: Facebook | https://www.facebook.com/thenational Twitter | https://twitter.com/CBCTheNational Instagram | https://www.instagram.c
+KEYWORD: AI facial recognition
+VIEWS: 17030
+TRANSCRIPT: I'll show you a demo right now. [Reporter] With one click and just 
+a short wait Clearview AI's founder once showed 
+how easy it is to identify almost anyone. His app, providing pictures of individuals without their consent. It's really our belief that the upside
+ completely outweighs the downside [Reporter] Canadian privacy authorities pointedly disagree labelling Clearview AI a tool of mass surveillance. They are still collecting information 
+from all over the internet including the images of Canadians. [Reporter] Clearview scraped more than 3 billion images from social media and other public web pages building facial recognition technology ostensibly meant for criminal investigations pretty much every canadian can expect to be in this database so millions of Canadians profiles and images [Reporter] U.S. law enforcement is 
+said to be using Clearview to help identify attackers at last month's 
+Capitol Hill riot. Here in Canada, privacy authorities found 
+48 clients had used the technology. They include police from Vancouver 
+to Toronto and Halifax plus the RCMP. Even the Rexall pharmacy chain admitted last year 
+an employee tried out the app to identify shoplifters. It's quite clear now that if another company wants 
+to engage in the same kind of behaviour that they're in violation of Canadian privacy laws. [Reporter] Yuan Stevens got Clearview 
+to provide images it had collected of her It makes me wonder what they can do with my data. I'm also afraid of discrimination. I'm not white. I'm a person who -- I could potentially be misidentified as a criminal. Clearview pulled out of Canada last summer. Now the federal privacy commissioner acknowledges 
+he has little leverage to punish the U.S.-based firm and no ability to fine Clearview even when newly introduced privacy legislation comes into effect. Thomas Daigle, CBC News, Toronto
+
+=== ID: MEtuHLfStA4 ===
+TITLE: AI, facial recognition, and what consumers should know about data collection
+DESC: A data privacy expert spoke with FOX 5 NY's Meredith Gorman about how AI and facial recognition are being used in stores, schools and other public spaces to collect and analyze data. The conversation outlines how this technology works, who may control the data and the current legal landscape.
+KEYWORD: AI facial recognition
+VIEWS: 2518
+TRANSCRIPT: But you know one subject that's been a major topic of conversation not only around the office but um in day-to-day life amongst people is how much AI is collecting data from all of us. Um whether it's knowingly or unknowingly. It almost feels like we are living in a state of surveillance sometimes and we're learning about different stores like Wegman's grocery stores um that are using AI to track people and use facial recognition and and things like that which has really created a sense of unease among amongst certain people. Um I actually have a data privacy expert joining me right now. This is Harry Moggins and he is very well-versed on this entire AI world. First of all, thanks for joining me. Absolutely. Thank you for having me. But you know, we talk about AI being used to track people inside stores and and whatnot. When this is happening, what is the data that's actually uh being collected? So it's facial recognition and they're using it to tie to some kind of identity point. So most of the data sources behind these facial recognition and tracking systems usually keys to either your your email address, your phone number, your home address, usually coupled with your last name or some kind of other PII or personally identifiable information. And then from that they can append all kinds of other data like your browsing history, your shopping history and a lot of other intelligence that they can use to do what they want to do. Track you, sell you more stuff, whatever their o
+[...middle cut...]
+ker or bad guy. Wow. Well, crazy times we are living and again this situation with the surveillance and facial recognition data at Wegman's, one of the things that really brought this to the forefront of the public's attention in the past couple of weeks. I know it's caught a lot of people by surprise, but Harry, thank you so much for coming on and giving your um expertise on this data privacy situation because it is very fascinating and I think a lot of people don't really maybe quite understand just the gist of how much information about them is being collected in their day-today lives. So, thanks so much for coming back. It's terrifying. Absolutely. Thank you for having me. Appreciate it.
+
+=== ID: WpR8yuAuBhU ===
+TITLE: Hong Kong To Install Surveillance Cameras Armed With AI Facial Recognition | WION
+DESC: Hong Kong To Install Surveillance Cameras Armed With AI Facial Recognition  #artificialintelligence #fraud #wion   About Channel:   WION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan 
+KEYWORD: AI facial recognition
+VIEWS: 655
+TRANSCRIPT: Well, it looks like that big brother is set to descend upon Hong Kong as citizens in the island will now be under the watchful gaze of tens of thousands of surveillance cameras armed with AI powered facial recognition. Now, Hong Kong security chief stated that artificial intelligence will be used to monitor individuals such as tracking a criminal suspect. The security chief did not mention a timeline on the official rollout of the latest initiative while adding that they are still considering issues like resource allocation and the choice of technology. Hong Kong has already deployed artificial intelligence to monitor crowds and read license plates. According to government records, the financial hub has around 4,000 closed circuit television or CCTV installed under a police crime fighting program. This figure is set to go up by 10fold to a total of 60,000 by 2028. Further reports claim that Hong Kong officials will start using AI face recognition by the end of this year. Law enforcement authorities have said that the initiative is needed to safeguard national security and to prevent and detect crimes. The Hong Kong police have also lorded the use of CCTV cameras, which they claim has helped them in arresting over 700 suspects and solving 400 cases since 2024. As Hong Kong heightens its surveillance on its citizens, experts argue that the latest move could grant an unchecked power to the government that could lead to an invasion of privacy. They also raised concerns over false matches leading to wrongful arrests. [Music]
+
+=== ID: N9ri1lSJHZM ===
+TITLE: 🔍🚫 AI Face Recognition Bias #Privacy #Bias #ai #technology #video #crypto #technology PART 1
+DESC: 🔍🚫 AI Face Recognition Bias #Privacy #Bias #ai #technology #video #crypto #technology PART 1  Hey everyone, welcome back to our channel! 🌟 Today, we’re diving into a critical and controversial topic - AI Face Recognition Bias. 🔍🚫 As facial recognition technology becomes more widespread, concerns about privacy and bias are growing. Let’s explore some notable instances of AI face recognition bias, their impact on privacy and civil rights, and potential strategies to mitigate these issues. Make sur
+KEYWORD: AI facial recognition
+VIEWS: 8
+TRANSCRIPT: the rise of facial recognition unveiling a powerful tool from unlocking our smartphones to verifying identities at airports this technology has seamlessly woven its way into our daily routines initially confined to science fiction facial recognition is now a powerful tool used by governments and corporations alike its proponents point to its potential to enhance security streamline processes and even personalize our experiences indeed facial recognition has proven Adept at tasks like identifying individuals in crowded spaces or verifying identities for financial transactions from law enforcement agencies to social media platforms facial recognition is Transforming Our interactions however beneath this progress lies a more disconcerting reality while its benefits are undeniable it is crucial to address the inherent biases and privacy risks this technology poses one of the most pressing concerns surrounding facial recognition technology is its susceptibility to bias Studies have shown higher error rates when identifying individuals with darker skin tones particularly women this disparity can be attributed to the data sets used to train these algorithms this bias is not merely a technical glitch it has real world consequences for instance a study found that facial recognition algorithms were significantly more likely to misidentify black and Asian faces compared to White faces the lack of diversity within the teams developing these algorithms further exacerbates the problem this systemic issue requires a concerted effort from tech companies and policy makers to [Music] address the consequences of facial recognition errors can be devastating ranging from inconvenience to wrongful arrest in 20120 Robert Williams a black man from Detroit was wrongfully arrested based on an inaccurate facial recog match Williams spent 30 hours in police custody enduring the humiliation and Trauma of being wrongfully accused this
+
+=== ID: OxBRws_99kg ===
+TITLE: Clearview AI Facial Recognition Fallout, Hacked and Helpless, Is AI Armageddon Upon Us?
+DESC: Clearview AI provided police with 30 billion scraped images from Facebook, raising concerns over privacy and the potential misuse of facial recognition technology.  A victim of a phone hack shares their story of how their credit card was stolen, highlighting the vulnerability of personal information and the chain of events that happen when someone's identity is stolen.  Our discussion about an open letter calling for the regulation of AI development due to potential dangers and misuse has become
+KEYWORD: AI facial recognition
+VIEWS: 163
+TRANSCRIPT: [Music] thank you welcome to episode 272 of shared security and this week I am pleased to announce both co-hosts are back and both together again both Sidekicks Scott Wright and Kevin Johnson oh man it's amazing it's amazing I'm glad you two got back together well you've worked through your differences you've gone through counseling and the relationship is so important we may even meet again we might we might even meet next week maybe I'm hoping so I really am I just uh the majority of the trip is not my trip and that's the question is will we be doing like awkward hugs or something I don't know no I'm not chasing the street that's his thing either way I want pictures yeah wait we gotta have pictures of that so yeah do you want us to photoshop you into them could I could Photoshop myself in maybe yeah or I could use AI to do it you know well we have of course as always some great stories for everyone this week or some mediocre stories that were or ones that like last week that just make Kevin angry and he gets to Rance I don't feel about angry last week I feel like I just you got expressed a lot of emotion a lot of emotion that's a good yes a good way to say it yeah so why don't we start with Clearview AI scraping 30 billion images from Facebook and then gave them to law enforcement I see nothing wrong with this there's no uh no constitutional issue with uh my God people you're something that gets me okay so before I go off on this because you're right I somehow I'm thinking 
+[...middle cut...]
+at's the Hope um and then we can you know add myself in there somehow virtually we'll get there yeah we'll make it uh it's kind of like one of those long-running Series where you know they're gonna get together and then once they do it just sucks right yeah wow I'm looking forward to this being over yeah well till next time uh thanks everyone for listening and we'll talk to you again next week thanks for watching if you enjoyed this episode and you'd like to help support the podcast hit that like And subscribe button to catch all the latest from the show visit our website sharedsecurity.net follow us on Twitter at shared sac and join our Reddit community on the shared security show subreddit
+
+=== ID: He8-DkJnXik ===
+TITLE: Wrong Guy: Florida suspect misidentified by AI facial recognition technology, arrested
+DESC: A Lee County man was wrongfully arrested last year after AI facial recognition technology used by the Jacksonville Sheriff’s Office got it wrong. Experts are now warning about the potential dangers of the technology. READ MORE: https://tinyurl.com/yolj5h7j ---------------------- Sign up to our daily newsletter: https://membercenter.actionnewsjax.com/sign-in  SUBSCRIBE: https://www.youtube.com/channel/UC5mg__JG9m5lypJUZbcWTOw?sub_confirmation=1  ABOUT ACTION NEWS JAX: Action News Jax is your home
+KEYWORD: AI facial recognition
+VIEWS: 57622
+TRANSCRIPT: A Florida man says he was wrongfully arrested after local police used AI facial recognition technology. What is going on? We're going to go to the car real quick and we're going to talk to Jacksonville sent them to get me. In an Action News Jack's investigation, Logan McDonald dug through this case of misidentification and spoke to experts about the potential risk as local police use AI to solve crimes. God, this is nuts. I don't I wouldn't know what to tell you, G. Not It's not our investigation. It's all Jacksonville. This is 51-year-old Robert Dylan, the Lee County man, who was arrested last year after the Jacksonville Beach Police Department said he allegedly tried luring a 12-year-old child in Jacksonville Beach back in November of 2023. The only problem, the police identified the wrong suspect. He's never even been up there. I've I haven't been out of Fort Myers in 2 years. According to a Jacksonville Beach police report, Dylan was linked to this suspect caught on surveillance video in a Jacksonville Beach McDonald's through the use of the Jacksonville Sheriff's Office's AI facial recognition technology. Jacksonville Beach PD conferred with JSO, which provided a 93% match between Dylan and the suspect using that technology. The report says police then provided a photo spread of Dylan and other similar-looking individuals to two witnesses. Both identified Dylan as the suspect, but the case would later be completely dropped with the state attorney's office telling Action 
+[...middle cut...]
+ow, Dylan's lawyer tells Action News Jacks he's seeking compensation, though he and Dylan declined interview requests. Meanwhile, Courtney Barkley, an AI policy expert at Jacksonville University, says law enforcement agencies across the nation will continue to use AI and facial recognition. She outlined the need to always second guessess. Every industry is just now starting to scratch the surface of the potential of AI, how it can impact our society. Law enforcement is no exception. Um, and so again, we just want to be cognizant of the risks. Jacksonville Beach Police declined our request for interview for local count. Reporting from Jacksonville Beach, I'm Logan McDonald. Action news jacks.
+
+=== ID: kYwnnKqvzc8 ===
+TITLE: Woman says AI facial recognition led to wrongful arrest in state she's never been to
+DESC: Angela Lipps faced months in custody in a bank fraud case that relied on facial recognition, which her attorney claims was the key evidence.  Welcome to the KARE 11 News YouTube channel. Subscribe to our channel for compelling and dramatic storytelling, award-winning investigations, breaking news and information you can use.   Text your photos, videos and news tips to 763-797-7215.  » Subscribe to KARE 11 on YouTube: https://www.youtube.com/user/KARE11?sub_confirmation=1  » Watch more KARE 11 vi
+KEYWORD: AI facial recognition
+VIEWS: 4607
+TRANSCRIPT: We're going to start with a case out of Fargo that's raising questions about how far we are letting technology go in our justice system. A woman says she was arrested for crimes in a state she's never been to, and she spent more than 5 months in custody because of AI facial recognition. Sammy takes a closer look at what went on here. Though she says she's never been to North Dakota, Angela Lipps was arrested for bank fraud in the state due to what her attorney says was an overreliance on AI. The police can use that as a tool, but the problem in this case is they used it as pretty much the only tool. -- Lipp's
+-- attorney Jay Greenwood said that Fargo police took surveillance images from the bank and forwarded it to a company that does facial recognition. They flagged Angela based on her social media presence. I don't think there was any. Anything else ever mentioned in the police reports that related to her identification and whether or not she was the person that they were looking for. She was arrested in July in Tennessee and spent 5 months in North Dakota jail. Her attorney says she was never interviewed by police before that. The Fargo Police Department set a timeline and admits they only learned of her custody in December. They interviewed her for the first time later in the month, and the charges were dismissed. Well, I asked her family for some bank records going back a few months. And it showed that she had been buying the same things, doing the same things for 3 mont
+[...middle cut...]
+ent to this, and I think that is where this entire process has gone wrong. The Fargo police chief announced his retirement one week ago. On Monday, city and police leaders met with the city attorney in a closed-door meeting to discuss potential upcoming litigation. Now Angela Lipps posted on an online fundraiser that after 5 months in jail she lost everything and is incredibly behind on finances. Sammy, at this point, is she cleared of all charges whatsoever, no longer a suspect in anything? Well, her charges were cleared essentially or were dismissed, but police said that they're still actively investigating and can't say much else. -- All
+-- right, Sammy, fascinating story. We'll be right.
+

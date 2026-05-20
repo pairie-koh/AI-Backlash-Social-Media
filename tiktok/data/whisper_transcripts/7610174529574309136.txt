@@ -1,0 +1,1 @@
+AI is not creative on its own, it mirrors the quality of your thinking. When prompts are shallow, responses feel shallow. When prompts are structured, output becomes clearer and more useful. That's why improving how you think often matters more than learning new AI tools. Tomorrow I'll show how to structure thinking before prompting.

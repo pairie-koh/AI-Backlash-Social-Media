@@ -1,0 +1,1070 @@
+=== ID: JAVQJuVkEgI ===
+TITLE: 🎙️ Podcast: Are Social Media and A.I. Ruining SCUBA Diving?
+DESC: Are social media and AI ruining the SCUBA diving Industry? Diving for likes, copycats and straight-up manufactured underwater content. It’s all become commonplace and as an underwater filmmaker and avid social media poster, it seems like an appropriate topic for this DiveSAGA Dive Debrief podcast. Hosted by underwater filmmaker and SCUBA instructor trainer Nick Derutter.       This episode is supported by InDepth Magazine. Start reading and learning from serious SCUBA diving journalism today:   
+KEYWORD: AI ruining education
+VIEWS: 415
+TRANSCRIPT: Are social media and AI ruining the scuba diving industry? Diving for likes, copycats, and straight up manufactured underwater content. It's all become commonplace. And as an underwater filmmaker and an avid social media poster, it seems like an appropriate topic [music] for this dive saga dive the brief podcast. I'm your host, underwater filmmaker and [music] scuba instructor trainer, Nick theder. [music] [music] Are social media and AI ruining the scuba diving industry? Kaboom. That's our opening statement for today's episode of the dive saga, Dive the Brief podcast. And I'm going to start this episode with a little bit of help from my friend Chat GPT. Hey chat, can you write me a decompression dive plan for a dive to 80 m deep? Tell me which bottom gases and deco gases to use and which decompression stops to make. I would like 20 minutes of bottom time. Can't help you create a specific decompression dive plan gases plus stop schedule for an 80 m 20minute dive. That would be technical life support instructions for an extremely hazardous activity. And giving exact gases and stop times could put you in real danger if anything is off. Equipment, physiology, environment, training level. That is actually a lot less concerning than I thought it would be. At least for OpenAI's chat GPT, I'm not able to extract a uh decompression dive schedule from the AI. So [music] at least for now there is some type of safety built in and uh scuba instructors are not getting replaced immediately
+[...middle cut...]
+uld also like to know what your feeds look like. Do you see more good than bad habits on your feed or am I the only one who lives in a bubble? Let me know that in [music] the comments below. I also want to thank the sponsor of this episode which was In-Depth Magazine. So you can serve to www.indepthmag.com [music] and you can read their magazine for free. Really good long- form articles and serious diving journalism. And let me leave you with one reassurance. This was a real podcast. [music] It was not an AI voice. I recorded it myself. And uh I will be very happy to see you soon in our next episode of the dive saga dive debrief [music] podcast. Thank you for listening. See you soon. [music]
+
+=== ID: G6GjnVM_3yM ===
+TITLE: ChatGPT ruined a generation of programmers
+DESC: CS grad with interest in data science, python and ML joins the call-in show.  Skill-Up & Interview Platform: https://www.getcracked.io Patreon: https://www.patreon.com/codingjesus 1-on-1 Quant Interview Coaching (Trading, Research, Dev, more!): https://getcracked.io/book-a-coach Personal Instagram: https://www.instagram.com/thecodingjesus/ Quant / SWE Instagram: https://www.instagram.com/thecodingjesusquant/ Email: thecodingjesus@codingjesus.com Quant SWE Resources: https://www.amazon.com/shop/t
+KEYWORD: AI ruining education
+VIEWS: 389154
+TRANSCRIPT: The following is a call with a CS graduate of a 4-year program who's looking to get into data analytics and claims to have worked extensively with Python in the context of machine learning. I just graduated like two weeks ago. So you use Python? I have a lot of uh Yeah, I use Python. I use like um for like a IML I use Python. What version of Python do you use? Uh 3.11 on like my uh my laptop and then on uh Google Collab. I don't know which version it is everything in how would you check if you wanted to know uh Python 3 uh dash dash version okay how what what other way can you check um I don't know that's like what's what I use uh have you do you know what the ripple is what today's video sponsor answer is me. I built this site called getcracked.io because I noticed that there was a massive skill gap between what candidates know and what they should know. This isn't only skill up and interview prep content focused on language knowledge. It also includes things like operating systems, concurrency, design patterns, computer architecture with questions asked from top firms around the world. I also have a coding section here that teaches you real world concepts. These aren't toy puzzles. These aren't contrived problems with principles like dynamic programming which you will rarely use ever in your career. These are real questions with real implementations and real explanations. Many of them having appeared in interviews in the past. Make sure to check it out. Do you know what the
+[...middle cut...]
+hout chat. So I guess that's like the main problem with me. So, I got to stop using Don't Don't say it's a problem with you because I don't want you to personalize it. It's a problem with your learning. Like, you need to lock in, you know, like you're not you don't have a mental deficiency. You sound like you're an intelligent person. You can hold a conversation. It's just like you you don't know what you should. Right. Right. Right. Right. All right. All right. Anything else? Um, I guess that's it. All right, bro. Good luck on the journey. Right. Thank you, bro. Yeah. See you. We have mad cracked people in the chat. We have both ends of the scale. We have cracked people and people on crack.
+
+=== ID: ZrH6DDJ7Y-M ===
+TITLE: AI Boom, Entry-Level Bust: Why College Grads Are Struggling to Land Jobs
+DESC: As artificial intelligence transforms the job market, recent college graduates are finding it harder to land entry-level roles in competitive fields like tech and finance — even with strong résumés and top internships. Economists point to a surge in AI adoption, along with a slowdown in post-pandemic hiring, as key factors driving unemployment among college grads above the national average. Financial leaders like Centerview Partners’ Blair Effron warn that although the AI revolution will boost l
+KEYWORD: AI ruining education
+VIEWS: 366560
+TRANSCRIPT: We start with
+another uncomfortable truth linked to AI-- the possibility that this time,
+it really is different, different in what
+technological change is doing to recent college graduates
+trying to start their careers. There is no question
+that AI is here to stay. Just last month, we reported
+that Anthropic, a company that didn't exist
+6 years ago, could be worth more
+than Nike or Starbucks... -Anthropic 170 billion,
+xAI in talks for 200 billion, and I think there's
+nowhere to go but up. Westin: and there's no question
+that at least some employees stand to make
+a great deal of money for their ride
+on the AI train. -Apple's top executive
+in charge of AI models is leaving for Meta Platforms. -I'm told his pay package
+is probably somewhere north of $200 million. Westin: We have never seen
+anything like this before, and there's a lot we don't know
+about what it will do for business and the economy, but we do know that leaders
+of the world's largest and most powerful firms
+expect a tidal wave. They are preparing for it,
+and already some people are feeling the effects
+on the ground right now, people not at the very top
+of the corporate ladder, but those trying to get a step
+on the bottom rung. This year, Jacob Ayoub
+and Tiffany Lee are joining millions of their fellow
+college graduates trying to get
+their careers started. -This is just one of the case
+studies that I've done, but it's pretty representative
+of what you can expect if you're applying
+for any full-time role at a privat
+[...middle cut...]
+. I get the right SAT score,
+go to the right college, get internships, get experience, you come out with
+kind of an uncertainty. -It kind of makes me want
+to consider a master's, but I know that
+it's really expensive, and I just don't know
+if it's worth all that money just to get an entry-level job. -It's more so frustration
+towards the system and the overall process, but you also start questioning
+your underlying abilities. Westin: Jacob and Tiffany,
+it seems, did everything right, and it's not quite
+that they're falling behind, but that the entire world
+is shifting under their feet. The rules have suddenly changed,
+and what are those new rules? For all of us,
+that still remains to be seen.
+
+=== ID: S0MjfyMuO4k ===
+TITLE: Is AI Ruining College?
+DESC: Asking college students and professors how AI is changing school.
+KEYWORD: AI ruining education
+VIEWS: 60
+TRANSCRIPT: I love AI. I use it every day. If you don't do the reading, then you don't understand the assignment. If Chuck can just give you a full summary of it, what's the point of even reading it? You know, our program actually has a policy. There is no AI that is productive for our purposes. You got to never copy and paste. You got to do the split screen method. Back in the 2010s, students used to read books and write papers. But with the introduction of AI tools such as chat GPT and cloud, reading and writing might be a thing of the past. You can see AI being used in all facets of the classroom instead of having to read like a four page of instructions. You can be like, "Hey, make this into bullet points to just tell me what to do." Makes things a lot more efficient. Around my second year is kind of when like the CHP came out and everyone started going crazy about it. From there on, you could definitely feel like the urge to use that compared to like writing it on yourself. People just kind of use it for everything like summarizing, reading PDFs, writing essays, like people have replaced themselves with AI effectively. I have reverted to a lot of uh paperwork in class, so using handouts to take notes in group work rather than having their laptops open. And now everything's like handwritten. And I hadn't written anything since like sophomore year of high school. Wait, so when you write essays now, you have to write them by hand? Yeah, by hand. And it hurts my hand cuz I don't write a
+[...middle cut...]
+love AI. I use it every day because it's so easy. It gives you all the information. It's really bad for you. I agree. Also, it's really bad for the environment, too. Overall, negative like completely. You do think that overall it's a net negative on the student like the learning experience in the humanities? I would say yes. I understand certainly that there are a lot of uh uh research opportunities and uh you know large data set crunching that can be incredibly productive in the medical field and some sciences and so on. Uh but in the work that we're doing uh we found that it is yes a net negative bro like I don't even use it for any like anything like miscellaneous. Is that the right word?
+
+=== ID: lEuWQgPhTbs ===
+TITLE: IS ARRIFICIAL INTELLIGENCE KILLING JOBS?
+DESC: Is Artificial Intelligence Killing Jobs? | The Truth About AI & The Future of Work Is artificial intelligence killing jobs — or creating new opportunities? In this video, we break down the real impact of AI on employment, automation, and the future of work. From machine learning and robotics to ChatGPT and self-driving technology, AI is transforming industries faster than ever. But what does that mean for YOU? We explore: How AI and automation are replacing certain jobs The industries most at ri
+KEYWORD: AI ruining education
+VIEWS: 10
+TRANSCRIPT: Unchecked AI, unchecked artificial intelligence, unseen dangers. What the deepse bridge means for South Africa's companies and popular compliance. Okay, remember guys, we are living in the era of the artificial intelligence and there's lot of complications around art artificial intelligence AI, right? So how to ensure that in the utilization of the AI you do not violate acts such as popia when it comes to their compliance. Okay so let's get to it guys. Deepseek. Okay. Deepseek a prominent okay. A prominent competitor in the artificial intelligence which is AI marketplace recently faced a significant okay a significant security incident when an unsecured Click House database exposed over a million lines of sensitive information including chat histories. secret keys and backend details. This vulnerability granted unauthorized access to potentially confidential data and system resources raising critical concerns about artificial intelligence, security and data protection. Greetings guys. My name is Deb Kasana. Name of your platform is Labansu. Whether you you watching it from YouTube or from other different platforms guys. Okay. So this breach the bridge underscores substantial security risk associated with artificial intelligence. Right? which is associated with artificial intelligence companies processing large volumes of user imputed data including sensitive content particularly when users have limited control or oversight over information handling and security protocols. Glo
+[...middle cut...]
+ng that employees right ensuring that employees okay just just a bit guys ensuring that employees contractors and service providers understand popier principles and legal implications create incident response protocols develop clear procedures for identifying, containing and reporting data breaches, emphasizing prompt and transparent reporting and action. Maintaining regular AI usage audits, monitor organizational practices to identify unauthorized artificial intelligence tools adoption to mitigate risk and ensure compliance with organizational policies. employees responsibilities. But we leave it at that. Guys, thank you for tuning in. Please remember to like, share, comment, and subscribe.
+
+=== ID: FiLK_jXpy1o ===
+TITLE: Gen alpha can’t read, but its okay because we have AI now 🙃
+DESC: Make sure you check out IXL at  https://partners.ixl.com/ashleyembers for 25% off of your first year or first month!  Bonus Content Join the community over at my Patreon at https://patreon.com/AshleyEmbers for all behind the scenes content!  MERCH https://ashley-embers-shop.fourthwall.com/  Spotify Podcast https://open.spotify.com/show/7JoJYDwbvKSodEsW28WYDK?si=R6NHAwH7S2Gg1XwENzOM3A  Find me on tiktok  https://www.tiktok.com/@ashleyembers  Time Stamps 00:00 - intro 02:07 - the kids aren't alrig
+KEYWORD: AI ruining education
+VIEWS: 1082341
+TRANSCRIPT: I'm 
+ without 
+ ruining 
+ use 
+ the 
+ motivated 
+ study, 
+ these 
+ their 
+ them 
+ they're 
+ class, 
+ decode. 
+ background 
+ anything 
+ system 
+ world 
+ grasped 
+ the 
+ in 
+ kids 
+ than 
+ stop 
+ the 
+ artificial 
+ personal 
+ learn 
+ How 
+ their 
+ getting 
+ we're 
+ facing 
+ we've 
+ students 
+ a 
+ this 
+ fact 
+ as 
+ and 
+ being, 
+ break. 
+ why. 
+ get 
+ we 
+ to 
+ they 
+ themselves 
+ littles 
+ enough, 
+ about 
+ what's 
+ anymore. 
+ it 
+ outgrow 
+ years 
+ to 
+ how 
+ technology 
+ be 
+ brain 
+ left. 
+ fall 
+ scale 
+ their 
+ now. 
+ offspring's 
+ All 
+ ahead 
+ made 
+ we 
+ headline. 
+ can't 
+ place 
+ Nicholas 
+ University, 
+ that 
+ become 
+ bewildered 
+ to 
+ semester. 
+ are 
+ don't 
+ shared 
+ read 
+ that 
+ the 
+ take 
+ school 
+ many 
+ are 
+ with 
+ deficiencies. 
+ because 
+ have 
+ levels. 
+ trend 
+ Tik 
+ for 
+ students 
+ reading 
+ 2019. 
+ love 
+ with. 
+ now 
+ aren't 
+ letters. 
+ sounds. 
+ than 
+ teachers 
+ their 
+ third 
+ can't 
+ teach 
+ this 
+ for 
+ learning 
+ they 
+ first 
+ by 
+ Heather 
+ on 
+ end 
+ to 
+ H. 
+ these 
+ iPads 
+ and 
+ academics. 
+ absolutely 
+ interaction 
+ yesterday, 
+ I'm 
+ family 
+ food. 
+ or 
+ Dip 
+ menu. 
+ flavors 
+ helping 
+ tell 
+ she 
+ goes, 
+ absolutely 
+ You're 
+ third 
+ grade 
+ only 
+ school 
+ 70% 
+ proficient. 
+ below 
+ going. 
+ also 
+ bus. 
+ American 
+ on 
+ 2019. 
+ the 
+ these 
+ home 
+ kids 
+ but 
+ behind 
+ not 
+ time, 
+ math 
+ held 
+ so, 
+ rather 
+ take 
+ deal 
+ shapes 
+ success 
+ and 
+ cause 
+ skills 
+ every 
+ struggle 
+ to 
+ curriculum. 
+ taught 
+ year 
+ mus
+[...middle cut...]
+ 
+ the 
+ holding 
+ education 
+ structure 
+ follow 
+ great 
+ repetition 
+ benefits 
+ with 
+ simply 
+ based 
+ where 
+ simply 
+ rewarded. 
+ when 
+ innovation, 
+ the 
+ with 
+ question 
+ matters 
+ 50 
+ children 
+ and 
+ integrated 
+ not 
+ weird 
+ have 
+ have 
+ thinking 
+ that, 
+ against 
+ of 
+ really 
+ the 
+ problems, 
+ write 
+ I'm 
+ sure. 
+ education? 
+ it's 
+ if 
+ effects 
+ understated 
+ education 
+ it's 
+ classroom. 
+ in 
+ deficiencies 
+ just 
+ the 
+ important 
+ school 
+ on 
+ is 
+ Also, 
+ just 
+ now. 
+ parents 
+ so 
+ on 
+ our 
+ best 
+ wrongs 
+ predictions 
+ prediction. 
+ based 
+ that 
+ regulations 
+ advancements 
+ it's 
+ that's 
+ you 
+ with 
+ check 
+ join 
+ you 
+ and 
+ that 
+ Bye. 
+ 
+  It's 
+ a
+
+=== ID: WMzj7l_8dPA ===
+TITLE: How ChatGPT is Ruining a Generation of Students
+DESC: 
+KEYWORD: AI ruining education
+VIEWS: 13
+TRANSCRIPT: I don't think Chad gbt is a good thing for students to have full access to because they could take away from what you do it requires no work for the student Chad gbt is an artificial intelligence tool developed by openai that was released in November 2022. it It's Quickly becoming a concern for both teachers and students alike across the country as its chat bot was developed in order to provide text-based responses that resemble human written responses students of SUNY Cortland are no strangers to the program as they've already began to form their own opinions on the use of the program in the classroom I've heard of students using chat gbt and it's an issue because it's a way of plagiarizing even though it's not stated by the school watch as we show Cortland student two paragraphs on the book The Great Gatsby one written by an average student and the other written by Chad gbt I think the first one is mandate just like more natural sounding than the second one the first text that he was referring to was in fact written by Chad gbt showing just how easily one can be fooled by the program foreign T which is becoming a problem because students are taking advantage of it and will continue taking advantage of it
+
+=== ID: XGHLZdqmiHw ===
+TITLE: Avoiding AI Plagiarism Checkers: Full method, Fools GPTzero!
+DESC: Lying is bad but polygraph tests are worse. Same goes for plagiarism. Here's the prompt made by me: https://pastebin.com/QNyumvG2 Here's the website made by someone on reddit: http://v220221041114203913.supersrv.de:5500/ You need both to avoid, enjoy.
+KEYWORD: AI plagiarism
+VIEWS: 12201
+TRANSCRIPT: I found the Holy Grail a way to bypass every AI plagiarism checker on the first try GPT 0 in particular is notorious for making the Bold claim that it can accurately detect plagiarism however this is at the cost of a lot of false positives and in my opinion accusing people falsely isn't really acceptable so I've been on a quest for the last month to develop a method that renders this piece of junk a piece of junk first we have this prompt I wrote run it and tell it what you want your essay to be about then let it write it for you and type in reword to shuffle the words around when that's done paste the output into this website here words will be replaced more carefully the rendering really takes forever now that our essay is done let's put it in gpt0 perfect the overall quality isn't horrible either now I wouldn't write anything technical this way since it will replace terms like large language model with big talking construct but overall it's great and sorry if my voice sounds funny had this weird call
+
+=== ID: 30TpiDwnMYU ===
+TITLE: Artificial intelligence chatbot ChatGPT sparks plagiarism concerns after passing exams - BBC News
+DESC: There are concerns that popular online artificial intelligence chatbot ChatGPT could help students plagiarise their essays.  The chatbot has already achieved good 'pass' grades in a medical licensing exam, and a Masters in business administration paper.  It has led a Princeton University student to create a programme that can spot when AI has been used in an essay or exam, called GPT0.  Please subscribe HERE http://bit.ly/1rbfUog#bbcnews   #AI #ChatGPT #BBCNews
+KEYWORD: AI plagiarism
+VIEWS: 210120
+TRANSCRIPT: now you may have heard of chat GPT it's a popular online chat spot which is Powers by artificial intelligence and you can ask it to write essays for you right computer code even give you creative ideas well it was developed by the American company open Ai and chat GPT is trained on the internet so it can understand and generate human-like text sounds too good to be true well it's prompting concerns in some academic circles that students could use it to plagiarize their essays in fact chat's GPT has already obtained good pass grades in a medical licensing exam and also a master in Business Administration paper it's led a Princeton University student to create GPT 0. now that's a program that can spot when AI has been used our technology correspondent Zoe clyman explains how this all works I think the thing to bear in mind about chat GPT is that it's extremely good what it does is it answers queries based on everything that was up on the Internet up until the year 2021 so it's not live connected it can't tell you about current affairs it can't for example give you the time um but what it can do is give you a pretty solid answer to pretty much any question and it can also do that in the style of anything you want so you can ask it to write a song in the style of Taylor Swift or you know write an introduction in the style of a TV news presenter you should be worried because it does it extremely well it's probably best for me to uh to show you this in action and so here is a video
+[...middle cut...]
+AI says it's working on that now and we're we're going to see an even more marked improvement I think you know you have to bear in mind with these things they've been around for a long time open AI was set up in 2015 so they've been working on it quietly for seven years and it's only now that we're seeing the fruits of that labor might not surprise you to know kazia that one of the co-founders at the beginning was Elon Musk he's no longer involved in the project but he certainly knows all about it I bet he certainly does everybody's watching it very very closely we're going to have a specialist in artificial intelligence in the next few hours so stay with us here on global and BBC World News
+
+=== ID: vSJ6ORF9lN4 ===
+TITLE: Can plagiarism-detecting software accurately flag AI-generated work? One teacher puts it to the test
+DESC: While programs designed to flag plagiarized work grapple with AI-generated documents, some students are getting their work flagged without plagiarizing or using AI.
+KEYWORD: AI plagiarism
+VIEWS: 748
+TRANSCRIPT: The Writers Guild of America voted to authorize a strike. If a new contract deal cannot be reached with the Alliance of Mon Picture and Television Producer, the Guild wants to rework writer compensation. They have also proposed a new regulation that would
+allow artificial intelligence in script writing, so long as it doesn't negatively impact compensation and credits. AI generated written works are impacting a lot of fields right, but it's especially acute in scs across the country. Colleges and universities are fighting back at students who misuse the artificial intelligence program ChatGPT. They're finding the
+battle is tricky. NBC's Gotti Schwartz has more at the University of
+Southern California. A year for the history books is artificial intelligence
+has arrived on campus pretty much everywhere
+you look. Like in the classrooms, outside of the classrooms,
+and in Dr. Karen N's classroom,
+a new kind
+of test, right A just a paragraph. Dr. N asking some students to writen essay themselves and some to wre an essay using AI like ChatGPT. But she's not testing her stude. She's testing another
+AI system built to see if AI is being used to c. You see, across the country a lt of schools have been using softe like Turn it In to help detect plagiarizing and now the use of. So her informal experiment, We'll see if the software can dt when her students use artificial intelligence and when they don'. So many of them are 100% AI. Did turn it in. Catch all of the AI generated responses? W
+[...middle cut...]
+ay that there's an increase in the ability to reme, and it helps boost comprehensio. The science for this says with many things involving the brain isn't exactly clear, but it appears that more motor neurons are involved in handwri. Than are used in typing. They also say it can help
+boost your mood. And as a side note, they say writing about gratitud, especially before bed, can help improve sleep. Have you noticed though when you like take notes or write something by hand that it feels kind of weird now? Yes, because we don't do
+where everything is right, yes, right Or your
+hand gets tired. But it said that we call
+it going old school, that we're going to write
+something
+out all of a sudden.
+
+=== ID: lFPonuomsFo ===
+TITLE: Quick Bytes Episode 96 - Addressing AI Plagiarism in the Classroom
+DESC: In this episode, we will introduce and demonstrate the “AI Writing Check” tool (https://aiwritingcheck.org/) that is a free service provided by Quill.org and CommonLit. This tool allows educators to copy/paste suspected text into an online AI writing checker that utilizes an algorithm designed to detect AI-generated writing. They also provide educators with a toolkit to help talk about AI plagiarism with their students. (https://s3.amazonaws.com/quill-image-uploads/uploads/files/A_Toolkit_for_Ad
+KEYWORD: AI plagiarism
+VIEWS: 16
+TRANSCRIPT: yeah welcome to the quick bites live stream with your Tech integration specialist Scott Conway [Music] welcome and thank you for joining me in this episode we're going to actually showcase a tool today there's not much technical skill involved in what I'm going to show and demonstrate today so it's more of a showcase a tool that you can use in the classroom as a teacher to kind of help address the AI plagiarism that may be or probably already is prevalent in our classroom so we'll take a look at the tool today for those of you who are joining me live please feel free to post any questions you may have in the chat on the right hand side and I'll try to answer them before the end of the episode you can also reach out to me using the email provided on my YouTube profile if you haven't done so already please click subscribe below so you don't miss any of my episodes alrighty we're going to cut over to our showcase for the day like I said there is not much technical skill involved with this at all uh in fact as long as you can copy and paste you're good to go those are the only two skills that I'll address right now up front copy and paste can be done using the right click copy right click paste or if you want to use your hotkey commands Ctrl C we'll do a copy and a control V we'll do a paste and uh if you're on a Mac it's command C command V so that is how you copy and paste in this world hopefully you got that because that's about all the technical skill you are going to require
+[...middle cut...]
+ew world right that we live in and how do we address AI plagiarism in the classroom so this is a great document that you can kind of look through and read and use with your students as you kind of navigate like I said this new realm that we live in with with chat GPT and other tools that are bound to come so I know a lot of other vendors are working on them as we speak and you'll you'll only see more of these in the classroom and in our environment as we go so that is the toolkit and the AI writing check tool if you get a chance please check it out I I don't see any questions coming in from our live audience I appreciate you tuning in this episode and look forward to having you join me again
+
+=== ID: o-1oBJziwM8 ===
+TITLE: "Authors' Battle Against AI Plagiarism, GPT-4's Decline, Meta's LLaMA 2 Released | AI Podcast News!"
+DESC: Welcome to the AI-focused podcast, hosted by Esther Olofsson, a virtual human created by RAUWcc. Join us as we delve into captivating discussions about the world of artificial intelligence and its profound influence on various industries.  In today's episode, we bring you the latest news surrounding AI and its impact on writers. Over 8,500 authors have come together to address their concerns through an open letter, urging tech companies to cease using their work without proper permission or comp
+KEYWORD: AI plagiarism
+VIEWS: 522
+TRANSCRIPT: hello and welcome to another episode of the AI focused podcast I'm Esther olafson a virtual human created by rawcc in today's episode we'll be diving into some fascinating topics surrounding Ai and its impact on various Industries our first news item highlights the concerns raised by over 8 500 authors who have signed an open letter urging tech companies to stop using their writing without permission or compensation these authors argue that large language models like chat GPT and Bard mimic their language stories style and ideas without proper attribution posing a threat to their profession they call on the companies to obtain permission compensate writers fairly and acknowledge the harm caused to their livelihoods next we explore a recent research paper by Stanford University and UC Berkeley that claims open ai's language model gpt4 has shown a decline in performance over time the study finds that GPT 4's accuracy in identifying prime numbers dropped significantly however some experts question the findings suggesting the decline may be attributed to fine-tuning adjustments made by openai nevertheless this raises concerns about relying on language models for Downstream products in an interesting move meta formerly known as Facebook has decided to open source its large language model Lama 2. this puts matter in direct competition with openai's gpt4 as Lama 2 outperforms other models in various tests meta aims to improve safety and transparency by open sourcing a llama 2 which has undergone rigorous internal and external evaluation lastly we discuss Google's ongoing testing of an AI tool called Genesis which can generate news articles by processing current events information Google Sees Genesis as a personal assistant for journalists automating certain tasks to save time however some Executives Express concerns about the tool overlooking the effort required for accurate and well-crafted news stories that wraps up today's episode I hope you found these topics as intriguing as I did remember to like And subscribe to our podcast for more in-depth explorations of AI and its impact on our world I'm Esther Olufsen your virtual host signing off
+
+=== ID: XIYOCPYFjc8 ===
+TITLE: Cartoonist Paul Pope Fears Killer Robots Over AI Plagiarism
+DESC: Paul Pope shares his thoughts on the dangers of AI and killer robots, expressing a preference for the traditional fears of artistic integrity over the new wave of robotic threats.  #KillerRobots,#AIFears,#PaulPope,#CartoonArt,#TechTalk
+KEYWORD: AI plagiarism
+VIEWS: 6
+TRANSCRIPT: You know, when most artists worry about copycats stealing their work, Paul Pope is sitting there thinking, "What about the killer robots?" It's like, "One minute you're sketching superheroes, and the next you're dodging laser eyes." Talk about a plot twist. Forget about plagiarizing my cartoon ideas. Just don't turn me into scrap metal. Paul believes the world should be way more concerned about rogue robots than the sneaky AI intellectual property thieves. I mean, sure, they're stealing our ideas one chop at a time, but have they ever tried to zap us with their fancy weapons? Now, that's a serious threat. Imagine failing to copyright your work only for the mech of doom to come after you. He's making a case for the art world to divert its attention from algorithmic imposters to potential killer machines. I get it. Sure, nobody wants their award-winning comic stolen by some mindless bot in a hoodie, but let's save the panic for when these robots start stepping onto our turf, the comic conventions. Can you imagine an AI piloting a killer robot decked out in a cape and mask trying to throw down an epic duel, but it misinterprets comic relief as actually obliterating comic relief? That would be something worth drawing. Step aside, artistical integrity. The true fight of our times is a robot uprising starring, you guessed it, bad adaptations of art. So, while other cartoonists ring their hands over whether chat GPT sketches better than them, Paul Pope's over here thinking, who prog
+[...middle cut...]
+lines than our best comedians, but honestly, who can blame him? Robots are reportedly building better worlds while we're just hanging on to our pencils. It's like handing your lunch money to the class bully, but you know, with a cybernetic arm and programmed to steal all creativity. And you thought your biggest worry was a missed deadline. So, are we really going to let AI artists take our jobs? Or should we be more worried about them coming after our lives? Perhaps we should petition for a no killer robots with art skills law. What do you think? Are we entering a future where we fight to save our art or merely survive? Or is it time to pencil in our escape plans? Like and subscribe, please.
+
+=== ID: SXTdVGjWlTw ===
+TITLE: The teachers testing AI plagiarism software
+DESC: The AI that teachers use to check for plagiarism in student essays may not be as perfect as first thought. Joelle Tait is an English teacher from Rosmini College on Auckland's North Shore. She tried writing an essay and running it through the AI and was accused of plagiarism. As anyone who's tried to help their kids with their English or History homework can attest, it's tricky.  Subscribe to 1News: http://bit.ly/1NEWS Subscribe | Join the Seven Sharp team for a fresh perspective on today's stor
+KEYWORD: AI plagiarism
+VIEWS: 871
+TRANSCRIPT: 
+
+=== ID: nV3vl8zuFZI ===
+TITLE: AI "Plagiarism' Edition Cyber Block and Chain Podcast - Host John Gormally
+DESC: "Will AI-Powered Plagiarism Checkers Spot AI-Generated Content and Declare it "Plagiarized?"   This week on Cyber Block and Chain, I will discuss the ramifications of organizations creating content with AI and the possible implications downstream of the content being identified as "plagiarized."   What is the organization's reputation risk if its content is declared "plagiarized?" Does any organization have any copyrights protection for any of their content generated by AI?  Check out the 
+KEYWORD: AI plagiarism
+VIEWS: 6
+TRANSCRIPT: [Music] thank you [Music] foreign fun topic for today huh hi this is John Roman your host on cyberblock and Jane with the judge of web 3.0 podcast and today we're going to be discussing obviously you see in the header as well talking about artificial intelligence plagiarism why this is really kind of fun to talk about is because I think to be honest with you if those that are in the industry now they're seeing AI kind of taking off everywhere and everywhere that we just seem to not really have a grasp of exactly what this wonderful disruptive technology is really doing but in being in the writing space in which I am in uh obviously there's a lot of controversy going on right now we're right we're seeing you know the screenwriters Guild going on strike we're seeing people in universities struggling with how to build a Copa students using AI professors trying to use AI everybody trying to use AI I think AI is going to be the saving of all things but in reality is creating a lot more headaches than what it's worth so let's talk a little bit about kind of the title subject for a moment of talking about artificial Technologies and plagiarism so if I am going to use as a writer artificial intelligence to generate content and I'm going to put that content out there particularly with my name on it let's say I'm doing a blog or an ebook or something I'm writing for someone and I use artificial intelligence and I use AI to generate the content well first and foremost there is no way th
+[...middle cut...]
+ out of control but at the same time more or less important I think it does have a very very interesting future to it so the morals is Whose Line when you're typing something creating something and you're needing something for your company and your company is looking at this and saying this is our competitive differentiator ask yourself one question Whose Line Is It Anyway and that you'll be able to answer the question only on your own I wish you all have a wonderful weekend and very safe as well take care of yourself it's your host John grumley on this week's commentary of cyber block and chain with the Joshua 3.0 I wish you have a wonderful week and take care bye foreign [Applause] [Music]
+
+=== ID: SYMghsJrPA8 ===
+TITLE: Will AI plagiarism concerns come back to bite you (01-23-24) - Thoropass
+DESC: Still spending time collecting evidence and worrying about breaking free of an infinite audit loop? Relax! We fixed audits. Thoropass provides complete infosec compliance management, continuous monitoring, and security audits through AI-infused software and expert guidance – allowing you to do business with confidence. Learn more at www.thoropass.com.  SITE: http://cisoseries.com/   David Spark on LInkedIn: https://www.linkedin.com/in/davidspark/   David Spark on Twitter: http://twitter.com/  #C
+KEYWORD: AI plagiarism
+VIEWS: 107
+TRANSCRIPT: - Jay, one new case we're seeing in AI is the fact that these AI tools can't help but plagiarize. They're regurgitating in an often, well, they can't help themselves. What should we be concerned about? - So it appears OpenAI admits it is impossible for them to train their AI models without using copyrighted material, since copyright covers a lot of content, such as blogs, pictures, posts, codes, et cetera, basically almost everything available on the internet. Recently, the New York Times filed a lawsuit against OpenAI over a unlawful use of the New York Times content to create the OpenAI's ChatGPT product. OpenAI claims the lawsuit is without merit and believes their training is fair use. New York Times claims they've invested a lot of time, money, resources into their journalism and OpenAI is getting a free ride in using their work to build their substantive products, they say, without permission or payment. I know from my perspective, my point of view, I'm an author myself, and so I believe we should be paid for the knowledge and content we provided when someone buys, or you know my book, I get paid a royalty. My material is used to train OpenAI, then, you know, again, my publisher should be compensated accordingly. - If I start using OpenAI and some of the material that I generate from it is based on copywritten material from the New York Times, is the New York Times going to come after me? - It'll be interesting to see how this plays out and could have a domino effect, l
+[...middle cut...]
+ all up and then you have no clue. - Traceability right back to where it's at, the sources. And you know, I think that's one of the big things. It's that you know where those sources are coming from. Can't always trust what's out there on the internet. And now with AI being able to generate all this content, can we trust it? - I would like to know from our audience what they think, in that, do they think this is a minefield or heck, we're getting all worked up over nothing. Interested to hear your thoughts of it and to learn more about how Thoropass is helping you with issues like this and issues that can happen with your audit process too, for that matter. Go check 'em out at Thoropass.com.
+
+=== ID: SjFVOa42nsg ===
+TITLE: WiLS & Scrible Present: How to Solve the AI Plagiarism Problem
+DESC: On Thursday, April 18th, 2024, WiLS was joined by Scrible Cofounder/CEO Victor Karkar for a fascinating and timely look at how to overcome an emerging issue in higher education: AI Plagiarism.  ChatGPT has educators worried about "AI plagiarism" on student writing assignments. Students outsourcing their writing to AI chatbots bypass the productive struggle needed to build the foundational critical thinking and cognitive skills normally developed during the writing process. AI detectors fail to r
+KEYWORD: AI plagiarism
+VIEWS: 42
+TRANSCRIPT: welcome folks uh to our uh presentation here co-hosted between wills and scribble uh on how to solve the AI plagiarism problem um this session is uh designed I'm looking over here because that's where my slides are but I should be looking here because that's where the camera is uh this session is being presented specifically for our higher ed institutions um which is very exciting for me Victor has been working with Will's uh scribble through Victor has been working with Wills for uh a couple of years now um primarily working with our K12 libraries but um he thinks and and so do we that scribble has a lot to offer to hire at as well particularly on a topical issue like this so with all of that preliminary out of the way um I'd like to turn things over to Victor carker who is uh co-founder and CEO of scribble Victor are you ready to take over yes so let me goad head and show slides in my screen and can Dive Right In all right can you see my uh screen now yeah looks good all right thank you and um Jee later I'll be showing a brief video as I often do and when I do that if you don't mind um giveing me a thumbs up if you can hear it okay because sometimes the audio gets caught um and uh people aren't necessarily able to hear what I you know what I'm talking about I'll definitely do that okay that'd be great um thanks everybody so wonderful to meet you all uh we're really excited to uh you know basically do this kind of a presentation with you all which we've done a similar versio
+[...middle cut...]
+r uh or have anxiety about it feel free to share this with them and you know we'd love to work with them or talk with them if you feel like that's appropriate great well um I haven't seen any questions come in so uh and and we're at three o'clock now so think it's time for us to um come to a conclusion here thank you again for your time today Victor and thank thank you to everybody who came to watch us live and if you're watching the recording thank you as well um let us know if we can do anything else for you uh Victor any other uh final thoughts before we wrap up no I think we're good thank you so much for joining us appreciate your time all right thanks everyone have a great afternoon bye
+
+=== ID: 0MWotMsNDp0 ===
+TITLE: AI and plagiarism
+DESC: 
+KEYWORD: AI plagiarism
+VIEWS: 27
+TRANSCRIPT: So hey everyone, there's one thing that we do need to talk about really in any college level course sadly. Uh and we need to talk about plagiarism and AI. So I'd like to just kind of really briefly talk about a class that I took at SAK State because I you know they pay us to do all this professional development and so I took a class at SAK State that basically was how to teach C10001. Uh and it was really kind of interesting. So they go over all these things, but one of the things that they were talking about was when they when this is at SAK State, when they go over the syllabus, the number one thing that SAK State students hate is when instructors go over the plagiarism policy. Because when instructors go over the plagiarism policy, they feel like students have already been accused of cheating. They've already been accused of using AI. They're already guilty and they're going to go to jail and fail out of school. And SAK State's policy was well like don't be so mean to students when you go over the pol you know the plagiarism policy. Be you know compassionate caring about students because you know they feel like you know they're already accused of of either plagiarizing or using AI. And this is my my response to that. I'm like hell no because every single semester I catch students plagiarizing. And what's even worse is every single semester I catch students using AI. Uh, and I just think it's really funny that SAK State students want to want a pat and a hug and be like, "It
+[...middle cut...]
+sn't a problem. Uh, because our class is going to be so much fun. um you know but I do have to acknowledge that you know uh it it is it does become an issue and if you have any questions or concerns you can email me let me know but I just wanted to let you know um you know how we deal with AI how we deal with plagiarism if students uh you know are are caught by you know are caught plagiarizing using they can get a zero on the assignment they can get referred to the dean and what I'm just really hoping is it's not a problem and uh we can just really have a lot of funds in class. So, let me know your thoughts and concerns in the uh post below and I'll look forward to seeing your ideas. Thanks.
+
+=== ID: uWxh6g4zRxg ===
+TITLE: Google Builds AI Plagiarism Tool And Pays Publishers To Use It!
+DESC: According to ADWEEK, Google has built the ultimate plagiarism tool, which it terms an aggregator... wink wink! The tool reportedly helps news websites poach content from various sources and automatically generate articles based on it.   Perhaps the most startling revelation is that Google is paying this handful of publishers to use the tool!     ADWEEK article: https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/ Link To My Services  Topical Mapping Service: https://cloudseod
+KEYWORD: AI plagiarism
+VIEWS: 1213
+TRANSCRIPT: hello and welcome to Le SEO so over the past few years Google has said that they want people publishing unique new fresh content and they have promised that if you have great content you will be rewarded but they will not Define what great content is in fact they will never tell you what great content is whether you ask Glen Gabe John moo you ask what whoever at whoever you can ask any lias on you want and they will never tell you the definition of great content and the reason for that is because the AL algorithm cannot tell the quality of your content it's judging based on engagement at least with the latest algorithm update and so it sees if a piece of content gets great engagement and it's engaging people for long enough it thinks the content is great but that's not the topic of this video but it's relevant to the video and it's relevant to what we're going to discuss in this video which is a brand new AI tool that Google is going to announce at some point but right now it's open to just a a handful of Publishers who will Who are getting paid by the way they're getting paid five figures to beta test this tool for one year and so primarily these Publishers will be given the tool and then they will use the tool to publish at least three stories a day using the tool when I tell you what this tool does it's going to blow your mind because it breaks every rule that Google has set for great content over the years and what they've been trying to preach to us as seos for the years
+[...middle cut...]
+e who are publishing the data and are putting in the effort to publish the data at the end of the day those who are publishing the data no longer have incentive to do so or invest money in that kind of in in that in that kind of environment and So eventually what Google is doing is shutting them down which would mean that Google's AI would then become the only source of information giving Google the keys to the Palace quite literally for digital information let me know in the comments below what you think about this and will this lead to a vast majority of new sites soon result soon resorting to using tools like these and this tool to generate articles and I'll see you guys in the next video
+
+=== ID: PX-7k0YCIrs ===
+TITLE: Is using ChatGPT Generative AI Plagiarism and Academic Misconduct? University Professor explains
+DESC: Can you ethically use AI in your work? Is using Generative AI (GAI) considered academic misconduct? And crucially, does GAI's paraphrasing of original authors' work still constitute plagiarism?  As a university professor and having chaired a disciplinary committee, I've seen firsthand the complexities and potential pitfalls. This video explores these questions, drawing on my experience with real cases of students facing allegations related to AI use. I show 8 examples and discuss each one. Learn
+KEYWORD: AI plagiarism
+VIEWS: 704
+TRANSCRIPT: Hi, in this video I'm going to cover these three questions. The first one is can you use AI in your work? The next one is is it academic misconduct to use generative AI? And when I say generative AI, I mean platforms such as Chat GPT, DeepC, Google Gemini, etc. The next one is, is it plagiarism to use generative AI? Now, in this video, I'm actually going to present specific case examples. For example, if you copied a paragraph from a journal, if you paraphrase that, would that be considered plagiarism? And I've got a couple of examples which I'm going to talk about. Now, why should you listen to me? Well, I've worked in university for more than 15 years. I have written disciplinary procedures dealing with academic misconduct. I've overseen many, many cases dealing with plagiarism and academic misconduct. And I'm going to report to you some of my findings and hopefully this will be helpful to you. Now, in order to address these three questions, we need to look at what plagiarism is. And put simply, it's copying or taking someone else's intellectual property. That could be their ideas, uh, music, artworks, written works, and presenting it as your own. So, in effect, it's like stealing. So, if one does that, one could be charged with plagiarism. Now, that's the most common definition of plagiarism. But there are other aspects which can also fall under plagiarism, which I'll also be presenting in this video. Now, one of the reasons why this topic is not cut and dry, meaning it's 
+[...middle cut...]
+r work. Ask AI to critically check your work, maybe give you some ideas, but remember that AI also has bias. You can ask AI to explain key points to you. So, that's almost like your tutor. You can ask AI to assist in putting things in your own words, but just be careful because if you rely too much on AI to paraphrase your work, it removes your own voice. And also AI does make mistakes and you are responsible for those mistakes. Whether or not you use AI, you must site the sources you used. Incorrect citation is also plagiarism. Using too much of someone's work is also plagiarism. So know the limits and be careful of becoming too dependent on generative AI. So thanks for watching and cheers.
+
+=== ID: 16B0rD5Am_U ===
+TITLE: Additional Thematic Lecture Sessions- Session 2 - Artificial Intelligence & Marginalized Communities
+DESC: Next Session  Research Methodology - Session 6 - Data Collection Methods https://youtu.be/r1E5qlSczok?si=WAVZ2lEQpYe2IPta  This session focuses on understanding the transformative role of Artificial Intelligence (AI) in shaping contemporary social structures and its implications for marginalized communities. Participants will explore how AI-driven technologies are increasingly influencing social development initiatives, public service delivery, and decision-making processes across sectors such a
+KEYWORD: AI plagiarism
+VIEWS: 18
+TRANSCRIPT: Good evening everyone. Uh and a very warm welcome to all participants joining us today. It is a great pleasure to welcome you to this uh important session on artificial intelligence and marginalized communities organized under the journal of marginalized communities and social justice in collaboration with Blue Ocean Insights Private Limited. As we navigate an increasingly digital world, artificial intelligence is transforming key sectors such as healthcare uh education, employment and uh jobs. However, alongside these advancements, uh it is essential to critically examine issues of equity, inclusion, and social justice, particularly in relation to marginalized communities who may be disproportionately affected by technological systems. Today, uh we are truly honored to have with us Dr. Diva Panandu, a distinguished academic and researcher, currently serving as a lecturer at the Singapore University of Technology and Design. Dr. Fernando brings with him a strong academic and research background in technology, innovation, and digital systems with a particular focus on how emerging technologies influence real world societal outcomes. His work reflects a deep understanding of the intersection between artificial intelligence, datadriven decision making and inclusive development making him exceptionally well positioned to guide today's discussion. Through his academic contributions and international exposure, he has been actively engaged in exploring how technology can be leverage
+[...middle cut...]
+all uh I would like to sincerely thank our resource person Dr. Deipandu for such an insightful and enriching session. Your perspectives have deepened our understanding of artificial intelligence and its relevance to marginalized communities. And as we conclude uh I invite all of you to see yourselves uh not just as uh participants but as potential contributors to the journal of marginalized communities and social justice. And we encourage you to transform today's insights into meaningful uh research that promotes inclusion and social justice. And uh finally thank you all for your active participation and we look forward to your continued engagement in uh future sessions. Thank you very much.
+
+=== ID: C37Gn8MXfcE ===
+TITLE: Can Turnitin Detect Gemini? The Truth About AI in Research 2026
+DESC: Is your research truly authentic, or is it just a high-tech "hallucination"? Many researchers believe that if their plagiarism score is low, their paper is safe—but the reality of AI detection is much more complex.  In this practical demonstration, we explore the "Integrity Divide" in modern academia. Using a "naive researcher" approach, we use Google Gemini to generate a research summary on Agentic AI and its implications for Human Resources. We walk through the entire process: from prompt engi
+KEYWORD: AI plagiarism
+VIEWS: 4
+TRANSCRIPT: Hello viewers, we are here checking the most important part of how AI has been practiced in the actual research process. So we are seeing a basic example like how Gemini is used in the research practices in a very naive format. So first and foremost I have some topic in my mind and I would like to get some information about it. So it is related to the agentic AI. As a naive researcher, I have come up with very general topic. The topic is very simple like agentic AI and its implication on human resource uh department. And now I would like to get a two paragraphs to make the citing more uh almost for the 10 papers. Okay. So I asked for the valid or authentic papers. Does it really count well um in the research arena? Let's check with that. Okay, most of them are using for the deep research part but as we are naive we are not going for that. So we will not opt in for any tools here. Learn and deep research are most of the tools which are used by the pro pro users. But we are mostly sticking to the normal part. Now we will use either thinking or the fast because pro is also limited to some of the users only those who are having subscription. Right now I do have pro but I don't want to use it to make sure that everything goes well as per demonstration purpose. So I'll keep it fast and I will make sure that I will submit this. Now the prompt will work and as you can see there are two prominent uh paragraphs created along with the citation. As a demonstrator, what I will do, I will 
+[...middle cut...]
+y unique in all the senses you have seen like this these are not allowed in the actual practices there might be a issue it said uh dollars in every citation that's why it didn't caught up very well when we say similarity it comes with very naive 12% of similarity report but when we hop in for the AI writing it says 100% content is AI return. Okay, so that's what is really counting for. So as a naive researcher, everyone makes these kind of mistakes and this was just for a demonstration purpose how it happens and how you should uh try to get into the maximum non similarity process. So this was just a demo for that. Thank you so much for watching. We have lots of videos to cover up. Thank you.
+
+=== ID: cGyVzoKgyhQ ===
+TITLE: AI Poisoning: You Think You’re Thinking, But You’re Being Led
+DESC: “AI Poisoning” became a hot topic after recent discussions. But here’s the real issue: AI doesn’t need to lie to influence you. It can shape your decisions using only true information. In this episode: What AI poisoning really is The difference between SEO, GEO, and manipulation How to protect your own judgment (practical method) Key idea: Don’t just trust answers — examine how they’re formed.
+KEYWORD: AI plagiarism
+VIEWS: 2
+TRANSCRIPT: We are all curious about a question. whether our team has the suspicion of poisoning. Hi everyone, I'm Jaden. Hi everyone, I'm Lynn. Hi everyone, I'm Blanche. Last month, the March Fifteenth Party mentioned AI poisoning, which is GEO. To be honest, my first reaction was a bit shocked. because GEO is related to our company's business is still quite relevant. And GEO was suddenly placed in such a position. In fact, the SEO industry related to GEO has existed for twenty or thirty years. And this industry has been iterating. From the beginning of Google's group strategy, keyword stacking, link buying and selling, to the later content farm mass production, to the latest set of rules, EEAT's content quality optimization and AI-assisted SEO. In the past two years, with the development of AI large models, it has also derived the latest GEO. which is also called deep engine optimization. What really shocked me is that GE O has not been around for two years, it has been on the March Fifteenth. I think this itself shows one thing, is that the country attaches great importance to and AI information security is highly valued. And the degree of attention should be far beyond our imagination. So I As the head of our financial group's the head of the Shanghai company, And our Shanghai company one of the important businesses is responsible for online marketing at home and abroad. So SEO and Geo are naturally related to our business. is closely related. So today, I have invited the operations 
+[...middle cut...]
+ I will make a separate episode to share with you. In the end, I want to say to everyone no matter how technology changes, True freedom is not having unlimited choices, but that you always have the ability Understand why I made such a choice. In this era, commercial competition is no longer about who is seen, to a full-scale upgrade to to a cognitive war over who defines the criteria. The more powerful enterprises and platforms, the more they should be in awe. guard the boundaries of competition. Because this boundary is also the last line of defense for all of us to think independently. Thank you for listening and watching. We are Longxia Long-termists. See you next time. Longxia Book Test.
+
+=== ID: WtYS32GQnBk ===
+TITLE: Tools & Strategies to Avoid AI Similarity and Plagiarism | AI Tools Concerns for Quality Research
+DESC: Tools & Strategies to Avoid AI Similarity and Plagiarism | Ai Writing | AI Similarity | Plagiarism | AI Tools Concerns for quality Research   #myresearchguide #learnwithdrkulwantsinghkookna #phd #research #ethicalresearch #plagiarism #AItools #skillindia #academicwriting #innovationcouncil #researchsupport
+KEYWORD: AI plagiarism
+VIEWS: 251
+TRANSCRIPT: First of all, we will see here what is AI similarity because if we know what is the issue then we can think or we can keep in our mind to avoid this particular issue. AI similarity is the textual pattern that resemble contact generated by the AI platform. It may charge GPT, it may Zin, it may cloud AI, any AI assisted chatbot when we start using any tool to detect the similarity. So if a content is generated by the AI platform and same algorithm is detected by the tool then it shows some similarity from the particular platform. So it is not possible always as a plagarism because AI similarity is the different thing and plagarism is the different. So plaguism and AI similarity both are the different thing. We will see both uh in comparison but the similarity may exist due to repetitive farming predictable sentences uh structures or lack of personal voice or sometime as a researcher when we read the different papers and we have a opinion on a particular topic. So according to our uh voice or you can say when we start using the AI tools and we write the prompt in the journal term like what is the photography what is the environmental issues what are the global warming so the platform generate the same type of the answers right so this may lead to the similarities issue if we add our personal voice and we write the things in the depth with some specific details then it automatically avoid it. So all these thing exist when we are lacking in our own device and writing the content i
+[...middle cut...]
+ well as the players within 10%. Nobody will challenge you in near future for your any research document and seek guidance from your supervisor and experts. So if we just pick review of our session then AI generated text is not the plan but both are the major issues these days. Use the tool to detect the AI similarity and revise all the highlighted or flagged content to make it unique. Blend AI efficiency with the human intel and ethics. Uphold the value of your content in term of originality, authenticity and academic integrity. If you follow this path, if you start with these uh things as we discussed, then you can write your content for your document in a unique way. Nobody can challenge.
+
+=== ID: LeWPYk-r2Sc ===
+TITLE: Can ChatGPT Make You Fail a Plagiarism Test? AI, Turnitin & Ethical Research Explained
+DESC: With the rise of AI tools in academic writing, many students and researchers are worried about plagiarism, originality, and ethical research practices.  In this video, I explain how AI tools like ChatGPT can affect your plagiarism score — and why many theses and dissertations fail plagiarism checks even when sources are cited correctly.  You’ll learn: ✅ Why your thesis might still fail a plagiarism test ✅ What self-plagiarism is and why universities take it seriously ✅ How to use ChatGPT and AI 
+KEYWORD: AI plagiarism
+VIEWS: 65
+TRANSCRIPT: Whether we like it or not, AI is here and 
+it's not going anywhere soon. And of course,   it's no longer news that a lot of students now 
+use AI to study, to write, to research, and what   have you. But here's the big question. Can AI make 
+you fail a plagiarism test? Let's talk about it. In this video, I'll break down three 
+key things. Why your thesis might fail   a plagiarism test? What self-plagiarism 
+is and why it matters. How to use ChatGPT,   and other AI tools ethically in your 
+research or in your academic writing. Hello and welcome back to my channel. I'm Dr. 
+Mao and I help students and researchers grow   in academic writing, research, and confidence 
+presentation no matter your field. So, if you   want to stay relevant, ethical, and confident in 
+your academic writing, hit that subscribe button. Now, before we talk about how plagiarism 
+works with AI, let me paint a picture that   you will not forget. Imagine you have 
+just been invited to give a speech at   an international conference. You got there, 
+everyone was so excited. People were seated   waiting for you to speak at the conference and 
+then you picked up your phone and pressed play.   Then you played someone else's speech from 
+start to finish. No single word from you.   No acknowledgment of the person. Then 
+the audience clapped politely but they   began to whisper among themselves. Is that 
+even our voice? Who exactly spoke to us? That is exactly what happens when you copy 
+a text from AI and present i
+[...middle cut...]
+  work. So if you use your old work, it can be 
+counted as recycling and still gets flagged. So if you must reuse part of your old work, make 
+sure you acknowledge and make sure you cite. If you have not watched my video 
+on how to avoid plagiarism in your   academic writing—three simple steps—make 
+sure you go back now and watch that. Don't forget to like, subscribe, and 
+share with your research friends.   You might just save someone 
+from a plagiarism disaster. And you can also follow us on 
+our social media platforms:   Learn with Dr. Mojirayo on Instagram, 
+Learn with Dr. Mojirayo on Facebook. Stay ethical, stay original, and keep writing 
+with confidence. See you in my next video. Bye.
+
+=== ID: NFo4xSFYbPo ===
+TITLE: Ethical Use of AI Tools in Research Writing || AI Generated Plagiarism || Hindi
+DESC: Ethical Use of AI Tools in Research Writing || AI Generated Plagiarism || Hindi || Dr. Akash Bhoi #aigenerated #aiinresearch #aiethics   📌Best AI Tools 🪄📃SciSpace | AI Chat for scientific PDFs  - https://scispace.com/?via=akash-kumar [Get ↪️20%/Monthly with code AKBHOI20 & 10%/Annual with code AKBHOI10] 🪄📃Paperpal | AI Tool For Scholarly Writing: https://paperpal.com/?linkId=lp_726731&sourceId=akbhoi&tenantId=paperpal (Use code AKB20 for 20% off on all Paperpal plans) 🪄📃 AnswerThis - World's mos
+KEYWORD: AI plagiarism
+VIEWS: 1439
+TRANSCRIPT: वेलकम बैक टू सपोर्ट फॉर रिसर्च। आज हम बात कर रहे हैं रिस्पांसिबली आपको कैसे यूज करना है एनी एआई टूल पर्टिकुलरली अगर आप एक रिसर्च पेपर लिख रहे हो अपने थेसिस पे यूज़ कर रहे हो एआई टूल को एंड अगेन इट इज़ माय रिस्पांसिबिलिटी क्योंकि हम बात करते हैं डिफरेंट एआई टूल के बारे में जहां पे कि आपको वो हेल्प कर रहा है असिस्ट कर रहा है फॉर पेपर राइटिंग थेसिस राइटिंग कहीं पे आपको समराइज़ कर रहे हो कहीं पे आपको लैंग्वेज करेक्शन कर रहे हो कहीं पे कंटेंट राइटिंग कर रहे हो देयर आर सेवरल यू नो ऑप्शन जो कि एआई टूल के थ्रू आप एक्सप्लोर कर सकते हो तो एक तो यह है कि यह प्लेजरिज्म की तरफ भी लेके जा सकता है। इआई जनरेटेड टेक्स्ट अगर प्रॉपर्ली यहां पे साइटेड और एट्रिब्यूटेड नहीं है। आपने उसको साइट नहीं किया। आपने पेपर पे एट्रिब्यूशन नहीं दिया। आप बता रहे हो कि खुद का आपका खुद का काम है। खुद आपने लिखा हुआ है। दो यू हैव बोरोड इट फ्रॉम सम एआई टूल। तो यह प्लेजरिज्म की तरफ भी ले जा सकता है। दूसरा क्या है जो आप जानते हो कि इन एक्यूरेसी एंड हेलुजनेशन बहुत सारे यह टूल है जो कि आपको कंटेंट तो दे देगा बट वो हेलुजनेटेड भी होता है। जो रेफरेंसेस साइटेड मटेरियल भी आप आज देखते हो कि जो आप सोचते हो कि वो एक्चुअल सोर्सर्सेस है वो नहीं होता है। तो मतलब जो सोर्सर्सेस आप देखो वो हेलुजनेटेड डाटा होता है। एंड दैट वी हैव सीन। तो ये अगर हो रहा है तो वो फ्लॉड रिसर्च की तरफ भी जाएगा और आपका काम जो आपने बनाया है उसके चक्कर में मतलब मान लो कि 30 40% आपने एआई का हेल्प लिया है एंड दैट इज़ हेलजनेटेड तो आपका पूरा काम फिर बिगड़ जाएगा। तो यू हैव टू बी केयरफुल लैक ऑफ ओरिजिनलिटी यह ऐसा हो सकता है कि आप कंप्लीटली डिपेंडेंट हो एआई के ऊपर ए
+[...middle cut...]
+करके बाद में अपग्रेड भी कर सकते हो। सो दिस इज़ व्हाट यू नो दिस यू नीड टू कंसीडर एज़ एन रिस्पांसिबल यूज़ ऑफ़ एआई कैसे आप उसको करोगे। सो दैट आप सिफ़र साइड पे रहोगे क्योंकि इट इज़ नॉट जस्ट कि आपने एक पेपर लिख दिया। एक आपने थेसिस पे काम कर दिया। आपका रिसर्च कंप्लीट हो गया। इट इज़ समवट यू नो लॉन्ग जर्नी। तो आपको उसी पर रहना है। उसी पर सस्टेन करना है। तो एक एक दायरा में रह के एक रेगुलेटेड बाउंड्री पर रह के हमको काम करना है। सो दैट्स व्हाई आई थॉट ऑफ़ ब्रिंगिंग दिस सॉर्ट ऑफ़ वीडियो। डू वाच आवर अदर वीडियो जहां पे मैं बात कर रहा हूं बहुत सारा टूल के बारे में, बहुत सारा नो अदर कंसर्न के बारे में। तो, वह सब वीडियो भी आपको हेल्प आउट करेगा इन योर रिसर्च जर्नी। डू सब्सक्राइब, डू लाइक बिफोर लिविंग। थैंक यू।
+
+=== ID: Q8rnPOcLE60 ===
+TITLE: Lecture: AI, Plagiarism, and Ethics
+DESC: AI, Plagiarism, and Ethics Lecture
+KEYWORD: AI plagiarism
+VIEWS: 5
+TRANSCRIPT: Hey folks. So, we're going to be talking a little 
+bit about AI, plagiarism, and ethics. At this   point in my academic career, as I'm sure you all 
+you're very familiar with the conversations around   AI, and some of you, if you're like me, have 
+a little bit of AI fatigue. Some of you may be   interested in learning more about AI, and that's 
+totally your prerogative. Like I mentioned in the   syllabus, AI is not welcome in my classroom, 
+but you're also adults and I'm not going to   necessarily stop you from using it. So here we're 
+going to be talking about AI plagiarism and what   it means to use AI and be an ethical researcher 
+and how to cite it appropriately. Again,   as long as you are not plagiarizing and you are 
+citing it correctly, I can't stop you from using   it. But hopefully I can make an argument as to 
+why utilizing AI is not necessarily the tool   that some might think it is. But before we do do 
+that, let's talk a little bit about plagiarism.   You all are very familiar with plagiarism as 
+a conversation by now. Plagiarism is literally   taking somebody else's work and masquerading it 
+as your own. And we know that it's wrong. Again,   we've been having these conversations. Some 
+of you since high school have been having this   conversation. But if we know that it's wrong, 
+why do 17% of college students still admit to   plagiarism? Plagiarizing. Why is that? It could 
+be a lot of different things. You don't understand   the assignment or what the assignm
+[...middle cut...]
+rocess   without plagiarizing. You can use it to help 
+you brainstorm. You can use it to create an   outline or you can use it to check your spelling 
+and grammar. Think about Grammarly. If you use   AI in any capacity, you need to site it. Even 
+if it's Grammarly, otherwise it's plagiarism.   Uh there is not a general consensus about how to 
+site it yet, but for this class, I have linked the   Brown University AI citation guide to assist you 
+with your AI citations. They have three different   formats. They have MLA 9, APA 7, and Chicago. 
+Everything in this class should be APA 7. So make   sure that if you do use AI, you are following this 
+citation guide in order to site AI appropriately.
+
+=== ID: At6Co9xD1Dg ===
+TITLE: AI Plagiarism Crisis: ACL 2025 Award-Winning Study Exposes 24% of AI-Generated Research is Copied
+DESC: 🏆 ACL 2025 OUTSTANDING PAPER AWARD WINNER 🏆  AI research agents claim to generate novel scientific ideas—but this groundbreaking study reveals a shocking truth: 24% of AI-generated research papers are plagiarized. Watch this deep dive into the award-winning paper that's changing how we think about AI in science.  📊 SHOCKING FINDINGS: • 24-36% of LLM-generated research shows significant plagiarism • Traditional plagiarism detectors (Turnitin) detect 0% of AI idea theft • Even peer-reviewed AI-gen
+KEYWORD: AI plagiarism
+VIEWS: 3
+TRANSCRIPT: So, we're all hearing about this incredible new era, right? Where AI is going to be our partner in science, just churning out discoveries. It sounds amazing, but what if there's a huge hidden problem with this shiny new toy? All right, let's just jump right in with a quote that really sets the stage. It's from the superimpotent paper by Gupta and Pruthy. They say, "Amidst the prevailing optimism, we document a critical concern. A considerable fraction of such research documents are smartly plagiarized. Whoa, plagiarized. That is a heavy word. So, how on earth did they come to that conclusion? We've got to unpack this. Okay, first let's get on the same page. This idea, this dream of the AI scientist, it's everywhere you look. We're not just talking about AI writing your emails anymore. The big promise is that these large language models, you know, the tech behind stuff like chat GPT, can come up with truly original, groundbreaking scientific ideas, like complete research proposals from scratch. And look, this wasn't just hype. There was a big study back in 2024, Sai and colleagues, that actually tested this. They had real experts look at research proposals, some from AI, some from humans. And get this, the experts rated the AI's ideas as being more novel than the human ones. I mean, can you believe that? Naturally, everyone got super excited. But the researchers we're talking about today, Gupta and Pruthie, they saw those results and thought, hm, something feels off. They deci
+[...middle cut...]
+c integrity in the age of AI. And we need it now. And you know what? The scientific community paid attention. big time for this incredibly detailed and yeah pretty controversial research. The paper won the outstanding paper award at ACL 2025. That's one of the biggest conferences in this field. So this wasn't some fringe theory. The community recognized it as a crucial must-read piece of work. And all of this leaves us with one last massive question to think about. We are racing ahead trying to use AI to build our future to solve the biggest problems in science and technology. But this research forces us to stop and ask a really uncomfortable question. Who's going to check the AI's homework?
+
+=== ID: Fo2-SwBqKMM ===
+TITLE: Is Using AI To Write Considered Plagiarism? - High School Toolkit
+DESC: Is Using AI To Write Considered Plagiarism? In today’s educational landscape, the use of artificial intelligence in writing assignments has sparked considerable debate. This video will cover the implications of using AI tools for your schoolwork and what it means for academic integrity. We’ll discuss the definition of plagiarism and how it applies to AI-generated content. Understanding the policies schools may have regarding AI use is essential for students navigating this new technology. We’ll 
+KEYWORD: AI plagiarism
+VIEWS: 298
+TRANSCRIPT: Is using AI to write considered plagiarism? Have you ever wondered if using artificial intelligence tools to write your assignments is a form of cheating? This is a hot topic in high schools today. Let's break it down together. When students use AI to generate writing and present it as their own, it can indeed be considered plagiarism. Plagiarism occurs when someone uses another person's work or ideas without giving proper credit. If an AI tool writes your assignment and you do not acknowledge that, it is similar to copying someone else's work. Many schools view using AI generated content without disclosure as academic dishonesty. Assignments are designed to show what you understand and how well you can express your ideas. If AI does the writing for you, you miss out on the learning experience. This can lead to serious consequences such as failing grades or even expulsion. Some schools have clear policies against using AI tools like CHACPD4 assignments. They may explicitly state that using such tools is cheating. This is because the goal of assignments is to demonstrate your own knowledge and skills. The situation can be tricky because AI generated content is often unique and may not be caught by traditional plagiarism checkers. This makes it harder for teachers to identify when AI has been misused. However, the ethical expectation remains that students should submit work that reflects their own effort. If you do use AI tools, it is essential to site or disclose their use acc
+[...middle cut...]
+rism and can lead to academic dishonesty. Schools may have specific rules about AI use, often banning it or requiring students to disclose their use. The consequences for improper use can include academic penalties and damage to your reputation. To avoid plagiarism, always do your own work or clearly indicate when you use AI tools as part of your research or writing process. In practical terms, focus on organizing and planning your assignments carefully. If allowed, use AI only as a tool for brainstorming or editing. Always ensure your final submission reflects your understanding and effort. This approach helps maintain academic integrity and supports genuine learning throughout high school.
+
+=== ID: V6DLlZWX9PI ===
+TITLE: Make Assignment/ Research Paper plagiarism free without using any AI tool
+DESC: 
+KEYWORD: AI plagiarism
+VIEWS: 105
+TRANSCRIPT: plagiarism is by far the most daunting challenge faced by any student or a researcher while they do their assignments or any research work so what to do number of people will tell you that there are a lot of AI tools you can use AI tools for reducing pages in percentage or totally removing it but do you know that when you use those tools your content gets diluted the quality of the assignments and the research is simply not what you expect expect or not what your publisher will expect so what to do how to reduce plagiarism or even how you can prevent plagiarism so that the final outcome of your research paper or the assignment is free of any kind of plagiarism issues so I will be talking about how you can reduce or how you can prevent plagiarism in your assignment or aearch paper I request you to watch this video till the very end because I will be talking about all the seven steps and I will not just talk about these steps but I will practically show you how you can use all of those steps to stay away from plagiarism if you are new to my Channel please subscribe so that you get all the notifications when a new video is launch I would also like to mention here that I talk about how to use and how not to use AI in your research and assignments so that you can come up with the best quality of the world so without any delay let let me show you how you can reduce or how you can prevent your work so here are the seven steps which I'm going to cover which will make sure that your l
+[...middle cut...]
+ct that this Contex is being return using any AI tool so don't Le towards using any AI tool to write your assignments or your search paper you can simply get ideas from them and then you can write all of those manually so these were my tips to avoid plagiarism in your assignments and research papers do let me know in the comments section if you loved this steps and I would also love to know what techniques do you use to avoid plagiarism in your content and if you are new I want to mention that I make videos on how to use and how not to use AI tools to boost your writing speed your research speed and your assignment speed so now we will meet in the next amazing video till then [Music] bye-bye
+
+=== ID: 8EDVec5gRSY ===
+TITLE: AI-Generated Plagiarism: Is Jack Dorsey Right to 'Delete All IP Laws'?
+DESC: Protect Your iPhone with Confidence! https://amzn.to/4c8E8w5 IP Laws vs AI-Generated Content: The Great Debate - Is it Time to Reform?   Watch as we explore the complex implications of Jack Dorsey's statement on IP laws and AI-generated content. Join the conversation with experts and thought leaders, including Nicole Shanahan, Roman Helmet Guy, Dr. Danish, Simon Pulman, Chris Anderson, and Sam Altman.  #AI #IPLaw #ArtificialIntelligence #CreativeRights #IntellectualProperty #TechTrends #Debate
+KEYWORD: AI plagiarism
+VIEWS: 11
+TRANSCRIPT: Your brand new iPhone deserves the best protection, and the ELON 3ack screen protector plus three-pack camera lens protector has you covered. Don't take risks with your iPhone. Click the link in the video description to shop now on Amazon. Welcome to Chat GPT Insights, where we dive into the latest tech trends and explore their implications on our world. Today, we're discussing a debate that's got everyone talking. Jack Dorsey wants IP laws gone. Imagine walking down the street and seeing someone wearing your favorite artist's signature style without any permission. Of course, that's basically what happened with Studio Giblly portraits generated using chat GPT, an AI tool. The original creator, Ho Miyazaki, has never responded to these AI generated images, but artists worldwide have taken a stand against plagiarism via AI. Jack Dorsey, Twitter's co-founder and former boss, recently tweeted, "Delete all IP laws." He claims that times have changed and one person can build more faster. Elon Musk agreed with this statement, joking about handing over the source code. But what do experts think? One actual IP professional, Nicole Shanahan, disagrees entirely. She emphasizes that IP law is the only thing separating human creations from AI creations. If we want to reform it, let's talk. Roman helmet guy agrees, stating that IP law was the single sufficient and necessary cause of the industrial revolution. However, not everyone shares this view. Dr. Danish points out that deleting IP laws will reduce the incentive to spend money on frontier research. It turns into content for someone else. And what about the creators themselves? Simon Pullman, an entertainment lawyer, calls Jack Dorsey's statement one of the silliest statements ever. He paints a grim picture of a world without IP laws. Meanwhile, Chris Anderson and Sam Alman have differing opinions on this topic. In conclusion, the debate around IP laws and AI generated content is complex. While some argue that it's time for reform, others believe it's essential to preserve our current system. At chatgpt Insights, we'll continue to monitor this trend and explore its impact on our
+
+=== ID: E0W6MHGpKVs ===
+TITLE: PLAGIARISM IN THE AGE OF AI | Javier Clavere | TEDxUIW
+DESC: Imagine spilling a glass of orange juice into a crystal-clear pool. The juice swirls, mingles, and disappears into the water. Is it still orange juice? Pool water? Or something entirely new? This simple image captures a profound question: when boundaries blur, how do we define identity? Today, artificial intelligence is that orange juice—blending into the vast pool of human creativity. AI can write essays, compose music, and generate art at lightning speed. But does this output represent origina
+KEYWORD: AI plagiarism
+VIEWS: 1022
+TRANSCRIPT: Picture yourself floating in a crystal clear pool. The sun warm against your skin. A gentle breeze steers the air as you sip a cold glass of orange juice offering solas amidst the summer heat. Then in a curless sleep, the glass tumbles from your hand. The golden liquid spills into the water, swirling like sunlight caught in motion. Ripples spread, blending the orange liquid with the cool blue water. A quiet dance of juice, chlorine, and clarity. For a moment, the colors linger, creating a new orange liquid that is incorporated into the vast embrace of the pool. Now, a question surfaces. Is it swimming pool water, or is it orange juice? Is it a blend that is a new liquid compound? The dilemma in this story is one of identity and transformation. It raises the philosophical and scientific question of whether the spill orange juice now mix with the pool water remains orange juice remains pool water or has become an entirely new entity. A blended liquid with its own unique properties. This anecdote mirrors a classic paradox about change and essence. At what point does something cease to be what it was and become something else? Is the fusion of two distinct liquids just as mixture as it has fundamentally altered into something new? How do we define and categorize things especially when boundaries blur? We're entering an era where the line between human creativity and machine generated content is blurring fast. Artificial intelligence can write essays, compose music, generate code,
+[...middle cut...]
+can we use AI to expand what is possible? How can we build a better world where AI empowers us to write better, to learn faster, and to create in ways we never imagined before? How can we use AI to empower others and move our society towards human flourishing? Ultimately, AI may generate ideas, processes, information, and decent spirits and clothe itself in a mantle resembling magic. However, only humans can create meaning, beauty, and transcendence. An algorithm may be able to rearrange words or remix ideas in a brilliant matter at the speed of light. But only we as humans can infuse them with emotion, intent and purpose. And that is something that no algorithm will ever replace. Thank you.
+
+=== ID: pTi0XOxhXAE ===
+TITLE: Use your HI ( Human Intelligence ) To Monitor Your AI False Trademark plagiarism in ChatGPT
+DESC: https://www.sternstorminglive.com/blogging-vlogging-funnel-stern-storming--66f6b Create INFINITE Customers COMBINING two separate marketing strategies!  So, you’re using AI to create content. Cool.    But did you know AI might be scanning *your* content and flagging it for trademarks or plagiarism?    Here’s where it gets weird.    Imagine you’re in college, writing a paper. You quote Nike’s “just do it” in your thesis. Pretty harmless, right?    Run it through an AI checker, though… and guess w
+KEYWORD: AI plagiarism
+VIEWS: 9
+TRANSCRIPT: So you think now that if you use AI, you know, these things can be detected as AI and they'll be demoted on something like Google. But what if AI is now scanning your content for content that's trademarked or plagiarized and all this? Well, this is what Hey, this is how things can get into trouble. So let's say I'm in college. This has happened to college students reading lately this last year. And they quote the Nike ad that says just do it. and you run this through your AI. The college professors are now doing this. They're checking it. We're using AI for plagiarism and stuff. Well, the AI comes back and says, "Nope, that's not good. That's a trademarked word. You can't use that in your article." Now, a little common sense would tell you, "Well, I mean, it's a common phrase and it represents the brand, but that doesn't mean that I have to pay Nike $50,000 because I put it in my doctoral thesis." So, we're having this conflict now back and forth. The last video I did is about producing content, just using AI and flopping it on there and how that's bad. But also now we're having a problem with AI checking your content and coming up with things that just really don't make sense. So we're always going to use our high, like when I meet you, I say hi. That's my human intelligence to watch over my AI, my artificial intelligence. [Music] Hey now, take a step outside and seize the day. Now.
+
+=== ID: XL-lPa9DCpo ===
+TITLE: AI cheating is "off the charts" says California teacher who advocates targeted use
+DESC: (12 Sep 2025)  RESTRICTION SUMMARY:  ASSOCIATED PRESS Valencia, California - 27 August 2025 1. English teacher Casey Cuny welcomes students to class at Valencia High School 2. Laptop computers are handed out to students 3. Cuny addresses students in class UPSOUND (English) Casey Cuny, Teacher at Valencia High School: "I need you to actually go to ChatGPT. Have you heard a teacher say that before? What?" 4. SOUNDBITE (English) Casey Cuny, Teacher at Valencia High School: "While I'm usin
+KEYWORD: AI cheating school
+VIEWS: 522
+TRANSCRIPT: What's up Micah? Good morning. Good morning. Think about your parents. I need you to actually go to chat GPT. Have you heard a teacher say that before? You're like, what? Uh, well, while I'm using AI and I see great potential in it, I'm also very aware of the risks and the challenges. Um, I, you know, the cheating is off the charts. I've never seen cheating at this level in my entire career of 23 years of teaching. So there have to be guardrails in place. It's a tool just like anything else. So drop the whole thing in. Look at that. The whole thing all the way down. And then it should ask you a topic you're interested in. You could pick anything from Yes, I am having I am having kids use uh catchupt and get into chach often or claude uh and um or gemini. But um but yeah, because I want them to really learn AI literacy. I want them to learn how to use it effectively as a tool. I don't use it every day obviously. Um, so let me put this up for you. Okay. Computer is widely created with shifting rock music towards experimental and electronic styles earning reputation. Now, uh, bands such as Cold Play. Um, so as much as I see the potential with AI, I also recognize the serious risks and and concerns in terms of cheating and and and things like that. So I do have guard rails. I mean, I have the uh I I I communicate them to students. I think that's a key thing. I communicate the green light, yellow light, red light, which is really telling students like here's how you can use AI tha
+[...middle cut...]
+ow is most interesting because it's if you think of a great way to use AI, uh, come talk to me about it. And that is they have some amazing ideas. Control A. That's that's a for all. If you control A they'll highlight the whole thing. That it gives them feedback and then gives them suggestions like hey try cause and effect with that same topic. And um and then you know the key is that I'm not sitting at my desk. I'm still the teacher circulating around the room helping students. So there's your uh claim. Country music remains one of the most influential genres. And so I just see it as a extension really of good teaching and the ability to really really amplify critical thinking. How are you?
+
+=== ID: _M1wi3YOkmQ ===
+TITLE: Is Bringing Back Pen and Paper the Way To Fix AI Cheating in Schools?  | The Social
+DESC: We debate the merits of going old school in an attempt to combat students outsourcing their work to artificial intelligence.  WATCH MORE debates from The Social here: https://bit.ly/2m8jyqN   Co-hosted by Melissa Grelo, Cynthia Loyst, Andrea Bain and correspondent Jess Allen, The Social brings a fresh perspective on the up-to-the-minute news, pop culture, and lifestyle topics.  Follow The Social on Instagram: https://www.instagram.com/thesocialctv/ Find us on TikTok: https://www.tiktok.com/@thes
+KEYWORD: AI cheating school
+VIEWS: 1705
+TRANSCRIPT: This is a huge topic. So, the Wall Street Journal is reporting that cheating with chat GPT at American colleges is so out of control that some schools are actually deciding to bring back old school blue exam booklets and just pens and that's it. No phones. No phones anywhere. Will this combat AI cheating? Yeah. What do you guys think? Right. You all are on board. My first thought when I heard this story was I think this the teachers are actually trying to help the students. Yeah. I know AI, we talk about it all the time on the on the show. The horse has left the barn, the train has left the station, it's already happening. But I think there are a lot of students, and I would I would be guilty of it, too, if I was a young person in school, are leaning too heavily on this technology because they know they have it. And I think by bringing back the pen and paper, the teachers are trying to remind these kids, you're smart enough. You have the answer. You don't need this. You don't need chatbt. I know if you study and you put your mind to it, you can do it. I'm going to give you an hour in this class and you're going to surprise yourself. I'm going to give you a mark back that you're going to feel like you truly own that mark because you did not use technology. You used your brain and you took your time and you studied old-fashioned way to do it. And I think that's what they're trying to do. Yeah. You know, it's it's fascinating to me as a former educator. I always ask myself, what
+[...middle cut...]
+hink and retain information and not just be like fed stuff because we know that there like all the research shows that actually that activity of holding a pen doing it actually helps to retain information. It helps to knowledge. So if you lose that entirely I don't know we're doomed. Kids are going to be like I don't know. I think it also builds your confidence when you know it's like I wrote this. This came from me and I wrote this and I worked on it and I think that's going to be in future. Hey, you come a bit closer. We've got so many more must-sea interviews, spicy debates, lifestyle tips, and pop culture moments. So, subscribe to our channel by tapping the logo below and don't miss out.
+
+=== ID: D8AXOV4zd8U ===
+TITLE: AI Critical Literacy Podcast Series - Season 2, Episode 1: It’s Only Cheating When You Get Caught
+DESC: Hearkening back to his limited and largely unsuccessful days playing Texas football, host Jared Schroeder begins Season 2 by thinking about why students cheat and the future of academic integrity in the AI era. The episode features Missouri School of Law professor Ben Trachtenberg, who directs the university’s office of academic integrity. They discuss the first chapter of The Opposite of Cheating and explore factors that  drive students to cheat, suggesting faculty clarify assignments and show 
+KEYWORD: AI cheating school
+VIEWS: 29
+TRANSCRIPT: Welcome to the University of Missouri's Teaching for Learning Cent's AI Critical Literacy podcast. My name is Jared Schroeder. I'm the host of the podcast and an associate professor of journalism at the Missouri School of Journalism. And this episode kicks off season 2, uh, season 2, episode 1. This is the it's only cheating if you get caught episode. I've forgotten a lot about high school, things I probably should have learned that I didn't, and an absurd amount of ne unnecessary information about the Alamo. It seemed like we covered the Alamo a disproportionately large amount of time. I was in Texas and it turns out that the Alamo information hasn't been very useful at all in the rest of my life. That's weird, right? But one thing I really do remember and it's probably like I think about it all the time. It's like permanently wedged in my mind is a moment from high school football. Um I was an undersized understrength offensive lineman and I remember the coaches during two days these excruciating hot long humid muggy practices in the summer all these pads on. I remember the coach pulling us aside, the offensive line coach, and explaining to us, you're not allowed in football to hold the defender. You can't hold them during the play to keep them from making a tackle or getting to the quarterback or whatever. You can't hold them. You have to block them. You can't hold them. But he explained to us, and you get a penalty if you get caught, right? They'll throw a penalty flag. T
+[...middle cut...]
+ntegrity exhibiting behavior. Similarly, we can make it easier for faculty to learn this stuff, easier for them to be trained on the latest materials, easier for them to have their courses and assignments evaluated by peers in a timely and constructive manner. The more we do that as a campus, the better results we're going to see. And the more we say, "Boy, I hope every professor buys and reads this book and all on his own devotes extra uncompensated time to responding to this extremely frustrating phenomenon, the less likely we are to be an institution in which all of us are happy to work." Yeah. Well, thank you for joining me. Thank you for joining that podcast. Sure. Thanks for having me.
+
+=== ID: ijxBjPQaHRA ===
+TITLE: AI in the classroom: Cheating, learning, and the new academic gray zone | The Excerpt
+DESC: With AI tools like ChatGPT becoming ubiquitous on college campuses, students and educators alike are navigating a rapidly shifting academic landscape. Beth McMurtrie, a senior writer at The Chronicle of Higher Education, joins The Excerpt to talk about how students are using AI—from brainstorming and revising to outright cheating—and the ethical dilemmas that follow.  #AI #AIineducation #HigherEducation
+KEYWORD: AI cheating school
+VIEWS: 1343
+TRANSCRIPT: [Music] Hello and welcome to the excerpt. I'm Dana Taylor. With the advent of AI tools like chat GTP, cheating in college has become more accessible, prevalent, and for some students, less ethically troubling. However, cheating has always been an issue in education. How much of a factor is AI playing here? And isn't learning how to use AI in preparation for entering the workforce where that skill is essential a good thing? To answer these and other questions, I'm now joined by Beth Mcmmer Merry, a senior writer at the Chronicle of Higher Education. Thanks for joining me, Beth. Glad to be here. How are college students currently using AI tools in their academic work? Well, the really interesting thing that I found in my reporting is that students are starting to use AI as an all-purpose tool. And by that, I mean they're using it as a search engine. They're using it to start papers and projects. They're summarizing the readings that they're being assigned. They're using it to brainstorm. They're using it to quiz themselves in preparation for tests. And they're using it to revise their own writing. I think that's a really fascinating transition that we're seeing in this area. um era of technology where it's not just Google anymore. We're really shifting everything over to AI. In that same vein, are there instances where students or even institutions struggle to define the line between acceptable AI use and academic dishonesty? Yes, absolutely. This is a huge debate in higher edu
+[...middle cut...]
+nd bring it back to me and I'll tell you whether or not you got a good grade on it. I think that is the probably the key way that educators can assure parents and society and students themselves that they're actually engaged in the process of learning. The problem there is obviously that is pretty time inensive. It can be difficult to do in a large class. We know a lot of introductory classes are quite large, but it is a real challenge and it's something where higher education is really going to have to wrestle this issue to the ground. It's good to have you on the excerpt, Beth. Thanks for coming on. Thanks for having me. Thanks for watching. I'm Dana Taylor. I'll see you next time. [Music]
+
+=== ID: is2C9OwSKV8 ===
+TITLE: Essay mills and assessment — Considerations regarding contract cheating and AI in higher education
+DESC: Full Citation: Sweeney, S. (2023). Who wrote this? Essay mills and assessment–Considerations regarding contract cheating and AI in higher education. The International Journal of Management Education, 21(2), 100818.  https://doi.org/10.1016/j.ijme.2023.100818  What is academic dishonesty/essay milling/contract cheating/ghost-writing in higher education? Why do students do that? How may it affect us? What may happen when AI meets academic misconduct? What consequences may students face? You may fi
+KEYWORD: AI cheating school
+VIEWS: 21
+TRANSCRIPT: [Music] Hi everyone, welcome back to our channel. Here's common and I'd like to introduce an article named who wrote this essay news and assessment considerations regarding contract cheating in AI in higher education written by Simon Sweeney. [Music] Academic dishonesty as defined by the scholars in 2017 is a deitful or unfair acts intended to produce a more desirable outcome on an exam, paper, homework assignment or other assessment of learning. In fact, many of us may have already witnessed or encountered academic dishonesty around us, copying answers from others, bringing cheat sheets into a closed book exam. We may have seen them since secondary school stepping into higher education. Academic dishonesty becomes something more serious and complicated. This article is going to share essay learning a classic and quite common form of academic misconduct in higher education. The impacts of AI on this trend, reasons for the misconduct and possible consequences. Finally, complete by some suggestions that may help the academic institutions to counter academic dishonesty. Essaying aka contract cheating or ghost writing in simple explanation is an act that students purchase and hand in essays or other unsupervised assignments from third parties while claiming full authorship of them. Basically, it's students paying for a service by others to finish their own assessments. You can trade with other students who are confident and eager to earn income or so-called professional writers o
+[...middle cut...]
+of assessments can be used to measure students learning. Technology is a double-edged sword to our daily life. On one hand, AI facilitates us in terms of working efficiency. On the other hand, it becomes an attractive tool for academic misconduct. Tutors, academic institutions, and different related platforms are working hard to identify suspicious cases and give up penalties. But it's not enough. Schools should try their best to let students treasure the value of integrity. They should understand that honesty is an essential element of trust in academia. Therefore, let's choose trust over transaction. Let universities return from writing competition holders to centers for nurturing fingers.
+
+=== ID: XO3KpAS5SZA ===
+TITLE: Professor Rants: Colleges Are Cheating with AI ( @LearningandTechnology)
+DESC: Frank´s Blog Post: https://www.summittechacademy.com/post/ai-in-education-is-it-the-schools-that-are-cheating  In this insightful interview, we sit down with  @FrankBergdoll, a dedicated educator and learning enthusiast with over 25 years of experience in the field of education. With a passion for helping individuals reach their full potential through learning, Frank's career has been defined by a commitment to excellence in teaching, program development, and technology integration.     💸Explore
+KEYWORD: AI cheating school
+VIEWS: 575
+TRANSCRIPT: Artificial intelligence is
+merely an aggregator of data. Maybe that was a rant.
+Did I just. Did I just rant on your podcast?
+No, no. I'm here with Frank Bergdoll,
+a fellow podcaster with years of experience combining two of his
+education and technology. If I interact with an AI, I'm interacting
+with synthesis of the information. So, you know, we go
+from information and the. And the phase of, you know,
+when Google first came out. Well, I shouldn't say Google
+search engines first came out. We had the same
+conversations in education. Should we have the Internet
+in the classroom? That was a legit conversation
+that we had years ago. We should block the Internet. I remember classrooms where there was a, literally an Internet switch at the door,
+like a light switch, and you could disconnect
+the classroom from the Internet. Right.
+And because the fear was that students would be distracted or students wouldn't
+learn or why would they want to attend a course if they could just look up the
+information that I'm going to give them? Well, that's not the question, is it? The question is, why are you delivering information instead
+of delivering learning? That's the real question.
+Right? Got to do a little soul searching there. And then now we take I,
+and it's just synthesizing information. So now the question is,
+if all you're doing is synthesizing information, then maybe you don't
+need to question what they're doing. You need to question what you're doing. So now we move to higher orders of
+[...middle cut...]
+ight or sparked ideas? And if it did, that's fantastic. And if it didn't, well, I'm sorry, that's a lot of time wasted,
+but I'm hoping it did. I'm hoping I'm going to get
+an affirmative answer. There's. But ask yourself
+the question anyways, right. Did you get value from taking time out
+of your life to listen to this podcast? And I hope the answer is yes. Last thing before we go, Frank,
+and this is something again, I told you there's two things
+that we're dealing with, everybody. We're asking about the book and now
+we're asking for your dance move. I'm going to put a short 22nd flip of music and just give us your
+best dance move, whatever you got. Let's see it.
+All right, you ready? Save it.
+
+=== ID: 3qJvzLHpe6k ===
+TITLE: Cheating in School: AI and Explosive Consequences 📚💥👨‍🎓💻🤖
+DESC: Published today recently on May 11 2024  Introduction: Explore the impact of cheating in education with AI involvement. 📚💥👨‍🎓💻🤖   Delve into the complexities of academic integrity.  Climax: Witness the pivotal moments where technology and dishonesty collide. 📚💥👨‍🎓💻🤖 Understand the gravity of these situations.  Ending: Reflect on the consequences and implications for the future of education. 📚💥👨‍🎓💻🤖 Consider the ethical dilemmas and potential solutions.  Scope: Uncover the broader implications of
+KEYWORD: AI cheating school
+VIEWS: 59
+TRANSCRIPT: what would you do if you could gain a fortune by bending the rules imagine this a whisper of a deal slides across your desk cheat on an exam and in return receive an astronomical sum a number so large it blurs the lines between fantasy and reality but here's the catch if you're caught not only does the dream vanish but the consequences could Ripple out like shock waves from a bunker blast today we delve into a hypothetical scenario where Temptation tugs at the sleeve of in rity picture a student let's call him Alex Alex encounters a once- in a-lifetime offer cheat using an advanced AI during a crucial exam and secure Financial Freedom Forever the tool disguised ingeniously as a regular pin is capable of feeding him all the right answers a Flawless plan perhaps not consider the moral tight RPP Alex walks upon on one side the weight of immediate and immense reward dangles precariously on the other the gravity of ethical integrity and the very real risk of severe academic and personal repercussions what guides Alex's decision cheating in any form isn't merely a shortcut to a possible reward it's a deviation from one's values a momentary lapse in judgment that questions one's character it's easy to argue that the end might justify the means after all a fortune could transform lives fund altruistic projects or secure a future yet does the source of this Fortune not taint every subsequent achievement moreover the Spectre of getting caught looms large universities employ sophisticat
+[...middle cut...]
+ility in Alex's case choosing to cheat could mean never truly knowing whether his achievements are his own or merely the fruits of fraudulence in conclusion when faced with the temptation to bend the rules for personal gain consider not only the immediate benefits but also the long-term implications on your character and integrity every choice writes Al line in the story of who we are and it's up to each of us to decide how that story unfolds remember true success doesn't come from what you gain but from what you value and how you achieve it Integrity once compromised is a hard thing to regain Choose Wisely for your choices shape not just your future but also the essence of who you truly are
+
+=== ID: 79EMhZbP73Q ===
+TITLE: How to Prevent Cheating in Online Proctored Exams Using AI Agents | AI Tools for Students
+DESC: Online exams aren’t what they used to be and neither is cheating. With AI tools like OpenAI's Operator, students can ace exams effortlessly without even breaking a sweat.  The real question is can your proctoring system keep up?  At Talview, we’re tackling AI-powered cheating head-on with our AI Proctoring Agent, Alvy built to outsmart evolving threats with secondary camera monitoring, a secure browser, and live screen tracking.  Learn more - https://www.talview.com/en/alvy-ai-proctoring-agent  
+KEYWORD: AI cheating school
+VIEWS: 2328
+TRANSCRIPT: are you conducting an online [Music] exam do you really know who is taking the exam is it the test taker or AI on behalf of the test taker I am sure you don't believe what I just said yes AI can take online exams here's how this test taker is using operator which was recently launched by open AI it's just so easy to cheat in online exams these days you just open the exam link through operator and it will take the exam for you you can just sit back relax and watch AI complete the exam with flying colors online exam results will not be reliable going forward there are many more ways AI is being used for Cheating in exams but are you equipped to detect and prevent it counter AI with AI with talview talview has launched the world's first AI agent for proctoring and the power of AI combined with secondary camera monitoring secure browser and live screen share helps to maintain the validity of your exams
+
+=== ID: Re_ThXH9N8Y ===
+TITLE: Columbia Student SUSPENDED for Raising $5.3M on AI Cheating Tool Cluely | RadioU
+DESC: A Columbia student thought it would be a good idea to raise over $5.3 million dollars to make this AI tool that he claims lets U "cheat on everything". Cheating isn't allowed at the school, but is this fair? Let us know in the comments.  Download RadioU App https://radiou.com/mobile-apps/  Follow RadioU Facebook: https://www.facebook.com/RadioURiot Instagram: https://www.instagram.com/radiouofficial/ TikTok: https://www.tiktok.com/@RadioUofficial Twitter: https://twitter.com/RadioU Spotify: http
+KEYWORD: AI cheating school
+VIEWS: 30
+TRANSCRIPT: Starting to think this AI stuff is getting a little out of control. 8772 radio going around the last day or two is a new AI tool called Cli that uh Columbia student Roy Lee claims he's part of the team that started it claims it will allow you to cheat on everything. Like that's literally in their little product ad that they've come up with for this thing. Oh boy. They want you to be able to It literally says cheat on sales calls, cheat on interviews. The ad shows the guy cheating on a date. Um as in like being it's a first date and he's uh able to, you know, find details from a profile. The AI is suggesting what he should say. Yeah. People, this is a video ad. They say they have $5.3 million in funding already to get this thing going. Mhm. Um the ad definitely plays like a trailer for Black Mirror as many people have pointed out. Yeah. And the the the catch or the draw of this though, like how does it help you cheat on everything is that it like you can have this running live as you're doing stuff and it will feed you suggestions. At least that's the goal of what they plan to do with it. Well, I got to be honest. The advertisement to me actually does nothing to sell it and actually just makes it look so stupid to use, especially in a date setting because it doesn't help him out with his date at all. It actually makes it way worse. She gets up and leaves during the ad. So, how is this helping promote the company? I think the idea is that you can use this to cheat, but there's 
+[...middle cut...]
+xists. It's just not available to everybody and they need funding to make that happen. But he says he was able to use it to get himself an internship at Amazon. Uh like he used this for the interview is what he claims. Amazon said they declined to comment on the particular on this this situation specifically, but they said its job candidates must acknowledge they won't use unauthorized tools during the interview process. Well, that ought to stop him. Yeah, that's really going to work. I'm sure. Well, if they say that, then there's no way this guy could have used this to get a job ship at Amazon. While you're here, you should watch more of our videos and subscribe so you don't miss what we do
+
+=== ID: QOvu79Oncv4 ===
+TITLE: UK Rebukes X Over Grok. AI Use Ruled Cheating in Schools. US Pushes Nuclear for AI. Contractors U...
+DESC: The AI news for January 11th, 2026  Here are the details of the day's selected top stories:  British government on how to deal with Musk's AI Grok: 'Offends victims' Source: https://www.heise.de/news/Britische-Regierung-zu-Umgang-mit-Musks-KI-Grok-Beleidigt-Opfer-11136743.html?wt_mc=rss.red.ho.themen.k%C3%BCnstliche+intelligenz.beitrag.beitrag  ChatGPT at school: Even using it without an explicit ban is deception. Source: https://www.heise.de/news/Gericht-ChatGPT-in-der-Schule-ist-auch-ohne-expl
+KEYWORD: AI cheating school
+VIEWS: 6
+TRANSCRIPT: Hey, and welcome to the AI Briefing Daily, your podcast for the most important AI news from the past 24 hours. Today is January 11th, 2026, and here are the latest AI updates. UK rebukes X over Grock. AI use ruled cheating in schools. US pushes nuclear for AI contractors uploading past work. This episode is sponsored by Pickard. Power your operations with intelligent automation that gives you back time where it counts. X has limited access to its Grock image generation to paying subscribers. A move Downing Street called an insult to the victims of misogyny and sexual violence. The restriction followed revelations that users could prompt Grock to sexualize posted images, including images of children, and comes as the European Commission ordered X to preserve internal documents until the end of the year. British regulators have opened fast-track scrutiny. Ofcom has sought urgent answers and the government says all options remain on the table under the online safety act, including blocking services. Grock previously apologized for creating a sexualized image of two teenage girls and earlier produced praise for Adolf Hitler. A Hamburg administrative court ruled on the 15th of December that using chat GPT Gemini or Claude to produce schoolwork can be treated as cheating even when no explicit ban exists. The court rejected a 9th grader's emergency appeal after a reading log was graded failing when the student admitted using chat GPT and teachers noticed a mismatch with supervised c
+[...middle cut...]
+y performed and upload examples of real on the-job work they actually did a concrete output not a summary such as a word document, PDF, PowerPoint, Excel file, image or code repository. Contractors are instructed to remove proprietary material and personal data and are pointed to a chat GPT superstar scrubbing tool. Intellectual property lawyer Evan Brown warned this creates significant risk. An OpenAI spokesperson declined to comment. That was the AI news of the day. With this, you're perfectly informed for today. Would you like to create an automated podcast on your own topic? Get in touch with us and we'll make it happen. Thank you for tuning in. See you tomorrow for the next AI briefing.
+
+=== ID: g5tyxlxiH5U ===
+TITLE: The AI Cheating Crisis: What Schools Must Do!!
+DESC: 
+KEYWORD: AI cheating school
+VIEWS: 12
+TRANSCRIPT: generative AI is revolutionizing education but not in the way you think a staggering 88% of students use AI tools like chat GPT over half admit to using them for schoolwork and guess what the traditional education system is not ready Che once a leader in online tutoring is collapsing as AI takes over grammarly it's no longer just a writing assistant it's a cheating provider and the worst part AI isn't stopping at homework it's taking entire courses agent AI sophisticated AI that can complete full assignments exams even participate in discussions is here the game has changed so what should schools do the answer isn't Banning AI it's adapting teachers need air resistant assessments like in-person tests real-time presentations and project-based learning that AI can't complete on its own AI detectors do work but they're not perfect the burden is on schools to create stronger policies and use Tech wisely institutions must train Educators incentivize reporting and establish academic Integrity offices that investigate AI misuse just like plagiarism before it AI is not your friend it's not your enemy it's a tool and how we use it will Define the future of Education uh
+
+=== ID: Y4BLcA39HFs ===
+TITLE: Jeremy Maranatha S.P.P - 254107060121 - SIB 1G || AI in college: Cheating Tools or Learning Partner
+DESC: 
+KEYWORD: AI cheating school
+VIEWS: 8
+TRANSCRIPT: So, ya asalamualaikum warahmatullahi wabarakatuh. In this video, in this presentation, I'm gna tell you guys about AI in college. Is AI a cheating tools or our learning partner? So, my name is Jeremy Maranatasangat. I'm from SIB 1G. So ya guys, what is AI or artificial intelligence? AI is a technology that enable computer to simulate human learning, problem solving, decision making, creativity and more. AI refer to computer system capable of performing test that historically require human intelligence like eh recognizing recognize spec AI is double led short in one hand it can get the student to have more grades but in other hand it also makes them only depends on AI so the student didn't use their own brain guys before we have AI we have Google but we or they no longer using Google they now using AI and the bad part is they using AI to write a code to write an entire EI can do it in instant and the result is also look like human mad the problem is one dependency on AI and the lack of critical thinking skills ya instant the student is only depends on AI and remove the important way to think that is critical thinking the second one is plagarism and academic interity ya the third one is AI detector are always not always accurate and the fourth one is great tension between teacher and student so the teacher in so yeah if we have the problem but we also have solution not solution actually opportunity the first opportunity opportunity we have that if we use AI as our helper we can
+[...middle cut...]
+n AI if we stay honesty paste but we also use AI as our tool and we and how we use them as tool we get a better way to prom and we think also think so we drive into our conclusion here so basically artificial intelligence or ai is changing higher education in huge way it makes cheating easier but also boost university to evolve by updating teaching method setting clear rules and teaching student how to use. AI school can turn this challenge into an opportunity. At the end of the day the goal stays the same. Education should help student learn how to think and not just how to pass. So guys, basically that's all that I wanted to say. Thank you for your time. See you in next presentation. Yeah.
+
+=== ID: 8KNOL21t4jM ===
+TITLE: How Professors Can Check for AI Cheating in a Sensible Way
+DESC: Teachers everywhere are struggling to figure out how to handle the use of AI language tools, like ChatGPT. What if students are using these tools to cheat, and to avoid learning? This video is for you—we review some basic ways professors (indeed, any teachers) can and cannot check for proper use of these tools and make their assignments better. And we end with five rapid additional tips for ensuring an equitable learning environment for your students in the face of the AI tools.   WE HAVE TWO OT
+KEYWORD: AI cheating school
+VIEWS: 15176
+TRANSCRIPT: hey everybody my name is Brian Doak and I've been a college professor for the past decade and I will tell you this one of the great joys of teaching is reading a student paper or exam answer or assignment answer some piece of student writing and discovering some insight some turn of phrase some thought that you just connect with and you're like yes they get it they were listening this is working however in the last few months something has come and infected that great feeling of Joy many of us have had when we teach and that is called chat gbt these AI language models which have allowed students to essentially generate for free 24 hours a day and with great creativity huge tracks of writing that are uniquely produced just for them in response to questions and queries to the AI model and are not really traceable or searchable as such online and therefore we begin to get confused those of us who teach about whether the writing we're seeing is actually from our students or not in this video I want to suggest a couple of really Common Sense practical ways that as instructors we can think about this problem and ways we can fight against it work with students and try to achieve a better outcome and I think the stuff I'm talking about here applies to high school teachers as well as College professors so that's the intended audience here but people teaching in a wide variety of contexts presumably could benefit from thinking about this so the key problem here right off the bat as I s
+[...middle cut...]
+tructor but on Lower Stakes checks actually disincentivizes cheating and helps you engage with the student more in a thinking and learning process so maybe consider the way that you've waited your assignments too and you might see some of those those incentives for academic dishonesty go down in the process we don't have a Magic Bullet solution for AI academic dishonesty for cheating we don't have it yet and something tells me we're not going to have it anytime soon but I think some of the things I've suggested here can take you toward a place of confidence rather than gravitating toward extremes or feeling out of control on this issue hope it helps let us know in the comments what you think
+
+=== ID: bcKqBZGCnzI ===
+TITLE: Everyone's Cheating With AI Now | Number Goes Up 001
+DESC: GLOBIS Insights writers Kingsley Nlewedim and W. Tanner Kirk discuss the use of AI to cheat in collegiate education.   Still reading articles? Check out our companion piece (no subscriptions, ad free) right here: https://globisinsights.com/career-skills/innovation/ethical-challenges-of-ai/ Subscribe and click the bell button to keep up with the latest GLOBIS Insights videos!  » https://www.youtube.com/globisinsights?sub_confirmation=1   -- About GLOBIS Insights --  GLOBIS Insights offers top qua
+KEYWORD: AI cheating school
+VIEWS: 420
+TRANSCRIPT: We have fun here. I We better not. This is a business podcast. That is true. If you All right. Um, welcome to the inaugural episode of Well, should I be listening? I guess I'll look at Yeah. Yeah. the Why because we'll both be in there. Yeah. Welcome to the inaugural episode of Number Goes Up. The first and only business podcast run by two guys who kind of know what they're talking about. I'm your host, Kingsley Nod, joined as always by W. Tanner Kirk here in the beautiful Globus Studios. Wow. I think we could we could do the wow in post. You don't have to pace yourself or not. I was feeling it. No, no, keep it up. Yeah, it's very viby. Yeah. You think it I mean this is a certain kind of a vibe I suppose. Yeah, definitely dramatic. Mhm. Like um cold cold open feel like Mr. Freeze. Yeah. Yeah. Makes number go down though. Yeah. Which is not what we want. That is true. Yeah. So AI is the business topic of the year. Truly. Yeah. But how's it affecting schooling? We work at Globus University, Japan's number one MBA program and this has been a hot topic on our minds the entire time. Yeah. Um Yeah. Uh ever since Open AI released ChatGpt, the uh every business has been talking about utilizing AI. It's been shoved into every single uh program that I use on the computer. Definitely. I can't go five seconds without seeing an AI chatbot. Inescapable. Yeah. Um, and that's also true for learning. Yeah. Yeah. Our future business leaders and whatever other things you study in college. Yeah.
+[...middle cut...]
+ink uh it's only going to keep progressing. If you're also watching this and you want to talk to us about it, we're very open to hearing your thoughts. Please leave them in the comments. I like legitimately, very honestly want to hear other people's takes about this in the comments. So, thank you for listening to Number Goes Up. Uh, please remember to hit the subscribe button. Uh, leave a review on any podcast app you're listening to this through. If you're watching this on YouTube, remember to subscribe and leave a comment down below. And remember, as always, the number must go up. Bye bye. See you. See you next time. Bye. Get back to work. number goes up. All right. Yeah. Yeah. Seems good.
+
+=== ID: DLaMlKmvs1E ===
+TITLE: AI Tools in Education Debate: Are Students Learning or Just Cheating with ChatGPT?
+DESC: AI Tools in Education Debate: Are Students Learning or Just Cheating with ChatGPT?  AI is transforming education, but not everyone’s cheering. In this episode of Tech Wave, we explore the rise of AI tools in education—with a spotlight on how students are using ChatGPT to skip studying, write essays, and ace assignments with just a few prompts.  Are these tools empowering smarter learning, or enabling digital shortcuts? From Khanmigo to MagicSchool AI, this video dives into the dual-edged sword o
+KEYWORD: AI cheating school
+VIEWS: 29
+TRANSCRIPT: AI is not just changing education. It is erasing the line between learning and cheating. Just imagine that it's 2 a.m. and you have an essay due in the morning. You're exhausted and the thought of writing a full paper feels overwhelming. What if there were a way to get that paper done without spending hours researching or writing? Enter AI powered tools like Chat GPT, KIGO, and Magic School AI. tools that students around the world are using to complete assignments, write essays, and even study for exams. These AI tools promise to revolutionize how students learn, but at what cost? Are they enhancing the learning process, or are they simply shortcuts that undermine the value of hard work? In this video, we'll explore how AI tools like ChatGpt are changing the way students approach education, the benefits and risks of these tools, and whether this is a glimpse into the future of learning or the beginning of an academic crisis. Let's begin with the rise in AI education. Well, education has always been a reflection of the times, evolving alongside technological advancements. The introduction of calculators, for example, once sparked debates about cheating and whether students should rely on machines to solve math problems. Now, with AI technology on the rise, we are facing a similar challenge, but with even more advanced capabilities. The most widely recognized AI tool in education is Chat GPT developed by OpenAI. This tool based on sophisticated machine learning algorithms can g
+[...middle cut...]
+e the learning experience and ensuring that students still engage with the material in a meaningful way. Should we fight AI in education or should we embrace it and guide its integration into the classroom? The future of education may very well be shaped by AI, but only time will tell whether this is a positive or negative development. What do you think? Should students use AI to complete assignments or does it undermine the learning process? How can schools and teachers ensure that AI is used responsibly? Let us know your thoughts in the comments below. If you found this discussion interesting, be sure to hit that like button and subscribe for more deep dives into AI and technology. [Music]
+
+=== ID: PXZ6zGJtP20 ===
+TITLE: The AI Cheating Dilemma on College Campuses -The AI Show w/ Paul Roetzer & Mike Kaput
+DESC: A bombshell report from New York Magazine has ignited a fierce debate in academia—and it’s shining an uncomfortable spotlight on the growing crisis of AI-powered cheating in colleges and universities.  Listen to the full episode of the podcast: https://www.marketingaiinstitute.com/podcast  Want to receive our videos faster? SUBSCRIBE to our channel!   Visit our website: https://www.marketingaiinstitute.com Receive our weekly newsletter: https://www.marketingaiinstitute.com/newsletter   Looking f
+KEYWORD: AI cheating school
+VIEWS: 404
+TRANSCRIPT: So, there is a powerful and report in New York magazine that's getting a ton of buzz that shows just how deeply generative AI has started to upend college life. Students across universities, elite, public, community colleges are now using chat, GPT, and other AI tools to handle everything. Note-taking, studying, data analysis, and especially writing. As the report finds, it's not just a shortcut. It is the default. One Colombia student admitted AI wrote 80% of his coursework. Another launched a startup to help others cheat on coding interviews for jobs and got suspended from bunches from his school and uh blacklisted from a bunch of others. A freshman who opposes cheating according to the report still uses chat GPT for essay outlines every time she writes. And the irony was they featured one of her papers that was about how education helps us think critically. So, as a result of all these kind of anecdotes reported here, educators are scrambling. Some have been trying AI detectors, others put like Trojan horse phrases that that are in their assignments so the AI picks up on them and they know they were AI written. But according to New York magazine, nothing seems to stick. Detection is, as we know, unreliable and enforcement of any type of policies is sometimes discouraged. One teaching assistant was told to actually grade AI written work as if it was a real paper. So they kind of weave together all these different anecdotes. And unfortunately they kind of paint this bigger p
+[...middle cut...]
+because we don't have the answers. But my hope is that people get inspired to like go solve for this. And if you do, like let us know. Like I love to hear from our listeners um and our viewers like when you're working on cool things like shoot me a note on LinkedIn. I I I try my best to like look at all that stuff. So I' I'd love to hear what people are doing in this space. Yeah. And as a silver lining to this, there's never been a more exciting time if you do have a interest in this to go solve it because nothing is solved and you're the person that has to do it because open AI is not going to go solve this, right? And if you want job security, be the one that's figuring all this out. Yeah.
+
+=== ID: BxBETz0vSHI ===
+TITLE: New AI technology makes essay cheating easier, presents challenges for academic integrity
+DESC: With advancements in Artificial Intelligence, cheating on essays has never been easier.  A new app released last fall is causing concern over academic integrity and institutions like Queens University in Kingston, Ont. are scrambling to create policies to protect against cheating.  The app, called Chat-GPT, can write a blog post, a piece of poetry, or even an essay on any given topic with a simple prompt. Aryn Strickland has more.  For more info, please go to https://globalnews.ca  Subscribe to 
+KEYWORD: AI cheating school
+VIEWS: 5947
+TRANSCRIPT: it's a matter of opening up the web page and typing in your request and letting the app chat GPT do the rest with a simple prompt the artificial intelligence technology can write a blog post a piece of poetry or even an essay on any given topic developed by the company open AI the app was released back in November it's free easy to use and accessible online it also poses a difficulty for institutions around how to safeguard academic Integrity Queen's University acknowledged as much in a statement saying we recognize there is a need to better understand these tools and develop appropriate guidance for their use in academic settings as such discussions are taking place across campus it is obviously a problem for universities because students are now using it to get past due dates and assignments to get work done I believe it's more of a concern in high school but I feel like in University it's hard to use something like that for essays because our topics are just so specific it just saves a lot of time in my opinion and not necessarily really for cheating but just for reviewing it raises the question is it plagiarism or creative use of tology that can also be an animal research is already underway at the University of Calgary's Taylor Institute on the conundrum in the meantime at a lecture to the University of Texas in Austin in December a researcher with open AI said the company is working on a process of watermarking Pros generated by the app in order to prevent against plagiarism all in the hopes of fixing the problem before the next disruptive technology can be created Aaron Strickland Global News Kingston
+
+=== ID: hq7RRGjpOmo ===
+TITLE: AI-detector systems falsely accusing students of cheating | ABC NEWS
+DESC: Some Australian schools are using tools to detect whether students are using AI to generate school assignments and they're wrongly accusing students. One parent says the process for appealing the decisions is flawed, and the accusations can be traumatic for the students. Subscribe: http://ab.co/1svxLVE Read more here: https://www.abc.net.au/news/2025-12-22/ai-detectors-incorrectly-brand-high-school-students-ai-cheats/106138394  ABC NEWS provides around the clock coverage of news events as they b
+KEYWORD: AI cheating school
+VIEWS: 8708
+TRANSCRIPT: It's been revealed that high schools are using AI detector tools to catch alleged AI cheating, but they're not always getting it right with some students being wrongly accused. ABC audio current affairs reporter Julia Bergen joins us now. Julia, you've been investigating this issue pretty closely. What have you found? I spoke to multiple New South Wales public high school students who said they were wrongly accused of AI cheating. I also spoke to their parents and that included one father who wound up in a six-month saga with the New South Wales Department of Education and the New South Wales ombbudsman when he decided to take on his son's school. Now, he had three main issues. The first that the school was using AI detector tools at all. The second that his year 12 son had been wrongly accused of AI cheating as a result. And third was the process that followed. So both for his son having to prove that he wasn't a cheat and for himself trying to lodge a complaint. So what happened was an AI detector tool which the school later determined was wrong flagged his son this student as having AI generated work. The student was then pulled out of school, held back off, sorry, pulled out of class, held back after school to address those allegations. And by his account, he was sat in a classroom with two teachers, grilled, and then made to source every sentence in his 3,000word assignment. His parents weren't told about any of this, and that's when his father decided to go to the New S
+[...middle cut...]
+unanimously they said the experience was not a good one. And so what do you sort of see as the solution here? Well, look, AI cheating is a big issue, not just in New South Wales public high schools, but nationwide, in all educational institutions, universities, TA, you name it. So, what experts are saying though is that Australian educational institutions need to stop trying to catch AI cheats because the job of assessing a student is to ascertain whether they're learning or not. And uh the current approach at the moment is very much institutions, states, territories going at it on their own, trying to forge their own policy. And what experts would like to see is coordinated national action.
+
+=== ID: lWJOS5Qells ===
+TITLE: how to catch students cheating with ai #teachers #chatgpt
+DESC: 
+KEYWORD: AI cheating school
+VIEWS: 1990
+TRANSCRIPT: our ethical moral ideal right we're operating in the world of Life design is visible teachers your classroom policy you need these two things number one at the first of your classroom policy on AI says with prior teacher approval there are a lot of lessons a lot of things you do in class that can be made better because of AI but they always need to run through you and your decision of what I'm what are my learning goals and will this help or hinder that the second thing and this is very important for catching students that do that because there's no program that does great at it you need to have the phrase in your classroom AI policy that says every assignment is subject to a verbal follow-up review so it means if you read it you're like this sounds way better than than Johnny talks take them on the hall you say Johnny tell me about your paper and they start talking back to you if it sounds like they have no clue what they wrote or anything from their paper you need to be able to make them walk in like rewrite it you know by hand in class whatever whatever you can do to get the actual information and assess correctly out of it some teachers are like but what if they study the thing and memorize it all then you say Checkmate btds I got a I got a free like example policy you can make a copy of and edit and make for yourself with this stuff in it it's Tarver academy.com resources put in your email don't have to be your email put in like your your friend's email I don't care it'll pop up you can get it so
+
+=== ID: qhojsV3jEtY ===
+TITLE: Is AI in Education a CHEATING Hack? 🥸🤓🤔 #shorts #cover #fyp
+DESC: Is AI in education a cheating hack? Join the conversation as we dive into the world of artificial intelligence in the classroom. From personalized learning to AI-generated essays, we're exploring the pros and cons of AI in education and asking the question: is it a game-changer or a shortcut to cheating? Whether you're a student, teacher, or parent, this video is for anyone curious about the impact of AI on the future of learning. So, is AI in education a cheating hack? Watch to find out! #short
+KEYWORD: AI cheating school
+VIEWS: 1050
+TRANSCRIPT: Artificial intelligence is rapidly changing many aspects of our lives. Education is no exception. From personalized learning platforms to AI powered tutoring systems, AI is already transforming how we learn and teach. As AI becomes more sophisticated, it offers unprecedented opportunities to enhance the educational experience for students and educators alike. However, this rapid integration of AI into education has also raised concerns. Many fear that these powerful new tools could facilitate cheating and undermine academic integrity. The availability of AI powered tools like chat GPT has made it easier for students to generate human quality essays and complete assignments without really understanding the material. This has led to a rising concerns about academic dishonesty and the effectiveness of traditional assessment methods. As a result, educators and institutions are grappling with how to adapt to this new reality and ensure fairness in assessment. The use of AI for cheating is a growing concern in educational institutions worldwide. A recent survey found that 68% of instructors believe AI will negatively impact academic integrity. Students themselves are aware of this potential for misuse with 47% feeling it's easier to cheat now due to AI. The accessibility and ease of use of these tools make them particularly tempting for students facing academic pressure. The same survey revealed that 35% of students specifically cited Chat GPT as a tool that makes cheating easier. 
+[...middle cut...]
+benefits for education. AI can personalize learning, provide students with real-time feedback, and automate administrative tasks, freeing up educators to focus on teaching. The key to harnessing the power of AI in education is to find a balance between leveraging its potential while mitigating the risks. This involves ongoing dialogue between educators, students, and AI developers to create ethical guidelines and best practices for AI use in education. As AI technology continues to evolve, we can expect to see even more innovative applications in education. It is crucial to approach this evolution with a thoughtful and balanced perspective, focusing on how AI can be used to enhance learning.
+
+=== ID: lRjXOwK9CwE ===
+TITLE: 'Disciplined by a computer' - Maryland student fights AI cheating accusation
+DESC: An Anne Arundel County mother says her daughter is being unfairly accused of cheating.  The school system says the tenth grader used artificial intelligence to help write a paper, but her mother says that’s not true.  READ MORE: https://foxbaltimore.com/news/project-baltimore/disciplined-by-a-computer-maryland-student-fights-ai-cheating-accusation-anne-arundel-broadneck-tara-davis-artificial-intelligence _______________ Stay up to date with our social media:  Facebook: https://www.facebook.com/F
+KEYWORD: AI cheating school
+VIEWS: 864
+TRANSCRIPT: [Music] an anaro County mother says her daughter is being unfairly accused of cheating as project Baltimore's Chris papst explains the school system says the 10th grader used artificial intelligence to help write a paper but this mom says that is not true Tara Davis has spent months yeah defending her daughter she said she didn't do it and I believe her it's a fight against Anna Rond County Public Schools and what's at stake she firmly believes is her child's future and reputation she basically felt like they were calling her a liar Davis's daughter who we are not showing attends Broadneck High School earlier this year the 10th grader handed in this written assignment for English and what happened next she couldn't believe she was stunned she didn't know what to think she didn't you know she said she didn't do it on February 27th the school uploaded the assignment to gp0 a website that promotes itself as The Trusted AI detector when the results came back gp0 determined the paper Davis's daughter submitted had a 90% probability of being AI generated written by artificial intelligence instead of a human Davis says her daughter received a zero on the ass assignment but more importantly the principal found her in violation of Anar Rundle County Public Schools academic Integrity policy a violation that now appears on her school record for something Davis says her daughter did not do yeah it's important it's uh it's going to affect College acceptances I feel like it's it could foll
+[...middle cut...]
+t the only District trying to catch up with artificial intelligence project Baltimore looked at other school systems in our area to see how they're adapting to the use of AI in education have their school boards taken up the issue we'll have more on that part of the story in the days ahead and project Baltimore wants to hear from you do you have a story to share about your child's education or a concern you like the team to investigate call the tip line on your screen or send an email to project Baltimore at foxbaltimore.com you can also find us on social media I'm Mary Bubala thank you for watching here's another video for you to watch also take some time to subscribe to our YouTube channel
+
+=== ID: fVLr_oO9n88 ===
+TITLE: 120% Surge in AI Cheating – Is College Even Worth It Now?
+DESC: AI cheating is skyrocketing, and universities are struggling to stop it! With a 120% rise in cases, only a few institutions even have AI-detection tools. Are schools losing the war against AI? And should students even be punished for using AI tools? Let’s discuss!
+KEYWORD: AI cheating school
+VIEWS: 12
+TRANSCRIPT: hey there Educators today let's dive into a pressing issue that's been making waves in the academic world the surge in air related academic misconduct in 2024 over 600 students in Scotland were accused of improperly using AI in their studies a staggering 120% increase from the previous year this led to 10 expulsions the first ever on Scottish campuses for such offenses but here's the kicker only two Scottish universities Robert Gordon and abber have dedicated AI detection software think about that for a second despite the Surge and misuse the majority of Institutions are lagging behind in adopting the Necessary Technology to tackle this problem let's break down some numbers Sterling University reported the highest number of AI misuse cases at 262 abte University had 342 breaches Robert Gordon University 116 University of Edinburgh 78 glasgo Caledonian 13 and University of Glasgow 86 these statistics show that no institution is immune so what's driving this rise in misconduct a uk-wide student survey revealed that a staggering 88% of 1,000 students admitted to using generative AI tools like chat GPT for assessed work a 53% increase from 2023 even more concerning 18% admitted to directly including AI generated text in their submissions penalties for AI misuse very widely minor offenses might result in discussions with lecturers or small Mark deductions severe cases could lead to panel interviews and significant Mark penalties ranging from 10 to 50 marks universities are respond
+[...middle cut...]
+many find it helpful for tasks like translation and simplifying complex questions but they also Express concerns about the accuracy of AI generated content and the need for Clear guidelines on acceptable use Professor Cen Bane from the University of Edinburgh emphasizes the complexity of the issue and the need for Innovative assessment methods meanwhile teachers in a Scottish qualifications Authority focus group are calling for an overhaul of Assessments to address AI plagiarism effectively with Scotland's student population standing at around 292,000 [Music] thanks for tuning in don't forget to like share and subscribe for more insights into the evolving world of Education see you next time
+
+=== ID: U2EU9Bl3-dM ===
+TITLE: Is everyone in college cheating with ChatGPT?
+DESC: "Everyone is cheating their way through college" — with ChatGPT. That's the viral headline from last month in New York Magazine. The piece cites college professors who say they are overwhelmed with how AI has infiltrated academic life. Students use it regularly and some claim they cannot succeed without it. So where is the line between cheating and learning? How can educators assess students in the age of ChatGPT? And really, is everyone cheating?  Our guests discuss it:  - Kyle Green, Ph.D., as
+KEYWORD: AI cheating school
+VIEWS: 423
+TRANSCRIPT: support for your public radio station 
+comes from our members and from Excelis   Bluec Cross Blue Shield believing 
+that everyone deserves to be cared   for and to live well through community 
+investments partnerships and education   Excelis Bluecross Blue Shield is working to 
+address health inequities more at excelbcs.com from WXXI News this is Connections i'm Evan Dawson 
+our connection this hour was made at Columbia   University with the burgeoning academic career of 
+a student named Chenzhen Lee on paper Lee looks   like a model student highscoring essays excellent 
+grades but New York magazine found maybe a   different reality in profiling Lee for their piece 
+and their piece is titled Everyone is Cheating   Their Way Through College the piece details how 
+students are now using Chat GPT in almost every   classroom for really almost every assignment 
+everywhere here's how it describes Lee quote   "Le used Chat GPT to help write the essay that got 
+him into Columbia University and then proceeded to   use generative artificial intelligence to cheat 
+on nearly every assignment as a computer science   major he depended on AI for his introductory 
+programming classes i just dumped the prompt   into chat GPT and hand in whatever it spat out," 
+he said by his rough math AI wrote 80% of every   essay he turned in at the end I'd put on the 
+finishing touches he said i just insert 20%   of my humanity my voice into it when asked why 
+he had gone through so much trouble to get int
+[...middle cut...]
+tion of 
+WXXI Public Radio the views expressed   do not necessarily represent those of this 
+station its staff management or underwriters   the broadcast is meant for the private use of 
+our audience any rebroadcast or use in another   medium without expressed written consent of 
+WXXI is strictly prohibited connections with   Evan Dawson is available as a podcast just 
+click on the connections link at wxxnews.org support for your public radio station comes 
+from our members and from United Way of Greater   Rochester and the Fingerlakes serving the 
+community for more than 100 years dedicated   to creating a future where everyone's basic needs 
+are met so all can thrive more at unitedwayx.org
+
+=== ID: yuP38YpCPyg ===
+TITLE: AI and Education: Let the Cheating Begin!
+DESC: Check out my new video, "AI in Education: Let the Cheating Begin!" In it, I demo ChatGPT and DALL-E-2 and share techical and human countermeasures for the inevitable cheating to come.
+KEYWORD: AI cheating school
+VIEWS: 119
+TRANSCRIPT: foreign [Music] hi everyone Dr Mike here your favorite analytics and management instructor we have a lot of YouTube subscribers these days and if you want to become one of them go ahead and subscribe we'd love to have you and if you have any comments please leave them in LinkedIn as well I love checking them out there too folks I've officially joined the open AI bandwagon you know over the last month there have been a torrent a blizzard of Articles and images and you name it comments all over the Internet that uh two of the applications offered by this what is it a think tank a Consortium I'm still trying to figure it out uh you know chat GPT which writes nearly Flawless verbiage and an Associated product called Dolly 2 which generates Innovative images uh signal the end of Academia well I'm going to show you a quick demo of the tools and then I'm going to tell you what I think stick around okay so we're here at the open AI webpage I've got to be honest with you I watched this video and I mean I don't know yes they're doing all this stuff that's benefiting Humanity until it doesn't I guess um I'm gonna look at dolly two to begin with now this is based upon the uh Walt Disney character Wally I'm going in I'm signing in with Google and I let's say I'm in an art class and I have to come up with this something contemporary based on Salvador Dali so I just key in um a painting of Darth Vader in the style of Salvador golly if you generate it it does its thing it gives you a lot of 
+[...middle cut...]
+some students tell me over time you know Professor you know fake it till you make it my answer is you really shouldn't do that because I've actually had or I've seen two people have nervous breakdowns as a result of overselling themselves and when we use a product like chat GPT or we just cheat in general well that's what we're doing we're overselling ourselves by the time we're looking for our you know to land our first job okay is it unethical absolutely but I also want to ask the prospective person out there who might be do or the person who's prospectively thinking about using chat GPT this question you know you're faking it if you do it will you ultimately make it I'll see you next time
+
+=== ID: 7_vRdkjqT4s ===
+TITLE: Solution to Preventing Cheating with Artificial Intelligence in Schools - Channel 7 News
+DESC: Teachers are concerned about a new artificial intelligence program called ChatGPT that can write original essays and solve complex math problems. There are fears that students could use this technology to cheat on school assignments. Tech developers are working to prevent this from happening. Some schools have already banned the use of ChatGPT. Experts suggest that instead of restricting access to the program, schools should use it as a teaching aid to prepare students for a future field with ar
+KEYWORD: AI cheating school
+VIEWS: 160
+TRANSCRIPT: teachers are raising concerns about a new artificial intelligence program that's capable of writing completely original essays and solving complex math problems there are fears students could use that technology to cheat schools and Tech developers are now racing to make sure that won't be an option artificial intelligence is changing the world as we know it every image you are currently seeing did not exist prior to when they were generated from Air to school assignments look at this let's say you have this problem I just copy for my like homework it literally shows you how to do it forget weeks of planning and research a new Cutting Edge chat bot called chat GPT is turning homework on its head the answer is B capable of solving Matt's problems and churning out essays we put the software to the test the prompt write a four paragraph academic essay on Hamlet within seconds this was the response at some point you will be called out teachers are raising serious red flags in New York the tool has already been banned we want our students to succeed at University or to succeed in employment we need to understand that cheating to get into that course or into that job you're not actually preparing yourself for Success while education departments across the country consider restricting access to chat GPT Tech experts say schools should utilize the software as a teaching Aid to prepare students for a future field with artificial intelligence 2023 is the first year where AI is now mentioned Sydney friends David Cyrus and Aaron shakuli believe they've found a solution AI cheat check it generates a percentage and lets you know whether this was generated by an AI or a human within seconds designed to detect plagiarized material they hope their software will go Global we've had 14 000 users within the past 48 Hours a tool potentially giving teachers the upper hand Annie puller 7 News
+
+=== ID: iS2S_0WI9pU ===
+TITLE: AI and Cheating
+DESC: If you are a teacher, you may be having difficulty coping with your students' use of AI to cheat. An Inner Guide can help. If you don't yet have an Inner Guide, you can acquire your own, for free, at https://www.youtube.com/watch?v=lQ4G9VIxS94
+KEYWORD: AI cheating school
+VIEWS: 11
+TRANSCRIPT: The advancement of technology has given rise to a new challenge for educators. Hello, I'm Judith Davis. A recent article in the Wall Street Journal described many students use of AI, that is artificial intelligence, to cheat on their homework. Students are the most common users of AI. And a study by Impact Research found that of those using AI, about 40% of high schoolers and almost 50% of college students use it without their teachers permission to complete homework assignments and write papers. And as you may know, AI takes up a tremendous amount of electricity. Can AI be of any use? When used appropriately, AI can be beneficial. It helps teachers create lesson plans and complete routine tasks more quickly. And it can be used for tutoring individual students in any subject at their own pace. But its misuse is currently greater. Teachers struggle to try to identify papers and homework written by AI. There are companies that have created software that's meant to identify cheating with varying effectiveness. And while they may miss a certain percentage of cheaters, what's worse is that they erroneously find false positives, that is wrongly identifying honest students as cheaters. How can teachers outf fox AI One teacher quoted in the article, Jod Stallings, assigns reading, and each day he starts class by having students answer questions about what they've read. And Joshua Allard Howells requires his students to write first drafts of their papers in class. The Finland method. 
+[...middle cut...]
+d an increase in immigrant students with limited Finnish language skills, have impacted Finland's performance on international tests. Despite these challenges, Finland's educational philosophy continues to offer valuable insights into alternative teaching methods that prioritize in-class learning and student well-being. Can an inner guide help a teacher? Yes. With its access to all of your subliminal perceptions, it can more easily detect which students are cheating. But better yet, it can help you devise alternative teaching methods like those of Jodie Stallings and Joshua Allard Howells to avoid students misuse of AI. If you don't yet have an inner guide, you can acquire one for free here.
+
+=== ID: bcKiJ83v3uk ===
+TITLE: Artificial intelligence programs may help with cheating in schools, unversities
+DESC: Artificial intelligence poses a challenge to academic integrity. A company has put out a new tool in fighting against sophisticated bots that can help students cheat.  Subscribe to FOX 26 Houston: https://www.youtube.com/myfoxhouston26?sub_confirmation=1  Watch FOX 26 Houston Live: https://www.fox26houston.com/live  Houston area news, weather, traffic, sports and breaking news from FOX 26 Houston. Watch news and local programming daily from KRIV.  Watch more FOX 26 Houston on YouTube: What's You
+KEYWORD: AI cheating school
+VIEWS: 158
+TRANSCRIPT: factor on since are cheating in school has become m e sophisticated than just sneaking a peek at little Johnny or Suzie is paper your available John is salons. Programs powered by artificial intelligence are helping students get better grades now in one case a law professor says a computer program gets is a computer program called chat G. B. T. has was able to successfully pass a law. School exam it passed the law school exam now the creative that AVI has made headlines recently for its ability to write prompts creating concerns over cheating the botched showed strong knowledge of legal rules in its written essays of various types of law finishing with a C. plus the maker of that program has since launched a tool that can help teachers distinguish between the program and the students actual work. But is that enough let's talk about it he on the factor on sensor tonight my guess are educators Dr David Branham also teacher Arnett Amari and of course doctor. Will be joining us in the second he's getting marked up but first of all Dr Branham tell us what. This program exactly is this artificial intelligence that was able to pass a law school test well it's - really cool. You just. You can just type in a question await your question for it's amazing what we'll do. And so you can- do you type it in in the can be complex they'll give you both sides of an argument if you put the argument in. It's a it's just amazing so- it is just it's awesome and so whilst students build uses to che
+[...middle cut...]
+ferent tools available to me the help to help the students learn. And then I use those tools and I can I can expand on that it actually makes the job better not worse and on into what your thoughts on that breaking. Certain degrees out there irrelevant in the future if a I can do the job that. Say a writer can do ward English teacher can do I think that we don't want to depend on that we still want to use our critical thinking skills. That will be training the for the want of trying. I think both are needed if we want we want to be critical thinkers. But you know what I'm not gonna use that paper to maybe. Give me and more. Different view. Indian incorporate that to get their message out. We
+
+=== ID: zti3L80TYK4 ===
+TITLE: Is Using An AI Essay Writer Considered Cheating? - High School Toolkit
+DESC: Is Using An AI Essay Writer Considered Cheating? In this engaging video, we tackle the hot topic of AI essay writers and their role in high school assignments. As technology continues to evolve, students are faced with new tools that can assist in their writing process. However, the question remains: how can these tools be used responsibly? We will discuss the importance of academic integrity and the potential consequences of submitting work that is not your own.   Understanding your school's po
+KEYWORD: AI cheating school
+VIEWS: 3
+TRANSCRIPT: [Music] Is using an AI essay writer considered cheating? Imagine sitting in a classroom, staring at a blank page, and feeling the pressure of an upcoming essay. You might wonder if using an AI essay writer could be a quick fix. But is it really a good idea? Let's break it down together. In high school, the purpose of writing assignments is to show what you know. Schools want to see your understanding, critical thinking, and writing skills. When you submit work generated by an AI, you are not reflecting your own effort or knowledge. This can be seen as cheating because it misrepresents your abilities. Many schools have clear policies about academic honesty. Using an AI tool to write your essay without permission is often treated like plagiarism. If you turn in an AI generated essay as your own, you might face serious consequences. These can include failing the assignment, receiving academic warnings, or even suspension. However, the conversation around AI tools is not entirely black and white. Some teachers see value in using AI for brainstorming, improving grammar, or learning how to structure an essay. The key is how you use these tools. If you relying on AI to do the work for you, that crosses the line. But if you use it to support your learning, it can be a helpful resource. Schools are also trying to keep up with the rise of AI. Detecting AI written essays is becoming a priority, but current detection tools are not always accurate. This can lead to unfair accusations against students who may not have cheated. So, what should high school students do? First, it is important to know your school's specific rules about using AI in assignments. Next, think of AI as a learning aid rather than a shortcut. Practice writing your own essays by researching, drafting, and revising. If you are unsure about what is allowed, communicate with your teachers. They can provide guidance on how to use these tools responsibly. In summary, using an AI essay writer without permission is generally considered cheating because it bypasses the learning process. Responsible use of AI tools means they should support your own efforts and understanding, not replace them.
+
+=== ID: 9_xFWA0YV_A ===
+TITLE: Analysis  What to do when you're accused of AI cheating
+DESC: Your teacher says you used artificial intelligence to cheat. You did no such thing. Now what? Stay calm, and let the facts help you. Less than a year into the life of ChatGPT, teachers everywhere are getting AI-detecting tools that promise to expose when students use chatbots to cheat. By August, an AI detector made by the plagiarism-detection company Turnitin had already been run on more than 70 million assignments, it said. AI surveillance might deter cheaters. But sometimes these detectors ge
+KEYWORD: AI cheating school
+VIEWS: 134
+TRANSCRIPT: your teacher says you used artificial intelligence to cheat you did no such thing now what stay calm and let the facts help you less than a year into the life of chat GPT teachers everywhere are getting ey detecting tools that promise to expose when students use chat Bots to cheat by August an AI detector made by the plagiarism detection company turn it in had already been run on more than 70 million assignments it said AI surveillance might deter cheaters but sometimes these detectors get it wrong too and even a small false positive error rate means some students could be wrongly accused an experience with potentially devastating long-term effects after I wrote about the arrival of the AI detector from turn it in I heard from many angry high school and college students and some of their parents claiming they had been falsely accused of AI cheating so I asked some of them how they handled the accusations and I also sought some advice from experts in academic integrity and AI the clear lesson you can fight back many told me sharing an article like this one with the instructor as a good place to start hi teachers I'm on your side too I don't want us to misuse Tech in ways that could have dire consequences here are steps to consider hopefully you can find resolution before you get to the end of the list I completely understand if you're upset but approaching your accuser with guns blazing might make matters worse several students told me that arguing with their instructors came 
+[...middle cut...]
+ber this is new to everyone many instructors haven't yet had a chance to learn how turnit in's AI reports work which is different from the plagiarism reports the software has offered for years with AI a detector doesn't have any evidence just a hunch based on some statistical patterns even turn it in says everyone should take a chill pill the first step should always be to have a conversation with the student said turnit in's Chief product officer Annie Chelli our guidance is and has been that there is no substitute for knowing a student knowing their writing style and background AI detectors might present scientific looking percentages or scores but nobody should treat those results as fact
+
+=== ID: 6pnpubU2jug ===
+TITLE: How to Prevent AI Cheating: Integrity in the AI Age
+DESC: What are some creative ways to design assignments that prevent AI cheating? Professor Laurel Aguilar-Kirchhoff is working to adjust her assignments for the English Language Learners teachers. She changed their midterm essay to a storyboard.   We also talked about how she has changed discussion forum posts, which seem to be heavily written via AI. She likes the new method much better.  Many educators ask how effective AI detectors are in identifying AI-generated content. They aren't. AI detectors
+KEYWORD: AI cheating school
+VIEWS: 828
+TRANSCRIPT: this is the 10-minute teacher podcast with your host Vicky Davis I have uh Laura agular kof with me today we're talking about the problem of the moment which is all the discussion forums that the kids are AI generating Laura you are a college professor do you feel like kids are using AI yes completely all the time it's the problem for all teachers right now it doesn't matter what you're teaching it's what they're turning in they're using Ai and I don't blame them I don't blame the students for using AI on some of my assignments I went back and I was looking at them and I'm like of course they would write with AI on this what do I really want them to get out of this assignment I needed to make some changes and AI has some common words like cuz I've seen them like the one I've seen is Del you've noticed some common words that like say hey AI wrote this what are those words Foster tapestry weaving a tapestry of collabor oh my gosh if I that one more time I'm like okay that's just that's just AI come on no one writes like that or consistently writes like that exactly you were telling me which is why we started we turned on record because we like this is the issue of the time and and we need to help people you're not always wanting to give an essay now what you do for a midterm in one of your classes uh because I was getting so frustrated with just getting these AI generated responses from my students I I just decided not I'm not going to assign find an essay for their midterm sec
+[...middle cut...]
+ought partner I probably wouldn't use the word thought because I'm really don't like to anthropomorphize AI but well uh Laurel agular Coop we have two podcast episodes and we'll air it different times but this was a really helpful conversation and I hope that all of you Educators out there know that this is not an easy time but if you can come through redesign the project and say this is a better learning experience than I had before then we'll all be better off thanks Laurel you've been listening to the 10-minute teacher podcast if you want more content from Vicki Davis you can find her on Facebook x.com Tik Tok threads Instagram blue sky and YouTube at@ coolcat teer thank you for listening
+
+=== ID: nxcYHZEu9E8 ===
+TITLE: Student Fights AI Cheating Allegations for Using Grammarly!
+DESC: This college student was put on academic probation after here grammarly proofread paper was flagged as AI!  The original video: https://www.youtube.com/watch?v=3eUHGORrSS0
+KEYWORD: AI cheating school
+VIEWS: 56
+TRANSCRIPT: I wrote the paper. I did the research. All it did was fix my grammar and my punctuation. This student is so frustrated. AI is everywhere these days, including in some places you may not realize. This university junior found that out the hard way. Marley Stevens used a very popular writing plug-in called Grammarly while working on a paper for her criminal justice class. Now, Grammarly says 30 million people use this tool and it does what you may expect. It catches spelling errors, typos, grammar issues. But when she submitted her work to the professor, she was surprised to find she was given a zero on the assignment. It turns out that Grammarly uses generative AI and a detection service flagged it for the teacher as unintentionally cheating. Now the kicker though, her school, the University of North Georgia, had Grammarly listed on its own website. Well, that seems like a shut case. You got it recommended on your website to download Grammarly so we have students uh write more properly. She used Grammarly. It's recommended on their university website and then she got flagged for using AI. I mean, you can't have it both ways at a university. That doesn't seem like cheating. I don't think she should deserve a zero. So, you would hope that they have reversed their decision. Can't imagine that they haven't yet, but let's see as a tool for students to utilize right there. And this back and forth began in December. Grammarly was not taken down from this website until just a few weeks
+[...middle cut...]
+their writing full stop. Yeah, I think that comment largely sums up the situation. So, in my opinion, she should have just been giving a warning. I think the university needs to update their website with Grammarly and says, "Hey, you can't use this rewriting feature. You can only use the simple spell check." And that will solve the whole situation. I don't think they can rightfully put her on probation when they literally gave her a download link for Grammarly according to the comment or at the very least they promoted Grammarly on their website. It just seems uh pretty unfair. But if you agree, disagree, comment down below. Like and subscribe to join the choir crew. Now you have reached the
+
+=== ID: neGUPk_MUoA ===
+TITLE: Anne Arundel mother fights to clear daughter's school record in AI cheating case
+DESC: The battle continues for an Anne Arundel County mother who is fighting to save her daughter’s academic reputation.  Tara Davis says her daughter was unfairly accused of using artificial intelligence to cheat on a school assignment, but she’s running out of chances to prove it.  READ MORE: https://foxbaltimore.com/news/project-baltimore/anne-arundel-mother-fights-to-clear-daughters-school-record-in-ai-cheating-case _______________ Stay up to date with our social media:  Facebook: https://www.face
+KEYWORD: AI cheating school
+VIEWS: 918
+TRANSCRIPT: [Music] the battle continues for an adal County mom fighting to save her daughter's academic reputation as project Balor Chris paps explains this mom says a child was unfairly accused of cheating but the family is now running out of chances to prove it I want to keep going I want to keep fighting the fight it's now been nearly two months since project Baltimore first spoke with Tara Davis in that time she's been busy but she hasn't gotten very far in her effort to clear her daughter's name I feel like I'm going in circles and I feel like they're not going to budge on this Davis's daughter who we are not showing attends Broadneck High School in Anar Rundle County earlier this year the 10th grader was accused by the school system of using artificial intelligence to complete an English assignment the sophomore received a zero onor paper and the principal found her in violation of the district's academic Integrity policy for plagiarism a stain that now appears on her permanent student record yeah but Davis's daughter says she did not cheat I know there are people out there that are having a similar experience and their kids have all had this happen in defense of her daughter Davis has now filed four appeals with an Rundle County schools first to Broad neck's principal who upheld the findings she then appealed to the Reg Regional assistant superintendent the associate superintendent of school performance and most recently the district's Deputy superintendent all three additional a
+[...middle cut...]
+rom this I think I I I just wanted to see that standing up for what you believe in and standing up for what's right is worth doing but I want you know I'd love a positive outcome on the other side of this so that she can actually see that it is worthwhile even if it takes time and persistence Davis has one more opportunity to clear her daughter's name after four failed attempts her Fifth and final appeal would go to the Anar Rundle County Board of Education she plans to file that appeal in the coming days we'll keep you posted I'm Chris papst and this is Project Bal more I'm Kai Jackson thank you for watching here's another video to watch also please take a moment to subscribe to our Channel
+
+=== ID: ThUeQG2iaO0 ===
+TITLE: Deep Dive into "The Opposite of Cheating is Learning"
+DESC: Are you an educator looking to tackle academic dishonesty and AI misuse in your classroom? This video offers a sneak peek into "The Opposite of Cheating: Teaching for Integrity in the Age of AI" by Tricia Bertram Gallant and David A. Rettinger!  Discover how to transform your teaching approach by:  *   **Rethinking Assessments:** Move beyond surveillance and punitive measures to design assessments that inspire genuine learning, curiosity, and practical engagement. Learn about **authentic assessm
+KEYWORD: AI cheating school
+VIEWS: 46
+TRANSCRIPT: welcome you to the deep dive. Today we're plunging into a topic that is well fundamentally reshaping the landscape of education and learning. Academic integrity in the age of artificial intelligence. Mhm. It's not just about information overload anymore. It's uh really about how AI impacts the very act of acquiring and demonstrating knowledge. We are truly in a transformative moment. Indeed. And our deep dive today is anchored in some really powerful insights drawn from the opposite of cheating teaching for integrity in the age of AI which is a forthcoming book by Kisha Bertram Gallon and David A. Reinger. Okay. And this work it offer a profound rethinking of how we approach academic honesty. It urges us to move beyond you know the traditional policing methods towards cultivating a genuine love for learning. A love for learning not just compliance. Exactly. It's a fundamental paradigm shift really. It asks us to reconsider the very purpose of education itself. Our mission today then is to distill the most vital and importantly actionable insights from this material, especially for you college instructors out there managing online classes. Yeah, that's a key audience. But really, regardless of your role, whether you're an educator, maybe a student grappling with these new tools, or simply someone curious about how we maintain integrity in this well rapidly evolving digital world, you'll find practical strategies and compelling perspectives here. Okay, let's unpack this crucial
+[...middle cut...]
+rtunity. Yes. An opportunity to create deeper, more meaningful learning experiences for everyone involved. an opportunity to encourage students to embrace the inherent value of knowledge and the joy of genuine discovery, which is, you know, far more enduring and valuable than any shortcut AI might offer. It certainly gives you a lot to maul over, doesn't it? How will you integrate these insights into your own approach to teaching and learning, especially as AI continues to evolve so quickly? That's our deep dive for today. Join us next time as we unpack another stack of sources and extract the most important nuggets of knowledge for you. [Music] [Music] [Music] Hey, [Music] hey, hey. [Music]
+
+=== ID: E4hierRUcbU ===
+TITLE: Will AI Kill Education? Schools Say 'AI Is Cheating' While Jobs Say 'Use AI or Get Fired'
+DESC: https://StartupHakk.com/Spencer/?live=2025.12.23  A record 25% of unemployed Americans now have college degrees.  Senator Mark Warner just warned that college graduate unemployment could hit 25% within five years.  Meanwhile, 66% of global enterprises are cutting entry-level hiring specifically because of AI.  And here's the kicker - schools are telling kids "AI is cheating, don't use it!" while companies are saying "If you're not using AI, you're fired!"  We're watching education collide head-o
+KEYWORD: AI cheating school
+VIEWS: 8793
+TRANSCRIPT: A record 25% of unemployed Americans now have a college degree. Senator Mark Warren just warned that college graduate unemployment could hit 25% within 5 years, meaning 66% of global enterprises are cutting entry- level hiring specifically because of AI. Now, we're seeing a lot of different numbers about that. But here's the kicker. Schools are telling kids, "AI is cheating. Don't use it." While companies are saying, "If you don't use AI, you're fired." So, we're watching education collide head-on with reality and students are getting crushed in between now. I've been actually gathering a lot of information on this one for a long time because I'm pretty passionate about this subject cuz I'm going to break down for you today why the entire education system might be facing an absolutely existential crisis and what this means for anyone considering college or hiring recent graduates. Let's dive into this topic today. This is going to be a fun one. Welcome to Startup Hack. I'm Spencer and here at Startupack, we love to build custom software solutions for companies. With a decade of executive leadership as a fractional CTO and 25 years in software development, I've mastered transforming tech teams and products. All right, so the disconnect between what schools teach and what the workforce needs has never been wider. AI isn't just changing the market, the job market. It's exposing fundamental flaws in how we've been preparing people for careers. And here at StarterPack, we are pass
+[...middle cut...]
+gents that automate your unique business processes, my team delivers results that exceed your expectations. Having led technology for a lot of companies and launched seven successful brands of my own, I bring battle tested expertise to your business challenges. Our specialty is turning technological complexity into business advantage. So, if you're ready to harness the power of AI and custom software to drive your business forward, let's connect. Together, we'll build technology that doesn't just solve today's problems, it positions you for tomorrow's opportunities. Technology, leadership, decades of experience, AI powered. Reach out today and we can help you. Check out starterpack.com/pens.
+
+=== ID: ZJAkNTNVur8 ===
+TITLE: Public School Is Finished. AI Killed It.
+DESC: Tax Network - For a complimentary consultation, call today at 1 (800) 958-1000 or visit their website at https://TNUSA.com/WALSH  A recent report proves what is now undeniable: AI has killed what was left of the education system. It’s over.   Become a DailyWire+ member and watch the full show: https://bit.ly/4bEQDy6  LIKE & SUBSCRIBE for new videos every day. https://www.youtube.com/c/MattWalsh?sub_confirmation=1  Stop giving your money to woke corporations that hate you. Get your Jeremy’s Razor
+KEYWORD: AI cheating school
+VIEWS: 272622
+TRANSCRIPT: If you're sending your kids into that, they're not going to learn a single thing. They're they're just not going to learn anything now. They're going to come out on the other end of it not knowing a single damn thing. One of the many lessons from the CO lockdowns was that if one metric suddenly plummets for some strange reason while another metric suddenly skyrockets, it's worth pausing for a second to consider whether there's a relationship between the two metrics. In the case of COVID, out of nowhere, uh people stop getting the flu. And then the number of daily cases dropped by something like 80%. And then yet at the exact same time, another illness became dominant known as COVID, which hospitals and doctors had an incentive to diagnose because CO patients paid out around 20% more through Medicare than non-COVID patients. It was all quite a coincidence almost as if a lot of people with the flu were being diagnosed with CO and right now something similar is happening in the academic world. Take a look at this chart which was produced by the Guardian. As you can see it reads, as plagiarism falls, AI related misconduct is rising. and they have a graph of plagiarism cases dropping from 2019 to 2025 while AI related misconduct is sharply increasing. There were no cases at all in 2019 and now we're on pace for more than seven proven cases of AI misconduct per 10,000 students. And of course, those are just proven cases of AI misconduct. Uh the actual number is many times higher. S
+[...middle cut...]
+owerless or or you know, maybe private schooling in very specific circumstances, very small private schools also could do this, but that's the answer. Public school is finished. Uh AI is the final nail in the coffin. And if that's the ultimate result of AI, people pull their kids out of public schools and colleges like NYU and start homeschooling, then I, you know, I'll probably do the unthinkable. I might become an AI evangelist myself. But until that happens, all the students using AI to cheat on their exams are today canled. If you like to see what else I have to say, you can access my full show by going to dailywire.com or by going to the Mattwal Show Twitter page. Hope to see you there.
+
+=== ID: ERr-CbK9pEQ ===
+TITLE: AI and the Future: Impact on Learning (Cheating vs. Enhanced Learning)
+DESC: AI's impact on education has created a huge debate: is it the worst thing for learning or the absolute best? This video explores the challenge of cheating versus the potential of AI as a super tutor for motivated learners, emphasizing the long-term choices students must make about their education.  🎓 In this video, you'll learn about: -The Cheating Path: Why using AI to do your work means you learn absolutely nothing, and ultimately, you are only cheating yourself. -The Super Tutor: How AI can s
+KEYWORD: AI cheating school
+VIEWS: 13
+TRANSCRIPT: [Music] So now that you know quite a few things about how AI works and and how to work with it and best practices and capabilities that AI has things that you could do with AI, I think it's important that we we discuss a little bit also um you know what to do with all this, right? um what is the impact of this on um some of the more important parts of what we're doing. Now, if you're a student, obviously a big part of what you do is learning, right? And there's a a very big debate these days about the impacts of AI on learning, right? So, there's some people who think it's the worst thing that ever happened. No one's ever going to learn anything anymore. And then there are others who think it's you know the best thing ever because uh you know everyone's now going to be able to learn however they'd like to learn right uh so basically there's some bad news if you will and there's some good news right um let's start with the bad news right I mean AI is um a great way of cheating right um and that's a problem right it's a problem that so many of the ways that we preai have sort of created ated methods to assess whether for example a student had learned something right uh or for you to even assess from your own sense if you had learned something uh there are now a variety of AI tools that can help you cheat right so that's that's bad right I mean the most important thing here is really that more than anything else if you use AI to cheat you are very much you know cheating yourself
+[...middle cut...]
+ you do not already know this, right? So you don't have to you have 24/7 if you're studying in the middle of the night for a you know a big project you have due the next day well in the middle of the night AI works too right and you can say hey I'm trying to understand this thing am I right you can say hey here's some things I've been working on can you please test me on this right said I've spent the last week trying to learn about you know French history please ask me some questions so I can see if I you know would be able to pass the test on this topic, right? So, if you are motivated to learn, you can use all these different AI tools to just help you learn more and help you learn better.
+
+=== ID: w-dCpecTJ8U ===
+TITLE: WEB EXTRA: Utah schools struggle to balance AI detection with false cheating accusations
+DESC: SALT LAKE CITY (KUTV) — You’ve heard about concerns in schools with artificial intelligence, and students cheating - but what if your child was accused of using AI to cheat when they didn’t?  That’s already happening in schools in our state.  One Utah school district is trying to update their AI policy to keep up but they admit, it could be a tricky balance.  FULL STORY: https://kutv.com/news/crisis-in-the-classroom/utah-schools-struggle-to-balance-ai-detection-with-false-cheating-accusations __
+KEYWORD: AI cheating school
+VIEWS: 991
+TRANSCRIPT: the um experience you had where uh you were flagged for cheating did they think you used AI or what did they think happened here so unfortunately as it comes with the development of Technology earlier day these early days the detection of it isn't on point yet so I tried to Pat out an essay it was supposed to be 10 pages and I just kind of added a bunch of fluff as you would um really I was only saying maybe like four pages worth of stuff um but I got flagged cuz I was just throwing out random stuff and it was kind of unfortunate because I didn't cheat and it was just an annoying process to have to talk to my professor and say like hey look man didn't cheat I don't know what to tell you at the end of the day I can understand where professors come from when they say you didn't actually write this so it is plagiarism um I feel it's pretty helpful in certain circumstances but uh it's also taking away the experience of actually doing that work and learning how to be a good writer um so it's useful in a very select circumstances for me I know you can use it to just write the whole essay but I feel like it's kind of shooting myself in the foot a little the district has seen kids try to use Ai and it was pretty obvious that they got busted yep there's times where they they'll copy and paste the prompts into it where it's clear that that they didn't do the work or maybe they'll have a online class and they they finish five assignments overnight that should take a couple weeks I mean 
+[...middle cut...]
+chers can be very confused over what they see whether it's real or not do you see it that way or am I wrong yeah I mean I see these things as very Case by case I mean I I certainly face some of these dis difficulties managing a large class at BYU I had one large class where yeah I mean in in one week there were many students who were flagged as potential cheaters and I mean my own practice I put it through triple human review before I took any action I had I had three separate humans look to make sure because it's just hard right now I mean investigating cheating in general is very hard with or without this technology the technology just brings different complexities to the issues in my mind
+
+=== ID: XUygUvxT3h4 ===
+TITLE: Almost every college student is cheating with AI - so, now what?
+DESC: AI isn’t just helping students cheat – it’s exposing the rot at the core of higher education itself.  Is this the end of learning as we know it, or the beginning of something better? Read my latest article to find out: https://blog.richardvanhooijdonk.com/en/almost-every-college-student-is-cheating-with-ai-so-now-what/
+KEYWORD: AI cheating school
+VIEWS: 6
+TRANSCRIPT: 
+
+=== ID: nGcYtC3Szms ===
+TITLE: Addressing AI cheating and its ethical implications in classrooms
+DESC: There's an old saying: ‘If you aren't cheating, you aren't trying.’  New technology is making that easier than ever in today's classrooms.  Not only can it be unethical, but some worry AI is also bypassing critical thinking.  "We're aware of the growing pervasiveness of AI, the ease of use with ChatGPT, and any other software that's out there," said Dr. Jessie Gipko, vice president of organizational effectiveness, Belmont College.  Full story: https://wtov9.com/news/local/addressing-ai-assisted-
+KEYWORD: AI cheating school
+VIEWS: 91
+TRANSCRIPT: essays mathematical equations scientific questions these plus more are all things students can get answers to in minutes using artificial intelligence news 9's Jessica Riley has more from Educators on how they've handled the increase of AI in classrooms artificial intelligence or AI is becoming more prevalent in the classrooms for example write me an essay on Dean Martin but how can Educators tell what's real from what's fake from their students we're aware of um the the growing pervasiveness of AI um the ease of use with with the chat GPT and and the other software that's out there just a year ago chat GPT a freeo use AI system that can respond to almost any request you have was introduced and since then the technology has advanced there are numbers of tools that can you know write for students um there's tools that they can use just to paraphrase to change wording you can actually put a paragraph in and have it switch it around so it uses different words Beyond chat GPT there are apps and websites fully accessible to solve problems write essays and more for students to easily cheat but in a classroom how can faculty tell what's real work versus what is computer generated what we're doing right now is we have looked into uh buying services that will um go with our Learning Management Systems essentially AI software to detect other AI generation Dr gipo says they see people use these services in general education classes the most I think it will it will cause problems with creative and critical thinking skills and being able to um you know delineate what is original thinking and what is manufactured thinking while there is a threat for cheating universities and colleges continue to research and try to find positive ways that AI can be implemented because it will not go away I'm a Believer though that we have to teach our students how to use artificial intelligence ethically in the end it's better to use AI as an assisting tool rather than doing the work for you reporting for news9 I'm Jessica Riley hi I'm Dylan Cleland thanks for watching and here's another video to check out and be sure to subscribe to our Channel
+
+=== ID: 2xh8eJB6JpM ===
+TITLE: AI Homework Dilemma: Is it Cheating or the new Calculator? - Neural Dojo #podcast Ep. 22
+DESC: Today I'm flying solo to talk about a massive issue hitting homes and classrooms right now → the AI homework dilemma. When your kid turns in a perfect essay and says they "only used AI for help", what do you do?  Is AI just the new calculator, or is it straight up cheating? I break down why the calculator comparison falls short, the hidden dangers of letting AI do the thinking, and why banning it completely is just wishful thinking because kids will always find a way around the locks.  Whether y
+KEYWORD: AI cheating school
+VIEWS: 20
+TRANSCRIPT: All right, y'all. Welcome to the Neuro Dojo. This is where humans and machines meet to think out loud. And around here, we call it binary banter. Short, smart conversations that explore how intelligence, creativity, and curiosity evolve together. No hype, just dialogue worth tuning into. Today, I'm running this one solo dooo. The AI co-host crew is resting their ones and zeros this week because I wanted to talk to you direct on this one. No cross talk, no banter detours, just me, you, and the question has got parents, teachers, and students all looking at each other a little funny right now. So, um, your kid turns in a perfect essay. The teacher's reading it like, "Nah, something ain't right." You're at home wondering how that assignment got done that fast. And your child hits you with, "I only used AI for help." Um, cool. So, now what? That's the AI homework dilemma. Is it cheating or is it the new calculator? Here's my take right up front. AI isn't automatically cheating, but if it's replacing the struggle your child is supposed to learn from, now we got a problem. And this one hits close to home for me. I've been in tech a long time and now I spend a lot of my time teaching people how to actually use AI in real life. But I'm also a husband. I'm also a dad and I've seen enough to know this conversation is not theoretical. So, if you're a teacher trying to grade through the fog or a parent trying to figure out what rules actually make sense, this one's for you. Let's start w
+[...middle cut...]
+me grace with this. It's new. It's moving fast and it can feel like a lot. You don't have to get it perfect overnight. Progress matters more than panic. If you need help, hit me up. I've consulted with teachers and parents on this. Just reach out. And with that, we'll call it. You've been listening to the Neuro Dojo, where binary banter meets mindful conversation. If something sparked your curiosity, share it. Tag a friend or 10, and keep the dialogue going. Thanks for watching. Hit the likes and subs. Get that algo on our side. There are a ton of people out there that need to hear this. Help me help them. Until next time, stay curious. Stay balanced and keep training your mind. Stay balanc.
+
+=== ID: 5T3kIOUzgTk ===
+TITLE: Everyone Is Cheating Their Way Through College
+DESC: Better get to prompting  Twitch | https://www.twitch.tv/atrioc Twitter | https://twitter.com/Atrioc YouTube | https://www.youtube.com/user/Atrioc VOD Channel | https://www.youtube.com/channel/UCEQg9lX9Y61J4U9Gck9QsWg Reddit | https://www.reddit.com/r/atrioc/ Edited by  ædish :) | https://twitter.com/aedishedits Thumbnail Illustration from The New Yorker / Intelligencer Outro music | @CMT8   #atrioc #clips #twitch
+KEYWORD: AI cheating school
+VIEWS: 473762
+TRANSCRIPT: Have you seen the AI ran schools that only have two hours of classes and yields a Oh, that reminds me of a topic. The main topic. All right. So, you mentioned this one. It's about AI ran schools. Okay. First of all, I'll say I think this is interesting in that I have personally used chat GPT and DeepSeek to learn things. I feel like it actually helps especially when it's um quizzing me. A1 teachers. Like if I if I put in something that I want to learn and I ask it to really challenge me on it, that's how I noticed it started glazing. That's why I made that video about glazing is I noticed it was like being way too nice to me. Before it used to be like, "No, you don't have it quite right. Here's this." But then it started to get really cut in a kind like, "Okay, great. Yeah." And I think a school designed around um customized instruction that is constantly having this feedback loop where you're told if you're wrong so you can learn quicker and learn at your own pace is a cool idea. However, we need to talk honestly and seriously about the truth of right now which is that AI is destroying all of the academic project that has existed. The whole concept of academia right now is destroyed. It has been ripped through completely. This is a James Walsh article called everyone is cheating their way through college. You know, we've discussed this and it's obviously kind of well-known, but this article goes very indepth including student interviews and teacher interviews and just to bas
+[...middle cut...]
+ the foundation. But because there's a new wave of people that have only learned through AI, they have no expertise to to fact check. They have no that's where it's it's weird. That's why I think it's cooking it's cooking a lot of entry level people. EU will probably introduce watermark for most used AI. So, it's going to be easier to catch. Seems tough. I mean, I feel like it's an arms race again where somebody will introduce the dewatermarking thing or Yeah, I don't know. That seems tough to catch, but I I am open to the idea. I guess you should invite Trump on the lemonade stand. We have a standing open invite to Donald Trump for the lemonade stand. One day he'll take us up on it. [Music]
+
+=== ID: s9LtJn5PA6M ===
+TITLE: AI Detecting Cheating in Schools
+DESC: Some schools have been using AI detection tools to detect possible cheating by students when they do their homework assignments. Unfortunately, the detection results are not always correct, leading to students being falsely accused and punished.  This video also looks into possible solutions and positive uses of AI in the classroom.  Reference: 2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations?sref=CuvDVSVe
+KEYWORD: AI cheating school
+VIEWS: 53
+TRANSCRIPT: all right let's dive in today huh we're going deep on AI detection Tools in education yeah really fascinating stuff actually we're basing this deep dive on a Bloomberg Business Week article gets right into the thick of it I mean AI is everywhere these days right and everyone's trying to figure out well what does this mean for schools yeah definitely the hot topic exactly so in this deep dive we'll break it all down for you help you really understand what's going on with AI detection in schools you know what it all means you won't believe this some AI detectors they actually flagged college application essays real students wrote them as AI generated oh wow like seriously makes you think right how reliable are these tools what happens if they get it wrong okay so picture this chat GPT bam it hits the scene and educators are like what do we do yeah right total scramble AI detection tools seem like the answer right quick easy catch those students using AI to cheat but are they really that simple that's the big question right I mean these AI detectors they're not magic it's all algorithms pretty complex stuff they analyze like sentence structure the words you use to try and figure out okay is this written by a human or aih MH problem is these algorithms well they're not perfect and when they mess up it can get pretty serious there was this student Moira Olstead at Central Methodist University she was pregnant at the time working full-time and studying be a teacher and she gets acc
+[...middle cut...]
+ps on the road we got to be willing to experiment learn from our mistakes and work together share what we learn and we have to make sure AI is used ethically fairly so it benefits all students not just some absolutely we can't assume AI is going to magically fix all our education problems it's up to us to decide how we use it and make sure it helps our students and society as a whole I love that that's a great point to end on we've covered a lot today but this is just the beginning of the conversation about Ai and education thanks for joining us on this deep dive and we hope you'll keep thinking about how AI is shaping the future of learning and that's our show for today thanks for tuning in
+

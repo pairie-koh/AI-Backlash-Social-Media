@@ -1,0 +1,1 @@
+This is my favorite meme about Vibe coding. So you started out with only cursor, which I totally encourage. I think everybody should try Vibe coding at least once. And then you realize you need like 20 other tools to make your app work. You need to draw out your UI. You need to deploy the app. You need to code the database, hook up to other APIs. But yeah.

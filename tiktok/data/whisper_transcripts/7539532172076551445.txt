@@ -1,0 +1,1 @@
+I used facial recognition to create a student attendance taking system. It stores the students' attendance in a local SCLETE database. See you next week.

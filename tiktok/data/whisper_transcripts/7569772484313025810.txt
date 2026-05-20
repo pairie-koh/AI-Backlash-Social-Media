@@ -1,0 +1,1 @@
+Here's how to change your old mouse cursor to a minimal, elegant one. Open your control panel, go to mouse, then pointers. Click browse, upload the cursor file you downloaded from my bio, then hit apply and OK. That's it.

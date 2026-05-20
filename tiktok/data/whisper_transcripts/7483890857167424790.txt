@@ -1,0 +1,1 @@
+Here is how to get this AI head tracking for MSFS for free. You only need a webcam or a phone. First download OpenTrack and A-Track. Press Start Tracking on both and you'll see this. Make sure you have the right camera. But when you're finished, when you move your head, this animal will move its head too. Enjoy flying.

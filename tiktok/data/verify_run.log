@@ -1,0 +1,58 @@
+Loading TikTok V1 CSV...
+  total rows: 8108  V1 YES rows: 4253
+
+=== TikTok V2 strict verification (few-shot + CoT) ===
+  Model: gpt-5
+  Keys: 7, workers: 21
+  YES rows to verify: 4253
+  YES threshold: score >= 6/10
+  Resuming: 2358 already done
+  Pending: 1895
+    [50/1895] 6.3/s | confirmed YES: 1430 demoted NO: 978 | errors: 0 | ETA 4.9m
+    [100/1895] 7.4/s | confirmed YES: 1472 demoted NO: 986 | errors: 0 | ETA 4.1m
+    [150/1895] 8.1/s | confirmed YES: 1516 demoted NO: 992 | errors: 0 | ETA 3.6m
+    [200/1895] 8.5/s | confirmed YES: 1556 demoted NO: 1002 | errors: 0 | ETA 3.3m
+    [250/1895] 8.8/s | confirmed YES: 1600 demoted NO: 1008 | errors: 0 | ETA 3.1m
+    [300/1895] 8.8/s | confirmed YES: 1635 demoted NO: 1023 | errors: 0 | ETA 3.0m
+    [350/1895] 8.9/s | confirmed YES: 1662 demoted NO: 1046 | errors: 0 | ETA 2.9m
+    [400/1895] 8.6/s | confirmed YES: 1685 demoted NO: 1073 | errors: 0 | ETA 2.9m
+    [450/1895] 8.7/s | confirmed YES: 1716 demoted NO: 1092 | errors: 0 | ETA 2.8m
+    [500/1895] 8.8/s | confirmed YES: 1760 demoted NO: 1098 | errors: 0 | ETA 2.6m
+    [550/1895] 8.9/s | confirmed YES: 1796 demoted NO: 1112 | errors: 0 | ETA 2.5m
+    [600/1895] 8.8/s | confirmed YES: 1842 demoted NO: 1116 | errors: 0 | ETA 2.5m
+    [650/1895] 8.8/s | confirmed YES: 1880 demoted NO: 1128 | errors: 0 | ETA 2.4m
+    [700/1895] 8.8/s | confirmed YES: 1922 demoted NO: 1136 | errors: 0 | ETA 2.3m
+    [750/1895] 8.8/s | confirmed YES: 1965 demoted NO: 1143 | errors: 0 | ETA 2.2m
+    [800/1895] 8.6/s | confirmed YES: 2006 demoted NO: 1152 | errors: 0 | ETA 2.1m
+    [850/1895] 8.5/s | confirmed YES: 2031 demoted NO: 1177 | errors: 0 | ETA 2.0m
+    [900/1895] 8.5/s | confirmed YES: 2069 demoted NO: 1189 | errors: 0 | ETA 1.9m
+    [950/1895] 8.5/s | confirmed YES: 2108 demoted NO: 1200 | errors: 0 | ETA 1.9m
+    [1000/1895] 8.3/s | confirmed YES: 2142 demoted NO: 1216 | errors: 0 | ETA 1.8m
+    [1050/1895] 8.2/s | confirmed YES: 2175 demoted NO: 1233 | errors: 0 | ETA 1.7m
+    [1100/1895] 8.1/s | confirmed YES: 2208 demoted NO: 1250 | errors: 0 | ETA 1.6m
+    [1150/1895] 8.1/s | confirmed YES: 2241 demoted NO: 1267 | errors: 0 | ETA 1.5m
+    [1200/1895] 8.1/s | confirmed YES: 2270 demoted NO: 1288 | errors: 0 | ETA 1.4m
+    [1250/1895] 8.1/s | confirmed YES: 2300 demoted NO: 1308 | errors: 0 | ETA 1.3m
+    [1300/1895] 8.1/s | confirmed YES: 2324 demoted NO: 1334 | errors: 0 | ETA 1.2m
+    [1350/1895] 8.1/s | confirmed YES: 2348 demoted NO: 1360 | errors: 0 | ETA 1.1m
+    [1400/1895] 8.1/s | confirmed YES: 2376 demoted NO: 1382 | errors: 0 | ETA 1.0m
+    [1450/1895] 8.1/s | confirmed YES: 2399 demoted NO: 1409 | errors: 0 | ETA 0.9m
+    [1500/1895] 8.1/s | confirmed YES: 2419 demoted NO: 1439 | errors: 0 | ETA 0.8m
+    [1550/1895] 8.1/s | confirmed YES: 2445 demoted NO: 1463 | errors: 0 | ETA 0.7m
+    [1600/1895] 8.2/s | confirmed YES: 2471 demoted NO: 1487 | errors: 0 | ETA 0.6m
+    [1650/1895] 8.2/s | confirmed YES: 2491 demoted NO: 1517 | errors: 0 | ETA 0.5m
+    [1700/1895] 8.1/s | confirmed YES: 2526 demoted NO: 1532 | errors: 0 | ETA 0.4m
+    [1750/1895] 8.1/s | confirmed YES: 2558 demoted NO: 1550 | errors: 0 | ETA 0.3m
+    [1800/1895] 8.1/s | confirmed YES: 2588 demoted NO: 1570 | errors: 0 | ETA 0.2m
+    [1850/1895] 8.1/s | confirmed YES: 2623 demoted NO: 1585 | errors: 0 | ETA 0.1m
+    [1895/1895] 7.9/s | confirmed YES: 2657 demoted NO: 1596 | errors: 0 | ETA 0.0m
+
+  Done in 3m 59s. API calls: 1895, errors: 0
+
+Saved 8108 rows to C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_ai_backlash_verified.csv
+
+=== SUMMARY ===
+  Confirmed YES: 2657
+  Demoted NO:    1596
+  Unknown:       0
+  V1 precision estimate: 62.5%

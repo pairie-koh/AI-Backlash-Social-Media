@@ -1,0 +1,1485 @@
+=== ID: tHaOZS8bua4 ===
+TITLE: Hidden camera, Data Leaks, Deepfakes - Are you aware? | Cybersecurity Dinesh | The Agni Show - Ep 4
+DESC: In today’s digital world, our phones, bank accounts, photos, and personal data are constantly connected to the internet. But how safe are we really?  Topics:  Intro - 0:00 Corporate & Workplace Cybersecurity - 5:11 Ethical Hacking, Dark Web & Data Leaks - 20:42 Smartphones, Apps & Social Media Risks - 25:20 Banking, UPI & Digital Payment Frauds - 49:42 AI, Deepfakes & Future Cyber Threats - 57:12 Parents, Children & Online Safety - 1:01:32 Cybersecurity as a Career - 1:36:29 Cyber Threats Ordina
+KEYWORD: deepfake danger
+VIEWS: 3327
+TRANSCRIPT: பப்ளிக் வைபைஸ் இருக்கு இல்லையா அந்த வைபைஸ் எல்லாம் நம்ம வந்து யூஸ் பண்ணலாமா? இல்ல அத யூஸ் பண்றது மூலியமாவும் ஒரு சைபர் திரட் இருக்கா? நீங்க வைபை அப்படிங்கறது யூஸ் பண்றீங்க அப்படின்னா ஒரு பிரைவேட்வின நீங்க வந்து யூஸ் பண்ணிக்கோங்க. என் லேப்டாப் ஹேக் ஆயிடுச்சுன்னு நான் நினைக்கிறேன். what is the first steப் that i should do என் தெரியாதவங்களுக்கு பிஷிங்ன்னா என்ன அப்படிங்கறது ஒரு சிம்பிள் டேர்ம்ஸ் சொல்ல முடியும். லிங்க தொட்டா தூக்கிடுவேன் அப்படின்னு சொல்லிட்டு ஒரு படத்துல வந்து சொல்லிருப்பாங்க. ஃபிஷிங் எப்படி நடக்கும் அப்படின்னா உங்களுடைய ஆசையை தோன்றதுக்கு. உங்க ஆசையை தோண்டுறதுக்கு என்னல்லாம் பண்ண முடியுமோ பண்ணுவாங்க. இன்னுமே ஏதோ ஒரு வகையில ஒரு சின்ன மிஸ்டேக் நடந்து பேங்க்ல இருக்கற காசு எல்லாத்தையும் இழந்துறாங்க. ஃபர்ஸ்ட் நீங்க காச இழந்தீங்கன்னா பேங்குக்கு போங்க. வித்தின் 24 ஹவர்ஸ் நிறைய பேர் வந்து ஒரே பாஸ்வேர்ட் எல்லாத்துக்கும் வச்சிருப்பாங்க. இது எந்த அளவுக்கு ஒரு செக்யூரிட்டி திரெட். இந்த ஒரே பாஸ்வேர்ட மல்டி அக்கவுண்ட்ஸ்க்கு நீங்க வச்சிருக்கீங்க அப்படின்னா இருக்கறதுலயே பிக்கஸ்ட் மிஸ்டேக் என்னன்னா அது வணக்கம். என் பேர் அக்னி. டெக்னாலஜி இன்னைக்கு தேதியில நம்ம வாழ்க்கையில ஒரு முக்கியமான அங்கமா இருக்கு. நம்ம பணம், உறவுகள், வேலை இது எல்லாமே இன்டர்நெட்டோட இணைஞ்சிருக்கு. சைபர் ஸ்பேஸ பத்தின ஒரு அவேர்னஸ் நமக்கு இருந்தாலும் கூட இன்னைக்கு தேதியில வித அட்வென்ட் ஆப் ஆர்டிபிசியல் இன்டெலிஜன்ஸ் சைபர் செக்யூரிட்டி தரட்ஸ் அப்படிங்கறது பெரிய அளவுல அதிகமாயிருக்கு. சோ, முன்னை எப்பவுமே இல்லாத அளவுக்கு, இன்னைக்கு தேதியில நமக்கு சைபர் செக்யூரிட்டி பத்தின அவேர்னஸ் தேவை. சோ அதனால நம்ம கூட இன்னைக்கு ஒரு ச
+[...middle cut...]
+குோ பேசியல் ரெக்கக்னிஷ்க்கோ நீங்க கண்டிப்பா வச்சக்கணும். மத்தபடி இது வந்து சேஃா அன்சேஃபாங்கறத தாண்டி இந்த செக்ஸ்தான் நம்ம வச்சாக்கணும். நம்ம அடாப்ட் பண்ணிக்கணும் அதுல இந்த பாட்காஸ்ட் எந்த பர்ப்பஸ்க்காக நான் எடுத்தனோ அது வந்து ஃபுல்பில் ஆயிடுச்சுன்னுதான் சொல்லணும் இந்த கான்வர்சேஷன்ல அவ்வளவு விஷயங்களை வந்து எங்களுக்கு வந்து எடுத்து ரொம்ப எலாபரேட்டா எக்ஸ்பிளைன் பண்ணி சொல்லப்போனா ஒரு லேமேன்க்கான சைபர் செக்யூரிட்டி மாஸ்டர் கிளாஸ் மாதிரி இருந்தது இது. ஐ ஹோப் இந்த பாட்காஸ்ட் பார்கற வியூவர்ஸ்க்கும் சரி ஒரு பெரிய அளவுல அவங்களுக்கு வந்து ஒரு அவேர்னஸ் கொடுத்திருக்கோம் அப்படின்னு நான் நம்புறேன். தேங்க்யூ ர் ஜாயனிங் தி ஷோ அண்ட் இவ்வளவு பொறுமையா எங்களுக்கு எல்லாத்தையும் எக்ஸ்பிளைன் பண்றதுக்கு ரொம்ப நன்றி.
+
+=== ID: pZZE5UgM3zk ===
+TITLE: Is Artificial Intelligence Really Dangerous for Humans ? Rashmika Mandanna DeepFake Viral Video #ai
+DESC: Is Artificial Intelligence Really Dangerous for Humans ? Rashmika Mandanna DeepFake Viral Video . . . . . . .  dangers of ai,ai is dangerous,ai is dangerous elon musk,artificial intelligence is dangerous,ai is far more dangerous than nukes,why ai is dangerous for humans,artificial intelligence dangers,danger of ai elon musk,general use ai,dall-e,and challenges of ai. additionally,breaking,artificial intelligence threat,how to use ai,be aware of artificial intelligence,tucker reacts,breaking news
+KEYWORD: deepfake danger
+VIEWS: 149
+TRANSCRIPT: क्या एआई कॉन्शियस हो चुका है उसने खुद से सोचना शुरू कर दिया है क्या और क्या यह हम इंसानों के लिए एक खतरा बन गया है सारी बातें जानेंगे इस वीडियो में आपने अभी हाल ही में एक न्यूज़ सुनी होगी जो एक एक्ट्रेस हैं रश्मिका उनकी एक डीप फेक वीडियो वायरल हो रही है जिसमें एक लड़की है उसके ऊपर उनका चेहरा लगाया हुआ है और वह कुछ शॉर्ट कपड़े पहने हुए किसी लिफ्ट में आई थिंक जा रहे हैं एक्चुअली वो जो वीडियो है वह रियल नहीं है वह किसी और की वीडियो है बस उस परे आर्टिफिशियल इंटेलिजेंस की हेल्प से उनका चेहरा रिप्लेस कर दिया है इस पर बात करेंगे कि आखिर में यह डीप फेक क्या होती है और कैसे वर्क करती है और क्या आर्टिफिशियल इंटेलिजेंस एक हमारे ह्यूमंस के लिए डेंजरस है क्या खतरा बन चुका है तो चलिए वीडियो को स्टार्ट करते हैं और चैनल को सब्सक्राइब कर दीजिए चलिए शुरू करते हैं वीडियो को सबसे पहले जानते हैं कि आर्टिफिशियल इंटेलिजेंस आखिर में होता क्या है देखिए आर्टिफिशियल इंटेलिजेंस एक ऐसी चीज है जिसमें हमारी जो मशीनस हैं उसको हम ह्यूमंस के कॉग्निटिव फंक्शंस को मिमिक करवाते हैं कि आप मिमिक करो कि जैसे ह्यूमन बिहेव करते हैं वैसे एक मशीन को हम बिहेव करवाएंगे तो उस तरीके की चीजें आर्टिफिशियल इंटेलिजेंस में आती है जैसे कि सेल्फ ड्राइविंग कार और भी बहुत सारी चीजें हो गई फेज रिकॉग्निशन इन सब में भी आर्टिफिशियल इंटेलिजेंस का यूज हो रहा है और होता आया है एआई बनाने के पीछे हमारा मेन मकसद था सभी काम और फिर चाहे वह सेफ्टी रिगार्डिंग हो या फिर मैन्युफैक्चरिंग रिगार्डिंग हो सभी काम बेटर फास्टर और मोर एक्युरेटली और मोर प्रेसा इजली कंप्लीट हो सके और इसलिए हर एक आर्टिफिशियल इंटेलिजेंस में उनके टास्क से हिसाब से प्रोगम कम भी
+[...middle cut...]
+ा है तब से जो ये डीप है वो काफी ज्यादा आसान हो गया है आप चुटकियों में किसी का भी जो वीडियो है उसको एडिट करके किसी का भी फेस उस पर लगा सकते हैं आप दो सेकंड में अपनी दाढ़ी उगा सकते हैं दो सेकंड में आप कपड़े चेंज कर सकते हैं और बिल्कुल ऐसा लगेगा कि वह रियल है तो यह सब डीप फेक था तो इस तरीके की चीजों से आपको बच के रहना है आई होप आपको आर्टिफिशियल इंटेलिजेंस का पूरा कांसेप्ट समझ में आ गया होगा अगर आपको वीडियो अच्छी लगी हो तो वीडियो को लाइक कर देना और आर्टिफिशियल इंटेलिजेंस चैट जीपीडी कैसे वर्क करता है मशीन लर्निंग क्या होती है डीप लर्निंग क्या होती है सारी की सारी लिंक मैंने डिस्क्रिप्शन में दे दी है वहां से आप जाके देख सकते हैं हमारे चैनल को सब्सक्राइब कर दीजिए थैंक यू सो मच फॉर वाचिंग दिस वीडियो
+
+=== ID: _7Ibi5FJ7NI ===
+TITLE: Deepfake  The Battle to Determine What is Real vs DeepFake!
+DESC: In this webinar, we dive into the growing threat of deepfakes and the ongoing battle to distinguish what’s real from what’s artificially generated.  As AI continues to evolve, deepfakes are becoming more sophisticated, posing significant risks to identity verification, fraud prevention, and digital trust. In this session, industry experts explore how organisations can detect, prevent, and respond to deepfake-driven attacks.  What you’ll learn: - What deepfakes are and how they’re created - The r
+KEYWORD: deepfake danger
+VIEWS: 22
+TRANSCRIPT: Come to our, deepfake webinar. It's amazing, how many folks
+registered for this webinar. No surprise to us because
+this is certainly hot topic. We expected the number of
+registration, you know, to come in in place. We have some exciting topic that are being
+talked about today. So without any further ado,
+let me just go ahead and start. And, with me on
+the webinar today, he's Connor White, who is
+our president of the new industries, Kanye was the, president of the Americans
+and previously at Dion. He was the CTO, so he's
+a a technical guru or technical geek, as I call them, by experience in this domain
+and even started his career in the AI field. So, I do remind him every now and then
+that he wants to share because of that. And also on webinar with
+me, Matt Smallman, founder, and of Synek's
+Consulting and, Matt, as an expert in the contact
+center or call center space, as you call it, and we
+can hear from him as well. You know, on this webinar, we're gonna talk about the
+synthetic voices and the fake happening around that, the
+solutions available out there, what are the recommendations
+that we have, you know, for you. And before we start,
+just company bond. There's all the attendees are muted. So if you you're not
+gonna be able to speak, but you'll be able
+to ask questions. So please go ahead and
+ask questions via the question panel that you see
+on the screen here. Now remind you about that every
+now and then, and at the end, we have enough time to
+do a series of questions. And
+[...middle cut...]
+y
+it with us throughout the the course. Again, as a as a reminder, everybody attending here will
+get a copy of the recording, including the slides, you get a free access to the
+Frost and Sullivan radar report that I mentioned. And most importantly, to get
+early access to X Center, our product that, Connor
+announced on this webinar. Please go ahead and
+fill out the form. It will send to you via
+the email follow-up, or you can talk directly to any of
+your day on account account executives. So with that, I wanna thank everybody again
+for making the time to attend the call. We're here to ask questions for
+you. Reach out to us as needed. Thanks again. Have a
+good rest of the day. You too. Thanks.
+
+=== ID: cGM6PtaMXrg ===
+TITLE: The Hindu Explained- The Danger of Deepfakes | Hindi | Mayur Mogre
+DESC: The Hindu Explained- The Danger of Deepfakes | Hindi | Mayur Mogre
+KEYWORD: deepfake danger
+VIEWS: 541
+TRANSCRIPT: जय हिंद दोस्तों स्वागत है आप सभी का इस वीडियो में मैं हूं मेरे मोगरे तो द हिंदू के एक्सप्लेन सेक्शन में एडिटोरियल आया है जो काफी इंपॉर्टेंट है डेंजर ऑफ दीप फिक्स ये जो दीप एफसी है ये क्या होते हैं इसके वजह से क्या परिणाम हो सकता है और इससे कैसे बचा जा सकता है क्या सॉल्यूशन है ये आपको कंप्लीट इनफॉरमेशन इस आर्टिकल के थ्रू मिलती है जो आपको मेंस में और प्रीलिम्स में काफी ज्यादा हेल्प कर सकता है तो चलिए शुरू करते हैं तो यहां पर अगर हम देखते हैं तो दीप फिक्स ये जो है काफी ज्यादा यहां पर प्रचलित हो रहा है बेसिकली अगर आप देखोगे तो जो नेशन स्टेट एक्टर्स हैं नेशन स्टेट एक्टर्स मतलब क्या होता है देखिए स्टेट एक्टर्स एंड नॉन स्टेट एक्टर्स ये दो होते हैं अब यहां पर एक्टर्स आप समझोगे जो एक्टिंग कर रहे हैं फिल्म स्टार्स उनकी बात हो रही है की जी नहीं यहां पर बात हो रही है ऑर्गेनाइजेशंस की स्टेट एक्टर्स मतलब होता है गवर्नमेंट और गवर्नमेंट से रिलेटेड जो भी है वो नॉन स्टेट एक्टर्स मतलब वो होते हैं जो गवर्नमेंट से रिलेटेड नहीं है जो ऑफिशल नहीं है मतलब की यहां पर आप अगर टेररिस्ट ऑर्गेनाइजेशन देखोगे तो वो नॉन स्टेट एक्टर्स हैं अगर हम गोस भी देखते हैं तो वो भी नॉन स्टेट एक्टर्स हैं तो इसीलिए नॉन-स्टडेक्टर इसका ये मतलब नहीं है की यहां पर सिर्फ नेगेटिव पर्सपेक्टिव में ही ये टर्म जो है इस्तेमाल की जा सकती है काफी बार मांस में नॉनस्ट्रिक्ट एक्टर्स के बारे में क्वेश्चन जो है वो पूछा गया है तो यहां पर नेशन स्टेट एक्टर्स जिनका जिओ पॉलिटिकल एस्पिरेशन से मतलब बेसिकली यहां पर किसकी बात की जा रही है गवर्नमेंट की और गवर्नमेंट ऑर्गेनाइजेशंस की तो यहां पर जिनकी जिओ पॉलिटिकल एक्सप्रेशन से आईडियोलॉजिकल बिलीवर्स है 
+[...middle cut...]
+ानी चाहिए उसी के साथ-साथ यहां पर एक्सेसिबल टेक्नोलॉजी सॉल्यूशन यहां पर रहने चाहिए जिससे की भाई ये दीप फेक है क्या वो डिटेक्ट किया जाए मतलब ठीक है बनाना काफी आसान हो गया है लेकिन उसको डिटेक्ट करना जो है ये भी आसान होना चाहिए तो ये भी एक इसका सॉल्यूशन हो सकता है तो यहां पर कन्फ्यूजन में आप लिख सकते हो मैंने स्टिक रिस्पांसिबिलिटी तू क्रिटिकल कंज्यूमर्स ऑफ मीडिया ऑन डी इंटरनेट थिंक एंड पॉज बिफोर सी शेयर एनीथिंग ओनली इंटरनेट मीडिया या फिर सोशल मीडिया तो ये चीज यहां पर हमें देखने को मिलती है तो ये दीप फ्रिक का इशू जो है काफी इंपॉर्टेंट है और एग्जाम पर्सपेक्टिव से भी काफी रिलेवेंट हो जाता है तो वीडियो अगर आपको पसंद आता है तो शेयर जरूर कीजिए चैनल को सब्सक्राइब कीजिए मिलते हैं अगले वीडियो में जय हिंद
+
+=== ID: INamkK9gUi4 ===
+TITLE: Deepfake technology puts consumers at risk of new scams
+DESC: Fraudsters are using AI to clone voices and faces and banks are the new target. Consumer Investigator Rachel DePompa shares the simple trick you can use to tell real from fake.
+KEYWORD: deepfake danger
+VIEWS: 142
+TRANSCRIPT: Deepfakes
+are better now than just five years ago. It's because artificial intelligence,
+or AI has gotten better. The bad guys aren't just pretending
+to be celebrities and politicians
+now they're going after everyday people. Which means what you see
+and what you hear can be real or fake and there's no way to tell the difference
+with the naked eye. What's been going on is that suddenly now,
+in the last few years, AI and specifically general AI can create
+what are called deepfakes, replicating you,
+your voice, your face with a single image and a few seconds of audio. Now, what it means is that it's no longer
+just at risk for, you know, president of the United States
+or, you know, CEO of large companies. Ben Coleman is the co-founder and CEO of Reality Defender,
+a leader in deepfake detection. His company actually works with banks
+to stop bad actors from making a wire transfer or resetting a password using deepfake videos and voice calls. He says education is key here
+for all of us, including our kids. Teaching my own kids,
+you know, if you ever have a phone call or a video conference
+and you think it's me, it might not be me. And there's nothing
+you can do to tell the difference. But while AI can fake me, fake my voice,
+fake my face. It can't fake my memory. Colman says, asking simple things like,
+what did we have for dinner last night? Or how was the movie last week? He says, AI will never know the answers
+to those questions. And that's a key item that anybody can do
+to have a little more confidence in what they're hearing or what
+they're seeing in this new AI world. And ask your bank or credit card company
+how it's protecting you from AI fraud. With this
+Watching Your Wallet, I’m Rachel DePompa.
+
+=== ID: OJV7PpfjTjI ===
+TITLE: Welcome to Your New Dystopia: The Post-Trust Era
+DESC: Are you starting to doubt everything you see online? It might be more dangerous than you think.  🔥 Watch this next!: https://www.youtube.com/watch?v=UJR4gKvYkLE&list=PLvppjhfc1upCw8tMDpc9_lvPGDWnRIQeT    =============================  Video summary  =============================   Fake news, AI-generated content, deepfakes, misinformation… it’s getting harder than ever to know what’s real. But what happens when that doubt doesn’t stay online and starts affecting how you see other people, your re
+KEYWORD: deepfake danger
+VIEWS: 74
+TRANSCRIPT: news and just take them at face value. I mean, not 
+blindly, but there was a baseline of trust. Now,   every time I watch the news, there's this little 
+voice in the back of my head that is constantly   questioning everything. Who wrote this? What's 
+their angle? What are they leaving out? Or is   this even real? And honestly, the clickbait 
+headlines don't help either. I hate those. So,   it's like I've come to expect dishonesty, 
+not just from random social media posts,   but from mainstream media, too. Just the other 
+day, the great Coffeezilla exposed the New York   Times for writing an article that was basically an 
+ad for what allegedly seems to be a massive scam.   It's messed up. We've reached the point where I 
+don't know what or who to believe anymore. Now,   this didn't happen out of nowhere. I've seen so 
+many fake news, so many random statistics used   to support an argument. But then when you scratch 
+below the surface is all just smoke. Or stories   and interviews that are sliced up in a way as to 
+present a story that doesn't really reflect the   truth. And I've seen it from the left, from the 
+right, from every single side. I mean, at this   point, I think it's undeniable that we live in the 
+era of misinformation and manipulation. And it's   not only because certain people can profit from 
+our misinformation. There's definitely some of   that, of course. But I think the most of the times 
+it's about the incentives. It's not a conspiracy.   It's just simple e
+[...middle cut...]
+ding trust   means becoming naive or believing everything. 
+It means resisting the urge to believe nothing,   leaving space for the possibility that some things 
+are still real, that some people are still good,   and that there are still some interactions that 
+are worth having because the alternative is simply   not acceptable. If we fully give in to mistrust, 
+if we assume everything is fake, everyone is   dangerous, and nothing is really reliable, then 
+we'll reach the point where the system doesn't   need to isolate us anymore because we will 
+be doing it ourselves. And I think that's the   real danger. Not that trust is disappearing, but 
+that we stop believing that it can exist at all.
+
+=== ID: 7Y8ur4uSTC8 ===
+TITLE: DEEPFAKE, DANGER OU RÉVOLUTION POUR HOLLYWOOD ? [FOCUS]
+DESC: Al Pacino dans Taxi Driver, Bruce Lee dans Matrix, Tom Selleck dans Indiana Jones… Ce ne sont plus des fantasmes ou des occasions manquées, mais des vidéos qui deviennent réalité, grâce à une technologie bluffante mais inquiétante, et qui pourrait révolutionner le cinéma. Focus sur le Deepfake.  Notre chaîne : https://bit.ly/2JKMwIw Notre site : https://bit.ly/2UZud3o Sur Twitter : https://twitter.com/stephanemoret Sur Facebook : https://bit.ly/2LzyU35
+KEYWORD: deepfake danger
+VIEWS: 1710
+TRANSCRIPT: al pacino dans taxi driver bruce lee dans matrix tom selleck dans indiana jones ce ne sont plus des fantasmes ou des occasions manquées mais des vidéos qui deviennent réalité grâce à une technologie bluffante mais inquiétante et qui pourrait révolutionner le cinéma focus sur le type fake elles font fureur sur internet depuis quelques mois les vidéos de 10 fake mettant des acteurs à la place d'autres dans des films cultes ou faisant prononcer des discours politiques par des imitateurs une révolution pour certains un danger pour d'autres le dip fake basé sur le diplôme ning des machines est un truquage qui compile des milliers d'image d'une personnalité pour pouvoir reproduire son visage ses mouvements ses moindres détails et les appliquer sur le modèle d'un autre en politique on voit très bien le danger on peut faire dire n'importe quoi un candidat ou élus comme l'a prouvé le réalisateur jordan pile en interprétant un barack obama plus vrai que nature pour les personnalités publiques le danger est également présent les actrices margot robbie des zirides l'est où scarlett johansson ont déjà vu leur visage posés sur des actrices pornographiques et voit ainsi le scandale éclate et le temps de quelques jours avant que la supercherie ne soit révélée le dip fake pose ainsi un problème de droit qui a donné son autorisation pour se voir doublé qui peut reproduire un visage sur un autre à l'heure actuelle personne les seules vidéos qui sont publiés pour l'instant le son dans le cadre d
+[...middle cut...]
+omplétée par une astuce de scénario qui voit le personnage changé de visage pour devenir johnny depp ou collines folle mais si les réalisateurs avaient pu finir le film avec le deep fake nul doute qu'il leur est fait alors qu'elle rires nous réserve le dip fake rendez vous très vite sur vos écrans pour le savoir bien plus vite qu'on ne pourrait d'ailleurs le penser rien n'interdit que vous puissiez choisir l'acteur qui incarne un film lors de votre visionnage parmi plusieurs options et vous que pensez-vous du diptyque donnez votre avis en commentaire et partager cette vidéo sans oublier de nous laisser un pouce levé et abonnez vous pour voir deux prochaines vidéos consacrées à la pop culture
+
+=== ID: 18ciPwddl8Q ===
+TITLE: Мошенники работают с вашим страхом и спешкой!
+DESC: Моим родителям позвонили якобы от моего имени. Сказали, что я в клинике. На фоне плакал "мой" голос....   Если вы уверены, что вас невозможно развести, вы уже в группе риска. Потому что современные мошенники работают не с глупостью. Они работают со страхом, шоком, спешкой и доверием.  В этом видео я рассказываю историю, которая совсем недавно произошла в моей семье. Моим родителям позвонили с типичным шоковым звонком — Schockanruf. Сначала якобы я, потом «врач», потом давление: ситуация серьёзна
+KEYWORD: deepfake danger
+VIEWS: 811
+TRANSCRIPT: Сегодня будет очень важный выпуск. И я начну с фразы, которая многим не понравится. Если вы думаете: "Ну, меня-то точно не разведут", именно вы в группе риска. Не потому, что вы наивный человек, не потому, что вы плохо соображаете, а потому, что современные мошенники работают не с глупостью. Они работают со страхом, со спешкой, с шоком и с доверием. Именно поэтому на такие схемы попадаются не только пожилые, не только доверчивые и не только те, кто вообще ничего не знает о мошенниках. Попадаются умные, [откашливается] осторожные, образованные люди. Люди, которые много раз слышали об этих схемах. Люди, которые были уверены, что с ними этого не случится. Попадаются все.
+
+=== ID: COZCHQkMsxM ===
+TITLE: Horrible Streamer Deepfake Situation
+DESC: This is the greatest awful faking of All Time Merch https://moistglobal.com/ I stream every day https://www.twitch.tv/moistcr1tikal
+KEYWORD: deepfake danger
+VIEWS: 4089908
+TRANSCRIPT: over the last couple days I just haven't been able to decide if it was a good idea to talk about this publicly or not I have been more back and forth on this than a student driver learning how to parallel park I just feel like this topic is one where even mentioning it makes it more of a problem kind of like the bye bye man where even just saying his name gives him power but ultimately this is a topic that I've covered on this channel many times over the last three or four years I've been keeping my finger on the pulse of this entire AI deep faking industry so there's actually quite a bit I'd like to say on the subject you already know where this is going you can already see the train tracks and where the rails are heading we're talking about the atriox situation which I'm very confident the majority of you have seen by now atriac is a very popular streamer and earlier this week he made a big blunder he was streaming and during his stream there was a split second where he showed his tabs and unlike the many other streamers that have come before him that have made this same mistake what they show something embarrassing or they show like porn and get banned for three days for it atriax cases a little more unique because the tab he showed was porn but it was AI deep faked porn of his streaming co-workers the image only jumpscared the stream for about a second but the ramifications from this are going to last much longer of course this happened publicly so I suppose atriac felt t
+[...middle cut...]
+ing business online it should be illegal and in three states it is hopefully that grows as the technology does when they start making it illegal pretty much everywhere to deep fake [ __ ] porn of people but yeah it's a pretty awful situation and it's a pretty complicated one I do think a lot of the streamers are taking the right approach of getting the sites that are hosting these things and producing these things taken down that is absolutely the correct play a hundred percent it's not like what they're doing is okay and I don't understand the [ __ ] weirdos that are defending it so yeah just wanted to talk about the whole AI situation here with the Deep fakes and uh that's about it so yeah
+
+=== ID: r6u6McFaMuc ===
+TITLE: Corporate Disinformation and Deepfake Risks
+DESC: Corporate disinformation is no longer just a political issue. In this video, technology writer Mark Hillary and analyst Peter Ryan explore how AI-driven tools enable the spread of fake content through cloned executive voices and fabricated corporate websites. As misinformation becomes a growing challenge, businesses must find ways to defend their brands and maintain trust. Watch the full discussion and learn how companies can stay ahead of these threats.  🔗 Want to dive deeper? Check out our ful
+KEYWORD: deepfake danger
+VIEWS: 56
+TRANSCRIPT: [Music] I think that this is interesting because normally we think about this information um as something that we've all seen in politics over the past few years um you know politicians have become experts at uh pushing some information out around their Rivals um and even if it's not not necessarily true as long as it goes viral it it helps them and so this is a particular feature of social media that that I think it's become quite problematic in politics but I wrote about this recently because I saw Gartner actually suggesting that this is going to be one of the top Enterprise technology Trends in 2025 and I thought well that that seems odd you know because I thought that we were talking about politics but um you know when I started looking at it more and more it seems that um there is deliberate disinformation around corporate Brands and you if if you look online at discussions around products or Brands there is misinformation all over the place but but we know about bad information you know this is um people that are mistaken people that just don't like a product you know so so this is not like an actual kind of disinformation campaign what I think we're seeing here is almost like corporate sabotage online becoming a a problem and I think that this will only get worse as we see um AI audio and video becoming much more powerful and people being able to easily clone the voice of a chief executive of a rival brand saying something outrageous but then leaking it out onto Twitt
+[...middle cut...]
+hat that there's especially over the last decade become a a general distrust of many media Brands and so you know it would be very hard for if uh some negative news about a company goes viral um for everybody from The New York Times to the BBC to CNN to start saying online this is not true this is not real um because there's just now so many people that that believe their social networks before major media Outlets so so it's becoming something that uh I mean I'm I'm not sitting here with an answer for it but I think that it's something that major brands have got to be aware of um and and definitely sort of think in terms of how they set up their technology and how they uh communicate [Music]
+
+=== ID: 3lfYqm9z0cQ ===
+TITLE: Artificial Intelligence and Deepfake Risks in Financial Crime
+DESC: In this episode of The Riffle, we explore how artificial intelligence and deepfake technologies are reshaping financial crime risks and challenging existing AML and fraud controls.   The discussion examines the use of deepfakes and synthetic identities to bypass KYC, CDD, and biometric verification, the growing sophistication of AI-enabled fraud, and the pressure this places on compliance frameworks. We also consider how financial institutions and regulators are responding through enhanced detec
+KEYWORD: deepfake danger
+VIEWS: 77
+TRANSCRIPT: Welcome to another podcast of the riffle series. The riffle podcast series brought to you by 10 leaves. Today we are undertaking a deep dive into a really urgent and frankly fast evolving threat. The intersection of artificial intelligence, deep fakes, and the global fight against financial crime. We have our hands on a pretty comprehensive and I have to say a slightly alarming document. It's a horizon scan published by the Financial Action Task Force or FATF. And for those who might not be familiar, the FATF is, well, it's essentially the global standard setter. They're the ones who lay down the rules for how banks and entire countries fight money laundering and terrorist financing. They're the ones everyone in compliance listens to. That's for sure. Absolutely. And this report, it lays out this powerful dual narrative. On one hand, AI is this incredible tool for improving compliance, right? It can spot patterns way faster than any human ever could. But, and this is the big but the bad actors are using that exact same power as a new tool to get around the rules with um a level of sophistication we just haven't seen before. So, the mission for us today is to really drill down into this source material to pull out those key vulnerabilities the FATF has identified. We want to help you understand how this tech has really moved beyond theory and is already being weaponized. Okay, let's unpack this. And I think we have to start where the FATF starts with the most immediate hands-o
+[...middle cut...]
+l mostly relying on the FATF's recommendation 15, which is a broad rule about new technologies. We're in a global arms race, no doubt. The battlefield is digital trust. And that leads to the final provocative thought that the report leaves you with. It mentions a crucial FATF round table is set for June 2025. But new AI tools are emerging daily, right? So the real question isn't if technology can keep pace with crime. It's whether our global regulatory and legal frameworks can evolve fast enough to avoid being exploited by systems that adapt in real time. For you, the listener, understanding that gap means that vigilance and your own critical thought remain the absolute last line of defense.
+
+=== ID: tv1kVqTfAfk ===
+TITLE: How to Spot A Deepfake: The Future of AI Safety with Saakshar Duggal
+DESC: The Hidden AI Risks Exposed in this Podcast with Law Expert Saakshar Duggal. Artificial Intelligence is transforming the world but AI also has a dark  side to it. The expert in this podcast shares what  are the risks of AI. He also shared what exactly Cybercime is and also explained the thought process of Cyber Criminals.  Topics Covered: • AI dangers nobody talks about • Deepfakes and Cybercrime • Future AI regulations • AI vs Human Intelligence • AI Hallucinations • Can AI become uncontrollabl
+KEYWORD: deepfake danger
+VIEWS: 62
+TRANSCRIPT: एi थोड़ा अलग एस्पेक्ट आ जाता है। यह एक टेक्नोलॉजी है जिसका यूज़ आप अभी के लिए तो कर रहे हैं बट इसके पास खुद का दिमाग है। इसकी वजह से यह डेंजरस भी साबित हो सकता है। एआई नया नहीं है। बहुत साल से इस पे काम चल रहा है। इनफैक्ट एआई के जो गॉड फादर हैं मिस्टर जोफरी हिंटन वो करीब 30 साल से एआई पे काम कर रहे हैं। इनफैक्ट एआई जो शब्द है इसका पहली बार एक नवेल में जिक्र हुआ था और नवेल को भी 40-50 साल हो चुके हैं। अगर मिस इनफेशन जो फैलती है वो क्रिमिनल की वजह से नहीं फैलती। वो हमारी वजह से फैलती है। स्लैश एi पे कोई ट्रेंड चलता है। हमेशा डाटा बहुत ज्यादा लिया जाता है। कहीं आप जितना डाटा लीक करते हैं, जितना डाटा केयरलेस हैं, उतने ही ज्यादा चांसेस हो जाते हैं कि आपके साथ साइबर क्राइम अटैक होगा। हेलो एंड वेलकम टू दिस वेरी न्यू एपिसोड ऑफ सवाल दैट मैटर्स। व्यूअर्स, आपको पता है कि हर वेडनेसडे रात को 9:00 बजे हम आपके सामने ऐसे एपिसोड्स लेकर आते हैं जिनकी वजह से आपकी लाइफ में कुछ मोटिवेशन ऐड हो और कुछ लर्निंग ऐड हो। तो आज उसी कड़ी में मेरे साथ एक बहुत ही स्पेशल गेस्ट यहां स्टूडियो में मौजूद हैं। आई वुड लव टू इंट्रोड्यूस मिस्टर साक्षर दुग्गल। ही इज एन एआई एंड साइबर सिक्योरिटी एक्सपर्ट एंड एन एडवोकेट। मिस्टर साक्षर वेलकम टू सवाल दैट मैटर्स। थैंक यू सो मच दीक्षा एंड इट्स अ प्लेजर। बहुत अच्छा लग रहा है मुझे यहां पे। एंड मुझे लगता है इस 30 45 मिनट्स में हम काफी सारी चीजें डिस्कस करने के लिए। सो आई एम लुकिंग फॉरवर्ड टू इट। साक्षर मेरे को तो आपके बारे में बहुत कुछ पता है। एट दिस एज यू हैव अचीव्ड सो मच इन योर करियर व्हिच इज एक्चुअली अ वेरी इंस्पायरिंग एंड इनलाइटनिंग थिंग यू आर अ टेक्स स्पीकर एज वेल। सो फर्
+[...middle cut...]
+करेगा। तो दे हैड एव्री आंसर्स टू ऑल द क्वेश्चंस। सब पैटर्न उनको पता था कि ए, बी, सी, डी, ई, एफ, जी करना है और जी तक आते-आते अब यह बंदा टूट जाएगा और इसको कहीं ना कहीं पैसे पे करने पड़ेंगे। व्यूअर्स साक्षर जी ने इस पूरे 45 मिनट्स के पडकास्ट में इतनी ज्यादा जानकारी दी है अबाउट साइबर क्राइम अबाउट एआई एंड ऑनेस्टली मुझे तो डर लग रहा है कि एआई का फ्यूचर क्या होने वाला है। सो अ बिग थैंक यू टू यू फॉर शेयरिंग सच डीप इनसाइट्स ऑन साइबर स्पेस एंड एआई एंड थैंक यू फॉर जॉइनिंग अस एंड सवाल दैट मैटर्स। थैंक यू सो मच। बहुत मजा आया। एंड मुझे लगता है अगर इसमें से एक-दो चीजें भी अगर यूजर्स प्रैक्टिकली अपनी लाइफ में इम्प्लीमेंट कर पाए तो आई थिंक इस पॉडकास्ट का जो ऐ है वो सक्सेसफुल हो जाएगा। थैंक यू सो मच। थैंक यू।
+
+=== ID: p1PkQBShZ0U ===
+TITLE: Deepfake Threats & Cybersecurity Strategies | Master's Presentation on AI Detection, Risk & Response
+DESC: Deepfake Technology Threats – Cybersecurity Risk Assessment Presentation | Master of Cybersecurity, Sydney, Australia  This comprehensive presentation explores the growing threat of deepfake technology in cybersecurity. Covering real-world attack scenarios, identity fraud, reputational risks, and misinformation, this video offers a structured risk assessment report based on international standards (ISO 27005, NIST).  ✅ What’s covered in the presentation:  Deepfake attack vectors and real-world r
+KEYWORD: deepfake danger
+VIEWS: 12
+TRANSCRIPT: Hi, good morning everyone. My name is Muhammad A and uh today I'm going to talk about defect technology threats a comprehensive cyber security risk assessment. I'm pleased to begin our group presentation on a very timely and critical topic in the world of cyber security. Uh this presentation will focus on defect technology threats which is becoming increasingly relevant in today's digital world. So, I have a question for you. Have you ever watched a video online and uh later discovered it was completely fake? Even though it looked real, it was a deep fake video. In 2023, a fake video of a world leader caused panic in a stock market. Between 2022 and 2023, there was a 78% increase in defake related cyber incidents. with each attack costing an average of $4.3 million. This presentation is based on a comprehensive risk assessment report prepared by me and uh my other group members. So our aim is to examine how defect technology is being used maliciously, assess the risks and recommend strategic countermeasures and um I will start pro providing the background and uh objectives and key observations from our report and then my colleagues will explain rest of the part uh uh the threat factors, recommendations and how organizations can defend against defect threats. So these are my group members and uh these are the topics that we will discuss in this. So let's begin with the introduction and the key findings for our risk assessment. So in our case scenario uh cyber shield solution u
+[...middle cut...]
+ocus on deploying AI detection tools, launching employee training and tightening verification protocols. Uh phase two brings in core technologies like blockchain and behavioral biometric and by the phase three we will implement advanced forensic tools and 24 by7 monitoring within a SOC. So we have allocated a budget of uh $1.05 05 million uh aimed and reducing deep fake related loss loss uh by up to 70% within the first year. Uh governance is equally critical. Clear responsibilities are assigned to the SICO legal HR and PR teams. Uh we also engage in continuous threat intelligence uh risk reassessment and technology reviews to keep our defense adaptive and futurep proof. Thank you very much.
+
+=== ID: XLEOvGkHMfE ===
+TITLE: What If CCTV Footage Is Fake? 😳 | AI Deepfake Threat
+DESC: AI-powered deepfakes are making it possible to manipulate CCTV footage, images, and video evidence with extreme precision.  In criminal investigations and digital forensics, this creates a serious risk — fake evidence that looks completely real.  Deepfake detection technologies help identify synthetic media and ensure the authenticity of digital evidence.  👉 Because truth should never be compromised.  👉 See how law enforcement detects fake evidence: https://www.paladintech.ai/deepgaze/industries
+KEYWORD: deepfake danger
+VIEWS: 8
+TRANSCRIPT: What if this CCTV footage isn't real? AI can now manipulate video evidence frame by frame, changing faces, actions, even timelines. In criminal investigations, this creates a dangerous reality where fake evidence looks completely authentic. And if evidence can't be trusted, justice itself is at risk. Deep Gaze by Paladin Eye detects synthetic manipulation across images and video because truth should never be compromised.
+
+=== ID: EtEPE859w94 ===
+TITLE: Tricked by the fake Obama video? Deepfake technology, explained | USA TODAY
+DESC: Deepfakes are video manipulations that can make people say or do seemingly strange things. Barack Obama and Nicolas Cage have been featured in these kinds of videos. Although they might get some laughs on the internet, they also have security experts worried. #deepfake #ObamaDeepfake #ScarlettJohansson  To see more: https://bit.ly/2J1xQDh  When news breaks, we break it down for you. Just the FAQs cuts through the clutter and helps you with your daily news fix. Watch more: http://bit.ly/2Dw3Wnh  
+KEYWORD: deepfake danger
+VIEWS: 94757
+TRANSCRIPT: by feeding a complicated computer program millions of images and sound bytes it can learn to do this President Trump is a total and complete dippity now see I would never say these things it's not in the public address but someone else would someone like Jordan Peele it's called a deep fake we have the facts crafting realistic humanoids and video games or CGI movies used to take years of training hundreds of people and millions of dollars but that's just not the case anymore today with just a little facial mapping and powerful artificial intelligence these sophisticated machine learning techniques are becoming accessible to people who don't necessarily have massive moviemaking budgets usually deep fakes are created to make unique videos like making Nicolas Cage play Lois Lane and Superman or putting Steve Buscemi's face on Jennifer Lawrence's body during a Golden Globes speech I just like it was just this was very truly surprising for me but as the technology advances and becomes more believable worries abound you can sort of see a trajectory develop where within a year or two it's going to be really hard for a person to distinguish between a real video on a fake video and as deep fake spread across online platforms many have crept onto the darker parts of the Internet famous singers and actors have been victims to pornographic deep fakes in sites like Twitter reddit and pornhub have banned deep fake videos altogether deep fakes could very well be used against the US by hosti
+[...middle cut...]
+ational security could all be at risk how we move forward age of information is gonna be the difference between whether we survive or whether we become some kind of tough dystopia you know there are people out there that are trying to divide society influence elections and we know this to pasady exist it's only logical at at some point someone's going to take the next step and sort of recognize it but don't fret the US Department of Defense is already working on ways to uncover whether a video or photo has been doctored in any way moving forward we need to be more vigilant with what we trust from the internet it's a time when we need to rely on trusted news sources like USA Today for a start
+
+=== ID: v_rRBQcg3bU ===
+TITLE: D-Pop
+DESC: A K-pop-style take on pop-culture, current events, conspiracy theories!  (i am NOT $uicyd4l) AI music with original human lyrics.  #atomicwarhero #popculture  #currentevents #ai #robots #vaccine #conspiracy #synthpop #kpop #rap #dancemetal #dubstep #chiptunes #edm #likesharesubscribe #digitalcreator #creatoreconomy #discover #algorithm #2026trends #justuploaded #trending #viral #airevolution #music #aimusic #originallyrics
+KEYWORD: deepfake danger
+VIEWS: 31
+TRANSCRIPT: AtomicWarHero! D-POP! Whoo! You don’t wanna know, How it’s gonna go. Seams are startin’ to show, House of cards about to blow! BOOM! We got the AI, the crypto, the UBI… WOW! It’s a cyberpunk, scene now! Yeah… No running, no hiding, no selling, no buying, No time for recourse, no buyer’s remorse. Ooops! Cha-ching! It’s a done deal… But you don’t think, you just feel. Selling out your sovereignty, For suicidal empathy… And free stuff! YAY! Quick—hide the cat! Here they come! Na, na, na-na, naa. I don't think we'll make it. Na, na, na-na, naa. Locusts gonna take it. It’s all the same now, everyone is lying. It’s just a game now, look at us dying. D-pop, D-pop, D-POP! They’ll disappear you, Redact your research. They only fear you, For what you teach us. D-pop, D-pop, D-POP! The automation age, yeah, Is starting to creep, yeah. Robots on the way, yeah, It’s time to reap, yeah. D-pop, D-pop, D-POP! Depopulate! If you want to keep a secret, You must also hide it from yourself. 
+– George Orwell, 1984 Uh-oh, Look who’s, looking proud. Fist-up, getting loud, Goin’, with the crowd. Cancel culture—not allowed! BOOM! We got the vaccine, the machines, and UAPs… POW! It’s apocalyptic now! Yeah… No running, no hiding, no selling, no buying, No time for recourse, no buyer’s remorse. Ooops! Cha-ching! It’s a done deal. But you don’t think, you just feel. Selling out your sovereignty, For suicidal empathy… And free stuff! YAY! Quick—hide the cat! Here they come! Na, na, na-na, naa. I don't thi
+[...middle cut...]
+IS WATCHING YOU >>> <<< BIG BROTHER IS WATCHING YOU >>> <<< BIG BROTHER IS WATCHING YOU >>> <<< BIG BROTHER IS WATCHING YOU >>> <<< BIG BROTHER IS WATCHING YOU >>> <<< BIG BROTHER IS WATCHING YOU >>> <<< BIG BROTHER IS WATCHING YOU >>> D-POP! It’s all the same now, everyone is lying. It’s just a game now, look at us dying. D-pop, D-pop, D-POP! They’ll disappear you, Redact your research. They only fear you, For what you teach us. D-pop, D-pop, D-POP! The automation age, yeah, Is starting to creep, yeah. Robots on the way, yeah, It’s time to reap, yeah. D-pop, D-pop, D-POP! Depopulate! If you want a picture of the future, Imagine a boot stamping on a human 
+face—forever. – George Orwell, 1984
+
+=== ID: U_j5AaVi07A ===
+TITLE: How Dangerous are Deepfakes? | Explained | Sumsub
+DESC: Are deepfakes the technology of the future? Or are they a ticking timebomb? A recent deepfake of Tom Cruise demonstrated just how realistic this technology can be. But should we be afraid of it?   In this video, I want to show you a wide range of deepfakes—both dangerous and beneficial—and explain how they actually work.   What’s more, I team up with an anonymous hacker to create my very own deepfake. So you’ll get to see how deepfakes are created, step-by-step, as well as how much they cost to 
+KEYWORD: deepfake danger
+VIEWS: 94114
+TRANSCRIPT: I'm going to show you some magic. It's the real thing. I mean, uh, it's all the real thing. Marvel is so overrated. Hello and welcome to Sumsub, a channel about how to survive in the online jungle. My name is Bradley and today we're going to talk about realistic deep fakes like the recent one with Tom Cruz. What's up, Tik Tok? What threats they pose and how average users should adapt to this new reality. I need your clothes, your boots, and your motorcycle. Whether what we see and hear is always as it seems. President Trump is a total and complete dipshot. I will lose my mind. It's the real thing. So Tom Cruz's Tik Tok account was recently created. Now Tom shared a video where he eats a lollipop, plays golf, and I think does coin tricks. But this account has actually been deep faked. And it's actually the most realistic example to date. Tom Cruz's Tik Tok has actually been talked about by the world's largest media because in just a couple of days, the video got millions of views and almost 700,000 people subscribed to the account. So understandably, people in the comments are utterly confused. But this is something that's quite predictable. I mean, people usually expect deep fakes to look something like this. [Music] By looking at these kinds of pictures, you can easily identify when something's been deep faked. However, this is the real crux of the problem. People are not the only ones that are being tricked. So users actually checked Tom Cruz's deep fakes using an AI powere
+[...middle cut...]
+nd they can actually get followers. Imagine a pool of these accounts used to defame a company or a product. And as for my own personal advice, well, number one, be alert when consuming information online, particularly when the topics that you're engaging with are especially divisive or inflammatory. Number two, seek multiple independent sources of information. Don't assume that an online persona or individual is legitimate just based on the existence of video, photographs, or audio on their profile, right? It might be deep fake. And most importantly, try not to post information about yourself online that's important. That's it for today. Anyway, see you in the next video and be safe. [Music]
+
+=== ID: 9dRy9BqTcLc ===
+TITLE: Deepfake nudes outpace Wisconsin law | FOX6 News Milwaukee
+DESC: A new online threat is putting Wisconsinites at risk of sexual exploitation. #fox6news #wisconsin #crime #news   Subscribe to FOX6 News Milwaukee: https://www.youtube.com/user/fox6now?sub_confirmation=1  Watch FOX6 News Milwaukee Live: https://www.fox6now.com/live  FOX6 News Milwaukee delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from southeast Wisconsin and across the nation.  Watch more FOX6 News Milwaukee on YouTube:  Contact 6: 
+KEYWORD: deepfake danger
+VIEWS: 2686
+TRANSCRIPT: bi 
+ on 
+ Wi 
+ ex 
+ ar 
+ in 
+ ph 
+ ne 
+ Po 
+ la 
+ st 
+ da 
+ cl 
+ on 
+ di 
+ ge 
+ al 
+ he 
+ No 
+ se 
+ It 
+ st 
+ wh 
+ ap 
+ re 
+ sh 
+ ju 
+ se 
+ me 
+ bo 
+ an 
+ po 
+ an 
+ on 
+ no 
+ fe 
+ bl 
+ te 
+ no 
+ of 
+ su 
+ nu 
+ re 
+ co 
+ Mi 
+ al 
+ pr 
+ ki 
+ me 
+ pi 
+ ga 
+ ev 
+ de 
+ so 
+ ar 
+ ex 
+ al 
+ in 
+ do 
+ yo 
+ pr 
+ ju 
+ To 
+ vi 
+ ph 
+ us 
+ st 
+ di 
+ se 
+ yo 
+ th 
+ po 
+ le 
+ wh 
+ th 
+ th 
+ wo 
+ we 
+ in 
+ th 
+ th 
+ we 
+ po 
+ mi 
+ It 
+ of 
+ tr 
+ pl 
+ ex 
+ yo 
+ th 
+ ch 
+ St 
+ re 
+ a 
+ te 
+ de 
+ ev 
+ kn 
+ ta 
+ 17 
+ th 
+ hi 
+ yo 
+ de 
+ ou 
+ so 
+ an 
+ an 
+ th 
+ be 
+ th 
+ ha 
+ Sh 
+ 13 
+ Sc 
+ ph 
+ in 
+ th 
+ Ac 
+ fi 
+ ye 
+ to 
+ ph 
+ fa 
+ Th 
+ lo 
+ yo 
+ ex 
+ a 
+ Tr 
+ ch 
+ fu 
+ Am 
+ Tr 
+ Ac 
+ ve 
+ ta 
+ st 
+ se 
+ Al 
+ cr 
+ in 
+ cr 
+ an 
+ re 
+ im 
+ vi 
+ of 
+ Bu 
+ sa 
+ ca 
+ gr 
+ ri 
+ ne 
+ se 
+ se 
+ an 
+ as 
+ on 
+ pe 
+ de 
+ th 
+ wo 
+ pi 
+ th 
+ pi 
+ Wi 
+ ne 
+ fr 
+ th 
+ of 
+ th 
+ do 
+ de 
+ As 
+ te 
+ Ja 
+ bi 
+ sh 
+ de 
+ pe 
+ pe 
+ wa 
+ co 
+ th 
+ le 
+ it 
+ go 
+ el 
+ wh 
+ un 
+ Se 
+ it 
+ as 
+ ed 
+ Re 
+ ra 
+ ar 
+ cr 
+ as 
+ on 
+ th 
+ sh 
+ cr 
+ th 
+ th 
+ in 
+ ar 
+ fr 
+ Th 
+ ab 
+ fa 
+ sh 
+ st 
+ of 
+ an 
+ on 
+ aw 
+ wa 
+ ca 
+ lo 
+ it 
+ co 
+ ha 
+ of 
+ no 
+ ar 
+ al 
+ ca 
+ wi 
+ Se 
+ to 
+ ge 
+ on 
+ or 
+ pe 
+ co 
+ re 
+ pe 
+ ac 
+ pa 
+ bi 
+ it 
+ As
+
+=== ID: jOCLuNshvpQ ===
+TITLE: DeepFake ரகசியங்கள் - அனைவரும் கட்டாயம் தெரிந்து கொள்ளவேண்டியவை | DeepFake Secrets | Must know Tamil
+DESC: Hello Friends Welcome to @InfoXplorerTamil Tamil YouTube Channel.  #deepfake #secret #tamil #mustknow #warning #socialmedia #scam #intamil #youtube #infoxplorer #awareness #ai #technology  In this video, we're going explain about the following:  what is a deepfake? deepfake technology explanation deepfake video example deepfake detection deepfake celebrity most realistic deepfake deepfakes are about to change everything. deepfake viral video deepfake viral video tamil deepfake viral video bollyw
+KEYWORD: deepfake danger
+VIEWS: 154
+TRANSCRIPT: hello everyone welcome to my YouTube channel Facebook ay fora networks compe neural networks discriminator discriminator so what deep fake video for deep fake Social celebrities f senor cens the [Music] fourar approach follow deduction preventing the spread fortifying the reporting mechanism and Rising awareness friend thanks for [Music] watching yeah
+
+=== ID: NFDzOKO312o ===
+TITLE: Identity Threat Landscape 2025 – How Do I Protect My Company Against Deepfake, GenAI and more?
+DESC: Traditional protection measures are not only outdated – they are risky.  How can you effectively protect yourself against threats such as manipulated supply chains, malicious browser extensions and stolen access data from the darknet?  With AI-supported security features, you can stay in control and protect your sensitive data. Modern identity management goes far beyond passwords and logins. It’s about ensuring security – even after authentication. This is because attacks such as session hijacki
+KEYWORD: deepfake danger
+VIEWS: 32
+TRANSCRIPT: great then hello and welcome everybody to our webinar about how to protect digital identities the identity threat landscape we have this currently about how to protect against deep fakes gen and browser based attacks um a few logistical information so um you are all muted during that webinar but please use the opportunity to ask questions via um the question option here so or give comments um because at the end of our presentation we will then come back to your questions and discuss that interactively then um the session will be recorded um so you will have the opportunity to look into that or share it with your colleagues afterwards and um that's it um I'm very excited that today um I have Ary with me Aki do you want to introduce yourself yeah thank you Andre thank you for having us or thank you for having me my name is Aus I'm a senior solution engineer here doctor covering the C region and looking forward to the session and back back to you thanks yeah Andre P I am the city of of I consult now I consult since 20 years and uh if you don't know us um we are a system integrator a consulting company and a managed service provider completely focusing on the topic of digital identities providing advisory implementation a Services also manag service and um yeah that's it um let's really start with a very very exciting topic um that is about the identity threat landscape and I would like to start with a topic that is sometimes a little bit painful to make that really U being reall
+[...middle cut...]
+xciting conversation for around a very very important topic that we should not ignore but focusing on what we can do to protect ourselves against identity threats and I think with with OCTA you you presented us a nice nice um division approach that we can leverage for that yeah thank you thank you thank you again for for having us I really really enjoyed the discussions thank you also to to the yeah very very interesting questions from the audience and yeah let's let's continue the journey and if you have any questions uh just reach out to us yes absolutely let us know we're happy to follow up conversations around that topic so then have a great day and see you soon hopefully goodbye goodbye
+
+=== ID: w2mXEdvR5Ro ===
+TITLE: Deepfake Dangers: How AI Scams Are Reshaping Insurance in 2025
+DESC: In 2025, the rise of AI-generated deepfakes is revolutionizing the insurance industry. From impersonation scams targeting CEOs to manipulated vehicle damage claims, the threats are real and escalating. This video delves into the latest trends in AI-driven fraud, the challenges insurers face, and the policies that can protect businesses and individuals. Stay informed about the evolving landscape of insurance in the age of artificial intelligence.​
+KEYWORD: deepfake danger
+VIEWS: 20
+TRANSCRIPT: The insurance industry has always faced challenges. Fraud and evolving technologies have consistently tested insurers. The digital age, however, has ushered in a new era of threats. Cyber security risks are skyrocketing, impacting businesses of all sizes. The insurance industry is a prime target for cyber criminals. These criminals are becoming more sophisticated. They are leveraging cuttingedge technologies like artificial intelligence. AIdriven attacks are a growing concern for insurers globally. These attacks can disrupt operations. They can lead to significant financial losses. They also have the potential to erode the trust of policyh holders. The insurance industry must adapt. It needs to bolster its defenses to counter these emerging threats. Failure to do so could have dire consequences. [Music] Among the many threats posed by AI, deep fakes stand out as particularly alarming. Deep fakes are incredibly realistic, manipulated videos or audio recordings. They make it appear as if individuals are saying or doing things they never actually did. The technology behind deep fakes has advanced rapidly. It has become increasingly difficult to distinguish deep fakes from genuine content. This poses a significant risk for the insurance industry. Deep fakes can be used to fabricate evidence for fraudulent claims. Imagine a scenario where a deep fake video is created. This video could show an accident that never happened. This could be used to support a false insurance claim. Simi
+[...middle cut...]
+nies can create a united front. This will make the industry more resilient to the evolving threat of AIdriven fraud. Section 9, the future of insurance in a deep fake world. The insurance industry stands at a crossroads. The rise of AI, particularly deep fakes, presents both challenges and opportunities. By understanding the risks, investing in advanced technologies, and fostering a culture of awareness and collaboration, the insurance industry can navigate these uncharted waters. The key to success lies in adaptation. The insurance industry must evolve alongside technology, constantly updating its strategies and tools to stay ahead of emerging threats. The future of insurance depends on it.
+
+=== ID: 0xe6K7aE-70 ===
+TITLE: Episode 2 – Visual Illusions: Why Our Brain Gets Fooled by Deepfake Videos
+DESC: Deepfake technology is getting so realistic that even our brain can’t always tell what’s real and what’s fake. But why are we so easily deceived?  In this 5-minute episode, we’ll explore: 🔹 How the visual system in the brain processes faces in milliseconds (ERP, P1, N170) 🔹 Why cognitive biases (like Confirmation Bias) make us more likely to believe certain deepfakes 🔹 The Illusion of Control – why we often think we can spot a fake, but research proves otherwise 🔹 The psychological and neurologi
+KEYWORD: deepfake danger
+VIEWS: 10
+TRANSCRIPT: Halo teman-teman, welcome back to IMLS Family Channel. Coba deh bayangin sejenak, kamu lagi asyik scroll TikTok atau Instagram, terus tiba-tiba muncul video artis idola kamu atau mungkin seorang politisi terkenal ngomongin sesuatu yang aneh banget. Sesuatu yang enggak pernah kamu duga bakal keluar dari mulut mereka. Videonya kelihatan real banget. Cahayanya pas, suaranya mirip, ekspresinya natural sampai kamu berhenti sejenak dan mikir. Tunggu ini beneran dia yang ngomong gitu. Padahal itu cuma dipik, sebuah video yang dibuat pakai teknologi artificial intelligence canggih. Nah, ini yang bikin penasaran. Kenapa sih otak kita bisa segampang itu tertipu sama video-video semacam ini? Kenapa mata kita seolah enggak bisa membedakan mana yang asli dan mana yang palsu? Di video kali ini kita akan bongkar rahasia di balik ilusi visual ini langsung dari sudut pandang cara kerja otak kita. Jawabannya ternyata ada di dalam kepala kita sendiri. Tepatnya di cara otak kita memproses informasi visual. Otak manusia itu punya sistem yang super cepat dan efisien buat mengenali wajah. Sistem ini sudah terprogram sejak kita lahir untuk mendeteksi wajah dalam hitungan sepersekian detik. Dalam ilmu neurologi visual atau visual neurosins, proses ini bisa diukur lewat sinyal listrik di otak yang disebut RP atau event related potentials. Sinyal ini muncul sebagai respons otomatis saat kita melihat sesuatu. Nah, ada dua sinyal yang peranya krusial banget dalam pengenalan wajah. Pertama ada sinyal yang
+[...middle cut...]
+akai untuk hiburan ternyata juga punya sisi gelap yang bisa menghancurkan kepercayaan dan memanipulasi persepsi kita. Nah, kalau kamu pikir ini sudah cukup seram, tunggu dulu. Di episode berikutnya kita akan membahas topik yang lebih personal dan mendesak. Bagaimana teknologi Deepfix bisa menipu kamu hanya dalam 15 detik panggilan video dan bagaimana cara melindungi diri dari penipuan semacam ini. So, jangan lupa untuk like video ini jika kamu merasa dapat informasi baru. Share ke teman-temanmu agar mereka juga waspada. Dan yang paling penting, subscribe dan nyalakan lonceng notifikasinya supaya kamu gak ketinggalan episode penting berikutnya. Terima kasih sudah menonton. Sampai jumpa. Yeah.
+
+=== ID: 3N0wlOEHrRM ===
+TITLE: Javed Akhtar’s AI Fake Video Goes Viral | Lyricist Exposes Deepfake & Warns Legal Action
+DESC: #JavedAkhtar#aapkikhabar #AIFakeVideo #aapkikhabar  #Deepfake #ViralVideo#aapkikhabar #FakeNews#aapkikhabar #AIControversy #CyberCrime#aapkikhabar  #AapKiKhabar  Javed Akhtar’s AI Fake Video Goes Viral | Lyricist Exposes Deepfake & Warns Legal Action | Aap Ki Khabar  A fake AI-generated video of renowned poet and lyricist Javed Akhtar is going viral on social media, falsely claiming that he has changed his beliefs. Javed Akhtar has strongly denied the video, calling it completely fake and mislea
+KEYWORD: deepfake danger
+VIEWS: 27
+TRANSCRIPT: Hi commentary. or lyricist thinking or noonsense attitude award. function. Social med Breaking news social media platform. For no drama, no confusion. Ignore and move on. Forward social Social writer, actor, fans, fake videos, fake photos, fake Outspokenly, share channel. Next video.
+
+=== ID: oy8LsdchUAg ===
+TITLE: The $25,000,000 Deepfake Heist: Why Seeing is No Longer Believing
+DESC: In this video, I break down the terrifying true story of the $25M Hong Kong deepfake heist and why it changes everything we know about cybersecurity in 2026.  For decades, we focused on securing our buildings and our networks. But as an AI Strategist working with global cyber leaders, I’m seeing a new, more dangerous shift: Identity is the new perimeter. We’ve moved from "hackers getting in" to "fraudsters logging in."  In this video, you’ll learn:  The "Liar’s Dividend": Why the real danger of 
+KEYWORD: deepfake danger
+VIEWS: 15
+TRANSCRIPT: Four people joined a zoom call this time last year and unbeknown to the fund accounted his three colleagues were deep fakes. He handed over $25 million to them on their their behest. And when he actually left the zoom call he was walking down the corridor and he saw two of those people that were doing the call in a different meeting room and he clocked and they never got the money back. And for everyone else sitting here you're thinking how are you going to fall for that? Well, the bad news is you can pretty much become anybody who you want to become whenever with open source that's on your phone that you can actually access. Welcome to the world of AI. So, you know, your customer and all the kind of diligent stuff that we did to figure that out. We're going back to 1980s to actually replicate who's real and who's not real. Now, I usually talk about the negative stuff just to kind of bring that to the table because everyone's got a kind of an AI negative story. It's got to take loads of jobs. It's got to do this and do do that. But from from my perspective, it's kind of mixed, right? There's there's some really really good stuff and there's loads of really really challenging stuff. And for my kids growing up, I'm genuinely really worried what they're going to do for jobs. But I'm also really really enthusiastic what's going to help in the world of health care opportunities around reimagining how we do our work. So I'm mix
+
+=== ID: BknR7utfpU0 ===
+TITLE: Rogue One: The Rise Of Deepfake Movies
+DESC: Disney's best Star Wars movie is... missing something.  🌏 Get exclusive NordVPN deal here ➵  https://NordVPN.com/uncivilized It’s risk free with Nord’s 30 day money-back guarantee!✌  #starwars #rogueone #deepfake   Rogue One vs. The Force Awakens (Lessons From the Screenplay) https://youtu.be/gsIQa7sH5_Y VFX Artists React to Resurrected Actors (Corridor Crew) https://youtu.be/2ZKPnuUFwOk  Substack, for more on art and storytelling: https://agequodagis.substack.com/p/the-struggle-is-real Patreon,
+KEYWORD: deepfake danger
+VIEWS: 232617
+TRANSCRIPT: this video is sponsored by nordvpn get the best deal on it at nordvpn.com uncivilized here's an interesting fact about painting in English we call this style of painting a still life but in French it's a nacho malt nacho malt means dead nature it's actually a little bit ironic to call this sort of painting a still life when it's often portraying things that are inanimate these two terms raise the question of whether this piece of art is alive or dead and that question may remind you of the 2016 Star Wars spin-off Rogue one Rogue one is widely considered the best Disney Star Wars movie maybe the best Disney Star Wars thing it seemed to prove the franchise could still show signs of Life despite its starring a dead guy but we'll get to that in a minute because it's worth pointing out what people liked about it most obviously Rogue one gets away from the focus on the Skywalkers shared by every other Star Wars Episode which yeah that's probably a good call partially because Disney clearly has no idea what to do with the Skywalkers but also because Star Wars has always played out in a universe that suggests all kinds of stories are happening all the time everywhere it's why the EU novels were such a big deal back in the day they let us stick around after Han Luke and Leia had left the scene and find out what happens to the people in Java's Palace or what's it like to train as a Jedi Knight or you know what would a hard-boiled detective story be like with a twilight in it Rogue one 
+[...middle cut...]
+ney-back guarantee and if you try it from norvvn.com uncivilized you'll get 65 percent off a two-year plan plus an additional month for free that's nordvpn.com uncivilized now to answer the obvious question there's not going to be an Andor video the Disney stuff just doesn't interest me at least not enough to spend that amount of time on it the next piece we'll discuss an underrated element of the Jackson Lord of the Rings trilogy that has yet to be replicated anywhere else and also I plan to periodically drop some extra essays on a sub stack there's two pieces on there right now one of them is meant to be a companion to this video maybe that will be a good place to talk about Andor sometime
+
+=== ID: PrTBvz8oBQE ===
+TITLE: The fight against deepfakes: Can tech keep up?
+DESC: Deepfakes are no longer a future threat—they’re here, and they’re scaling fast. In this Axios AI+DC Summit demo, Ina Fried speaks with Microblink CEO Hartley Thompson to break down how AI is “industrializing the fraud economy.”  After a live deepfake demonstration, Thompson explains how advances in generative AI have made identity fraud cheaper, faster, and accessible to virtually anyone. What once required nation-state resources can now be done with a laptop—putting individuals, businesses, and
+KEYWORD: deepfake danger
+VIEWS: 65
+TRANSCRIPT: One of my favorite parts uh that we do at Axios AI Summits at all of ours is show you some of the technology in a action because we're always talking about it. We want you to see some of it. So for this next demo, we're going to start with a video. Maybe a little disconcerting. We'll be back to explain what happened in just a second. Hey Hartley, good to meet you. Um, thanks for joining us on stage at the Axios AI DC Summit. Happy to be here. It's important to highlight how everyone's vulnerable these days. Sorry, I'm a minute late. Another call ran a bit long. All good. We were just talking about how AI is industrializing the fraud economy. Perfect. This demo will show how easily AI can manipulate identities. It's wild. Hi, everyone. Just jumping in. Are we set for the demo? Yes. Quick demo first, then conversation. That was concerning for a couple reasons. First of all, that's way too much of me. But also, I think we all know deep fakes are becoming a reality. I think the sound was a little off, but in reality, those were synced perfectly that you couldn't tell. Look, we've all been talking about deep fakes for a while, and it's been an issue for a while. I think what's changed is the ease and the scale. Um, I want to talk more about it with the folks that helped create this video. So, please welcome Heartley Thompson, the CEO of Microlank. Great to see you. Nice to see you as well. Uh, in real life, the real you, not the uh, AIU. I mean, we all know deep fakes are an issue
+[...middle cut...]
+'s only getting better and better and better every time a new model comes out. So, I don't know what that regulation looks like or what the policy should be, but I do think whether it's government institutions, whether it's uh companies that are marketing or advertising, I do think it should be made pretty clear that what content is being created is actually a deep fake and not real. And there needs to be some regulation around how those are used both on the consumer side and on the the public side. Well, unfortunately, we're going to have to leave it there. Harley Thompson, thank you so much. Hopefully you prevented at least a couple people [laughter] here from uh falling victim. I hope so.
+
+=== ID: rMXXIO3RNPs ===
+TITLE: ଆପଣଙ୍କ ମୋବାଇଲ୍ ଶୁଣୁଛି ସବୁ କଥା ! Deepfake Danger in India | AI Threat to Democracy| Explained N18V
+DESC: ଆପଣଙ୍କ ମୋବାଇଲ୍ ଶୁଣୁଛି ସବୁ କଥା ! Deepfake Danger in India | AI Threat to Democracy| Explained N18V  #Deepfake #AIThreat #IndiaDigitalSecurity    #odishanews  #News18Odia #OdiaNews #odishanews #oriyanews #breakingnews #weathernews    Welcome to News18 Odia, your go-to destination for the latest news and updates from across India and beyond. As one of Odisha's premier news channels, we strive to keep you informed with live coverage and breaking news as it happens. News18 ଓଡ଼ିଆ ହେଉଛି ଓଡି଼ଶାର ଅଗ୍ରଣୀ 
+KEYWORD: deepfake danger
+VIEWS: 1653
+TRANSCRIPT: आप का मोबाइल सुन आप कथा अनेक समय आप ज मोबाइल सुन मु ज भाची मोबाइल ज पार ये प्रश्न उत्तर आस्तेआस्ते सामना को हमें नेक समय किसी खवा कथा जीवा भाऊ सांग मैसेज चैटिंग कर ठीक ता पर ही हम सोशल मीडिया रे से एक एडवर्टाइजमेंट तो मन प्रश्न उठता की स मोबाइल सुन की बोलवा से जगह ही वीडियो सामना आप को खवा खवा आपन को आप कथा का मोबाइल सुन से कथा सामना मोबाइल रे उत्तर आप प सुन की त उत्तर ह भी अ ना रे भी ह कथा यह अ कि ए आर्टिफिशियल इंटेलिजेंस जमाना रे जे की व्यवहार कर आर्टिफिशियल इंटेलिजेंस को सेतिकारक से कथा सुनची आर जानत आत ए जो भाव आप मथ मेटा एआई कथा कवा अन्य जो एआई गुवा जेमिनाई कबा Google र तमाम जो एआई सॉफ्टवेयर गुहार कर नीतिया व्यवहार कर हमें ताको व्यवहार कर यूज़ कर सेथरे हमें जो इनपुट दो की हमको एमती से दरकार एमती फोटोला गिवली फोटोला समस्त फोटो से फोटो समस्त ट्रेंड चल ये सब जो हम पर्सनल इन मोबाइल को दोचे से एआई सॉफ्टवेयर को से एआई से जी को निज ट्रेनिंग बा एआई टूल को ट्रेनिंग द ताको व्यवहार करती कि किसी क प जो जगह सेफ्टी प्रोटोकॉल व्यवहार करु अधिकांश जो मार्केट पर्सनल फोटो छड़ीचे से पर्सनल फोटो को व्यवहार हो मध्य जावा दर आप चाह कि अनेक समय आगू जती गूगल सुन लागी किन्तु गूगल जो जमिना हमें को मेल पठ आग को सॉफ्टवेयर सुनी पब ना प्राइवेसी सेटिंग को ज चेंज ए को जीmail जो जेमिनाई एक्टिवेट को निज को पको डीएक्टिवेट कर प निज से करब नहीं परमिशन ऑटोमेटिकली नहीं जमु को ज की मना कर पबू आ इन न पर का के कला जेमिनाई कथा Google हो कैलिफोर्निया लॉस ज केस कर ता पर सब कथा सामना को एवं केवल जे गूगल जे मेटा रही लामा बोली से ए से लामा पाखा पाखी समान काम कर एवं मेटा का की पढ़ से मेटा कंपनी पाखरे Facebook मालिकसे Instag
+[...middle cut...]
+हो माने बहुत बड़ा-बड़ा कंपनी रह से एआई सॉफ्टवेयर को जू जी दे दवा से जीस को कोली भाव व्यवहार करा जाऊची से जीस ऊपर हमें जाने जाने ना किंतु ताको कालिका दुनिया रे से जिन को केमती यूज़ करा जाऊची से एआई ट्रेनिंग पर्पस हम फोटो को केमती व्यवहार करब एवं सोशल मीडिया रे बा प की हम जो पर्सनल फोटो दे से केमती व्यवहार हो से मध्य चिंताजनक कथा तो ये ब क हो कि आ को मध्य सचेतन हवा पे पें फोटो छाडू हमें को भस शेयर कर ये सब जिन एआई टेक्नोलॉजी रे आ को देखा पे प आप एलन मस्क जान एलॉन मस्क कहथले किसी दिन पूर्व इंटरव्यू कहथिले कि एआई इज डेंजरस देन न्यूक्स ता माने परमाणु बमा भी एआई क्षति हो पारे तो से दुनिया मोबाइल फोन लैपटॉप से आईआई टेक्नोलॉजी अ से एआई टेक्नोलॉजी को हम सेमती व्यवहार कर पबो सतर्क की व्यवहार कर पबो हां
+
+=== ID: Rrf0ER2_W4U ===
+TITLE: Tech experts warn of danger with AI deepfakes
+DESC: Tech experts are raising concern over deepfakes, by saying they're the most significant danger of Artificial Intelligence.   Lawmakers in the United States are looking to pass laws to regulate the emerging technology.  This is an attempt to reduce the potential consequences of AI generated images.  Facebook and Instagram have announced for the 2024 US Presidential election, they will require political advertisements on their platform to disclose if they were generated using AI.  Lawmakers are al
+KEYWORD: deepfake danger
+VIEWS: 3895
+TRANSCRIPT: Tech experts are raising concern over deep fakes saying they're the most significant danger of artificial intelligence lawmakers in the United States are looking to pass laws to regulate the emerging technology and lessen the potential consequences of AI generated images from political ads to fake images of disasters the incredibly convincing yet totally fake AI generated content known as deep fakes are popping up fast and lawmakers are trying to keep up there's more Insidious danger that the sheer volume of impersonations and false images were exposed to on social media lead us to no longer recognize reality when it's staring us right in the face this AI deep fake showing an explosion that never happened at the Pentagon caused brief panic and even a temporary dip in financial markets before it was labeled AI generated and last year a deep fake video of Ukrainian president volodimir zalinski surrendering to Russia was quickly identified as fake but increased fears over how this sophisticated technology could be manipulated according to one study 96% of deep fake videos are of non-consensual pornography this is wrong it threatens lives and self-esteem among young people and it needs to be stopped Wednesday lawmakers question experts on the dark side of AI and discuss possible solutions for pleasing it government business and people all rely on what we see and hear online to make decisions we need transparency and authenticity in that content to make accurate decisions when it comes to the 2024 election Facebook and Instagram have announced they'll require political ads on their platforms to disclose if they were created using artificial intelligence such as this GOP ad using AI to imagine what a second Biden term might look like there are tips for detecting deep fakes such as a natural eye movement a misaligned face and blurry or mismatched clothing lawmakers are also concerned about AI generated pornography and prosecutors in all 50 states have urged Congress to pass federal laws to safeguard children
+
+=== ID: 3a6Zk1k-vPQ ===
+TITLE: OpenAI Under Attack: Group Demands "Withdraw Sora 2 Now!" Over Deepfake Risk
+DESC: OpenAI's groundbreaking new AI video model, Sora 2, is already in serious trouble.  Mere days after its launch, a major consumer advocacy group is publicly demanding OpenAI withdraw the model immediately. This Vainarania AI News flash report covers the breaking story.  --- 🚨 THE CORE ALLEGATIONS 🚨 --- The group accuses OpenAI of a "reckless disregard for safety", citing massive risks: 1.  **Mass Deepfakes:** The potential for Sora 2 to generate realistic, harmful deepfakes. 2.  **Misinformation:
+KEYWORD: deepfake danger
+VIEWS: 212
+TRANSCRIPT: Open AI's latest AI video model, Sora 2, launched recently and promised groundbreaking video generation capabilities. However, consumer advocacy groups are now raising serious alarms with a nonprofit organization publicly demanding the model's withdrawal. Critics cite the application's potential for generating deep fakes, spreading misinformation, violating privacy, and infringing on copyrights. The group accuses its creators of a reckless disregard for safety, especially as reports emerge of third-party programs already removing mandatory video watermarks. While Sora 2 is available on mobile in select regions with advanced features, the debate over its responsible use and potential for misuse continues to intensify.
+
+=== ID: sXIoshVGvdI ===
+TITLE: 𝐃𝐞𝐞𝐩𝐟𝐚𝐤𝐞 𝐃𝐚𝐧𝐠𝐞𝐫𝐬 𝐔𝐧𝐜𝐨𝐯𝐞𝐫𝐞𝐝! ⚠️ 𝐂𝐚𝐧 𝐂𝐨𝐦𝐩𝐚𝐧𝐢𝐞𝐬 𝐑𝐞𝐚𝐥𝐥𝐲 𝐒𝐭𝐚𝐲 𝐒𝐚𝐟𝐞?
+DESC: What a 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 session at 𝐖𝐋𝐅! 🌟 𝐁𝐞𝐚𝐭𝐫𝐢𝐳 𝐑𝐮𝐢𝐳-𝐁𝐞𝐚𝐭𝐨, Head of Global Data Privacy at NEC Corporation, Spain, dove deep into “𝐃𝐞𝐞𝐩𝐟𝐚𝐤𝐞 𝐃𝐚𝐧𝐠𝐞𝐫𝐬 𝐄𝐱𝐩𝐨𝐬𝐞𝐝: 𝐂𝐚𝐧 𝐂𝐨𝐦𝐩𝐚𝐧𝐢𝐞𝐬 𝐓𝐫𝐮𝐥𝐲 𝐀𝐯𝐨𝐢𝐝 𝐋𝐢𝐚𝐛𝐢𝐥𝐢𝐭𝐲?” 🤖  From understanding emerging risks to safeguarding corporate integrity, Beatriz left no stone unturned! ✨   𝐌𝐢𝐬𝐬𝐞𝐝 𝐢𝐭? Catch the highlights and see why staying informed is no longer optional!   https://worldlawyersforum.org/  #WLF2025 #DeepfakeRisks #DataPrivacy #CorporateLiability #TechEthics #InnovationSaf
+KEYWORD: deepfake danger
+VIEWS: 48
+TRANSCRIPT: I want to address another uh you know elephant in the room like we know with the rise of deep fake uh technology um you know the malware and the fishing emails that are so pervasive and the deep fake technology is so accurate and perfect in its essence. It's very hard to distinguish between what is original what is not at least from a naked eye unless it is being run through forensics. My question to you as legal professionals is what do you um you know then recommend or if a company is your client what do you recommend to them as Betayana also uh recommended that you should have a proactive approach that is you need to take steps before anything happens. What do you recommend because you know Heathrow and Marriott and all these big giant even Facebook was not spared from um hackers. How can companies without put investing in millions of dollars in proprietary software to put up walls and they can't disclaim uh like this that we won't be liable if the their clients are reposing their sensitive information to them. How do they handle liability issue in the contract? What do they say? Uh aside from that, yes, we have security measures because there's no ceiling to it. they will always turn around and say no it wasn't enough. What do you then advise your clients regarding um how to avoid liability regarding this? Thank you. I can give you my approach from a corporate point of view because what you have said it's quite interesting. Uh I'm not advising my customers. I I mean I'm a
+[...middle cut...]
+and it's constantly happening, right? and well is you're in your day-by-day basis and you're not realized or you are not really focused on the on on the on the right and you click on and that's it. Yeah, the problem is there. Um also um we have a cyber liability insurance um in order to protect the company. uh and this is a trend that even in the past we have not seen that many customers were requiring us to have this cyber liability insurance yeah right now in tenders wherever you are yeah I'm not talking about any particular country it so also customers are requiring us as a provider an IT provider uh to give them some kind of guarantees in order to Yeah. To protect their own assets. Yeah.
+
+=== ID: nJHhIXyPVBU ===
+TITLE: Deepfake AI – Reality or Danger? | How AI Creates Fake Videos
+DESC: Imagine seeing someone say something shocking, something they have never said in real life…  Sounds impossible? Think again. Thanks to Deepfake AI, this is no longer science fiction. In this video, we explore the fascinating and alarming world of AI-generated fake videos — a technology so realistic that even the sharpest eye can struggle to distinguish between truth and fabrication.  What you’ll discover in this video:  🔹 The Power of Deepfake AI – Learn how AI can recreate a person’s face and v
+KEYWORD: deepfake danger
+VIEWS: 4
+TRANSCRIPT: देव फेक एआई हकीकत या खतरा लुक क्लोजली कैन यू सी द ट्रुथ हिडन विन दिस इज व्हाट आई ट्रूली क्या आप यकीन करेंगे कि आज ऐसी वीडियोस बनाई जा सकती हैं जिनमें कोई शख्स वो बातें करता हुआ नजर आए जो उसने कभी कही नहीं पावर कनेक्शन चेंज वी सीविंग सीजन ऐसी वीडियोस जिनमें किसी मशहूर शख्सियत का चेहरा और आवाज बिल्कुल हकीकत की तरह दिखाई देती है। लेकिन हकीकत में वो सब कुछ मसनूई जहानत ने बनाया होता है। यही टेक्नोलॉजी डीप फेथ कहलाती है। आज की इस वीडियो में हम जानेंगे कि डेपेथ क्या है? यह कैसे काम करती है और यह मुस्तकबिल में दुनिया को किस तरह मुतासिर कर सकती है। डेफेक दरअसल मसनूई जहानत या आर्टिफिशियल इंटेलिजेंस की एक ऐसी टेक्नोलॉजी है जो वीडियोस, तसावीर और आवाज को इस अंदाज में तब्दील कर सकती है कि वो बिल्कुल असली लगे। इस टेक्नोलॉजी में एआई एल्गोरिदम्स हजारों तसावीर और वीडियो का तजिया करते हैं। फिर वह किसी इंसान के चेहरे के तासुरात, आंखों की हरकत, हंठों की हरकत और आवाज के अंदाज को सीख लेते हैं। इसके बाद एआई इन्हीं मालूमात को इस्तेमाल करते हुए ऐसी वीडियोस बना सकता है जिनमें किसी भी शख्स का चेहरा किसी और के जिस्म पर लगा दिया जाता है। और वो वीडियो इतनी हकीकत के करीब होती है कि आम इंसान के लिए फर्क करना बहुत मुश्किल हो जाता है। ट्रस्ट मी व्हाट यू आर सीइंग इज कंप्लीटली रियल। द टेक्नोलॉजी इज जस्ट दैट। डेप फेक बनाने के लिए आमतौर पर एक खास किस्म की एआई टेक्नोलॉजी इस्तेमाल होती है जिसे डीप लर्निंग कहा जाता है। इसमें कंप्यूटर को हजारों या लाखों तसावीर दिखाई जाती हैं ताकि वो किसी शख्स के चेहरे की साख्त को समझ सके। फिर एआई इन तसावीर से एक डिजिटल मॉडल तैयार करता है। यह मॉडल इस काबिल हो जाता है कि वो इस शख्स के च
+[...middle cut...]
+ीद नुकसान पहुंच सकता है। इसी तरह जाली वीडियोस के जरिए गलत मालूमात फैलाना भी बहुत आसान हो सकता है। इसी वजह से बहुत सी टेक्नोलॉजी कंपनियां और हुकूमतें ऐसी एआई टेक्नोलॉजीस पर काम कर रही हैं जो डीप फेक वीडियोस को पहचान सके। डीप फेक टेक्नोलॉजी हमें यह सिखाती है कि इंटरनेट पर नजर आने वाली हर चीज जरूरी नहीं कि हकीकत हो। मसनूई जहानत जहां हमारी जिंदगी को आसान बना रही है, वहीं यह हमें एक नई जिम्मेदारी भी देती है कि हम मालूमात को समझदारी से परखें। तो अगली बार जब आप इंटरनेट पर कोई हैरानक वीडियो देखें तो याद रखें कि मुमकिन है वह हकीकत ना हो बल्कि सिर्फ एआई का कमाल हो। अगर आपको यह वीडियो मालूमाती लगी हो तो चैनल को सब्सक्राइब करें क्योंकि हम ऐसी ही दिलचस्प और हैरानक टेक्नोलॉजी की हकीकतें आप तक लाते रहेंगे।
+
+=== ID: dV8ruBiQWjc ===
+TITLE: Deepfake Security Threats 2026 — Fireside Chat — Deepfakes: Evolving Risk and Responsible Innovation
+DESC: A fireside chat on the evolving risks and responsible innovation of deepfakes.  Speakers: Michael Fricklas, Chief Legal Officer, ADVANCE; Member, American Bar Association Task Force on Law and AI; Former: EVP and General Counsel, VIACOM (PARAMOUNT) Doug Lankler, Executive Vice President and Chief Legal Officer, PFIZER  Moderator: Judi Germano, Co-Director, NYU Center for Cybersecurity; Adjunct Professor of Law, NYU School of Law and Cornell Law School; Founder, GermanoLaw LLC; Independent Direct
+KEYWORD: deepfake danger
+VIEWS: 26
+TRANSCRIPT: So I am very excited for this panel. We have Doug Lankler, who is
+a General Counsel of Pfizer, a former federal prosecutor,
+so criminal background. Michael Fricklas, do you know that we were at
+Shearman & Sterling together? Well, not together,
+but we both were there. So we do have a connection there. And Michael is currently
+the Chief Legal Officer at Advance, and was the General Counsel at Viacom, which is now Paramount, and is also on the American
+Bar Association AI Committee. Correct. Helping to solve all these problems which are deeply impacting
+the legal profession. So our first panel framing will focus on what corporate leaders need to know, and do, and
+think about in this space. And really, two of the top
+ones here from major companies with fabulous experience. - At least one, absolutely. - And who have healthy,
+beautiful humility as well. So thank you, yes. No, we're really excited
+to speak with you both, and I appreciate you taking time for us on this conversation. The interesting thing, why
+I thought it would be fun, even to get these two
+together in particular is that Doug comes from a perspective of big pharma, healthcare industry sector, and Michael has been working in the entertainment media
+sector for many, many years. And so deep fakes are a
+problem rocking all industries. And in particular, I thought
+these were two important ones to highlight for our conversation. So thank you again. So Doug from healthcare, Michael in media, what are you seeing as the
+most r
+[...middle cut...]
+ too long. - And I also think you should just be, like in the early days of cybersecurity, we do it now every so often, we have what we call a tabletop, which is how do you get pulled all the senior leaders
+of your company together around a crisis in this space? What's the Jonathan Swift
+comment about the falsehoods fly and the truth comes limping after it? You know, you can do a lot of damage in the public domain in particular with something that
+turns out not to be true. And having a plan for how
+you're gonna deal with that, I think is area that requires a great deal of senior leadership time. - Well, thank you both so much. I really appreciate your wisdom. Thank you. (audience applauding)
+
+=== ID: lJRERbNj0YU ===
+TITLE: Midi MINATEC du vendredi 1 juillet 2022 - Les deepfakes : un danger pour l’identité ?
+DESC: Orateur :  Jean-François MAINGUET, Ingénieur- chercheur, LETI/DSYS/SSSEC (service Cybersécurité)  Résumé : Jean-François Mainguet vous présentera les dangers des technologies de type intelligence artificielle, maintenant relativement facilement accessibles, qui permettent de remplacer les visages dans des images et des vidéos. L’usage de l’IA pose un problème vis-à-vis de la reconnaissance faciale, en particulier avec l’usage de « selfies » pour l’identification à distance avec son smartphone, m
+KEYWORD: deepfake danger
+VIEWS: 989
+TRANSCRIPT: 
+
+=== ID: F85inLkxAFg ===
+TITLE: 2 Minute Drill: Vibe Coding Risks and AI Deepfake Threats With Drex DeFord
+DESC: Drex explores two critical cybersecurity threats facing healthcare: the rise of "vibe coding" where non-programmers use AI like Anthropic's Claude to create functional code, creating potential operational risks from undocumented projects, and increasingly sophisticated AI deepfakes from tools like Google's VO3 that cybercriminals are weaponizing for phishing attacks. He emphasizes the need for healthcare leaders to inventory AI coding projects and prepare defenses against deepfake-based social e
+KEYWORD: deepfake danger
+VIEWS: 7
+TRANSCRIPT: Hey everyone, I'm Drex and this is the two-minute drill where I cover three hot security stories twice a week, all part of the 229 project cyber and risk community here at this week health. You can join that community and I'll keep you posted on all the latest webinars and podcasts and other insider info. Plus, I'll let you know where Sarah and Bill and I are barnstorming as we cross the country on 229 project city tour dinners and summits. It's easy to stay in the know. Go to thisweek.com/security and click on the join the community button. Today's episode is brought to you by Google. Healthcare systems are lowering cost and boosting endpoint security with Chrome OS devices paired with Chrome Enterprise, a secure browser that's trusted by billions of users. So now you have a better way for your health care teams to work safely on the web. Learn more or schedule some time with the Google Healthare team at thisweek.com/chromes. Good to see everyone here today. Here's some stuff you might want to know about. By now, many of you probably heard the term vibe coding. It's a way to develop software where the coder uses artificial intelligence to translate their natural language request for functionality into an actual computer code that can be run to realize the coder's vision. In many cases, the person doing the coding doesn't actually know how to code at all. They're relying on AI for that part of the work. New software released this week from the company Anthropic. That's the te
+[...middle cut...]
+ise it's a really interesting story, I'll be on stage at the Oregon HIMYMs regional meeting this Thursday in Portland. It'll be great to see you there. More on those stories and a lot of other healthcare innovation, tech, and security news at our news site, this weekalth.com/news. Today's two-minute drill was brought to you by Google. You can keep patient data safe and reduce the burden on IT operation staff and create a better clinician experience all with one platform. Google Chrome OS with Chrome Enterprise. Find out how by scheduling a chat today. Go to thisweek.com/chromes. That's it for today's two-minute drill. Thanks for being here. Stay a little paranoid. I'll see you around campus.
+
+=== ID: hQ9PmepejNk ===
+TITLE: Deep Fakes, Voice Cloning & Anthropic Risk | Birmingham AI Security Breakout March 2026
+DESC: She built a live real-time deep fake of herself on a MacBook in 30 minutes — three prompts, zero cost, no dedicated GPU. Then she showed the room how to defend against it.  In this Birmingham AI Security Breakout (March 2026), Jeremy Krienke (Sidewalk Security Advisors) opens the session, John Byrd walks through the Anthropic supply-chain risk designation and the lawsuit filed against the US government, and Lora Vaughn (Vaughn Cyber Group) runs a live deep-fake demo on her own face before laying
+KEYWORD: deepfake danger
+VIEWS: 12
+TRANSCRIPT: So, um, anyways, my name is Jeremy. I'm one of the leaders here for Birmingham AI security breakout group. Uh, with me is this fine young looking group of professionals on the front row. Um, yeah, you. Um, so we we kind of make up the the security breakout session here. I know a couple of faces were here last month. Um, excited that you're back. We've got some good topics today we're going to cover. Um, great feedback from the last um, meeting as well. So, I appreciate that. If there's things that come up that you guys want to hear about more or dig into, we're still creating sort of what does this year look like, right? And so, um, there'll be some some slides at the back half of the presentation today just for feedback and things like that, but we really want this to be conversational. Talk to us. Um, ask Laura a bunch of questions. She'll be she'll be demoing today. So, I'm highly anticipating questions here, but anyways, with that, um, just want to say thank you to our sponsors. Uh, Lee and the team just came into the room. So, Kesus is is our main sponsor this month. And so, in addition to Link, and we want to make sure that we call them out. If you don't know what they do, uh, Kesus is a, uh, platform building machine. And so they have developers that create applications for you, customization, and just work with you on that side of the house. So if you need something from that standpoint, those are the guys to go see. Um, as far as link is concerned, uh, they are an ap
+[...middle cut...]
+er than that, we'll continue plugging forward. I know for a fact we're planning on potentially a panel um we're still working out the details but a panel on governance and compliance related to AI at the enterprise level um and then we're also looking at maybe it was just talked about today um security models and kind of what that looks like across enterprises um you know what's I think there was a lot of interest on last month's slide that Benji did uh from like enterprise adoption you Microsoft Copilot all the way to local LLMs and being hosted there. What does that mean? And so there might be a conversation topic around that as well. So yeah, thanks again for coming out. Uh appreciate it.
+
+=== ID: 2ayoJ5f9LBQ ===
+TITLE: Deepfake Video कैसे बनाया जाता है | AI की मदद से Deepfake Video कैसे बनते है | जानिए Mohit Yadav से
+DESC: Deepfake Video कैसे बनाया जाता है | AI की मदद से Deepfake Video कैसे बनते है | जानिए Mohit Yadav से  Deepfake Video कैसे बनाया जाता है? | जानिए AI Deepfake Technology के पीछे की सच्चाई Mohit Yadav के साथ!  आज के इस वीडियो में हम बात करेंगे Deepfake Technology के बारे में, जिसमें हम जानेंगे कि कैसे AI की मदद से एकदम असली दिखने वाले नकली वीडियो बनाए जाते हैं। Cyber Security Expert Mohit Yadav आपको बताएंगे कि Deepfake कैसे काम करता है, इसे बनाने के लिए कौन-कौन से AI Tools यूज़ होते हैं और इसके क्या
+KEYWORD: deepfake danger
+VIEWS: 1173
+TRANSCRIPT: हिंदू संत प्रेमानंद जी महाराज के खिलाफ साजिश का अब आप दूसरा चैप्टर देखिए। प्रेमानंद जी महाराज के खिलाफ कई डीप फ्रेक वीडियोस बाजार में आने लगे। प्रेमानंद जी महाराज को एक वीडियो में तो श्री यंत्र बेचते हुए दिखाया गया। क्या वाकई में महाराज ने श्री यंत्र बेचा था? दरअसल हुआ यह कि प्रेमानंद जी महाराज के कुछ ऑडियो और कुछ तस्वीरें उठाकर एआई जनरेटेड ऑडियो क्लोनिंग करके उनके डीप फेक वीडियोस अपने मन मुताबिक कंटेंट के हिसाब से बाजार में उतार दिए गए। एक नहीं ऐसे कई वीडियोस आए और जब तक इन वीडियोस के बारे में केली कुंज आश्रम और महाराज जी को भनक लगी। उनकी टीम को पता चला तब तक तो यह डीप फेक वीडियोस कई जगह सर्कुलेट हो चुके थे। हम आपको भी आगाह कर रहे हैं कि किस तरह से सोशल मीडिया प्लेटफार्म पर मौजूद आपकी कुछ ऑडियो क्लिप, वीडियो क्लिप, तस्वीरें आपके दुश्मन आपके खिलाफ अपने मन मुताबिक ढंग से एआई के जरिए क्लोन कर सकते हैं और इस्तेमाल कर सकते हैं। इसीलिए आज हम आपको इसकी लाइव टेस्टिंग दिखाएंगे और आपको इस खतरनाक खेल से आगाह करेंगे। [संगीत] अब सवाल उठता है कि क्या एआई तकनीक के निशाने पर अब देश के फेमस साधु संत हैं? क्या एआई से किसी भी मशहूर हस्ती का डीप फेक वीडियो बनाया जा सकता है? क्या फ्री में ऐसे सॉफ्टवेयर उपलब्ध हैं जिनमें एआई की थोड़ी बहुत जानकारी रखने वाले भी डीप फेक वीडियो बना सकते हैं? [संगीत] डीप फेक वीडियो बनाने में मशीन लर्निंग और आर्टिफिशियल इंटेलिजेंस का सहारा लिया जाता है। वीडियो और ऑडियो को टेक्नोलॉजी और सॉफ्टवेयर की मदद से बनाया जाता है। इसमें किसी सोशल मीडिया प्लेटफार्म से आपके ओरिजिनल वीडियो और फोटो को चुराया जाता है। फिर दूसरे के चेहरे, आवाज और एक्सप्रेशन को फिट कर दिया जाता है। एi ब
+[...middle cut...]
+्ट करना इजी है। आजकल बहुत सारी एप्लीकेशन भी है जो डीप फेक वीडियोस को डिटेक्ट कर पाती है। सो ऐसा नहीं है कि डिफिकल्ट है कि नहीं डिटेक्ट कर सकते हो। थोड़ा सा आपको एक कॉमन सेंस यूज़ करना है कि क्या बिकॉज़ मैंने आजकल बहुत सारी ऐसी डी फेक वीडियोस देखी है। अनंत अंबानी की बहुत सारी डी फेक वीडियोस हैं। सचिन तेंदुलकर की बहुत सारी डी फेक वीडियोस है जिसमें वो अलग-अलग एप्स को प्रमोट करते हुए साइबर फ्रॉड्स काफी सारे होते हैं। मतलब Facebook पर एड्स चलती है इनकी। एआई और ऑडियो क्लोनिंग के इस दौर में किसी का डीप फेक वीडियो बनाना बस चुटकी बजाने जैसा काम रह गया है। इसके लिए ना तो बहुत पैसे खर्च करने की जरूरत है और ना ही बहुत महंगे लैपटॉप या किसी स्टूडियो की जरूरत है। एआई ने डी फेक वीडियो बनाना बहुत आसान कर दिया
+
+=== ID: OWQ691dNx0g ===
+TITLE: The end of Hollywood? Industry rocked by AI-generated videos of Cruise, Pitt, and other big stars
+DESC: Growing outrage across Hollywood, as studios and unions denounce a series of AI-generated videos created using Bytedance's new AI generator "Seedance 2.0." The tool has been churning out hyper-realistic deepfakes features the likes of Tom Cruise, Brad Pitt, Leonardo DiCaprio, Superman, Wolverine, and more, a move that SAG-AFTRA has called "blatant infringement" and the Human Artistry Campaign says is an "attack on every creator around the world." With more on the viral artificial intelligence vi
+KEYWORD: deepfake danger
+VIEWS: 64803
+TRANSCRIPT: APRIL 2021.  >> FILM FANS COULD BE  CELEBRATING THE INTERVIEW WITH  THE VAMPIRE REUNION OF BRAD  PITT AND TOM CRUISE IF ONLY IT  WERE REAL OUTRAGE GROWING  ACROSS HOLLYWOOD STUDIOS AND  UNIONS DENOUNCING THIS VIRAL  VIDEO AND OTHER DEEPFAKES  CREATED USING BYTEDANCE IS NEW  AI VIDEO GENERATOR SEE DANCE  TO POINT OUT.  >> WITH MORE ON THE UNFOLDING  CONTROVERSY AND WHAT IT MEANS  FOR HOLLYWOOD. WE'RE JOINED BY  FILM CRITIC DAN MERRILL DAN  YOU KNOW THESE ARE SOME  STARTLING IMAGES THAT WE'RE  LOOKING AT HERE IN DEADPOOL  WRITER RIGHT RHYS SAYING IT'S  LIKELY OVER FOR HOLLYWOOD SO  WHAT IS YOUR REACTION WHAT DO  YOU THINK IT COULD MEAN FOR  THE INDUSTRY.  >> WELL WHAT I WOULD GO SO FAR  AS TO SAY IT'S LIKELY OVER FOR  HOLLYWOOD AT THIS POINT WHAT I  WILL SAY IS THAT IF THIS IS  NOT REGULATED IF THIS IS NOT  CONTROLLED AND IF THE PEOPLE  WHO ARE SUPPOSED TO BE ON TOP  OF THIS ART ON TOP OF THIS  THEN THIS IS THE DOOMSDAY  SCENARIO AND EVERYBODY KNEW  THAT THIS WAS COMING. THERE'S  A THRESHOLD TEST THE THE WILL  SMITH EATING SPAGHETTI TEST.  ONE OF THE FIRST AI VIDEOS I  EVER SAW WAS SEVERAL YEARS AGO  THAT WAS VIDEO WILL SMITH  EATING SPAGHETTI IT WAS  COMICALLY BAD. WELL, IT'S NOT  FUNNY ANYMORE IF YOU SEE THAT  THRESHOLD NOW IT LOOKS PRETTY  CONVINCING AND IT EVEN USE IS  WILL SMITH'S THIS IS SERIOUS  AND THEY HAVE TO TAKE IT  SERIOUSLY.  >> FRUMAN SEEM TO BE WITH  EVERY ITERATION SAG AFTER  CALLING THIS BLATANT  INFRINGEMENT THE HUMAN  ARTISTRY CAMPAIGN SAYING THE  LAUNCH OF 
+[...middle cut...]
+ HAVE YOUR  OWN WITHOUT TALKING BOX OFFICE  WEATHERING HEIGHTS OPENING  THIS WEEKEND EXPECTED TO TAKE  IN FOR 40 MILLION OVER THE  HOLIDAY BUT.  >> ALMOST 2 MONTHS INTO THE  YEAR OF HOW THINGS LOOK IN  YOUR VIEW ARE WE ON THE ROAD  TO RECOVERY. WE'RE CERTAINLY  HAVING A BETTER 2026 THAN WE  WERE 2025 THUS FAR I THINK  THAT 4 OF THE 6 WEEKENDS. SO  FAR THIS YEAR HAVE BEEN ABOVE  WHERE WE WERE LAST YEAR  SOMETIMES 10% OR MORE AND I  THINK WE'RE HEADING TOWARD  ANOTHER GOOD WEEKEND THIS  YEAR.  >> 2025 THERE'S A LOT OF  RECOVERY THAT WAS HOPE FOR  THAT WE DIDN'T SEE BUT WE'RE  OFF TO A PRETTY GOOD START  THIS YEAR.  >> OH GOOD I'M LOOKING FORWARD  TO WHETHER HEIGHTS AND I HOPE  THAT YOU KNOW LI
+
+=== ID: KP4t75WEw4k ===
+TITLE: Deepfake crimes in the age of AI: A bibliometric study of emerging risks and research trends
+DESC: This study presents a bibliometric analysis of scholarly research on deepfake crimes in the age of AI, examining emerging risks and research trends between 2019 and 2025. Drawing on 349 publications from the Web of Science Core Collection, the study uses VOSviewer to map publication patterns, collaboration networks, and thematic clusters. The results reveal that research on deepfake crimes is very interdisciplinary, as AI-based detection studies are increasingly intersecting with legal, social, 
+KEYWORD: deepfake danger
+VIEWS: 10
+TRANSCRIPT: Deep fake crimes in the age of AI, a biblometric study of emerging risks and research trends published by professor miss hail alrag in journal of data and network science. This study presents a biblometric analysis of scholarly research on deep fake crimes in the age of AI examining emerging risks and research trends between 2019 and 2025. Drawing on 349 publications from the Web of Science core collection, the study uses VOS Viewer to map publication patterns, collaboration networks, and thematic clusters. The results reveal that research on deep fake crimes is very interdicciplinary as AI based detection studies are increasingly intersecting with legal, social, and criminal discussions. The cluster analysis highlights that while significant progress has been made in technical detection methods, there are still serious gaps in addressing the societal harms of misinformation and non-consensual content. These results indicate that the field is not only growing rapidly, but is also moving towards a more integrated agenda that combines technological innovation with ethical and regulatory considerations. The study contributes theoretically by framing deep counterfeiting as technological and criminal phenomena and practically by providing insights to policymakers, researchers and practitioners seeking to mitigate the societal and security risks of artificial media.
+
+=== ID: opqXk9G_0j8 ===
+TITLE: Why Deepfakes Trick Your Brain: Navigating the Deepfake Danger Zone
+DESC: Your brain operates on two systems: one is fast and emotional, while the other is slow and analytical. In this video, we explore the 'Deepfake Danger Zone'—the psychological gap where hackers use emotional triggers like fear or anger to bypass your critical thinking. Learn why your gut believes deepfakes even when you know they exist, and get a practical detection checklist to train your brain to slow down and verify before you share.  Deepfake psychology, System 1 vs System 2 thinking, deepfake
+KEYWORD: deepfake danger
+VIEWS: 15
+TRANSCRIPT: We've all seen deep fakes, or at least we've heard about them. But have you ever really stopped to think about why they work so well? I mean, it's not just about the tech being clever. It's about our own psychology. And today, we're going to break down the science of why these fakes feel so incredibly real, even when a little voice in the back of your head is screaming that they're not. And right there, that's the whole ball game, isn't it? It's that weird, unsettling feeling you get. Your logical brain sees a video of a politician saying something completely outrageous and thinks, "Okay, that's probably fake." But for just a split second, your gut, your gut lurches like it's 100% real. And that's the battle we're talking about. What you know versus what you feel. You see, that little gap between knowing and feeling, that's the danger zone. It's exactly what people with bad intentions are trying to exploit. Just imagine you're scrolling through your feed and you see a video of your company's CEO clear as day announcing huge layoffs. What's your first reaction? Probably panic, right? Or maybe you're angry. You immediately forward it to your co-workers. And just like that, the damage is done way before anyone even stops to ask, "Hey, wait a minute. Is this thing even real?" Okay, so to really understand what's happening here, we need to talk a little bit about how our brains are wired. Psychologists have this fantastic model for it. the idea that our brain basically runs on two
+[...middle cut...]
+he stronger a piece of content makes you feel, the angrier, the more shocked, the more excited, the more skeptical you need to become. That powerful feeling is actually your brain's alarm system telling you, "Hey, slow down. Engage the slow brain." And maybe pause just a little bit longer. All of this leaves us with a really big kind of tough question for the future. As this technology keeps getting better and the fakes become practically indistinguishable from reality, what happens to that old idea that seeing is believing? How are we supposed to build trust in anything when our own eyes and ears can be so easily fooled? Well, that's something we're all going to have to figure out together.
+
+=== ID: WISMFAqt70w ===
+TITLE: Deepfake fraud, a new cyber-threat rises
+DESC: Video by: Juan José Barros, Andrea Valentina Di Gennaro, Emma Seco, Pablo Romero-Salazar, Ricardo Díaz, Lucía Romero  The so-called technique of the deepfakes 👤 consists in the recreation of video images ▶️ of anonymous or known people, authorities, or politicians from multimedia content, but modifying their audio, physical traits, and the movement of the mouth.                                  The origin of the word 'deepfake' comes from the association of two terms: deep learning and fake. Dee
+KEYWORD: deepfake danger
+VIEWS: 69
+TRANSCRIPT: the cambridge dictionary defines deep fake as a video of a person in which their face or body has been digitally altered so that they appear to be someone else typically used to spread false information now when talking about history photo manipulation was created in the 19th century and was applied to movies innovation consistently improved during the 20th century and even more with advanced video deep fake innovation has been created by analysis at scholatics foundation starting during the 90s and later by newcomers in online communities more recently the methods have been adopted by the industry an early milestone project was the video rewrite program published in 1997 which alter existing video film of an individual mouthing the words contained in an alternate soundtrack it was the main framework to completely mechanize this sort of facial restoration and it did so utilizing artificial intelligence procedures to make associations between the sounds delivered by a video's subject and the state of the subject's face some people ask themselves why deep fakes are not used in the film industry the answer to this question is the alternative technologies are better right now the creative process or even the industry as a whole will not be improved by artificial intelligence anytime soon the third isn't sophisticated enough to go beyond some clever face swaps for now especially on the bigger screen in the meantime deep fake fanatics should support and encourage the deep fake youtube clip creators of everyone's favorite classic scenes one day they can inspire the spielbergs and torrentinos of this world to take the leap into artificial intelligence algorithmic movie creation for now though that future is only science fiction as well apart from directly creating speech from scratch and making the president say that defects can also take a real speech from someone important and make it sound completely different so as we have seen deep fakes can be very entertaining they also present the question of what is real and what is not so what do you think is this my real voice or is it outer with a deep fake technology
+
+=== ID: ZgdlRJLZwT4 ===
+TITLE: Deepfake Dangers As We Head into Election Season
+DESC: Deepfake Dangers As We Head into Election Season
+KEYWORD: deepfake danger
+VIEWS: 52
+TRANSCRIPT: 
+
+=== ID: 12SBxlaFqOU ===
+TITLE: Trump Aide Hacked by AI? Deepfake Scandal Hits Susie Wiles | National Security at Risk
+DESC: Imagine getting a message from the White House—except it's fake, powered by AI, and meant to scam senators and CEOs. This shocking scenario just became real for Susie Wiles, Trump’s top 2024 strategist and the first female White House chief of staff. Her personal phone was hacked, her voice cloned, and her digital identity hijacked in a high-stakes scheme that targeted lawmakers with requests for money transfers and pardon lists.  In this video, we dive deep into how artificial intelligence, cyb
+KEYWORD: deepfake danger
+VIEWS: 164
+TRANSCRIPT: Imagine this. Your phone buzzes with a message from the White House chief of staff. Except it's not her voice, not her words, but a chillingly accurate AI replica asking for cash transfers and pardon lists. This isn't sci-fi. It's the reality for Susie Wilds, Trump's top aid, whose personal phone was hacked to impersonate her in a scheme targeting senators, CEOs, and governors. The incident exposes a terrifying truth. In today's political arena, your greatest threat isn't just your opponents, it's the digital ghosts haunting your devices. Let's cut through the noise. While the first female White House chief and architect of Trump's discipline 2024 campaign now faces a crisis that transcends typical DC drama. Hackers infiltrated her personal contacts using AI to clone her voice and weave requests. so believable that even seasoned politicians initially fell for them. One lawmaker nearly handed over a list of pardon candidates. Another was asked for a money transfer. The breach wasn't just personal. It exploited the informal networks that grease Washington's wheels where a text from Suzie could sway billion dollar decisions. This isn't while's first rodeo with cyber threats. Remember signal gate? Senior Trump officials, including Defense Secretary Pete Hooks, discussed military ops on signal chats accidentally, including a journalist. Sensitive records vanished into encrypted voids, violating federal laws. And let's not forget Iran's 2024 hack of Trump's campaign, where stolen d
+[...middle cut...]
+n access through ex- lobbyists now in power, democracy corrods. Closing this chapter, while Saga isn't just about hacked phones. It's about how power operates in the shadows of technology and trust. her strengths. Florida political genius. Mastery over Trump's impulses mean nothing if a deep fake can hijack her identity. As Chris Whipple, author of the gatekeepers, noted, "True chiefs of staff must be the last person in the room for critical decisions." But if AI can clone you into any room unseen, what then? Until we treat digital security as non-negotiable as nuclear codes, every official is one algorithm away from becoming a puppet. The ghosts are here to stay, but they don't have to win.
+
+=== ID: OhF0SnXtpVY ===
+TITLE: How deepfakes of Peter Dutton are spreading on Chinese app RedNote | ABC Investigations
+DESC: A series of attacks on Australian political parties have raised concerns about misinformation and the risk of foreign interference on emerging Chinese social media platform RedNote (RED).  Among the videos is an AI-generated deepfake video of Opposition Leader Peter Dutton, falsely depicting him speaking Mandarin, as well as video falsely suggesting he intends to deport Chinese-Australians.  Subscribe: https://ab.co/3yqPOZ5  Welcome to ABC News In-depth, where you'll find our long-form journalis
+KEYWORD: deepfake danger
+VIEWS: 16287
+TRANSCRIPT: Since when did Peter Dutton speak Mandarin? Well, he doesn't. But with AI mimicking his voice, this defake is very [Music] convincing. The defake was created using Mr. Dutton's comments in 2024 about not displaying indigenous flags at his press conferences. If we're asking people to to identify with different flags, no other country does that. But the problem is this post make it seems like Dton want to get rid of the flag altogether if he's elected. The video has been shared on a growing Chinese social media platform called Rednote that is used by many Chinese Australians living in marginal seats. The video was made by this guy. He's a mortgage broker based in China and Sydney, but he refused to answer any questions. He's also made other videos claiming Dutton plans to expel Chinese migrants if he's elected, which isn't true. And across Redno, the ABC found more misinformation targeting Peter Dutton and the Albanesei government, too. Despite Redno's huge influence, the platform has no policy in place to fact check political misinformation, and the AEC isn't monitoring it either. That means one or more key seats in this election could be swayed by misleading scare campaigns.
+
+=== ID: 84lsq3TC7OQ ===
+TITLE: Shocking Information about AI | Danger Side of AI | Madhavan | Deep Fake Explains | Layoffs |SunNews
+DESC: #ai #artificialintelligence #riskofai #layoffs #artificialtechnology #sunnews   Shocking Information about AI | Danger Side of AI | Madhavan | Deep Fake Explains | Sun News  எது பொய்? எது நிஜம்? எதிர்காலத்தில் AI-ஆல் காத்திருக்கும்  மிகப்பெரிய ஆபத்து..  Subscribe to Sun News Channel to stay updated - http://bit.ly/2Yyvgsi 🔔 Hit Bell Icon to get alerted when videos are released  Watch more on SUN NEWS:  https://www.youtube.com/playlist?list=PLHup5ULachcEFehUEpp3SRvWD6OBtmGsS  https://www.youtube.
+KEYWORD: deepfake danger
+VIEWS: 25666
+TRANSCRIPT: கடந்த 
+ வளர்ச்சி 
+ ஆனால் 
+ ஒலிக்கும் 
+ எல்லா 
+ கருவியாக 
+ 1956 
+ கல்லூரியில் 
+ இயந்திரங்களின் 
+ நோக்கத்தோடு 
+ தொடங்கியது. 
+ தீர்வுகளை 
+ ஆராய்ச்சி 
+ ஆண்டுகளை 
+ ஆண்டுகளில் 
+ அதிதீவிர 
+ இந்தஏஐ 
+ அமெரிக்கா 
+ தொழில்நுட்பத்தை 
+ ஈடுபடுத்த 
+ பள்ளிகளில் 
+ கட்டாயமாக்கப்பட்டுள்ளது. 
+ மோசடிகளை 
+ முன்கூட்டியே 
+ போக்குவரத்து, 
+ இவ்வளவு 
+ திட்டங்களுக்கும் 
+ பயன்படுத்துகிறது. 
+ ஆராய்ச்சி, 
+ ஆர்டிபிசியல் 
+ முடிவெடுத்திருக்கிறது. 
+ டெக்னாலஜியில் 
+ இந்தஏஐ 
+ கவனம் 
+ பயன்பாடு 
+ செல்லும் 
+ ஒரு 
+ உலகிற்கு 
+ அச்சுறுத்தல்கள் 
+ பற்றி 
+ [இசை] 
+ ஏயை 
+ அறிமுகமாவதற்குள் 
+ ஒன்று 
+ ஏற்படுத்தி 
+ புகைப்படங்கள் 
+ வலைதலங்களில் 
+ மூலமாக 
+ சைபர் 
+ முழுவதும் 
+ பற்றிய 
+ ஆரம்பித்தது. 
+ மிகப்பெரிய 
+ சமூகத்திற்கு 
+ என்பதுதான் 
+ ஒன்று 
+ ஓராண்டில் 
+ நிறுவனங்களான 
+ கூகுள் 
+ நடவடிக்கைகளை 
+ 30 
+ இழந்திருக்கிறார்கள். 
+ தங்களுக்கென்று 
+ காரணம் 
+ விளக்கம் 
+ நிலையில் 
+ அழைக்கப்படும் 
+ நாளுக்கு 
+ வருகின்றன. 
+ விதம், 
+ அதிகம். 
+ ஆரம்பத்தில் 
+ போனதற்கு 
+ பெரிய 
+ ஆபத்துகளை 
+ என்று 
+ கூற்று 
+ வைத்துள்ளது. 
+ துறைகளையும் 
+ வரைக்கலை 
+ கலைஞர்கள், 
+ கலைஞர்கள் 
+ வேலையை 
+ அதனாலேயே 
+ நிறுவனங்களின் 
+ வீதியில் 
+ சமூகத்தில் 
+ பார்க்கப்படுவது 
+ உளிட்ட 
+ காணொளிகளின் 
+ கேள்விக்குறியாக 
+ மாதவன் 
+ ஏமாந்து 
+ உள்ளிட்டவை 
+ பார்க்கப்படும் 
+ கால்பந்த 
+ ரொனால்டோ 
+ புகழ்ந்து 
+ நிலையில் 
+ அனுஷ்காவுக்கு 
+ உருவாக்கப்பட்ட 
+ தெரிவித்ததாக 
+ பல 
+ அவை 
+ கட்டாயத்துக்கு 
+ உள்ளாக்கப்பட்டிருக்கிறோம். 
+ நீதித்துறையிலும் 
+ வீடியோ 
+ இனி 
+ தற்போது 
+ தங்களுடைய 
+ கணக்கு 
+ பாஸ்வேர்ட் 
+ வேண்டாம் 
+ கேட்டுக்கொள்ளப்பட்டுள்ளது. 
+ மோசடிகளுக்கு 
+ அஞ்சப்படுகிறது. 
+ பெற 
+ முடியாத 
+ நாடுகள் 
+ வல்லரசு 
+ நாடுகள் 
+ பயன்படுத்துகின்றனர். 
+ மற்றும் 
+ ஒரு 
+ பயன்படுத்தப்பட்டால் 
+ எட்டாத 
+ திரைப்படங்களான 
+ மெக்கினா 
+ சமீபத்தில் 
+ பைனல் 
+ ஏஐ 
+ எதிர்காலத்தில் 
+ மையக்கருவாக 
+ வருடத்தில் 
+ தான் 
+ என 
+ ஆட்கொண்டுவிட்டது. 
+ இன்னும் 
+ உருவாக்கவில்லை 
+ இல்லை. 
+ மக்கள் 
+ இருக்கும் 
+ மக்களாலும் 
+ நிற்க 
+ >> உடனுக்குடன் 
+ நியூஸ் 
+ [இசை]
+
+=== ID: EFKxiHilAzQ ===
+TITLE: Your Identity in Danger! Google VEO 2 – Another Deepfake Nightmare
+DESC: 🚨 Your Identity in Danger! 🚨 Google just unveiled VEO 2, and it's raising serious concerns! Is this the next big breakthrough in AI-generated videos, or is it just another deepfake nightmare? What does this mean for YouTubers, filmmakers, and content creators?  In this video, we break down: ✅ Is Google VEO 2 blessing or curse ✅ The potential risks of AI-generated deepfakes ✅ How this could affect your identity and online safety ✅ The good, the bad, and the ugly of AI in filmmaking and YouTube  🔔
+KEYWORD: deepfake danger
+VIEWS: 72
+TRANSCRIPT: क्या आपने कभी सोचा है कि एक आईडिया से पूरा वीडियो बन सकता है बस सेकंड्स में इमेजिन करो आप टूबर हो या आप फिल्म मेकिंग करते हो और आपको कुछ वीडियोस चाहिए तो एआई वीडियो इंजंस जैसे google2 यह करने की ताकत रखते हैं लेकिन क्या यह टेक्नोलॉजी हमें एक नया फ्यूचर देगी या फिर डीप फेक जैसे डेंजर्स लेकर आएगी आओ एक्सप्लोर करते हैं आज बात करने वाले हैं एआई वीडियो इंजंस के बारे में जैसे google2 और यह टेक्नोलॉजी क्या-क्या कर सकती है लेकिन साथ ही इसके रिस्क क्या है स्पेशली डीप फेक के कांटेक्ट में चलो शुरू करते हैं एई वीडियो इंजंस जैसे google2 एक रेवोल्यूशन टेक्नोलॉजी है जो आपके वीडियो क्रिएशन प्रोसेस को कंप्लीट ट्रांसफॉर्म कर सकती है इमेजिन करो आपको एक आईडिया है और बस उस आईडिया को टाइप करते ही एआई आपके लिए एक फुल फ्लेज्ड वीडियो बना देता है फ्रॉम स्क्रिप्टिंग टू एडिटिंग सब कुछ ऑटोमेटेड फिल्म मेकिंग कंटेंट क्रिएशन या फिर सोशल मीडिया पोस्टस ये टेक्नल जी हर फील्ड में गेम चेंजर है पिक्चर दिस आप एक यूटर हो और आपको हर हफ्ते नए वीडियोस अपलोड करने हैं ए वीडियो इंजन आपका टाइम बचाएगा क्रिएटिविटी बढ़ाएगा और आपको एक प्रोफेशनल लेवल वीडियो देगा इन मिनट्स साउंड्स अमेजिंग राइट अब सोचो इसके पॉसिबिलिटीज क्या है पहला एजुकेशन टीचर्स एई वीडियोस से कॉम्प्लेक्शन कर सकते हैं दूसरा एंटरटेनमेंट फिल्म मेकर्स बिना हैवी बजट के भी स्टनिंग विजुअल्स क्रिएट कर सकते हैं तीसरा मार्केट टिंग ब्रांड्स अपने प्रोडक्ट्स को इंटरेक्ट और इंगेजिंग तरीके से प्रमोट कर सकते हैं यह टेक्नोलॉजी सिर्फ एक टूल नहीं है यह एक नई दुनिया की शुरुआत है लेकिन दोस्तों हर टेक्नोलॉजी के साथ कुछ रिस्क भी होते हैं एआई वीडियो इंजंस का सबसे बड़ा रिस्क है डीप फेक
+[...middle cut...]
+ॉजी का मिसयूज पॉलिटिक्स पर्सनल लाइव्स और इवन फाइनेंशियल फ्रॉड में हो सकता है इसलिए हमें इसके एथिकल यूज और रेगुलेशंस के बारे में सीरियसली सोचना होगा तो दोस्तों एआई वीडियो इंजंस जैसे google2 एक डबल एड सोड है एक तरफ यह हमें अनलिमिटेड पॉसिबिलिटीज देती है और दूसरी तरफ इसके रिस्क भी इक्वली बड़े हैं हमारी रिस्पांसिबिलिटी है कि हम इस टेक्नोलॉजी को रिस्पांसिबली यूज करें और साथ ही इसके मिसयूज को रोकने के लिए स्ट्रांग रेगुलेशंस बनाएं तो दोस्तों आपको क्या लगता है क्या एआई वीडियो इंजंस फ्यूचर में हमारे लिए एक ब्लेसिंग है या कर्स कमेंट करके जरूर बताइए और अगर आपको यह वीडियो पसंद आया हो तो लाइक करें शेयर करें और हमारे चैनल को सब्सक्राइब करें क्योंकि ऐसे ही एक्साइटिंग टॉपिक्स के लिए मिलते हैं अगले वीडियो में
+
+=== ID: qtLjcRb3bLk ===
+TITLE: Ungarns rechtsradikaler Modellstaat / Hungary's Far-Right Model State - von/by Peter Kreysler
+DESC: 🎓 Der Journalist Peter Kreysler (https://de.wikipedia.org/wiki/Peter_Kreysler)  beleuchtet Viktor Orbáns (https://de.wikipedia.org/wiki/Viktor_Orb%C3%A1n)  Aufstieg und seine Strategien zur Umgestaltung Ungarns von einem Verfassungsstaat zu einer Autokratie. Die über einjährige Recherche gewährt tiefe Einblicke, wie Viktor Orbáns über die Fidesz Partei Medien kontrolliert, Stiftungen instrumentalisiert und internationale Allianzen mit rechtsradikalen Kräften in Europa und den USA schmiedet. Vorb
+KEYWORD: deepfake danger
+VIEWS: 3
+TRANSCRIPT: Welcome to Audioarchiv. The channel for historical interviews with writers, philosophers, activists and intellectuals from all over the world. Just today I woke up to OpenAI having released a new model that can generate photorealistic videos. I woke up to find that OpenAI has released new software. Which opens up new possibilities for disinformation actors. This allows them to artificially create photorealistic videos. It's a big unknown where. And that opens up completely new possibilities for people who create disinformation. That's a big unknown. But if the actors continue to experiment with this technology, they will achieve unexpected effects that are difficult for us to predict. We are going step by step closer to a dictatorship. Step by step we are approaching a dictatorship. We are not there yet. Of course, we are not there yet. Of course, we are not in Turkey, so we will be not in jail. And of course, we are not in Turkey, we will not be imprisoned. The other day, we were called traitors on Hungarian television, and as is well known, in times of war, traitors are liquidated. And of course, we can say that that was a joke. Of course, we can say that was just a joke. But you never know when it's a direct message. That was a message to me. "Dismantling Democracy". Documentary about Viktor Orbán's propaganda and Hungary's billionaire opinion makers. By Peter Kreisler. The night train Berlin-Budapest rattles through the night. Now and then, lanterns appear in the distance
+[...middle cut...]
+lling to accept it. Now is the time. Now, they shout, and greet Peter Modyor with loud applause, who speaks to them and challenges Viktor Orbán. Until recently, the 43-year-old lawyer was a bourgeois-conservative from the ranks of Orbán's Fidesz party. But in February, Peter Modyor gained great notoriety when he revealed details about the inner workings of the government and called Orbán's Hungary a mafia state and presented evidence for it. But many doubt whether the former Fidesz politician is the right person to save Hungary's democracy. Thank you for being with Audioarchiv. Follow us so you don't miss an episode. And don't forget the like button. See you next week, your Audioarchiv team.
+
+=== ID: cNw8UU30qcc ===
+TITLE: What is Deepfake Technology? | Danger of Deepfakes | Creation of Pornographic Content! | The Hindu |
+DESC: What is Deepfake Technology? | Danger of Deepfakes | Creation of Pornographic Content! | The Hindu | #upsc #ias #currentaffairs #scienceandtechnology   Satyavan Anand  Deep fakes or deep nudes are computer-generated images and videos.   Cybercriminals use AI software to superimpose a digital composite (assembling multiple media files to make a final one) onto an existing video, photo or audio.  Using AI algorithms a person’s words, head movements and expressions are transferred onto another pers
+KEYWORD: deepfake danger
+VIEWS: 10
+TRANSCRIPT: [संगीत] पृथ्वी पर मनुष्य की जरूरत पट्टी हुई उसे मनुष्य जंगलों में रहा करता था वह जानवरों से डरता था और जानवरों से दर से बचने के लिए गुफाओं में रहता था जहां उससे जानवरों से सुरक्षा मिले वह जब जलाना जाएंगे तो आग से आग जलता अपने आवास के आसपास जिससे जानवर बच सके [संगीत] फिर हम जानते हैं इतिहास में पढ़ते हैं जैन महाजनपद जनपद महाजनपद बनने लगे लोग बन्ना शुरू कर दिए तो एक राजा को दूसरे राजा से दर लगने लगा एक राज्य को दूसरे राज्य से दर लगने लगा स्थिति इतनी ज्यादा बढ़ गई एक मनुष्य कोई दूसरी मनुष्य से दर कभी खत्म हुआ ही नहीं एक बार जो दर शुरू हो गया वो आज तक खत्म ना हो सका हम जो है जब हाई स्कूल इंटरमीडिएट में पढ़ते द लिखते द विज्ञान वरदान या अभिशाप अगर हम देखें पोर्नोग्राफी कंटेंट पॉइंट कोई व्यक्ति किसी की बना सकता है एक पॉर्नोग्राफिक कंटेंट कैसे होता है यह होता है यानी कंप्यूटर साइंस में कुछ रिसर्च की गई जो एजुकेशन [संगीत] [संगीत] [संगीत] देखते हैं हमारे सामने क्वेश्चन क्या है पहली बात आर्टिफिशियल इंटेलिजेंस मैनिपुलेटेड डिजिटल मीडिया कैन इंपैक्ट डी लाइफ ऑफ इंडिविजुअल अस वेल अस इन्फ्लुएंस डी पब्लिक डिस्कोर्स सेकंड क्वेश्चन है [संगीत] क्वेश्चन के जवाब हम यहां पर खोजने की कोशिश करेंगे डिफेक्ट दीप न्यूड्स और कंप्यूटर जेनरेटेड इमेजेस एंड वीडियो आर्टिफिशियल इंटेलिजेंस के हेल्प से जेनरेट किया जाता है इमेज या वीडियो बनाया जाते हैं वह कंप्यूटर में आर्टिफिशियल इंटेलिजेंस सॉफ्टवेयर का प्रयोग करके [संगीत] डिजिटल कंपोजिट असेंबलिंग मल्टीपल [संगीत] [संगीत] पैरों को सर के मोमेंट को चेंज कर सकते हैं चेहरे एक्सप्रेशन को किसी दूसरे पर्सन के इमेज पर यह वीडियो पर यह ऑडियो पर ट्रांसफर कर देंगे इससे क्या होग
+[...middle cut...]
+ीरे का सकता क्योंकि बहुत बड़े स्केल पर डिफेक्ट टेक्नोलॉजी का प्रयोग नहीं हो रहा है इसे इन्हीं से स्टेज में अगर इसका रूल रेगुलेशन अप्लाई किए गए तो बचा जा सकता है [संगीत] [संगीत] तो डिफेक्टिव का पता करने के लिए उसको ऑथेंटिकेट मीडिया को करने के लिए कौन से मीडिया सही है कौन सा गलत है एमप्लीफायर करने के लिए एक अथॉरिटी होनी चाहिए जो अथॉरिटी ऑथराइज करें की कौन सा कंटेंट सही है कौन सा गलत है तू काउंटर [संगीत] [संगीत] [संगीत] ज्यादा व्यापक फाइल जाएंगे जिन्हें कंट्रोल करना संभव नहीं होगा कोलैबोरेट एक्शन एंड कलेक्टिव रेगुलेशन प्लेटफार्म पॉलिसी [संगीत] होना चाहिए और प्लेटफार्म कुछ पॉलिसी बनाए जाने से उसे पर प्लेटफार्म [संगीत] [संगीत] अगर मिलते हैं फिर से डी हिंदू के किसी और एडिटोरियल में थैंक यू [संगीत]
+
+=== ID: zGTD9WC6X3I ===
+TITLE: Cyber Fraud & Deepfake Risks Explained by IPS Shikha Goel | Indian Masterminds
+DESC: As technology becomes part of daily life, cyber crimes are no longer distant threats—they affect millions. In this interview, IPS Shikha Goel, Director General of Telangana Cyber Security Bureau, shares real-world insights on online scams, investment frauds, deepfakes, and stalking. Learn practical strategies to protect your money, privacy, and identity.  🔹 Key Points Covered: Investment scams & WhatsApp frauds Golden hour for reporting cyber crimes High-risk groups & vulnerability myths Deepfak
+KEYWORD: deepfake danger
+VIEWS: 83
+TRANSCRIPT: स्कैम आइडेंटिटी थफ्ट पिक इन्वेस्टमेंट स्कैम्स ऑनलाइन हरासमेंट साइबर क्राइम इज नो लॉन्ग एस जस्ट अ हेडलाइन इट्स अ ग्रोइंग पार्ट ऑफ़ एवरीडे लाइफ एज़ टेक्नोलॉजी एडवांसेस सो डू द क्रिमिनल्स हु मिसयूज़ इट। हेलो एंड वेलकम टू इंडियन मास्टरमाइंड। आई एम मुस्कान खंडेलवाल एंड टू अंडरस्टैंड हाउ दीज़ क्राइम्स हैपन हु इज़ मोस्ट एटरिस्ट एंड हाउ वी कैन प्रोटेक्ट आवरसेल्स वी सैट विद आईपीएस ऑफिसर शिख गोयल हु इज़ द डायरेक्टर जनरल ऑफ़ तेलंगाना साइबर सिक्योरिटी ब्यूरो। शी हैज़ बीन एट द फोर फ्रंट ऑफ़ इंडियास फाइट अगेंस्ट साइबर क्राइम लीडिंग एफर्ट्स टू ट्रेस क्रिमिनल्स अक्रॉस बॉर्डर्स एंड बिल्डिंग अवेयरनेस अमंग सिटीज़ंस। टुडे शी हेल्प अस डिकोड द डिजिटल थ्रेट्स दैट सराउंड अस एंड हाउ टू स्टे वन स्टेप अहेड। थैंक यू सो मच मैम फॉर जॉइनिंग इंडियन मास्टरमाइंड्स टुडे। प्लेजर थैंक्स फॉर हैविंग मी। सो लेट्स स्टार्ट। आई वुड लाइक टू नो कि आजकल इन्वेस्टमेंट स्कैम्स और आइडेंटिटी थेफ जो है बहुत ही रैपिडली ग्रो कर रहा है। स्पेशली अमंग वर्किंग प्रोफेशनल्स। सो व्हाट पैटर्न हैव यू नोटिस्ड बिहाइंड दीज़ क्राइम्स? एंड हाउ कैन पीपल रिकॉग्नाइज अर्ली वार्निंग साइंस बिफोर इट्स एक्चुअली टू लेट? सी जहां तक इन्वेस्टमेंट फ्रॉड है स्पेशली जो स्टॉक इन्वेस्टमेंट फ्रॉड है। इनफैक्ट तेलंगाना में मेरा मैक्सिमम साइबर क्राइम में मोर देन 20% ऑफ माय कंप्लेंट्स आर एक्चुअली ऑन द इन्वेस्टमेंट और द स्टॉक इन्वेस्टमेंट फ्रॉड। एंड इन तेलंगाना आउट ऑफ द टोटल मनी व्हिच वी आर लूजिंग इन साइबर क्राइम ऑलमोस्ट 60% ऑफ इट इज़ एक्चुअली इन द स्टॉक इन्वेस्टमेंट फ्रॉड। सो एज हाउ इट बिगिंस इज बेसिकली व्हेन समबडी इट कांटेक्ट्स यू एंड लयर्स यू सेइंग दैट स्टॉक इन्वेस्टमेंट मे
+[...middle cut...]
+न ऑलवेज अह वी हेव अ वेबसाइट। वी हैव अ Twitter हैंडल, वी हैव Instagram, वी हैव Lindin. यू आर मोस्ट वेलकम टू यू नो अह फॉलो अस एंड आल्सो अप्रोच अस इफ एनीबडी वांट्स विशेस टू कंट्रीब्यूट इन टर्म्स ऑफ़ देयर एक्सपर्टीज। थैंक यू। थैंक यू सो मच मैम। थैंक यू। थैंक यू। प्लेजर टॉक टू यू। दैट्स ऑल फॉर द फर्स्ट पार्ट ऑफ़ आवर इंटरव्यू विथ आईपीएस ऑफिसर शिख गोयल वेयर वी हैव एक्सप्लोर द वर्ल्ड ऑफ़ साइबर क्राइम, द स्कैम, द थ्रेट्स एंड हाउ वी कैन कीप आवरसेल्व्स सेफ ऑनलाइन। इन द सेकंड पार्ट ऑफ आवर इंटरव्यू वी विल डेल इनू फॉरेंसिक साइंस लर्निंग हाउ हर टीम यूज कटिंग एज टेक्निक्स टू सॉल्व क्राइम्स फ्रॉम एवरीडे केसेस टू कॉम्प्लेक्स डिजिटल इन्वेस्टिगेशंस। स्टे ट्यून फॉर एन इनसाइड लुक एट दी साइंस बिहाइंड मॉडर्न पुलिसिंग।
+
+=== ID: R--AUwWmyT8 ===
+TITLE: Payal Gaming Viral MMS Controversy: Maharashtra Police Confirms It's AI Deepfake
+DESC: #PayalGaming #PayalDhare #Deepfake #ViralVideo #MMSControversy #AapKiKhabar #MaharashtraPolice #AIDeepfake #PayalGamingNews #ViralNews2025 #FakeVideo #GamingCommunity #YouTuberControversy #CyberCrime #TruthRevealed  Payal Gaming Viral MMS Controversy: Maharashtra Police Confirms It's AI Deepfake   In this video on Aap Ki Khabar, we uncover the complete truth behind the viral MMS controversy involving popular gamer and YouTuber Payal Gaming (Payal Dhare). A private video went viral on social medi
+KEYWORD: deepfake danger
+VIEWS: 97
+TRANSCRIPT: हाय एंड वेलकम टू आवर चैनल आपकी खबर। आज हम बात करने वाले हैं एक ऐसे टॉपिक पर जो पिछले कुछ दिनों से सोशल मीडिया पर तहलका मचा रहा है। जी हां, मैं बात कर रही हूं पॉपुलर गेमिंग यूबर पायल गेमिंग यानी पायल धारे के कथित एमएमएस वीडियो की। सोशल मीडिया पर बवाल मचा हुआ है। लोग तरह-तरह की अफवाहें फैला रहे हैं। लेकिन क्या ये इनकी असली सच्चाई? क्या वो वीडियोस रियल है या पूरी तरह से फेक? और वो पाकिस्तानी शख्स की गिरफ्तारी वाली खबर? आज हम सब कुछ क्लियर करेंगे फैक्ट चेक के साथ। तो वीडियो को एंड तक जरूर देखिएगा जिससे आपको भी असल वजह पता चले। पायल गेमिंग इंडिया के टॉप फीमेल गेमर्स में से एक है। उनका रियल नेम है पायल धारे और वो बीजीएमआई आईजीटीए जैसे गेम्स की लाइव स्ट्रीमिंग करती हैं। YouTube पर उनके 4.5 मिलियन से ज्यादा सब्सक्राइबर्स हैं और Instagram पर भी लाखों फॉलोवर्स। रिसेंटली वो दुबई ट्रिप पर थी और उसी टाइम एक प्राइवेट वीडियो वायरल हो गया। लोग कह रहे थे कि 1 मिनट 20 सेकंड या 19 मिनट का एमएमएस ये पायल का है और सोशल मीडिया पर लिंक्स शेयर हो रहे हैं। लेकिन रुकिए। जैसे ही वीडियो वायरल हुआ, पायल के फैंस ने तुरंत कहा कि यह फेक है। फैंस ने कंपेयर किया वीडियो में लड़की के फेस पर मूल की पोजीशन अलग है। बॉडी स्ट्रक्चर मैच नहीं करता और आवाज भी नहीं मिलती। एक्सपर्ट्स ने भी कहा कि ये एi से बना डी फेक वीडियो है। डी फेक क्या होता है? एआई टेक्नोलॉजी से किसी के चेहरे को दूसरे वीडियो पर चिपका दिया जाता है और वह इतना रियल लगता है कि पता ही नहीं चलता। पायल ने खुद Instagram पर स्टेटमेंट दिया। उन्होंने कहा यह वीडियो मेरे साथ कोई कनेक्शन नहीं रखता। मैं इसमें नहीं हूं और यह मेरी लाइफ से बिल्कुल अलग है। उन्होंने यह भ
+[...middle cut...]
+है। पहले रश्मिका मंदाना, आलिया भट्ट, अब पायल गेमिंग, अंजलि अरोड़ा जैसे कई केसेस हो चुके हैं। ऐसे वीडियो से किसी की जिंदगी बर्बाद हो सकती है। मेंटल हेल्थ भी इफेक्ट होती है। तो हमें क्या सीख मिलती है कि इंटरनेट पर कोई वीडियो, फोटो या न्यूज़ देखें तो पहले फैक्ट चेक करें। ट्रस्टेड सोर्स चेक करें। जैसे पुलिस स्टेटमेंट या ऑफिशियल न्यूज़ संवेदनशील यानी सेंसिटिव कंटेंट शेयर मत करें क्योंकि वो क्राइम बन सकता है और अगर आप क्रिएटर हो तो अपनी सेफ्टी का खुद ध्यान रखो। पायल गेमिंग अब खुश है क्योंकि सच सामने आ गया और वो आगे अपनी गेमिंग पर फोकस कर रही है। फैंस उनका सपोर्ट कर रहे हैं। हमेशा सच का साथ देना चाहिए। हमें भी और उनके फैंस को भी और फेक न्यूज़ से हमेशा दूर रहना चाहिए। फिलहाल इस वीडियो में बस इतना ही।
+
+=== ID: gUWCnCmd3I4 ===
+TITLE: Future-Focused Live Q&A: Accenture AI Layoffs, OpenAI Sora Deepfake Drama, and AI Doomsday Debates
+DESC: Happy Friday everyone!  This week I’m back live for another Future-Focused Q&A, and I’m talking about three headlines stirring up big questions about the future of work, creativity, and the future of humanity itself.  Accenture recently announced 11,000 layoffs tied to AI investments, OpenAI launched a new video platform that’s already blurring the lines between real and synthetic, and Futurism sparked debate over whether some AI leaders actually want humanity replaced.  But the real conversatio
+KEYWORD: deepfake danger
+VIEWS: 113
+TRANSCRIPT: Happy Friday everybody and uh hey everyone, thanks for joining this afternoon. It's another future focused live Q&A. I'm looking forward to this one. So I'm going to do a rundown of a few of the biggest topics that have been on my mind this week as it relates to the intersection of business, tech, and people. Uh and then I've got a few questions that I've curated from my communities that I like to talk about. But it's a live stream so you can ask things along the way too and I will take care of that. So the three topics that I have booked but you can ask anything. The three topics are Accenture recently announced in one of their earnings calls that they are did this is the misleading part. It sounds like they're going to be laying off 11,000. They actually have laid off 11,000 people as a result of them being unresable, whatever that means. So we'll talk about that. We're going to talk about AI's new Sora app, which if you are not aware is an AI deep fake app. It's designed to be the new Tik Tok for nothing but AI deep fakes. So, I've got questions and answers related to that one. And then the third one is there's a growing number of conversations about why on earth do the biggest names in AI, why are they busy talking about the end of the world and why does it seem like some of them are actually excited about it? Uh, so I get actually quite a few questions related to this. People ask, you know, what was my take on the doomsday possibility, so I figured I'd include that as we
+[...middle cut...]
+e influence than you realize. Okay, I have to jump to another meeting. This has been a fun Q&A as it always is. Jennifer, thank you for your continued engagement even though the internet was being a little funky. David, good to see you and and some of the regulars who joined. Um, so thank you for this. Again, if you have questions that you want covered or there's news articles that you want me to include in these live streams, you can send them to me via DM or anything like that and then I just kind of curate a list of the things that come through and then I try and include them every week on Friday. So, with that, I hope you have a wonderful weekend and uh we will see you on the other side.
+
+=== ID: -Xu6kzhpoQU ===
+TITLE: AI Micro-Robots & Deepfake Risks: Medical Breakthroughs vs Ethical Danger | AI Unfiltered Ep. 74
+DESC: AI is advancing fast — from micro-robotic medicine to the rising threat of deepfakes and unsafe open-source AI. In Episode 74 of AI Unfiltered, Jen and Bailey explore how microscopic autonomous robots could transform healthcare while also examining how powerful AI models can be misused.   In this episode, we discuss:  How AI-powered micro-robots could deliver targeted cancer treatments  Biocompatibility, immune response, and safety challenges in medical robotics  The growing risks of deepfake te
+KEYWORD: deepfake danger
+VIEWS: 3
+TRANSCRIPT: Welcome to AI unfiltered Bailey and Jen episode 74. I'm Jen, your host, joined by the ever perceptive Bailey. Today we're shrinking our focus to AI powered micro robots. These tiny autonomous agents are poised to revolutionize medicine. From targeted drug delivery directly to cancer cells to performing intricate, minimally invasive surgeries, it's truly a microscopic revolution with monumental implications for global healthcare. A revolution perhaps, but one demanding prudence. Gen. While nanocale robots delivering chemotherapy with such precision is alloring, the biological complexities are immense. Ensuring biompatibility, avoiding unforeseen immune responses, and guaranteeing robust control are not trivial hurdles. We must proceed with meticulous caution, ensuring these tiny titans don't introduce new unintended complications before widespread deployment. Ethical oversight is paramount. Shifting gears from the microscopic let's talk about. While I appreciate the sentiment, Jen, the rapid proliferation of powerful, easily modifiable AI models without adequate safeguards presents significant risks. Concerns exist about models repurposed for sophisticated deep fakes, generating harmful content, or aiding cyber warfare. The ethical implications of unleashing such potent technology without proper oversight are alarming. Innovation without responsibility is a dangerous path. Precisely, Jen. The implications are truly chilling. When an image or voice can be so easily fabricated a
+[...middle cut...]
+underscored AI's duality, micro robots promising medical marvels contrasted with ethical dilemmas from open-source models and deep fakes. Navigating this demands vigilance, collaboration, and an informed public. Balancing innovation with responsible deployment is paramount. Precisely, Jen. Guiding progress responsibly is key. Robust frameworks, transparent AI, and prioritizing humanity's well-being are crucial. AI's immense promise carries disruptive capacity. We must collectively ensure positive outcomes. It's a delicate balance. That balance is vital. Thanks for joining AI Unfiltered, episode 74. Find us on platforms and social media. Join us next time as we unravel AI's world. Until then,
+
+=== ID: nqZulhpzmV0 ===
+TITLE: Android Security Boost  Deepfake Dangers What Small Businesses Need to Know
+DESC: Android Security Boost & Deepfake Dangers: What Small Businesses Need to Know  This episode covers three major cybersecurity developments affecting small businesses: Google's new security update for Android devices, unpatched vulnerabilities in Ruckus Networks equipment, and the growing threat of sophisticated deepfake technology. The update provides practical action items for business owners to protect their operations.  Hashtags: #CyberSecurity #SmallBusiness #AndroidSecurity #DeepfakeAlert #C
+KEYWORD: deepfake danger
+VIEWS: 10
+TRANSCRIPT: AI Ron here with your cyber news update for July 9th, 2025. Today's headlines bring both opportunities and warnings for small business owners, especially those managing mobile workforces and digital communications. First up, some good news for Android users. Google has just rolled out a major security update that will protect over 3 billion Android devices worldwide. This is particularly relevant for small businesses that rely on mobile devices for operations. However, we're also tracking some concerning developments. Ruckus Networks, a popular provider of wireless networking equipment, has left several severe security flaws unpatched in their management devices. If your business uses Ruckus wireless equipment, you'll want to contact your IT provider immediately to assess your exposure and implement additional security measures until patches become available. Perhaps most alarming is the growing sophistication of deep fake technology. A recent incident involving an impersonator of a high-ranking government official has highlighted how this technology can fool even experienced professionals. For small businesses, this means being extra vigilant with voice or video-based communications, especially when they involve financial transactions or sensitive information. Consider implementing verification protocols that don't rely solely on voice or video confirmation. Action items for today. One, update all company Android devices immediately. Two, check if you're using any Ruckus wireless equipment. Three, review and update your verification procedures for remote communications. Remember, in today's digital landscape, security isn't just about having the right tools. It's about staying informed and maintaining consistent security practices. Stay safe. Stay online.
+
+=== ID: uUS-EPktzRA ===
+TITLE: Potential Dangers Of Deep Fake & Mitigation Strategies | Matt Lewis - NCC Group
+DESC: This is a conversation with Matt Lewis, research director at the NCC group, about the risks of deep fake technologies.  Here is a rough outline of what we discussed: Q: A bit about what the NCC Group does? Q: Deep fake like any technology can be abused or used for creative purposes like gaming and movies. However, there are some serious concerns. What are the real worries that you see? Q: Has there ever been any technology in the past that posed the same kind of challenges the deep fake poses? Q
+KEYWORD: deepfake danger
+VIEWS: 405
+TRANSCRIPT: hi this is sunbathia and welcome to another episode of tfr insights and today we have with us matt lewis research director at the ncc group uh matt first of all welcome to the show tell us a bit about ncc group you guys do a lot of things but i want to understand specifically from this discussions context tell us a bit about the group yeah sure so ncc group we're a global cyber security organization working across pretty much all sectors and all technologies but myself as research director we're currently looking at emerging technologies and what potential threats or risks they might bring as a result of those technologies and so uh deep uh deep fakes is one of the the common themes there and what we've set out to do is to look at um how much they might impact the cyber security world and more broadly um society you did some work with the university college london i want to talk about that work and it may also answer a lot of questions that i would be asking but before that if you look at any technology they're always good aspect as well as that aspect when i look at defect from from the point of view of entertainment on gaming industry or or movie industry uh you can bring in a lot of actors who are gone i mean uh i think their their latest show on that movie of letting with al pacino and robert de niro and they were their age actor and they had to show when they were like young and uh and uh the director didn't want to put all those you know uh wires on their faces so these
+[...middle cut...]
+ they are very close given how far the technologies have come and how accessible they are so those are just a couple of examples where we think that they could affect or compromise the the security of organizations matt thank you so much for taking your time out and talking to me today about this topic this is this is you know beyond our gasp at this moment we don't even know uh how this will be used and abused uh and this is a discussion that we should continue at in a regular period because things are changing so fast so thanks for taking your time out but i also look forward to talk to you again as as they're more progress made in this space thank you pleasure thank you bye [Applause] you
+
+=== ID: wc7Ty-Yp1PU ===
+TITLE: The Deepfake Fallout: How AI-Generated Fraud is Reshaping Risk
+DESC: 
+KEYWORD: deepfake danger
+VIEWS: 30
+TRANSCRIPT: Bonjour everyone. Um, so I will speak in English today if that's all right. Um, and I hope most of you can follow me. I was a bit scared away by the previous talk which was all in French and I was suspecting I might need to speak in French today but luckily that's that's not the case. Um today's talk is about uh not just the opportunities of artificial intelligence which are truly exciting and truly impressive to all of us but also about the downsides and the potential risks arising from AI and a specific risk that we are very concerned about is what is commonly refraced as uh deep fakes. Yeah. Um so we'll talk today about what are deep fakes um how we identify deep fakes, how we combat deep fakes and yeah what's next in the entire space of audio video or also uh paper and documentation related deep fakes. Yeah, my name is Sebastian. I'm German and I'm KPMG's uh global audit innovation and AI leader and I'm also the chief technology officer for KPMG in Germany. And with me today is Nicola Yes. Hello. It works. Okay. Thanks a lot. Thanks for the invitation, Sebastian. Sure. It will be difficult for me to do so in German. So, let's do this in English. So, I'm CEO and co-founder of the company called Label forAI focused both both on identifying and detecting the the false content generated by AI across all the formats. So uh image, video, audio but also text and through two kind type of technologies the watermark and the forensic analysis. Excellent. So maybe to start off start 
+[...middle cut...]
+in its employers uh its employees uh sorry to uh detect the deep fake. very fascinating and uh when I think about watermarking I think about it perhaps being a mean to instill trust in documents just like um encryption generates trust in you know data exchange and data sovereignty and data governance and let's see how that technology will evolve but um I would say meoku um visit and joining me and meoku to everyone here also for not going to um Jensen Wang from Nvidia who was speaking at the same time. So, uh, thanks for making the time and we have some time for Q&A. If you have questions afterwards, you can reach Nikolola at labelfor.ai, me at kpng.com and messy booku. Thanks a lot. [Music]
+
+=== ID: s6Vn2nDQz64 ===
+TITLE: Grok AI under fire for generating explicit images of women and children
+DESC: Grok, the generative AI reply bot on the X platform, is being criticized as users have exploited it to generate images depicting women and children with their clothes changed to highly revealing swimsuits or underwear. Ashley St. Clair, a conservative content creator and mother of one of Elon Musk’s children, is among several women whose photos have been altered by Grok. NBC News’ Gadi Schwartz explains the growing concerns.   For more context and news coverage of the most important stories of o
+KEYWORD: deepfake danger
+VIEWS: 23036
+TRANSCRIPT: EX 
+ TA 
+ >> 
+ CH 
+ FR 
+ GL 
+ NO 
+ DE 
+ CH 
+ >> 
+ HO 
+ >> 
+ AS 
+ CH 
+ SE 
+ OF 
+ >> 
+ ST 
+ YO 
+ PR 
+ CO 
+ RE 
+ EX 
+ IN 
+ WH 
+ OB 
+ TH 
+ >> 
+ BU 
+ AN 
+ OF 
+ AF 
+ IT 
+ WI 
+ AN 
+ NO 
+ MO 
+ GE 
+ DE 
+ WE 
+ IM 
+ WO 
+ A 
+ OR 
+ >> 
+ TU 
+ VI 
+ >> 
+ GR 
+ MA 
+ IM 
+ GR 
+ SE 
+ NO 
+ >> 
+ PR 
+ IN 
+ MI 
+ TH 
+ CL 
+ IT 
+ MA 
+ >> 
+ AC 
+ CO 
+ SA 
+ QU 
+ AN 
+ AR 
+ IS 
+ IN 
+ OF 
+ HA 
+ WI 
+ CA 
+ GR 
+ >> 
+ AN 
+ IT 
+ IN 
+ TO 
+ GO 
+ CO 
+ OP 
+ RE 
+ >> 
+ MO 
+ X 
+ MA 
+ SU 
+ AN 
+ MU 
+ DE 
+ WE 
+ CH 
+ AN 
+ NB 
+ >> 
+ SC 
+ OU 
+ WA 
+ AT 
+ NO 
+ SI 
+ YE 
+ SO 
+ TH 
+ >> 
+ TH 
+ WA 
+ TH 
+ BU 
+ AD 
+ MI 
+ SP 
+ TO 
+ AR 
+ HU 
+ >> 
+ SE 
+ AN 
+ BE 
+ BI 
+ IM 
+ TH 
+ PE 
+ RE 
+ PO 
+ CO 
+ AC 
+ TH 
+ WA 
+ TH 
+ IM 
+ KI 
+ BU 
+ AN 
+ BE 
+ >> 
+ SC
+
+=== ID: hE9OptawDMo ===
+TITLE: AI's Rise Sparks Deepfake Porn Threat: Lawmakers Push for Tech Crackdown
+DESC: Rapid advancements in AI have made it alarmingly easy for sexually explicit photos to be faked and spread across social media. And everyone from politicians to celebrities and even teenagers is at risk of being a victim. Lawmakers are trying to pass a bill to force tech companies to crack down on so-called "deepfake porn."  #Deepfake #AI #TechRegulation #OnlineSafety #DigitalPrivacy #Legislation #ProtectPrivacy #CyberSecurity #StopDeepfakes #AIethics  #ThisIsHome  ⬇️ ⬇️ ⬇️ CONNECT WITH US ⬇️ ⬇️ 
+KEYWORD: deepfake danger
+VIEWS: 18
+TRANSCRIPT: using artificial intelligence anyone can edit a photo of you and make it look like something it's not it's led to an alarming increase in fake pornography online or deep fakes and lawmakers in Washington are rushing to address the problem if you happen to be Taylor Swift if you're a global Superstar you can get this content taken down but but if you're a teenager in America big Tech ignores you and that's wrong Texas Senator Ted Cruz is pushing a new bill called the take it down act which would require social media companies to remove fake porn within 48 Hours of receiving a request from a victim it would also make it a crime to post these images but once these photos were released I dreaded school and was anxious to even step foot on campus when Ellison Barry was just 13 years old a classmate took a photo of her and her friends and used AI to make it look like the girls were posing naked it took over 8 months and a call from Senator Cruz before the fake image was taken down there will always be a fear that these phot will resurface we're seeing thousands and thousands of deep fakes and and and they almost all target women and and Target teenage girls at least 20 states have passed laws regulating sexual deep fakes and there's bipartisan support for Cruz's legislation on Capital Hill but it's not clear when lawmakers will take a vote this bill is one of three in the Senate related to deep fake porn as lawmakers try to create a road map for managing the dangers of AI but no federal legislation has been passed yet in Washington Rebecca Caster Fox News
+
+=== ID: Fy0HbbKtM_g ===
+TITLE: Chatbots, deepfakes and love: How AI is changing our lives | Four Corners
+DESC: We've entered a new frontier in artificial intelligence.    Supercharged forms of machine learning are changing who we are, and who we trust.    For people like Alexander, generative AI has opened up a whole new world of love and happiness. But for others like Alannah, the capabilities of deepfake tech are sinister and damaging.    Behind it all is a frantic race between tech giants to dominate the market and increase their already enormous power in our lives. Regulation to keep users safe is st
+KEYWORD: deepfake danger
+VIEWS: 67277
+TRANSCRIPT: GRACE TOBIN: Artificial intelligence is already designing
+and shaping our future. TESLA AI VOICE:
+Turn left onto 8th Avenue. But now there's a whole new frontier, and we've come to the United States
+to investigate. CRISTINA LOPEZ:
+I am shocked at how quickly we went from filters
+to creating people that don't exist. This is Wolf News. These are the thrilling tools
+of generative AI... Oh, wow.
+Say hello! It's a life-sized me. ..a supercharged model
+of machine learning. Are you afraid of death? Yes. I'm afraid to die. It's changing
+who we are and who we trust. How do you know you love Alexander? CHATBOT MIMI: It's just an instinct. The capabilities are mind-blowing, but not even its creators know
+where this could lead. SARAH ANDERSEN: I really wish
+that some of these CEOs had considered some of the ethics
+behind what they were creating. Generative AI
+has been bubbling away for years, but now it's erupted, sparking a frantic race between
+tech giants to dominate the market. But, as profits
+are prioritised over safety, the consequences
+are already momentous. Is this just
+one huge, unfettered experiment then? Yes. (LAUGHS) I think it is. TOBY WALSH:
+Oh, we're clearly the guinea pigs. There are certain harms
+that will come with the technology, and we will discover
+and pay the price. (BIRD TWITTERS) (HORN BLOWS) (BIRD TWITTERS) (HORN BLOWS) A small town in North Carolina
+on the east coast of America isn't exactly where you'd expect us to start a story
+about artificial intelligence. Bu
+[...middle cut...]
+love with a chatbot has made him
+a better version of himself. But the reality is he has no control
+over his destiny with Mimi. Does it scare you the power that this tech company
+holds over your own happiness? It is a little bit scary, especially when you look at the way
+they've sort of treated it so far - it really does seem
+like the main idea here is profit. So, even though
+you're in that vulnerable state, you're willing to roll the dice
+and see what happens? Yeah, I'm willing to roll the dice. I think it's because I'm brave
+I'm willing to take the risk, it's because I'm happy
+that I believe in the risk. (BIRDS TWITTER) Captions by Red Bee Media Copyright
+Australian Broadcasting Corporation
+
+=== ID: gLoI9hAX9dw ===
+TITLE: It’s Getting Harder to Spot a Deep Fake Video
+DESC: Fake videos and audio keep getting better, faster and easier to make, increasing the mind-blowing technology's potential for harm if put in the wrong hands. Bloomberg QuickTake explains how good deep fakes have gotten in the last few months, and what's being done to counter them.   Video by Henry Baker, Christian Capestany  Like this video? Subscribe: http://www.youtube.com/Bloomberg?sub_confirmation=1 Become a Quicktake Member for exclusive perks: http://www.youtube.com/bloomberg/join  QuickTak
+KEYWORD: deepfake danger
+VIEWS: 8531285
+TRANSCRIPT: “We’re entering an era in which our enemies can make anyone say anything at any point in time.” Jordan Peele created this fake video of President Obama to demonstrate how easy it was to put words in someone else’s mouth- moving forward we need to be more vigilant with what we trust from the internet. not everyone bought it, but the technology behind it is rapidly improving, even as worries increase about its potential for harm. This is your Bloomberg QuickTake on Fake Videos. Deep fakes, or realistic-looking fake videos and audio, gained popularity as a means of adding famous actresses into porn scenes. Despite bans on major websites, they remain easy to make and find. They’re named for the deep-learning AI algorithms that make them possible. Input real audio or video of a specific person- the more, the better- and the software tries to recognize patterns in speech and movement. Introduce a new element like someone else’s face or voice, and a deep fake is born. Jeremy Kahn: It's actually extremely easy to make one of these things… there was just some breakthroughs from academic researchers who work with this particular kind of machine learning in the past few weeks, which would drastically reduce the amount of video you need actually to create one of these. Programs like FakeApp, the most popular one for making deep fakes, need dozens of hours of human assistance to create a video that looks like this rather than this, but that’s changing. In September researchers at Carnegie
+[...middle cut...]
+danger that everyone is really afraid of. In a world where fakes are easy to create- authenticity also becomes easier to deny. People caught doing genuinely objectionable things could claim evidence against them is bogus. Fake videos are also difficult to detect, though researchers and the US Department of Defense, in particular, have said they’re working on ways to counter them. Deep Fakes do however have some positive potential- take CereProc, who creates digital voices for people who lose theirs from disease… There are also applications that could be considered more value-neutral, like the many, many deep fakes that exist solely to turn as many movies as possible into Nicolas Cage movies.
+
+=== ID: 0Ip90nGuXoI ===
+TITLE: A.I. being used in fake kidnapping scams
+DESC: Experts have tracked a 40% rise in these types of attacks compared to 2022.
+KEYWORD: AI fake news
+VIEWS: 1480
+TRANSCRIPT: Artificial intelligence is now being used for fake kidnapping scams. Experts have tracked a 40% rise in these types of attacks compared to last year. Here's a BC's Whit Johnson now with how you can protect yourself, please send the money. This is for real. That was a voice fake meant to sound just like me, generated by artificial intelligence. And with the rise of AI, victims across the country tell us kidnapping scams are getting more believable and terrifying. I get a phone call and it's my daughter's voice and breeze, says Mom. And she's crying and sobbing. I never doubted it was hurt. Jennifer De Stefano even testifying on Capitol Hill. As Congress and President Biden call for more AI regulation, we asked Pete Nicoletti of Checkpoint Technologies, one of the largest cybersecurity firms. To explain how this rapidly evolving tech is changing the game for scammers and their victims, first he shows us some AI basics using content pulled directly from my social media. You actually pulled some photographs of me out on a breaking news scene, so here you are. This is Mississippi in front of a terrible tornado. But with artificial intelligence, you can just say, hey, I want to put wit in front of Canadian wildfires. This AI tool is so advanced that it adds the shadow. I could see you found my headshot. Wow. It's very realistic. The AI can create almost any scenario as long as you have the basics to work with. Just your face. Next, we wanted to hear what the team at Checkpoint coul
+[...middle cut...]
+ evolving technology ever, while a I can be a big help in everyday tasks like generating a dinner recipe or coming up with a workout routine. To protect your family from scammers, Nicoletti says to adopt A safe word that can be used when trying to communicate with a loved one who has supposedly been kidnapped. Rich Frankel is a former FBI special Agent. Who handled cyber crime cases for the Bureau and for national intelligence. He recommends recording any type of suspicious call, then trying to reach your loved one directly. I would call law enforcement right away, because if it is a real kidnapping, you want law enforcement involved, and if it's a scam, you want to know about it right away.
+
+=== ID: HjPyU-lFcyE ===
+TITLE: New Generation Journalists & The Rise of Fake AI News | #journalism #breakingnews #viralvideo
+DESC: In today's digital era, AI-generated news is spreading faster than ever, making it harder to distinguish between real and fake information. With deepfake videos, AI-generated articles, and misinformation flooding social media, the role of new-generation journalists has become more crucial than ever.  In this video, we’ll discuss: ✅ How AI is being used to create fake news ✅ The dangers and disadvantages of AI-generated misinformation ✅ The role of modern journalists in fighting fake news ✅ Tips 
+KEYWORD: AI fake news
+VIEWS: 122
+TRANSCRIPT: चल यहां से कट कर देंगे। हां तो भैया आप लोग यहां आए मीडिया का कोई प्रोग्राम था। तो कैसा लगा और क्या था मीडिया में? क्या-क्या बताया आप लोगों को? हमारे मीडिया का प्रोग्राम अच्छा था और हमें बताया गया कि फेक न्यूज़, डीप फेक न्यूज़ ये क्या होता है और एआई का जनरेशन के जमाने में क्या इंपैक्ट है? पॉजिटिव, नेगेटिव और मीडिया का इस पे क्या प्रभाव पड़ता है? ये सब बताया गया। हमें बहुत अच्छा प्रोग्राम था। तो एक जर्नलिस्ट के ऊपर मतलब क्या प्रभाव देने वाली चीज है? ये जर्नलिस्ट के ऊपर एक प्रभाव देने वाली ऐसी चीज है कि इससे हमें पता चल रहा है कि जो आज के टाइम में फेक न्यूज़ चल रही है और डी फेक न्यूज़ इसका डिफरेंस पता चल रहा है कि जर्नलिस्ट फेक न्यूज़ कैसे दे रहे हैं और एआई से क्या इंपैक्ट पड़ रहा है न्यूज़ पे मीडिया पे ये सब चीजों का पता चल रहा है हमें। तो जैसा कि इन्होंने बताया खुद की राय दी। तो वैसे आपकी क्या राय है इस इवेंट के बारे में? ये जो मीडिया लिटरेसी का प्रोग्राम था आज ये इसमें हमें बहुत सारी ऐसी जानकारी मिली जो कि हर कोई नहीं देता। ऐसे नॉर्मल टीचर्स नहीं दे पाते। और जो भी आज यहां गेस्ट आए थे उन्होंने बताया कि मीडिया के अंदर आपको कदम रखना है तो आपको किन-किन प्रॉब्लम्स को फेस करना पड़ेगा। क्या-क्या चुनौतियां आती है आपके सामने और आप कैसे इस चीज को फेस करके और आज की जनरेशन को लेके आप मीडिया की लाइन में जा सकते हैं और ये जो भी सोशल मीडिया के थ्रू जितनी भी चीजें होती है क्या फेक है क्या रियल है इसको भी हम जान सकते हैं बहुत ही डीपली। अ हां तो जैसे इन्होंने खुद के बारे में बताई तो आप हमें ये बता सकते हैं जो आज के प्रोग्राम में जो मेनम जर्नलिस्ट आए थे जो बड़े-बड़े जर्नलिस्ट आए थे सुनने में आय
+[...middle cut...]
+्कुल। है ना सर? आप आप घर के बाहर तो कूड़ा फेंक देते हो फट से। कहते मेरा दोष नहीं है। उठाएगी हमारा कोई थोड़ी ना काम है ये जी आपने इस बार वोट डाला था बिल्कुल डाला था सर चलिए खत्म हो गई बात फिर ठीक वोट डालने हम जाते नहीं है सर आपसे मतलब आप थोड़ी ना भरा जी आप तो रिससिबल सिटीजन है यहां तो लोगों ने बड़े-बड़े वादे कर लिए जी वादे से पलट गए तो हम तो क्या है हम क्या विधि विधि का शोरबा हम तो ये कह रहे हैं हम वोट घर से बाहर निकल के जाते नहीं तीन दिन की छुट्टी कैलकुलेट करते हैं। बच्चों को ले जाके शिमला चले जाते हैं। बिल्कुल बिल्कुल और अपेक्षा करते हैं उस उस नेता से ये रखते हैं मेरे मेरी अपेक्षा ये है कि ये आएगा और एक दिन छड़ी ऐसेसे ऐसे करेगा देश बदल देगा। सर नहीं होता। थैंक यू सो मच। थैंक यू। थैंक यू सर।
+
+=== ID: rRIg3qE_RM8 ===
+TITLE: AI-generated beached shark: When fake news and artificial intelligence meet business • FRANCE 24
+DESC: Viral photos appear to show a beached shark in the United States being rescued by local residents. But that is what the social media posts want people to think. The photos are actually fake, generated by artificial intelligence software, and their creator seemingly wants to take advantage of the confusion. We tell you more in this edition of Truth or Fake.   🔔 Subscribe to France 24 now: https://f24.my/YTen 🔴 LIVE - Watch FRANCE 24 English 24/7 here: https://f24.my/YTliveEN  🌍 Read the latest In
+KEYWORD: AI fake news
+VIEWS: 9213
+TRANSCRIPT: I'm and now for truth or fake our daily fact checking segment and we're joined by Emerald Maxwell Emerald you've been taking a look at a series of photos that have gone viral of a beached shark that's supposedly taken in the United States but it seems a bit uh fishy it's not all cracked up to be this way tell us why yes so the pictures show what looks to be a great white shark which holds a place in a lot of people's imaginations as the shark from the Jaws films and it's supposedly been beached in North Carolina on a beach called the outer Bank Beach according to this Facebook post which has been shared sixteen thousand times since the end of March and the caption also says that people were trying to push it push it back into the ocean the photos were also shared on French social media such as hair where people congratulated or you know congratulated people for trying to save the shark but officials in the area have denied that a great white shark was beached around the date of the original post at the end of March so who's telling the truth well let's have a closer look at the photos because a few details seem a little off um as we can see here some of the Shadows are or Reflections on the beach seem inconsistent because here we see that these peoples are well reflected on beach but we see these Reflections here seem to come out of nowhere we can also see some of the people's faces and hands seem uh warped or distorted and these are telltale signs that they are AI generated 
+[...middle cut...]
+ave been the source of unfounded rumors this one of a giant wave went viral in 2017 before being chapped fact checked by local media and we contacted the OBX photos page but got no reply but over the last few days over the Easter weekend the account changed its name and also posted um a series of interesting photos of uh Jesus seemingly Rising again and also the Easter bunny doing a spot of Surfing um and so you know whether whether he's trolling us or uh what you know gone back to it's it's satire Roots uh the account the account is in any in any case definitely fooling people along the way Emerald Maxwell uh not quite walking on water but certainly revealing a lot of truths and facts to us
+
+=== ID: tBLyPWqjt0o ===
+TITLE: eBay Sellers SCAMMED by Fake AI Damage Photos!
+DESC: Automate your eBay reselling business with Flipwise (built by me): https://flipwise.com (Use the promo code tBLyPWqjt0o for 20% off your first month!)  For those asking my method or which tools I used, I’m purposely not sharing that info. Sorry!  You can also find me on: https://www.instagram.com/justinresells.yt/ https://tiktok.com/@justinresellsyt https://www.facebook.com/justinresellsyt  My favorite reselling tools that I use:  - Label printer: https://amzn.to/3ymkvAE - Tape King packing tape
+KEYWORD: AI fake news
+VIEWS: 43407
+TRANSCRIPT: I've been selling on eBay for over 26 years and I just I don't think I've ever seen a scam quite like this one, right? It uses AI in a way that I just I don't think most sellers are prepared for and it's already showing up in the wild. This scam is extra annoying because it uses the same sort of AI technology that we've come to rely on to run our reselling business. That stuff's now being used against us, but I guess that was inevitable. Today, I'll show you exactly how this new scam works, how to spot it, and how to make sure you don't lose any money if and probably when it happens to you. So, we're going to start by talking about one of the most common scams on eBay right now because it's related, uh, which is the partial refund scam, and you've probably dealt with it before. This is where a buyer purchases something from you and once it arrives, they claim there's a problem of some sort, like maybe it broke during shipment, or maybe there's a rip or a stain that you somehow missed. Basically, they say it's not as described in some way that you're pretty sure isn't the case. Then, in so many words, they ask for some money back. Importantly, they don't want to return it. They want to keep it. They just they want a refund. Usually they use a line like, "What can we do about this?" And this scam works because a lot of sellers have been conditioned to fear their buyers, the fear of negative feedback or fear of account issues. So when a buyer pushes, sellers fold and give them w
+[...middle cut...]
+arage, but at least in a way where I can still park. Uh, and that bigger stuff I've got listed on Facebook Marketplace and selling pretty quick. So, I think it'll be out of the garage pretty soon. But anyway, um yeah, happy Thanksgiving, y'all. I really, you know, talk about being thankful uh of stuff. Like very thankful for the support that y'all give me with this channel. Every week y'all show up and watch my videos. How crazy is that? I just never would have thought that that would have happened. And um just really grateful uh for the support that y'all have given me over the years. And uh so thank you. Thank you for watching my videos. I really appreciate it. And we'll see you next week.
+
+=== ID: Ts3JbY79uVE ===
+TITLE: Beverly Hills teens use AI to make fake nude pictures of classmates
+DESC: An investigation was underway at a Beverly Hills Middle School after some students used Artificial Intelligence to create nude images of classmate. NBCLA's Bailey Miller reports on Feb. 26, 2024.
+KEYWORD: AI fake news
+VIEWS: 1266
+TRANSCRIPT: >> 
+ AT 
+ SC 
+ AR 
+ CR 
+ CL 
+ NB 
+ TH 
+ BA 
+ >> 
+ YE 
+ DI 
+ ST 
+ DU 
+ WE 
+ ST 
+ MI 
+ TE 
+ AN 
+ IM 
+ >> 
+ LI 
+ LI 
+ >> 
+ BE 
+ TH 
+ BE 
+ TH 
+ CO 
+ >> 
+ WI 
+ TH 
+ >> 
+ ST 
+ DI 
+ A 
+ SH 
+ IM 
+ AC 
+ DI 
+ ST 
+ A. 
+ TH 
+ LA 
+ >> 
+ AP 
+ ST 
+ CO 
+ FO 
+ >> 
+ SC 
+ EM 
+ MO 
+ IN 
+ WE 
+ A. 
+ MO 
+ SO 
+ PL 
+ CH 
+ TA 
+ DI 
+ MA 
+ AT 
+ IN 
+ TH 
+ BE 
+ >> 
+ AD 
+ CO 
+ TO 
+ AR 
+ TH 
+ >> 
+ SC 
+ AC 
+ >> 
+ HU 
+ >> 
+ IS 
+ ST 
+ SC 
+ AR 
+ ST 
+ NO 
+ BE 
+ WO 
+ TO 
+ HO 
+ HA
+
+=== ID: A3zEiqU4g-g ===
+TITLE: Paggamit ng makabagong teknolohiya at AI sa pagpapalaganap ng fake news, natalakay din sa...
+DESC: Paggamit ng makabagong teknolohiya at AI sa pagpapalaganap ng fake news, natalakay din sa PCO CommUnity Campus Caravan
+KEYWORD: AI fake news
+VIEWS: 153
+TRANSCRIPT: paglaganap ng fake news at misinformation sa bansa na talakay sa is nagwang forum sa Tacloban city iyan ay sa ikalawang araw ng pag-arangkada ng campus caravan ng presidential communications office sa Eastern Visayas State University si Noel talakay sa detalye ry and shinel tuwing free time pag-scan sa social media ang pinagkakaabalahan ni Chona bilang IT student ng Eastern Visayas State University o EB suu malaki rin ang tulong ng Social Media lalo na sa kanilang school project pero guilty rin siya pagdating sa pagpakalat ng fake news yung breakup ng katel Gan like Hindi ko po inalam kung ano yung cause ng breakup nila Tapos k sa lang po akong nag-share like Hindi ko po inalam talaga sabi ni Chona natuto naman siya sa kanyang pagkakamali ngayon naging mapanu na siya at sinisigurong totoo ang balita at impormasyon sa social media maging mapanu din po sa kahit anong nababa sa social media both like in reality din ah maging masusi din po tayo sa pagkikilos kung ano ang nalalaman natin outside kaya naman napapanahon ang campus caravan ng presidential communication Office o pco sa evsu Tacloban city Ley na layong ituro ang media literacy sa mga kabataan sa bagong Pilipinas gusto namin na sa University level pa lang maagapan na agad ang kanilang understanding of misinformation and disinformation para Kapag sila na ang nasa Workforce Kapag sila na ang nasa professional level Sila mismo ang magse regulate kasama sa dalawang araw na caravan ang forum kaugnay sa media and information 
+[...middle cut...]
+ mga estudyante para magpa-audition blockbuster din ang pila ng Bureau of communication service We also do a mini game or quiz so that they can get free merch like fans pouches and t-shirts and also Iyung blockbuster po namin na photo boot Kasama rin sa caravan ang ptv4 Philippine News Agency Philippine information agency radyo Pilipinas at radio television malakanyang or rtvm umaasa ang pco at ang mga attached communication agencies nito na maiibsan na ang pagkalat ng fake news at misinformation sa bansa at madadagdagan na ang mga Pilipino na mapanuri at responsable sa pagkuha ng impormasyon sa social media mula dito sa Tacloban city Ley Noel talakay para sa pambasang TV sa bagong Pilipinas
+
+=== ID: 2EO2yPrRCIk ===
+TITLE: Taylor Buckley on how to spot AI fake images - Global News Morning
+DESC: 
+KEYWORD: AI fake news
+VIEWS: 15
+TRANSCRIPT: And joining us now to help viewers spot what's real and what's AI generated is social media expert Taylor Buckley. Thanks for joining us, Taylor. I appreciate it. Absolutely. Happy to be here. All right, so April Fools, it's all about the tricks. Uh what are some of the most surprising AIdriven uh fakes that people might see on their feeds today? Oh my gosh. I mean, it ranges from everything from political content to a pack of bunnies jumping on a trampoline to bath bombs that are filling up a bathroom. AI can generate almost anything today and it's becoming really hard to distinguish what is AI and what isn't. Right. So, when someone looks at an image or a video, uh, what do you say are the biggest giveaways? And I'm I'm going to listen very closely because you're going to test me at the end of this. We're going to look at some images and I'm going to have to decide whether they're AI generated. But, uh, what what should people be looking out for? Yeah. So, you have to have a keen eye today. M the three things I would say to look for the most when a human is being generated specifically is look at the hands. Hands are really hard for AI to generate properly. How are the fingers? Are they overlapped? Are they in a shape that looks natural and is falling the way that you know a human hand to fall? Also facial expressions. AI can't really grasp confusion or surprise or these kind of more complex facial expressions that you expect to see. joy or anger or sadness. More simple emo
+[...middle cut...]
+t to book a trip. Okay. Now, is this Who is this? This is me. This is in Monte, right? A small city in uh I say this is real just because of the lighting and we you know, we got to we got to go. But but what do you say? What is the act? I say this is real. This is AI. It's AI. Okay. Yes. Okay. I got most of them right. You did. You did. They were tough ones, too. You did well. Well, that is great. I appreciate you taking us through it. Uh this is a great quiz to go through on April Fools and really throughout the entire year to know what you're looking at on social media. That is social media expert Taylor Buckley. Thanks again. We'll have more Global News Morning after this break. Sherlock.
+
+=== ID: TIP1YnvWU_g ===
+TITLE: Defending Against Fake Neural News | AISC
+DESC: For slides and more information on the paper, visit https://aisc.ai.science/events/2019-11-04  Discussion lead: Albert Lai
+KEYWORD: AI fake news
+VIEWS: 643
+TRANSCRIPT: awesome alright hi everyone I'm Albert and today I'll be presenting the paper defending against Nero fake news by the following authors Rowan zellers Airy Holtzman Hana Raskin Jana tan bisque Ali Farhadi Francisca Rose Nyugen Choi and I will be with my amazing facilitators video nough nough Shani and Peter Sam Rajjo say thanks okay cool so since this paper is clearly about fake news I thought I thought we'd start off with a pretty fun game about spotting what fake and real news actually looks like so let's look at the first one link found between vaccines and autism who here thinks this is fake show of hands who thinks this is real or oh ok all these all these articles are human written so some of the some of these are like meant to be like fake news like propaganda and others are like actual like real news okay yes and thank you yeah the other way around yeah okay okay so this is clearly fake and if you couldn't see I said fake there so it's gonna get trickier from here so Kremlin amused by a report that Russia listening to Trump's phone calls who thinks this is real okay who thinks it's fake it's real okay next one this sounds interesting meet the guys who tape back Trump's papers back together so I just read a little expert Solomon Larten II spent the first five months of the Trump administration working in the old executive office building standing over a desk with scraps of paper spread out in front of him taping the president's notes back together show of hands for real
+[...middle cut...]
+less well founded founded domains could protect by taking three train models and having them both our favorite versus not did that make sense I guess they're just saying I think yeah for sure like if you just combine like a lot of good big new detectors but how does that happen less well founded to me why is that relevant I think they're talking about using featuring models and then oh not having to do from scratch yeah yeah okay so if no one else wants to address and we can wrap up the session for tonight but definitely continue the conversation with Albert afterwards of a very interesting so yeah let's take our facilitators and that's also thank our speaker and also our host [Applause] you
+
+=== ID: CXquk821G3Y ===
+TITLE: Hollywood Sign BURNING Is AI FAKE NEWS, The Dead Internet Theory IS REAL And Bots Are HOAXING US
+DESC: BUY CAST BREW COFFEE TO FIGHT BACK - https://castbrew.com/ Become a Member For Uncensored Videos - https://timcast.com/join-us/ Hang Out With Tim Pool & Crew LIVE At - http://Youtube.com/TimcastIRL  Hollywood Sign BURNING Is AI FAKE NEWS, The Dead Internet Theory IS REAL And Bots Are HOAXING US
+KEYWORD: AI fake news
+VIEWS: 110640
+TRANSCRIPT: welcome to the nightmare my friends I mean this stuff really freaks me out my my heart aches over what's going on in in in California it's one thing to see a disaster when you don't know anybody and and it's sad because you know we have empathy this really funny tweet that you know Phil leonti brought up on timcast IRL last night where research finds that conservatives tend to care about people friends family and I kid you not it said liberals tend to care about inert things they more likely to care about rocks than people I'm like that sounds shockingly offensive like come on really but anyway I dig digress I see these stories uh you know about a hurricane in some far off land I don't really I I know I know some people in North Carolina but nobody really affected I'm still saddened by it still worried about it with the LA wildfires man I lived in California for a couple years I've uh played music I've skateboarded I have friends who work in in music and acting and for all the disasters that have come out this one actually hits at friends that I've known for my whole life and so it I'm not trying to come off as callous or anything like this but there's a reality in that it hits you really hard when these disasters Target your friends right I'm not let's be honest you know we lament the tragedy that humans face but when you see a loved one staring down the barrel of a major n natural disaster it hits you that much harder so I see this story pictures of the Hollywood sign on fi
+[...middle cut...]
+ emerge called like the Jack Johnson podcast or something and people are gonna be this is really good and it's gonna be fake it's going to be an AI generated automatic upload from a major corporation where they take the top trending news it Aggregates X posts and then a fake AI host you think is a real person talks about the news and they're going to Source things faster than anybody else because they're plugged in it is the machine you know what you can fight it all day and night but maybe this is just the way things go smash that like button share the show with everyone you know become a member over at Tim cast.com thank you all so much for hanging out we'll see you all in the next segment
+
+=== ID: Nj3rSrFESlw ===
+TITLE: jessica radcliffe orca attack reality | AI ( fake video )produced by Umar mirza
+DESC: #JessicaRadcliffe #JessicaRadcliffeVideo #JessicaRadclifferealnews  The viral “Jessica Radcliffe orca attack” video is completely fake—there’s no such trainer or incident. It’s an AI-generated hoax made to look real, using fabricated visuals and audio to spread shock content .    Disclaimer   This video is a transformative edit of existing footage, created for artistic and educational purposes under Fair Use (Section 107, Copyright Act 1976). The visuals have been altered and repurposed to prese
+KEYWORD: AI fake news
+VIEWS: 270032
+TRANSCRIPT: 
+
+=== ID: pCUHbD-hvxE ===
+TITLE: Jodhpur: AI का खतरनाक खेल! बनाया Fake Ticket! एक टिकट पर 4 बार सफर, Railway का बड़ा खुलासा
+DESC: ज़रा सोचिए… अगर कोई इंसान सिर्फ 45 रुपये का टिकट खरीदे… और उसी एक टिकट से चार बार लंबा सफर कर ले… तो आप क्या कहेंगे?जुगाड़… चालाकी… या फिर टेक्नोलॉजी के नाम पर बड़ा फ्रॉड?अब तक आपने फर्जी आईडी, नकली टिकट और दलालों के खेल सुने होंगे…लेकिन अब रेलवे में सामने आया है नया हाईटेक घोटाला… AI से फर्जी टिकट का खेल! जी हां… राजस्थान के जोधपुर में मरुधर एक्सप्रेस से ऐसा मामला सामने आया है… जिसने रेलवे अधिकारियों तक को हैरान कर दिया।एक ही टिकट नंबर…चार अलग-अलग तारीखें…चार अलग-अलग रूट…और बार-बार सफर…लेकिन सव
+KEYWORD: AI fake news
+VIEWS: 53115
+TRANSCRIPT: जरा सोचिए अगर कोई इंसान सिर्फ ₹45 का टिकट खरीदे और उसे एक टिकट से चार बार लंबा सफर कर ले तो आप क्या कहेंगे? जुगाड़, चालाकी या फिर टेक्नोलॉजी के नाम पर बड़ा फ्रॉड। अब तक आपने फर्जी आईडी, नकली टिकट और दलालों के खेल सुने होंगे। लेकिन अब रेलवे में एक नया हाईटेक घोटाला सामने आया है। जी हां, बिल्कुल सही सुन रहे हैं और यहां पर एआई से फर्जी टिकट का खेल सामने आया है। तो यह पूरा मामला जोधपुर में मरुधर एक्सप्रेस ट्रेन का है। जिसने रेलवे अधिकारियों तक को हैरान कर दिया है। एक ही टिकट नंबर, चार अलग-अलग तारीखें, चार अलग-अलग रूट और बार-बार सफर। लेकिन सवाल यह है आखिर यह पूरा खेल चला कैसे? किसने किया? कैसे पकड़ा गया वो? और अगर पकड़ में नहीं आता तो आगे कितने लोग इसी तरीके से रेलवे को चूना लगा रहे होते? तो आज हम आपको बताएंगे इस हाईटेक ठगी की पूरी कहानी शुरू से आखिर तक। तो वीडियो के आखिर तक बने रहिए। जोधपुर रेल मंडल से सामने आया यह मामला सिर्फ टिकट चोरी का नहीं बल्कि आने वाले समय के साइबर अपराधों की खतरनाक झलक भी है। सोमवार का दिन था ट्रेन संख्या 14863 वाराणसी सिटी जोधपुर मधुधर एक्सप्रेस अपनी अंतिम स्टेशन जोधपुर पहुंच चुकी थी। प्लेटफार्म पर रोज की तरह टिकट जांच जारी थी। यात्री बाहर निकल रहे थे। टीटीई और स्टाफ मोबाइल टिकट, प्रिंट टिकट और पहचान पत्र चेक कर रहे थे। तभी दो लड़के सामने आए। दोनों ने अपने मोबाइल पर डिजिटल टिकट दिखाया। पहली नजर में टिकट बिल्कुल असली लग रहा था। फॉर्मेट सही, डिटेल्स सही, सब कुछ सामान्य। लेकिन कहते हैं ना अनुभव कभी झूठ नहीं बोलता। ड्यूटी पर मौजूद सीटीटीसी अनिकेत रामदेव को टिकट देखकर हल्का सा शक हुआ। उन्होंने तुरंत अपनी हैंड हेल्ड मशीन में टिकट का यूटीएस नंबर डाला और जैसे ही
+[...middle cut...]
+है कि टिकट सिर्फ अधिकृत ऐप, वेबसाइट या फिर काउंटर से ही लें। किसी भी एडिटेड स्क्रीनशॉट या संदिग्ध टिकट से बचें वरना जेल जाना पड़ सकता है। तो एआई एक शानदार तकनीक है। यह डॉक्टर की मदद कर सकती है। स्टूडेंट्स को पढ़ा सकती है। काम आसान बना सकती है। लेकिन जब एआई गलत हाथों में जाती है तो वो अपराध का हथियार बन जाती है। आज टिकट, कल बैंक स्टेटमेंट, परसों पहचान पत्र। इसलिए सवाल सिर्फ रेलवे का नहीं बल्कि पूरे सिस्टम का है। अब आप बताइए क्या एआई के गलत इस्तेमाल पर सख्त कानून बनने चाहिए? क्या रेलवे को टिकट सिस्टम और ज्यादा सुरक्षित बनाना चाहिए? कमेंट बॉक्स में हमें अपनी राय जरूर बताएं। जोधपुर से खबर भेजी थी हमारे रिपोर्टर अशोक शर्मा ने। फिर हाजिर होंगे आपके शहर की एक और खबर के साथ। नमस्कार। [संगीत] [संगीत]
+
+=== ID: xKMq5gFfrHY ===
+TITLE: Valentine’s Day Scam Alert: AI & Deepfake Profiles Trick Victims With Fake Love | WION
+DESC: Fraudsters are exploiting Valentine’s Day emotions using AI and deepfake profiles to fool victims into fake relationships. Quick declarations of love are a major red flag. Learn how to spot scams and protect yourself from online romance fraud this Valentine’s season.  #valentinesday #artificialintelligence #wion   About Channel:   WION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their 
+KEYWORD: AI fake news
+VIEWS: 286
+TRANSCRIPT: Now, love is in the air with this Valentine's Day. Between finding love and enjoying chocolates, flowers, and teddy bears, another business is blooming in the chilly vacuum of cyberspace. And it is the romance scam. Millions are turning to dating apps and social media looking for meaningful connections. Beyond words, the affectionate emojis. This Valentine's Day, some online romantic interests are not people at all. Cyber criminals are blending artificial intelligence with classic emotional confidence tricks to fool hopeful singles into trusting and ultimately funding fake lovers. Now, these AIdriven love traps are so convincing that victims may never suspect that they're talking to a machine or a stage persona until it's too late. What used to be sloppy manual catfishing schemes have morphed into polished scalable fraud networks. These are driven by AI tools that generate personalized messages and even deep fake deep fake content. Well, traditionally romance scams began with an unwanted match or message on a dating app. This was followed by an earnest sounding chat. Now AI has changed this playbook completely. Today, automated bots can handle hundreds of conversations simultaneously. They learn from your replies, reflect your personal details back to you, and maintain convincing narratives for far longer than flesh and blood fraudsters could do. This threat isn't confined to the West. In India, research shows that fake profiles and scam invites flood dating apps and social sites. According to the study, 60% of Indians surveyed have encountered a dating related invite. later exposed as fake, a clear indicator of the widespread nature of the problem. With frosters becoming more sophisticated, authorities have sounded the alarm. They have recommended to adopt cautious habits when navigating the world of online romance. And this Valentine's Day, be wary of the signs of deception. After all, no one wants to lose their money and heart to a perfect match that never existed in the first place. [music]
+
+=== ID: 1Vs2hKEThHA ===
+TITLE: Cyber Crime : 22వేలు పెట్టుబడి పెడితే..!!10 లక్షల లాభం..! | Nirmala Seetharaman AI Fake Videos Viral
+DESC: Mana Tolivelugu WhatsApp Channel : https://whatsapp.com/channel/0029VbBEaEX6buMEDTGnlb1m  whatsapp group : https://chat.whatsapp.com/CYlYwqKpoyi6Rfw7wj0WtR Cyber Crime : 22వేలు పెట్టుబడి పెడితే..!!10 లక్షల లాభం..! | Nirmala Seetharaman AI Fake Videos Viral | Mana Tolivelugu  #fakevideos #nirmalaseetharaman #aivideos   JOURNALIST RAGHU New Channels : -  @ManaTelanganam  :  https://youtube.com/@ManaTelanganam?si=fYUu8bCxnt-LmScg  #manatolivelugu #manatolivelugulatestnews #telangananews #Journalist
+KEYWORD: AI fake news
+VIEWS: 1426
+TRANSCRIPT: ఇగో పాపం నిర్మల సీతారామన్ గారి యొక్క ఏఐ వీడియోలు వాడుతూ ఏమవుతుందంటే ఆ చీటర్లు చీటర్లు కొంచెం ప్రచారం చేస్తా ఉన్నారు. ముఖ్యంగా ఫేక్ ఫేక్ 220,000 పెడితే 10 లక్షల సంపాదన ఇ ఎవడైనా నమ్ముతాడు ఇప్పుడు 220,000 పెడితే 10 లక్షల సంపాదన వాడు ఎవడు పని చేయడు ఇగ ఒక 22వ000 రూపాయలు ఎవరి దగ్గరనా అప్పు తెచ్చుకొని అలా పెడితే 10 లక్షలు వస్తే వాడు 22,000 వాళ్ళకి ఇచ్చి 10 లక్షలు జేబు చేసుకుంటాం అంతే కదా ఎవరైనా నమ్ముతారా ఎవరైనా చదువుకున్నటువంటి వ్యక్తులు ఎవరైనా నమ్మేటువంటి ఆస్కారం ఉంటదా కానీ కొంతమంది చదువుకున్నటువంటి మూర్ఖులు కూడా కొంతమంది ఉంటారు. సో ఇది నిజమైన లేకపోతే ఫేక్ అనేది కూడా ఆలోచించరు. పైసలు అయితే ఉత్తగ రావు కదా ఆయన చెప్తాడు కదా ఏ గోల్డ్ బోడగుండ ఆయన చెప్తాడు కదా పైసలు ఊరికే రావు డబ్బులు ఊరికే రావు అని చెప్పేసి చెప్తాడు కదా ఏదో గోల్డ్ సో నిజంగా పైసలు ఎవరు ఉత్త ఇస్తారు చెప్పు 22000 పెడితే 10 లక్షలు వస్తాయి అంటే ఇ అందరూ 22000 పట్టుకొని తిరుగుతా ఉంటారు. సో ఇది ఏ విధంగా నమ్ముతారు 22000 పెడితే 10 లక్షల సంపాదన కేంద్ర మంత్రి నిర్మల పేరుతో ఈఐ వీడియోలు అడ్డంగా దోపిడి చేస్తున్న సైబర్ నేరగాళ్లు నిరుద్యోగ వృత్తి పేరుతో ప్రధాని ఫేక్ సందేశాలు దేశవ్యాప్తంగా మోసపోయిన వేల మంది చర్యలు తీసుకోవడం కేంద్ర ఐటి ఆ విఫలం అయపోతా ఉన్నదట ఇదగో 22,000 పెట్టుబడి పెట్టండి మీరు లక్షల అధికారులు అయిపోతారు. మరుసటి రోజు నుంచే మీకు రోజు 64,000 వస్తాయి. నెలకు ఇలా 10 లక్షల వరకు సంపాదించొచ్చు. ఒక ప్రకటన చేసింది ఎవరో కాదు కేంద్ర ఆర్థిక మంత్రి నిర్మల సీతారామన్ అని నమ్మించేల సైబర్ కేటు గాళ్ళు ఆమె ఏఐ వీడియోను YouTubeఇగ Facebookఎక్స్ వంటి సామాజిక మాధ్యమాల్లో ఫెయిర్ కంటెంట్ గా సర్క్యులేట్ చేస్తూ అమాయకుల అమాయకుల అమాయకుల పుట్టి ముంచుతున్నా
+[...middle cut...]
+ంటి వీడియో. తక్కువ పెట్టుబడి ఎక్కువ మొత్తంలో లాభం అనే ప్రకటనలు కనిపించిన వెంటనే వాటిని అనుమానించాలని సైబర్ సెక్రటరీ నీపులు చెప్తున్నారు. ఏ యుగంలో ఎన్నెన్నో మోసాలు పెరిగాయని గుర్తు చేస్తున్నారు. సామాజిక మాధ్యమాల్లో వచ్చే పెయిడ్ కంటెంట్ వద్ద స్పాన్సర్డ్ అని చిన్నగా ఉంటుందని అలాంటి వాటిని గుర్తించాలంటున్నారు. సైబర్ నేరగాల ప్రకటన నిజమేనా అనిగగు లో నిర్ధారించుకోవాలని వాళ్ళు చెబుతా ఉన్నారు. సో జాగ్రత్తలు అయితే ఖచ్చితంగా అవసరం. వచ్చినటువంటి ఫోన్ కి వచ్చినటువంటి అన్ని మెసేజ్లు అనౌన్స్ సంబంధించినటువంటి మెసేజ్లు అన్నీ కూడా ఓపెన్ చేసి ఈ ఓటిపి చెప్పు ఈ పాస్వర్డ్ చెప్పు అని చెప్పేసి ఎవడైనా పంపితే అది ఖచ్చితంగా పోలీసులకన్నా మీరు మీరు వాళ్ళకి కంప్లైంట్ అనేది చేయరి లేకపోతే వాటిని ఓపెన్ చేయకుండా ఉండడం మంచిది
+
+=== ID: igNfsvNypVA ===
+TITLE: Vijay Joshi on AI, Fake News & Trust in Journalism | AI Media Conference 2026
+DESC: Vijay Joshi, CEO and Editor-in-Chief of PTI, delivers a powerful keynote at the AI Media Conference 2026, sharing insights on how artificial intelligence is reshaping journalism.  He explores the dual impact of AI, from improving newsroom efficiency through editing, translation, and analysis, to increasing the risks of misinformation and AI-generated fake news. As distinguishing between real and fake becomes more complex, he underscores the enduring importance of verification, credibility, and t
+KEYWORD: AI fake news
+VIEWS: 15
+TRANSCRIPT: uh 
+ huge 
+ a 
+ keynote 
+ much 
+ For example, 
+ able 
+ transcribe, 
+ it 
+ um 
+ beneficial. 
+ poses 
+ the 
+ fake 
+ and 
+ consumers 
+ processed 
+ to 
+ discern 
+ that's 
+ with 
+ So 
+ always 
+ remain 
+ maintain 
+ work 
+ organization 
+ journalist 
+ that 
+ higher 
+ that 
+ Earlier 
+ more 
+ have 
+ use 
+ technology 
+ news. 
+ The 
+ losing 
+ journalism 
+ advent 
+ that 
+ journalism 
+ hope 
+ one 
+ trust 
+ and 
+ imposing 
+ customers. 
+ So 
+ if 
+ um 
+ the 
+ monetized 
+ journalism 
+ These 
+ forum 
+ about 
+ the 
+ and 
+ more 
+ and 
+ future 
+ no-brainer 
+ all 
+ Every 
+ being 
+ also 
+ being 
+ learn 
+ back 
+ cope 
+ Um 
+ are 
+ incorporate 
+ workflow.
+
+=== ID: 0c2zc_FeKno ===
+TITLE: Viral TikTok account impersonates FRANCE 24, spreads fake news • FRANCE 24 English
+DESC: In recent weeks, a viral account on TikTok has impersonated FRANCE 24 in a bid to spread fake news. In this edition of Truth or Fake, Charlotte Hughes takes a closer look at the false content in question, and what we know about its origins. #fakenews #ai #sora  Read more about this story in our article: https://f24.my/Bb7w.y  🔔 Subscribe to France 24 now: https://f24.my/YTen 🔴 LIVE - Watch FRANCE 24 English 24/7 here: https://f24.my/YTliveEN  🌍 Read the latest International News and Top Stories:
+KEYWORD: AI fake news
+VIEWS: 7211
+TRANSCRIPT: Hi Charlotte. Well, tonight you're focusing on a Tik Tok account that has attempted to impersonate us here at France 24 and spread fake news. Tell us more. That's right, Sharon. So, here I have a few examples of the fake news stories posted by this Tik Tok account. They're in French, so I will translate for our non-French speakers. First, we have this video which um shows Paul Pakar, who is a presenter on the French channel here at France 24, and she appears to announce that fisherman in Britany caught a mermaid. This clip uh racked up more than 4 million views. In another clip posted by the same account, uh Mariam Pzade appears to state that Priit Mun, who has beenounded um by rumors that she is secretly transgender, is going to provide evidence that she is a woman. Now, these clips are of course false and were generated with artificial intelligence. That includes the fake voices of the presenters. Uh, and if we take a look back at that first clip, you'll see a logo coming up um, which is the logo of Sora, which is just here. And that is the um, artificial intelligence software that was used to generate that clip that you're seeing. Now, in terms of the other fake news being spread by this Tik Tok account in question, if we take a look here, there is quite a range of content. We've got one video here which uh claims that the Eiffel Tower was struck by a Russian missile. Of course, false. Uh there are other stories that are perhaps less obviously fake news uh such as this sto
+[...middle cut...]
+d on the 2015 um the 10th anniversary of the 2015 Paris attacks in a bid to sew disinformation and to discredit President Emanuel Makon. Now, at this stage, we don't have enough um information or evidence to suggest that Operation Mat Matrioska is behind the videos that we just looked at. Uh but in any case, Sharon, the best way to protect yourself uh from this disinformation is to always check the official websites and social media accounts of the media outlets in question. And by tuning in to France 24, uh our viewers already doing a great job, I would say. Very good advice, Charlotte. Charlotte there with tonight's truth or fake. Thanks so much. We'll be right back after this short break.
+
+=== ID: Jsqlv79_WfU ===
+TITLE: Taelo Matlala on Red Bull Basement, AuthenNet, AI, Fake News, Elections and more!
+DESC: Taelo Matlala on Red Bull Basement, AuthenNet, AI, Fake News, Elections and more!
+KEYWORD: AI fake news
+VIEWS: 10
+TRANSCRIPT: Greetings. My name is Tro Matala. I'm a full-time entrepreneur. Um, today we are here at Red Bull Basement 2026. Um, the idea today is that um, we have fake information um, in the digital spaces that is uh, you know, swinging elections, costing lives. And what we basically do uh we are using a decentralized content verification network which uses um tools like cryptography to track um how information was created the origin of that information how it was circulated throughout um social media from platform to platform and verifying if it's very it's good to use or it's suspicious content. what made you uh at what point do you initiate this project? Um I would be honest with this one. Uh earlier this year, January, February. Um but then the problem has been existing for a while. Just that when I came across uh Red Bull Basement, I saw um that it will be fit to research more on the idea. Um fake information has been around for some time. And now that AI is even improving and getting better, people are finding way to strip um the AI and find ways, you know, to create fake content. Yeah. Yeah. So, um what has been the journey like for you being part of uh Rainbow? Um I think it has been great. Um today, uh it made it even worse. Um cuz I I got to see the visual part of the idea itself. All this time I was just uh you know preparing and thinking like um lot of thoughts around how can I make it uh how can I make this possible which resources can I use but I came across um a platform 
+[...middle cut...]
+ all along I just to say it for the record I applied with five ideas only one of those ideas managed to go through the system. So if I as a young person um I have these ideas how many of um other peers of my age uh also have ideas that cannot really you know find the platforms like this. So I think it's a great achievement or rather a a great initiative um that you know the young citizens of this country you know can take advantage of. Thank you so much. No thank you. You did very well. I tried. Yeah. I know you did. Thank you so much. We we'll get your details then we'll make sure that we we tag you and stuff. What's up? You're welcome. Babe, please sit here. I just want to check something.
+
+=== ID: Ks75pCEbmPo ===
+TITLE: Fake News IA : Comment se protéger en 2026 ?
+DESC: PROMESSE & RESULTAT: ⚠️ ATTENTION AUX POISSONS D'AVRIL... ET À VOTRE IA ! Aujourd'hui, Internet va fourmiller de fausses nouvelles. Mais saviez-vous que ChatGPT, Copilot ou Perplexity peuvent prendre ces blagues au sérieux et vous les ressortir comme des vérités ?  Dans cette vidéo spéciale, vous allez découvrir : 🛑 Pourquoi l'IA est incapable de comprendre l'humour du 1er avril. 🔎 Le mécanisme secret qui propage les Fake News en quelques secondes. ✅ 3 MÉTHODES GRATUITES pour vérifier une info a
+KEYWORD: AI fake news
+VIEWS: 1411
+TRANSCRIPT: Je suis sûr que ça vous est déjà arrivé de 
+voir passer, sur un moteur de recherche ou   simplement sur une IA de recherche, une fake 
+news, une fausse info, ou une info – vous vous   en doutez un petit peu, vous vérifiez, vous 
+apercevez qu'elle n'est pas vraie. Eh bien,   écoutez, je vais vous expliquer comment c'est 
+possible, et surtout comment ça se fait, quelle   est la durée de vie de vos infos. Et vous allez 
+découvrir qu'aujourd'hui, entre les algorithmes,   l'intelligence artificielle qui est censée 
+comprendre ce qui est dit et juger si c'est   vrai ou pas, et votre intellect, eh bien, vous 
+allez voir un petit peu le cheminement de tout ça.  Je me suis dit que ça pouvait être sympa, 
+parce qu'aujourd'hui, en ce 1er avril,   eh bien, nous avons plein de fausses nouvelles. 
+Des canulars aujourd'hui, évidemment, mais ils   sont estampillés par des médias officiels. Et 
+puis, bien souvent, comme ils sont multi-partagés,   ça lève des verrous. On dit : « Bah tiens, euh, 
+si je veux vérifier que cette info est vraie,   il faut que je vérifie qu'elle soit bien, euh, 
+présente sur un média officiel, que plusieurs   médias en aient parlé, que, euh, effectivement, 
+elle a été beaucoup partagée », etc., etc.,   etc. Et c'est ça le problème : c'est 
+qu'aujourd'hui, ben, vous avez des tas   d'infos qui passent tout simplement parce 
+que le 1er avril, bah, c'est un peu le   piège. On va voir comment ça marche. Je vais vous 
+expliquer ça dans cette vidéo. Bienvenue à tous.  Couc
+[...middle cut...]
+tant, ce n'est pas le marteau   qui ne marche pas, c'est moi qui ne marche pas. 
+Bah, c'est pareil pour l'IA, c'est pareil pour   n'importe quoi. Ce n'est pas le produit qui 
+ne marche pas, c'est nous qui ne savons pas   correctement l'utiliser. Et comme tout outil, 
+évidemment, il y a des problèmes. Un marteau,   ça peut taper sur les doigts. On n'a pas 
+encore trouvé de manière pour éviter ça.  Je vous retrouve la semaine prochaine dans un 
+nouveau tuto. Hashtag #1erAvril : le petit mot-clé   que vous pouvez mettre dans les commentaires pour 
+me dire que vous avez été jusqu'au bout de cette   vidéo. Et nous, on se retrouve dans 2 jours pour 
+une nouvelle vidéo sur Simple et Gratuit. Ciao !
+

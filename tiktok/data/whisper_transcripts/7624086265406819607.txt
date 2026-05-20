@@ -1,0 +1,1 @@
+I'm grading these projects and losing my mind. A pretty interface with dummy data is not a functional app. Every single year. You spend weeks on CSS with zero backend. We have AI now. You literally chat with Hercules and it builds the database payments and hosting instantly. But no! You hand me a gorgeous website that does absolutely nothing. Stop building useless wirefaces.

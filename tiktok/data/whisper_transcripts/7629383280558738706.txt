@@ -1,0 +1,1 @@
+I have no idea. You have experience in auto-scaling? Yes! I have experience in auto-scaling. So how do you do auto-scaling in AWS? Okay. So basically in AWS, I basically use ECS or EKS with auto-scaling groups triggered by cloud-watch alarms on metrics like CP you get better than 70% or request count. Yes! Exactly. It dynamically adjusts tasks out of here.

@@ -1,14 +1,16 @@
 """
-Filter TikTok videos for AI backlash using LLM classification.
+Filter TikTok videos for AI sentiment using LLM classification.
 
 Deduplicates raw Bright Data output, then uses an LLM to classify each
-video as expressing AI backlash (YES) or not (NO).
+video as expressing the requested polarity (backlash or positive sentiment).
 
 Usage:
     export OPENROUTER_API_KEY=...
-    python scripts/filter_by_topic.py
+    python scripts/filter_by_topic.py                                   # backlash on default raw
+    python scripts/filter_by_topic.py --raw data/raw/tiktok_positive_raw.json --polarity positive
 """
 
+import argparse
 import csv
 import io
 import json
@@ -25,11 +27,9 @@ if sys.stdout.encoding != "utf-8":
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
-RAW_JSON = DATA_DIR / "raw" / "tiktok_raw.json"
+DEFAULT_RAW_JSON = DATA_DIR / "raw" / "tiktok_raw.json"
 WHISPER_DIR = DATA_DIR / "whisper_transcripts"
 TIKTOK_DIR = DATA_DIR / "tiktok_transcripts"
-OUTPUT_CSV = DATA_DIR / "tiktok_ai_backlash_filtered.csv"
-PROGRESS_FILE = DATA_DIR / "filter_llm_progress.json"
 KEYS_FILE = REPO_ROOT / ".openrouter_keys"
 
 # --- API setup ---
@@ -39,6 +39,38 @@ ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 LLM_MODEL = os.environ.get("LLM_MODEL", "anthropic/claude-sonnet-4")
 WORKERS_PER_KEY = int(os.environ.get("WORKERS_PER_KEY", "3"))
+
+POSITIVE_PROMPT = """A TikTok video was found by searching for AI-related keywords. Does this video express enthusiasm, gratitude, advocacy, or positive sentiment about AI?
+
+YES — The video expresses positive feelings, personal benefit, or pro-AI advocacy. This includes:
+- Personal stories about AI helping career, productivity, or life
+- "AI changed my life" / "AI helped me cope" / "I'm cooked without AI"
+- Vibe coding / built-something-with-Claude / Cursor changed my life
+- Agent-demo content (Manus, Operator, Claude Computer Use)
+- Model-stan praise (Claude is goated, GPT cooked, Sonnet ate, Sora is insane)
+- Genuine sentiment toward AI companions (AI girlfriend, character.ai, "Claude is my therapist")
+- Education wins (ChatGPT helped me study, AI tutor, AI got me through finals)
+- Creative-tool celebration (Midjourney art, Suno music, Runway AI, made art with AI)
+- "AI is the future" / "AI is the real deal" / "AI underrated" / "I love AI"
+- Affiliate / promotional / tutorial content selling AI tools (count as YES — flag in `register` later)
+- Pro-AI hashtags and identity content (#proAI, #AIenthusiast, team AI)
+- AI side-hustle / monetization wins
+- Synthetic-media creative use (funny AI video, AI lip sync, AI animation, AI face swap)
+
+NO — The video mentions AI but is NOT expressing positive sentiment. This includes:
+- Criticism, concern, or backlash about AI (jobs, art theft, environment, deepfakes, slop, regulation)
+- Neutral news reporting without affect
+- Mixed / ambivalent takes that lean negative or neutral
+- Off-topic content where AI is incidental
+- Anti-AI advocacy or fear content
+- Frustration with AI products
+
+Respond with exactly one word: YES or NO
+
+---
+Description: {description}
+Transcript: {transcript}"""
+
 
 BACKLASH_PROMPT = """A TikTok video was found by searching for AI-related keywords. Does this video express criticism, concern, or backlash about AI?
 
@@ -164,8 +196,8 @@ def deduplicate(raw_videos: list[dict]) -> list[dict]:
     return deduped
 
 
-def classify_backlash(videos: list[dict]) -> list[dict]:
-    """Use LLM to classify each video as backlash or not (concurrent, key-pooled)."""
+def classify_videos(videos, prompt_template, column_name, progress_file):
+    """Use LLM to classify each video YES/NO for the given prompt (concurrent, key-pooled)."""
     clients = get_llm_clients()
     n_keys = len(clients)
     n_workers = max(1, n_keys * WORKERS_PER_KEY)
@@ -174,21 +206,21 @@ def classify_backlash(videos: list[dict]) -> list[dict]:
     print(f"  Using model: {model}")
     print(f"  Keys: {n_keys}, workers: {n_workers} ({WORKERS_PER_KEY} per key)")
     print(f"  Videos to classify: {len(videos)}")
+    print(f"  Progress file: {progress_file}")
+    print(f"  Output column: {column_name}")
 
-    # Resume from progress
     already_done = {}
-    if PROGRESS_FILE.exists():
-        with open(PROGRESS_FILE, encoding="utf-8") as f:
+    if progress_file.exists():
+        with open(progress_file, encoding="utf-8") as f:
             already_done = json.load(f)
         print(f"  Resuming: {len(already_done)} already classified")
 
-    # Build pending list — load transcripts and skip already-done
     pending = []
     for v in videos:
         pid = str(v.get("post_id", ""))
         v["_transcript"] = get_transcript(pid)
         if pid in already_done:
-            v["_backlash"] = already_done[pid]
+            v[column_name] = already_done[pid]
             continue
         pending.append(v)
     print(f"  Pending: {len(pending)} (skipping {len(videos) - len(pending)} already classified)")
@@ -204,7 +236,7 @@ def classify_backlash(videos: list[dict]) -> list[dict]:
 
         description = (v.get("description", "") or "")[:500]
         transcript_text = (v.get("_transcript", "") or "")[:1500]
-        prompt = BACKLASH_PROMPT.format(description=description, transcript=transcript_text)
+        prompt = prompt_template.format(description=description, transcript=transcript_text)
 
         try:
             result = llm_call(client, model_, prompt, max_tokens=10).upper().strip()
@@ -223,13 +255,13 @@ def classify_backlash(videos: list[dict]) -> list[dict]:
             print(f"    Error on {pid}: {e}")
             result = "UNKNOWN"
 
-        v["_backlash"] = result
+        v[column_name] = result
         with state_lock:
             already_done[pid] = result
             counters["completed"] += 1
             done = counters["completed"]
             if done % 50 == 0 or done == len(pending):
-                with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
+                with open(progress_file, "w", encoding="utf-8") as f:
                     json.dump(already_done, f)
                 yes_count = sum(1 for t in already_done.values() if t == "YES")
                 no_count = sum(1 for t in already_done.values() if t == "NO")
@@ -251,30 +283,29 @@ def classify_backlash(videos: list[dict]) -> list[dict]:
             except Exception as e:
                 print(f"    Worker exception: {e}")
 
-    # Final save
-    with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
+    with open(progress_file, "w", encoding="utf-8") as f:
         json.dump(already_done, f)
 
     elapsed = int(time.time() - start)
     print(f"\n  Done in {elapsed//60}m {elapsed%60}s. API calls: {counters['api_calls']}, errors: {counters['errors']}")
-    topic_counts = Counter(v.get("_backlash", "UNKNOWN") for v in videos)
+    topic_counts = Counter(v.get(column_name, "UNKNOWN") for v in videos)
     for t, c in topic_counts.most_common():
         print(f"    {t}: {c} ({c/len(videos)*100:.1f}%)")
 
     return videos
 
 
-def save_output(videos: list[dict]):
+def save_output(videos, output_csv, column_name):
     """Save final filtered CSV."""
     fieldnames = [
         "post_id", "url", "description", "create_time",
         "digg_count", "share_count", "collect_count", "comment_count",
         "play_count", "video_duration", "hashtags",
         "profile_username", "profile_followers", "is_verified", "region",
-        "_search_keyword", "_backlash", "_transcript",
+        "_search_keyword", column_name, "_transcript",
     ]
 
-    with open(OUTPUT_CSV, "w", encoding="utf-8", newline="") as f:
+    with open(output_csv, "w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
         writer.writeheader()
         for v in videos:
@@ -283,34 +314,81 @@ def save_output(videos: list[dict]):
                 row["hashtags"] = ", ".join(row["hashtags"])
             writer.writerow(row)
 
-    print(f"\nSaved {len(videos)} videos to {OUTPUT_CSV}")
+    print(f"\nSaved {len(videos)} videos to {output_csv}")
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Filter TikTok videos by AI sentiment polarity.")
+    parser.add_argument(
+        "--raw", default=str(DEFAULT_RAW_JSON),
+        help="Path to raw Bright Data JSON (default: tiktok_raw.json).",
+    )
+    parser.add_argument(
+        "--polarity", choices=["positive", "negative"], default="negative",
+        help="Sentiment to classify for: 'negative' = backlash (default), 'positive' = enthusiasm.",
+    )
+    return parser.parse_args()
 
 
 def main():
-    # Load raw data
+    args = parse_args()
+
+    raw_path = Path(args.raw)
+    if not raw_path.is_absolute():
+        # Resolve relative to repo root, then DATA_DIR if that doesn't exist
+        candidate = REPO_ROOT / raw_path
+        raw_path = candidate if candidate.exists() else (DATA_DIR / raw_path)
+    if not raw_path.exists():
+        sys.exit(f"ERROR: raw file not found at {raw_path}")
+
+    if args.polarity == "positive":
+        prompt_template = POSITIVE_PROMPT
+        column_name = "_positive"
+        # Derive output paths from raw filename
+        # tiktok_raw.json -> tiktok_positive_filtered.csv
+        # tiktok_positive_raw.json -> tiktok_positive_filtered.csv (still positive on positive sweep)
+        stem = raw_path.stem.replace("_raw", "")  # "tiktok" or "tiktok_positive"
+        output_csv = DATA_DIR / f"{stem}_positive_filtered.csv"
+        progress_file = DATA_DIR / f"{stem}_positive_filter_progress.json"
+    else:
+        prompt_template = BACKLASH_PROMPT
+        column_name = "_backlash"
+        stem = raw_path.stem.replace("_raw", "")
+        if stem == "tiktok":
+            # Preserve original backlash sweep filenames
+            output_csv = DATA_DIR / "tiktok_ai_backlash_filtered.csv"
+            progress_file = DATA_DIR / "filter_llm_progress.json"
+        else:
+            output_csv = DATA_DIR / f"{stem}_backlash_filtered.csv"
+            progress_file = DATA_DIR / f"{stem}_backlash_filter_progress.json"
+
+    print(f"Raw input    : {raw_path}")
+    print(f"Polarity     : {args.polarity}")
+    print(f"Output CSV   : {output_csv}")
+    print(f"Progress file: {progress_file}")
+    print()
+
     print("Loading raw data...")
-    with open(RAW_JSON, encoding="utf-8") as f:
+    with open(raw_path, encoding="utf-8") as f:
         raw = json.load(f)
     print(f"  Raw videos: {len(raw)}")
 
-    # Deduplicate
     videos = deduplicate(raw)
     print(f"  After dedup: {len(videos)} unique videos")
 
-    # LLM backlash classification
-    print("\n=== LLM classification (backlash vs neutral) ===")
-    classified = classify_backlash(videos)
+    print(f"\n=== LLM classification ({args.polarity} vs not) ===")
+    classified = classify_videos(videos, prompt_template, column_name, progress_file)
 
-    save_output(classified)
+    save_output(classified, output_csv, column_name)
 
-    # Summary
-    yes_vids = [v for v in classified if v.get("_backlash") == "YES"]
-    no_vids = [v for v in classified if v.get("_backlash") == "NO"]
+    yes_vids = [v for v in classified if v.get(column_name) == "YES"]
+    no_vids = [v for v in classified if v.get(column_name) == "NO"]
     yes_views = sum(int(v.get("play_count", 0) or 0) for v in yes_vids)
     no_views = sum(int(v.get("play_count", 0) or 0) for v in no_vids)
+    label = "POSITIVE" if args.polarity == "positive" else "BACKLASH"
     print(f"\n=== FINAL SUMMARY ===")
-    print(f"  BACKLASH (YES): {len(yes_vids)} videos, {yes_views:,} views")
-    print(f"  NOT BACKLASH (NO): {len(no_vids)} videos, {no_views:,} views")
+    print(f"  {label} (YES): {len(yes_vids)} videos, {yes_views:,} views")
+    print(f"  NOT {label} (NO): {len(no_vids)} videos, {no_views:,} views")
 
 
 if __name__ == "__main__":

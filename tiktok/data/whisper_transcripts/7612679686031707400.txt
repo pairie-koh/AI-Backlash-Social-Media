@@ -1,0 +1,1 @@
+The only dev stack you need in 2026. Claude for coding. Cursor for your IDE. Supabase for your database. Vercel for deployment. GitHub Actions for CI. And Figma for design. That's the stack. Save this, you'll need it. Follow for more.

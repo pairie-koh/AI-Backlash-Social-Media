@@ -1,0 +1,1 @@
+do you have experience in auto scaling yes sure i do have so how do you do auto scaling in aws sure no problem that's an easy one so what i do in aws i use ecs or a case s with also scaling groups triggered by cloud watch deep reading and

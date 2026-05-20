@@ -1,0 +1,1 @@
+There's a second force coming. Liability. Insurers, auditors, and regulators are beginning to ask who has authority over AI decisions, not just who owns the data. Once that question enters underwriting and compliance, unmanaged agents become uninsurable risk. AI governance is not just a productivity layer. It's becoming a condition of coverage.

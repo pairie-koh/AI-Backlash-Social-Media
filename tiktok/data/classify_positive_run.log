@@ -1,0 +1,139 @@
+Platform     : tiktok
+Input        : C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_positive_positive_filtered.csv
+Output       : C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_positive_classified.csv
+Progress file: C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_positive_classify_progress.json
+
+Loading filtered CSV...
+  Total YES rows: 5188
+  Resuming: 5 already classified
+  Pending: 5183
+  Model: anthropic/claude-sonnet-4
+  Keys: 7, workers: 21
+
+    [50/5183] 7.7/s | top theme: career_productivity=36 | top register: genuine_sentiment=31 | errors: 0 parse_fail: 1 | ETA: 11.2m
+    [100/5183] 9.0/s | top theme: career_productivity=39 | top register: genuine_sentiment=52 | errors: 0 parse_fail: 1 | ETA: 9.4m
+    [150/5183] 9.7/s | top theme: career_productivity=74 | top register: genuine_sentiment=68 | errors: 0 parse_fail: 4 | ETA: 8.6m
+    [200/5183] 10.0/s | top theme: career_productivity=116 | top register: genuine_sentiment=78 | errors: 0 parse_fail: 7 | ETA: 8.3m
+    [250/5183] 10.5/s | top theme: career_productivity=149 | top register: creator_promo=102 | errors: 0 parse_fail: 9 | ETA: 7.8m
+    [300/5183] 10.7/s | top theme: career_productivity=194 | top register: creator_promo=128 | errors: 0 parse_fail: 9 | ETA: 7.6m
+    [350/5183] 10.8/s | top theme: career_productivity=206 | top register: creator_promo=142 | errors: 0 parse_fail: 14 | ETA: 7.5m
+    [400/5183] 10.1/s | top theme: career_productivity=225 | top register: creator_promo=162 | errors: 0 parse_fail: 19 | ETA: 7.9m
+    [450/5183] 10.2/s | top theme: career_productivity=268 | top register: creator_promo=191 | errors: 0 parse_fail: 21 | ETA: 7.8m
+    [500/5183] 10.4/s | top theme: career_productivity=300 | top register: creator_promo=222 | errors: 0 parse_fail: 23 | ETA: 7.5m
+    [550/5183] 10.4/s | top theme: career_productivity=345 | top register: creator_promo=253 | errors: 0 parse_fail: 25 | ETA: 7.4m
+    [600/5183] 10.4/s | top theme: career_productivity=384 | top register: creator_promo=282 | errors: 0 parse_fail: 34 | ETA: 7.3m
+    [650/5183] 10.6/s | top theme: career_productivity=425 | top register: creator_promo=324 | errors: 0 parse_fail: 40 | ETA: 7.1m
+    [700/5183] 10.5/s | top theme: career_productivity=459 | top register: creator_promo=357 | errors: 0 parse_fail: 53 | ETA: 7.1m
+    [750/5183] 10.5/s | top theme: career_productivity=462 | top register: creator_promo=373 | errors: 0 parse_fail: 55 | ETA: 7.0m
+    [800/5183] 10.6/s | top theme: career_productivity=462 | top register: creator_promo=389 | errors: 0 parse_fail: 57 | ETA: 6.9m
+    [850/5183] 10.6/s | top theme: career_productivity=478 | top register: creator_promo=406 | errors: 0 parse_fail: 57 | ETA: 6.8m
+    [900/5183] 10.7/s | top theme: career_productivity=488 | top register: creator_promo=418 | errors: 0 parse_fail: 62 | ETA: 6.7m
+    [950/5183] 10.7/s | top theme: career_productivity=497 | top register: creator_promo=428 | errors: 0 parse_fail: 67 | ETA: 6.6m
+    [1000/5183] 10.7/s | top theme: career_productivity=497 | top register: creator_promo=435 | errors: 0 parse_fail: 68 | ETA: 6.5m
+    [1050/5183] 10.8/s | top theme: career_productivity=497 | top register: creator_promo=445 | errors: 0 parse_fail: 68 | ETA: 6.4m
+    [1100/5183] 10.8/s | top theme: career_productivity=497 | top register: creator_promo=451 | errors: 0 parse_fail: 72 | ETA: 6.3m
+    [1150/5183] 10.8/s | top theme: career_productivity=503 | top register: creator_promo=459 | errors: 0 parse_fail: 79 | ETA: 6.2m
+    [1200/5183] 10.9/s | top theme: career_productivity=532 | top register: creator_promo=481 | errors: 0 parse_fail: 79 | ETA: 6.1m
+    [1250/5183] 10.9/s | top theme: career_productivity=535 | top register: creator_promo=491 | errors: 0 parse_fail: 80 | ETA: 6.0m
+    [1300/5183] 11.0/s | top theme: career_productivity=535 | top register: creator_promo=499 | errors: 0 parse_fail: 81 | ETA: 5.9m
+    [1350/5183] 11.0/s | top theme: career_productivity=535 | top register: creator_promo=521 | errors: 0 parse_fail: 82 | ETA: 5.8m
+    [1400/5183] 11.0/s | top theme: career_productivity=536 | top register: creator_promo=548 | errors: 0 parse_fail: 83 | ETA: 5.7m
+    [1450/5183] 11.0/s | top theme: career_productivity=537 | top register: creator_promo=575 | errors: 0 parse_fail: 87 | ETA: 5.6m
+    [1500/5183] 11.0/s | top theme: career_productivity=537 | top register: creator_promo=604 | errors: 0 parse_fail: 91 | ETA: 5.6m
+    [1550/5183] 11.0/s | top theme: career_productivity=538 | top register: creator_promo=611 | errors: 0 parse_fail: 95 | ETA: 5.5m
+    [1600/5183] 11.0/s | top theme: career_productivity=539 | top register: creator_promo=620 | errors: 0 parse_fail: 97 | ETA: 5.4m
+    [1650/5183] 11.1/s | top theme: career_productivity=542 | top register: creator_promo=629 | errors: 0 parse_fail: 98 | ETA: 5.3m
+    [1700/5183] 11.1/s | top theme: career_productivity=542 | top register: creator_promo=637 | errors: 0 parse_fail: 98 | ETA: 5.3m
+    [1750/5183] 11.1/s | top theme: career_productivity=542 | top register: creator_promo=646 | errors: 0 parse_fail: 99 | ETA: 5.2m
+    [1800/5183] 11.1/s | top theme: career_productivity=542 | top register: creator_promo=664 | errors: 0 parse_fail: 100 | ETA: 5.1m
+    [1850/5183] 11.1/s | top theme: career_productivity=549 | top register: creator_promo=678 | errors: 0 parse_fail: 102 | ETA: 5.0m
+    [1900/5183] 11.1/s | top theme: career_productivity=557 | top register: creator_promo=687 | errors: 0 parse_fail: 107 | ETA: 4.9m
+    [1950/5183] 11.1/s | top theme: career_productivity=557 | top register: creator_promo=699 | errors: 0 parse_fail: 109 | ETA: 4.9m
+    [2000/5183] 11.1/s | top theme: career_productivity=583 | top register: creator_promo=720 | errors: 0 parse_fail: 114 | ETA: 4.8m
+    [2050/5183] 11.1/s | top theme: career_productivity=618 | top register: creator_promo=751 | errors: 0 parse_fail: 125 | ETA: 4.7m
+    [2100/5183] 11.2/s | top theme: career_productivity=648 | top register: creator_promo=773 | errors: 0 parse_fail: 131 | ETA: 4.6m
+    [2150/5183] 11.2/s | top theme: career_productivity=675 | top register: creator_promo=794 | errors: 0 parse_fail: 140 | ETA: 4.5m
+    [2200/5183] 11.2/s | top theme: career_productivity=698 | top register: creator_promo=824 | errors: 0 parse_fail: 149 | ETA: 4.4m
+    [2250/5183] 11.2/s | top theme: career_productivity=722 | top register: creator_promo=856 | errors: 0 parse_fail: 151 | ETA: 4.4m
+    [2300/5183] 11.2/s | top theme: career_productivity=750 | top register: creator_promo=875 | errors: 0 parse_fail: 152 | ETA: 4.3m
+    [2350/5183] 11.2/s | top theme: career_productivity=780 | top register: creator_promo=895 | errors: 0 parse_fail: 155 | ETA: 4.2m
+    [2400/5183] 11.2/s | top theme: career_productivity=796 | top register: creator_promo=919 | errors: 0 parse_fail: 162 | ETA: 4.1m
+    [2450/5183] 11.2/s | top theme: career_productivity=806 | top register: creator_promo=941 | errors: 0 parse_fail: 178 | ETA: 4.1m
+    [2500/5183] 11.2/s | top theme: career_productivity=818 | top register: creator_promo=958 | errors: 0 parse_fail: 196 | ETA: 4.0m
+    [2550/5183] 11.2/s | top theme: career_productivity=823 | top register: creator_promo=966 | errors: 0 parse_fail: 201 | ETA: 3.9m
+    [2600/5183] 11.2/s | top theme: career_productivity=825 | top register: creator_promo=974 | errors: 0 parse_fail: 202 | ETA: 3.8m
+    [2650/5183] 11.2/s | top theme: career_productivity=831 | top register: creator_promo=983 | errors: 0 parse_fail: 204 | ETA: 3.8m
+    [2700/5183] 11.2/s | top theme: career_productivity=836 | top register: creator_promo=999 | errors: 0 parse_fail: 210 | ETA: 3.7m
+    [2750/5183] 11.1/s | top theme: career_productivity=843 | top register: creator_promo=1013 | errors: 0 parse_fail: 218 | ETA: 3.6m
+    [2800/5183] 11.1/s | top theme: career_productivity=848 | top register: creator_promo=1033 | errors: 0 parse_fail: 231 | ETA: 3.6m
+    [2850/5183] 11.1/s | top theme: career_productivity=854 | top register: creator_promo=1048 | errors: 0 parse_fail: 232 | ETA: 3.5m
+    [2900/5183] 11.1/s | top theme: career_productivity=857 | top register: creator_promo=1054 | errors: 0 parse_fail: 234 | ETA: 3.4m
+    [2950/5183] 11.1/s | top theme: career_productivity=881 | top register: creator_promo=1058 | errors: 0 parse_fail: 236 | ETA: 3.4m
+    [3000/5183] 10.9/s | top theme: career_productivity=930 | top register: creator_promo=1077 | errors: 0 parse_fail: 237 | ETA: 3.3m
+    [3050/5183] 10.8/s | top theme: career_productivity=978 | top register: creator_promo=1093 | errors: 0 parse_fail: 238 | ETA: 3.3m
+    [3100/5183] 10.8/s | top theme: career_productivity=985 | top register: genuine_sentiment=1101 | errors: 0 parse_fail: 239 | ETA: 3.2m
+    [3150/5183] 10.7/s | top theme: career_productivity=987 | top register: genuine_sentiment=1107 | errors: 0 parse_fail: 240 | ETA: 3.2m
+    [3200/5183] 10.6/s | top theme: career_productivity=988 | top register: genuine_sentiment=1119 | errors: 0 parse_fail: 242 | ETA: 3.1m
+    [3250/5183] 10.5/s | top theme: career_productivity=1014 | top register: creator_promo=1141 | errors: 0 parse_fail: 245 | ETA: 3.1m
+    [3300/5183] 10.2/s | top theme: career_productivity=1053 | top register: creator_promo=1178 | errors: 0 parse_fail: 248 | ETA: 3.1m
+    [3350/5183] 9.9/s | top theme: career_productivity=1064 | top register: creator_promo=1189 | errors: 0 parse_fail: 250 | ETA: 3.1m
+    [3400/5183] 9.8/s | top theme: career_productivity=1065 | top register: creator_promo=1191 | errors: 0 parse_fail: 250 | ETA: 3.0m
+    [3450/5183] 9.6/s | top theme: career_productivity=1065 | top register: creator_promo=1194 | errors: 0 parse_fail: 250 | ETA: 3.0m
+    [3500/5183] 9.4/s | top theme: career_productivity=1065 | top register: creator_promo=1201 | errors: 0 parse_fail: 251 | ETA: 3.0m
+    [3550/5183] 9.2/s | top theme: career_productivity=1065 | top register: genuine_sentiment=1217 | errors: 0 parse_fail: 252 | ETA: 2.9m
+    [3600/5183] 9.0/s | top theme: career_productivity=1065 | top register: genuine_sentiment=1233 | errors: 0 parse_fail: 254 | ETA: 2.9m
+    [3650/5183] 8.9/s | top theme: career_productivity=1065 | top register: genuine_sentiment=1245 | errors: 0 parse_fail: 257 | ETA: 2.9m
+    [3700/5183] 8.7/s | top theme: career_productivity=1065 | top register: genuine_sentiment=1251 | errors: 0 parse_fail: 262 | ETA: 2.8m
+    [3750/5183] 8.5/s | top theme: career_productivity=1065 | top register: genuine_sentiment=1255 | errors: 0 parse_fail: 265 | ETA: 2.8m
+    [3800/5183] 8.3/s | top theme: career_productivity=1065 | top register: genuine_sentiment=1258 | errors: 0 parse_fail: 265 | ETA: 2.8m
+    [3850/5183] 8.2/s | top theme: career_productivity=1067 | top register: genuine_sentiment=1260 | errors: 0 parse_fail: 266 | ETA: 2.7m
+    [3900/5183] 8.1/s | top theme: career_productivity=1070 | top register: genuine_sentiment=1266 | errors: 0 parse_fail: 272 | ETA: 2.6m
+    [3950/5183] 8.0/s | top theme: career_productivity=1075 | top register: genuine_sentiment=1294 | errors: 0 parse_fail: 275 | ETA: 2.6m
+    [4000/5183] 7.9/s | top theme: career_productivity=1075 | top register: genuine_sentiment=1323 | errors: 0 parse_fail: 277 | ETA: 2.5m
+    [4050/5183] 7.7/s | top theme: career_productivity=1077 | top register: genuine_sentiment=1345 | errors: 0 parse_fail: 281 | ETA: 2.5m
+    [4100/5183] 7.4/s | top theme: career_productivity=1085 | top register: genuine_sentiment=1358 | errors: 0 parse_fail: 284 | ETA: 2.5m
+    [4150/5183] 7.0/s | top theme: career_productivity=1093 | top register: genuine_sentiment=1373 | errors: 0 parse_fail: 293 | ETA: 2.4m
+    [4200/5183] 6.9/s | top theme: career_productivity=1113 | top register: genuine_sentiment=1397 | errors: 0 parse_fail: 298 | ETA: 2.4m
+    [4250/5183] 6.8/s | top theme: career_productivity=1127 | top register: genuine_sentiment=1417 | errors: 0 parse_fail: 299 | ETA: 2.3m
+    [4300/5183] 6.7/s | top theme: career_productivity=1131 | top register: genuine_sentiment=1437 | errors: 0 parse_fail: 301 | ETA: 2.2m
+    [4350/5183] 6.6/s | top theme: career_productivity=1134 | top register: genuine_sentiment=1443 | errors: 0 parse_fail: 301 | ETA: 2.1m
+    [4400/5183] 6.6/s | top theme: career_productivity=1134 | top register: genuine_sentiment=1449 | errors: 0 parse_fail: 302 | ETA: 2.0m
+    [4450/5183] 6.5/s | top theme: career_productivity=1134 | top register: genuine_sentiment=1450 | errors: 0 parse_fail: 303 | ETA: 1.9m
+    [4500/5183] 6.5/s | top theme: career_productivity=1135 | top register: genuine_sentiment=1451 | errors: 0 parse_fail: 303 | ETA: 1.8m
+    [4550/5183] 6.4/s | top theme: career_productivity=1135 | top register: genuine_sentiment=1452 | errors: 0 parse_fail: 303 | ETA: 1.6m
+    [4600/5183] 6.3/s | top theme: career_productivity=1135 | top register: genuine_sentiment=1456 | errors: 0 parse_fail: 306 | ETA: 1.5m
+    [4650/5183] 6.3/s | top theme: career_productivity=1135 | top register: genuine_sentiment=1458 | errors: 0 parse_fail: 309 | ETA: 1.4m
+    [4700/5183] 6.2/s | top theme: career_productivity=1135 | top register: genuine_sentiment=1459 | errors: 0 parse_fail: 311 | ETA: 1.3m
+    [4750/5183] 6.1/s | top theme: career_productivity=1140 | top register: genuine_sentiment=1472 | errors: 0 parse_fail: 314 | ETA: 1.2m
+    [4800/5183] 6.1/s | top theme: career_productivity=1155 | top register: genuine_sentiment=1505 | errors: 0 parse_fail: 316 | ETA: 1.0m
+    [4850/5183] 6.1/s | top theme: career_productivity=1162 | top register: genuine_sentiment=1522 | errors: 0 parse_fail: 331 | ETA: 0.9m
+    [4900/5183] 6.0/s | top theme: career_productivity=1175 | top register: genuine_sentiment=1531 | errors: 0 parse_fail: 340 | ETA: 0.8m
+    [4950/5183] 6.0/s | top theme: career_productivity=1186 | top register: genuine_sentiment=1541 | errors: 0 parse_fail: 346 | ETA: 0.6m
+    [5000/5183] 6.0/s | top theme: career_productivity=1187 | top register: genuine_sentiment=1552 | errors: 0 parse_fail: 348 | ETA: 0.5m
+    [5050/5183] 6.0/s | top theme: career_productivity=1195 | top register: genuine_sentiment=1561 | errors: 0 parse_fail: 349 | ETA: 0.4m
+    [5100/5183] 6.0/s | top theme: career_productivity=1211 | top register: genuine_sentiment=1571 | errors: 0 parse_fail: 356 | ETA: 0.2m
+    [5150/5183] 6.1/s | top theme: career_productivity=1212 | top register: genuine_sentiment=1601 | errors: 0 parse_fail: 356 | ETA: 0.1m
+    [5183/5183] 6.1/s | top theme: career_productivity=1214 | top register: genuine_sentiment=1626 | errors: 0 parse_fail: 356 | ETA: 0.0m
+
+  Done in 14m 13s. API: 5183, errors: 0, parse_fail: 356
+
+Writing classified CSV to C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_positive_classified.csv...
+
+=== THEME DISTRIBUTION ===
+  career_productivity         1214 ( 23.4%)
+  creative_tool                969 ( 18.7%)
+  synthetic_media_play         901 ( 17.4%)
+  companion_affective          575 ( 11.1%)
+  education_learning           460 (  8.9%)
+  general_hype                 397 (  7.7%)
+  unknown                      356 (  6.9%)
+  model_stan                   281 (  5.4%)
+  breakthrough_science          35 (  0.7%)
+
+=== REGISTER DISTRIBUTION ===
+  genuine_sentiment           1626 ( 31.3%)
+  creator_promo               1561 ( 30.1%)
+  creative_showcase           1328 ( 25.6%)
+  unknown                      357 (  6.9%)
+  news_explainer               158 (  3.0%)
+  brand_official               158 (  3.0%)

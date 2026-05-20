@@ -1,0 +1,1039 @@
+=== ID: Vec0V0XF1vU ===
+TITLE: [AI AND ITS ENVIRONMENTAL FOOTPRINT] Seminar with Samuel RINCE
+DESC: Today we would like to give you a sneak preview of the seminar recently led by Samuel RINCE from Boavizta. Boavizta is a non-profit organization that provides data sets, tools and methodologies to help companies in the technology and information sectors reduce their carbon footprint.  This seminar focuses on the environmental footprint of AI and Deep Learning, and presents ways of reducing their impact on our planet.  Many thanks to Samuel RINCE for his contribution.  Want to learn more about ou
+KEYWORD: AI carbon footprint
+VIEWS: 88
+TRANSCRIPT: thank you for inviting me as well and thank you all for coming here um as venon said uh we're going to talk about uh environmental uh footprint of AI and impacts with a s because there are multiple impacts indeed and um I will focus I mean it's not only AI will focus on deep learning which is um maybe the the focus of today and um the and the what data scientists do today it's mostly deep learning so focus on that and some and we'll discover how to um assess environmental impacts and how to reduce them least some strategies to do it I'm Samuel Rin um I'm an open source contributor at bav Vista which is a nonprofit um focusing on uh making available uh available mean open source license to um data sets methodologies and tools uh for organizations to monitor track and evaluate their impact environmental impact of their it infrastructures so it's it's not focused on AI it's very the the old scope of ICT information communication and Technology I'm also um my daily job is uh being a data scientist at align where we um we discover and uh expose um values and opinions about companies um saying identifying if they are pro or against some topics like deforestation child labor corruption things like that and we do that thanks to Ai and NLP and not so long ago I was also um in the engineering curses of Central Central and um so not so long ago I was in this seat too um and just to give a bit of context uh of the presentation hope you've already seen this graph before um it's from the i
+[...middle cut...]
+nd finally uh if you're interested in all the subjects I have covered um you can uh upli to join it's not not application you can just fill fill a a form and uh you will be happy to to to integrate you in the ml working group of bav Vista uh with still very few working on that as I said boavista is a a nonprofit that works to make Commons um so open- Source license on data sets methodologies and tools um and there is a ml ml section where we focus on ml impacts in um in priority well thank you for your attention um you can contact me uh with with my email Samuel at.me if you have questions or if you want to talk about B sta for instance or anything else and be glad to to answer you thank you
+
+=== ID: YvfUXW4AVJs ===
+TITLE: “Can AI Stop Climate Change? The Reality Is Scary…”
+DESC: What if the technology we created to save the planet… isn’t enough?  In this final part of the series, we explore the truth about artificial intelligence and climate change — beyond the hype, beyond the promises.  AI is already transforming energy systems, predicting disasters, and optimizing global resources. But it also comes with serious risks, limitations, and ethical challenges.  🌍 In this video, you’ll discover:  The real limits of AI in solving climate change The hidden risks of relying o
+KEYWORD: AI carbon footprint
+VIEWS: 11
+TRANSCRIPT: Right now, the planet is changing not slowly, not naturally, but faster than at any point in human history. Ice is melting. Oceans are rising. Forests are burning. And the question is no longer if climate change is real. It's whether we can stop it before it's too late. But what if the solution isn't human? What if the answer is artificial intelligence? For decades, scientists have warned us. We've measured the data, tracked the temperatures, watched the patterns shift, and yet emissions keep rising. Because climate change isn't just a science problem. It's a human problem. Economics, politics, behavior, all tangled together. And that's where things get complicated. Because solving climate change doesn't just mean understanding it. It means changing everything. To understand the crisis, we need to understand its scale. Every year, humanity releases over 35 billion tons of carbon dioxide into the atmosphere from cars, from factories, from electricity, from the way we build cities, the way we grow food, the way we live. This invisible gas traps heat and slowly, relentlessly warms the entire planet. Earth has always had natural climate cycles. But what's happening now is different. Temperatures are rising faster than ecosystems can adapt. Glaciers that took thousands of years to form are disappearing in decades. Storms are becoming stronger, droughts longer, and heat waves more deadly. Climate change isn't one problem. It's a chain reaction. melting ice to rising seas, rising se
+[...middle cut...]
+ don't, it accelerates failure. Imagine a world where energy is fully optimized, emissions are tracked globally, systems are efficient, decisions are datadriven. AI could help build that world. But if misused, AI could increase inequality, consume more energy, delay real action. The future does not depend on AI alone. It depends on how we use it. Because technology does not choose direction. Humans do. We created the problem. We created the tool. Now we must choose the outcome. AI can guide us, support us, empower us, but it cannot save us unless we choose to save ourselves. If this changed how you see the future, subscribe to Science in Silence because the biggest questions are still ahead.
+
+=== ID: YSjJeIhtF38 ===
+TITLE: Panel #1 Ethics and Responsibility in Al
+DESC: AI is poised to transform education and society, but at what cost? How do we prepare students, educators, and communities to engage with AI ethically and critically, not just efficiently? This panel explores tensions of the AI age as they intersect with higher education, including academic integrity, bias, privacy, intellectual ownership, environmental impact, and the widening digital divide. Speakers will bring perspectives from education, philosophy, law and policy, computer science, and stude
+KEYWORD: AI carbon footprint
+VIEWS: 3
+TRANSCRIPT: [INSTRUMENTAL WALK-ON MUSIC] Welcome panelists. Let me
+introduce everyone first. Let me go from the far end. We have Ryan Jenkins. He is a professor
+of philosophy and Associate Director
+of the Ethics and Emerging Sciences
+Group at Cal Poly. His work examines
+the ethical impacts of emerging technologies, including AI on human
+values and social life. Then we have Giselle. Giselle Cortez is a
+mathematics student at Cal State Fullerton, who works on AI powered tools to support student
+career readiness. She brings a student
+perspective on bias, equity, and responsible AI design
+in education technologies. Next, we have Tricia
+Bertram Gallant. She's the director of
+Academic Integrity Office at Triton Testing Center at UC San Diego and a
+leading expert on academic integrity in
+ethics in higher education. Her work focuses on
+how institutions can rethink integrity, learning, and assessment in the age of
+generative AI. Julia Powles. Julia Powles is a
+professor of law, Executive Director of UCLA's
+Institute of Technology, Law and Policy and tech
+policy lead at UCLA Data X. Her research focuses on AI governance, privacy,
+intellectual property, and the legal and
+political challenges of data informed technologies. Last but not least, Shaolei Ren. Shaolei is an
+Associate Professor of Electrical and Computer
+Engineering at UC Riverside. His research explores
+the environmental, societal and public health
+impacts of AI systems, including their energy
+and resource usage. Please welcome my panel.
+[...middle cut...]
+o not
+always use the systems. Just as a final thought, we are often thinking of what is going to
+happen in the future. It's not here yet. For example, software engineers
+are going to be gone. Yet now we're finding that the software engineers
+are spending twice as much time
+correcting what the AI has started
+at the low level. The next level has to spend
+twice as much time as they used to spend correcting. Perhaps things are
+not as they seem. As you carry on, considering
+these ethical questions, do keep in mind that what you
+hear coming at you is not necessarily what is going to
+happen or the truth, even. And, that is our time. Please thank our panelists.  [APPLAUSE] [OUTRO INSTRUMENTAL MUSIC]
+
+=== ID: KnGoCKDZBfc ===
+TITLE: Helping data centres go green by tackling carbon emissions
+DESC: As the world's digital demands grow with the explosion of artificial intelligence (AI) and other advanced technology, the need for places to store data also increases. Discussions about reducing greenhouse emissions often focus on sectors such as manufacturing, agriculture, and transport. However, the carbon footprint of data centres are also significant. CNA's Elakeyaa Selvaraji looks at the efforts underway to try to green this crucial part of our modern world.  Subscribe to our channel here: 
+KEYWORD: AI carbon footprint
+VIEWS: 10754
+TRANSCRIPT: [Music] streams of emails and text messages non-stop online shopping and that infinite scroll on social media plus the explosion of AI and other Advanced Tech our digital demands just keep growing and along with them the need for places to store all that data so where does it all go well these days into the cloud but the cloud isn't up there in the sky it's actually down here on Earth taking the form of data centers essentially buildings stuffed with service but with more data and more data centers we need more and more power and that ends up translating into more greenhouse gas emissions data centers consume between 200 and 400 tratt hours of electricity globally every year as much as some countries with about 40% of that burnt on cooling estimates vary on carbon emissions from more than 1% to up to 5% of the global total roughly in line with the aviation industry data centers also use vast amounts of water for cooling and create noise pollution the true impact though is hard to gauge the collection and um reporting of suity related data and the calculation of related metrix especially at best many operators struggle to meet emerging sustainability of reporting requirements along with the requirements of some customers and the public most of the data centers of the world are not um these giant uh big Tech kind of data centers that you see in in uh many films and so forth they're actually smaller in scale they don't have resources they're not as high-tech or sophisticated and
+[...middle cut...]
+in transport we can't live without Planes Trains and Automobiles and so we need cleaner options it's not that we don't need the cloud we do we need the cloud every day and it's undeniable how important data centers are for day-to-day life and that's indisputable and the expansion does not look like it's uh going to um in any way have a downturn in the next few years we have to be we have to raise awareness the public needs more awareness more awareness about something that's going to be hard to ignore the backbone of our increasingly digital world but one that more and more people feel must join other sectors on the road to sustainability as we work to ensure our own Survival ilak saraji CNA
+
+=== ID: i_oKIo9SKcI ===
+TITLE: AI, with its huge carbon and water footprint, is not a sustainable technology. Can we fix this?
+DESC: AI, with its huge carbon and water footprint, is not a sustainable technology today. Can we fix this? Dr Sasha Luccioni of Hugging Face and Chris Starkey, CEO of NextGen Cloud, discuss on BBC News AI: Decoded on 9 May 2024.
+KEYWORD: AI carbon footprint
+VIEWS: 762
+TRANSCRIPT: we're 
+ number 
+ and 
+ energy 
+ climate 
+ advance 
+ lead 
+ carbon 
+ sustainability 
+ AI 
+ of 
+ amounts 
+ query 
+ to 
+ climate 
+ hugging 
+ us 
+ much 
+ to 
+ consuming 
+ country 
+ the 
+ existential 
+ another 
+ exponential 
+ solve 
+ the 
+ regular 
+ the 
+ Tech 
+ when 
+ there 
+ there's 
+ metals 
+ data 
+ don't 
+ that 
+ specifically 
+ models 
+ they're 
+ seen 
+ that 
+ shown 
+ models 
+ in 
+ consume 
+ if 
+ non-renewable 
+ you 
+ missions 
+ that 
+ generative 
+ models 
+ chat 
+ models 
+ amount 
+ we 
+ video 
+ to 
+ because 
+ that's 
+ petrol 
+ just 
+ one 
+ that 
+ 2,290 
+ going 
+ that's 
+ they 
+ to 
+ what 
+ really 
+ show 
+ little 
+ just 
+ of 
+ this 
+ now 
+ Images 
+ particular 
+ half 
+ today 
+ just 
+ find 
+ there 
+ just 
+ and 
+ phone 
+ and 
+ some 
+ Zuckerberg 
+ is 
+ bottleneck 
+ activists 
+ so 
+ Sasha 
+ let's 
+ the 
+ face 
+ spent 
+ storage 
+ this 
+ consumption 
+ program 
+ before 
+ could 
+ an 
+ that 
+ expensive 
+ so 
+ 18.3 
+ that 
+ the 
+ year 
+ 29.3 
+ now 
+ small 
+ don't 
+ governments 
+ problem 
+ really 
+ typical 
+ transportation 
+ all 
+ anything 
+ and 
+ know 
+ you 
+ you 
+ the 
+ cracks 
+ in 
+ models 
+ actually 
+ means 
+ the 
+ environment 
+ have 
+ usages 
+ in 
+ to 
+ recent 
+ training 
+ definitely 
+ that's 
+ actually 
+ and 
+ 200 
+ the 
+ so 
+ chat 
+ million 
+ of 
+ energy 
+ all 
+ people 
+ story 
+ Microsoft 
+ hundred 
+ super 
+ it's 
+ say 
+ stations 
+ because 
+ chat 
+ talked 
+ that's 
+ we're 
+ Energy 
+ where 
+ biggest 
+ the 
+ investment 
+ problem 
+ tech 
+ nuclear 
+ energy 
+ things 
+ decarbonizing 
+ cur
+[...middle cut...]
+ase 
+ density 
+ great 
+ Centers 
+ centers 
+ huge 
+ energy 
+ to 
+ calling 
+ common 
+ keen 
+ testing 
+ one 
+ called 
+ um 
+ efficiency 
+ as 
+ we're 
+ amount 
+ feet 
+ each 
+ just 
+ pressed 
+ a 
+ you 
+ pardon 
+ because 
+ own 
+ that's 
+ cloud 
+ energy 
+ to 
+ concerned 
+ me 
+ first 
+ slipping 
+ comes 
+ carbon 
+ one 
+ another 
+ example 
+ providers 
+ running 
+ streaming 
+ hard 
+ this 
+ okay 
+ don't 
+ uh 
+ for 
+ yeah 
+ they're 
+ think 
+ will 
+ absolutely 
+ infrastructure 
+ provide 
+ at 
+ seeing 
+ to 
+ absolutely 
+ everyone 
+ for 
+ able 
+ here 
+ was 
+ every 
+ also 
+ thinking 
+ you 
+ conferences 
+ people 
+ and 
+ footprint 
+ never 
+ generating 
+ it's 
+ for 
+ energy 
+ demands 
+ that 
+ Chris 
+ being 
+ soon
+
+=== ID: uo8cuwd0GlA ===
+TITLE: Google's carbon footprint soars with AI expansion #google #GoogleAI #ClimateImpact #CarbonFootprint
+DESC: Google's carbon footprint soars with AI expansion.
+KEYWORD: AI carbon footprint
+VIEWS: 8
+TRANSCRIPT: Google's latest environmental report reveals a significant rise in its greenhouse gas emissions complicating its goal to cut emissions by half by 2030 since 2019 Google's emissions have surged by 48% hitting 14.3 million metric tons of CO2 in 2023 this spike is mainly due to energy hungry data centers especially those used for AI which saw a 177% rise in electricity consumption last year as Google integrates AI into more products it faces increased energy demands making emission reductions tougher the company plans to enhance Energy Efficiency and aims to use carbon-free energy by 2030 however the booming AI industry could significantly increase Global electricity consumption straining power grids and prolonging the use of fossil fuels Microsoft faces similar challenges with a 30% emission increase from 2020 to 2023 due to its AI efforts
+
+=== ID: fIxwMX725vU ===
+TITLE: The Carbon Footprint of Our Prompts
+DESC: From Ghibli-style dreamscapes to AI-generated action figures of ourselves, we’re entering a new era where anyone can be an artist, a designer, or even a superhero with just a prompt.  This creative revolution is exciting. As someone who works in AI every day, I see how it opens doors, unlocks voices, and accelerates possibility. But there's another side to this story one we rarely talk about.  🧠 Every time we generate an image, animate a scene, or prompt a chatbot, we’re not just ‘using AI’… we’
+KEYWORD: AI carbon footprint
+VIEWS: 13
+TRANSCRIPT: Lately, LinkedIn has been flooded with AI generated action figures. Versions of ourselves, everyone from CEOs to students has become a superhero in their own AI fantasy. It's fun, it's clever, and it was viral. Not long before that, we had the dreamy Gibly style trend. Beautiful, nostalgic, and again widely popular. But behind these images, behind the likes, the shares, the dopamine hits, something less visible was happening. Open AAI CEO Sam Alman made a striking comment during that Gibli style trend that GPUs powering these AI generated images were melting under the demand. That's not a metaphor for popularity. That's a warning about the energy consumption. While these trends feel light and playful, they are powered by something heavy. Immense computational energy. I stand here today as someone who deeply believes in the power of artificial intelligence. It's part of my work, my passion, and my purpose to make technology inclusive, creative, and accessible. But I also believe we need to talk about what powers this creativity and at what cost. But this isn't a guilty trip. This is a call to awareness because we are not powerless. We are users and more importantly we are choosers. So what can we do? First choose thoughtfully. Not every image or animation need to be generated on a whim. Let's create with purpose, not just impulse. Secondly, support smarter AI. Seek out and support platform that prioritize energy efficient models. Green AI isn't just possible, it's happening. Thirdly, talk about it. Share the knowledge. The more people understand the environmental cost of digital creativity, the more demand there will be for sustainable innovation. We are living in a moment of incredible possibility where creativity, technology, and sustainability can work hand in hand. Let's not trade magic for recklessness. Let's use AI not just to make the world more beautiful but to keep it liveable too because the future isn't only what we imagine it's what we power. Thank you.
+
+=== ID: yNkUsJx4g7k ===
+TITLE: Panel. Decarbonising Data — AI's energy footprint
+DESC: Artificial intelligence is voracious in its appetite for power, turning decarbonisation into a challenge that spans the entire stack. As AI infrastructure scales, progress will hinge on coordination across cloud providers, chipmakers, utilities and city authorities. That means everything from reusing waste heat from data centres and extending the working lives of GPUs, to squeezing efficiency gains from software, hardware and day-to-day operations. The question is whether such systems-level thin
+KEYWORD: AI carbon footprint
+VIEWS: 48
+TRANSCRIPT: Fantastic. As I say, uh a very exciting topic, but maybe one that's a little obscure for those of you who don't follow uh electricity markets. And so I'm going to start off maybe uh with you, Steve. Um can you tell us um first of all when you think about uh this big question that everyone's dealing with that is uh these hyperscaled data centers that are turning up uh that have created a political uproar in Ireland. I was just in Dublin where there's been a backlash. I was in Virginia. Uh people who've been in this room know uh a few days ago because there's a story that I've written that's going to be published later today in the economist on this topic. Uh where people are looking at these data centers and saying that you're the reason we're having price inflation that you know the this is creating a major crisis. President Trump and the State of the Union made a reference to this and tomorrow is marshalling the big tech bosses at the White House uh to get them to sign a voluntary pledge on this topic uh that they won't force granny to pay for prices for their data centers which are um according to a a recent report from Goldman Sachs going out of control. you know that if you if you were to believe the report that AI related electricity demand is going to be a dominant driver of price inflation and even pass through into uh macroeconomic inflation and national inflation. Um, so I I'm a little skeptical about this, so I poked around. Uh, but let's hear from from you here bec
+[...middle cut...]
+of flexibility does someone have a quick answer because we're just about to run out of time uh on uh the set of issues we're discussing flexibility maybe Steve since you were the host for this uh experiment. What's the payback for you? The payback is for our customers which as I said it's it's a fixed cost network and and it's lower unit costs for everyone if we can find ways of getting these loads on you know flexibly that that's it. So that's that's the numerator denominator problem. Exactly right. Okay. Very good. All right. So we're going to leave it there. Uh please thank my panelists. Go check out uh their stuff and make up your own mind about chunky peanut butter. Thank you very much.
+
+=== ID: h6GSGYMjunI ===
+TITLE: The Hidden Cost of AI (Conversations whit AI Episode 1)
+DESC: The Ecological Cost of Artificial Intelligence This source presents a scripted dialogue between a curious user and an AI, examining the environmental impact of modern computing. The conversation debunks the sensationalist claim that a single prompt consumes six liters of water, clarifying that the actual figure is closer to a few milliliters. Beyond water usage, the text explores the carbon footprint of data centers and the technical challenges of using seawater for cooling. It evaluates future 
+KEYWORD: AI carbon footprint
+VIEWS: 4
+TRANSCRIPT: You know, we're all pretty obsessed with what AI can do, but today, let's ask a different question. What does it all cost? And I'm not talking about money. I'm talking about resources. We're about to dive into the surprisingly huge environmental footprint of the tech that is literally changing our world. So, you've probably seen this floating around online, right? It's dramatic. It's shocking. And it's definitely designed to make you stop and think. Six whole lers of water, poof, gone, just for asking one simple question. But is that what's really happening? Let's find out. All right, so we're going to break this whole thing down. We're going to separate the viral story from what the science actually says. Because, you know, while the concern here is totally valid, the numbers we've been hearing, they're kind of way off. Okay, this is where you can really see the difference. On one side, you've got this wild myth of AI guzzling six lers for every single query. But the reality, well, researchers have found it's more like half a liter for an entire conversation of say 20 to 50 questions. And that whole underwater servers thing, that was just one single experiment by Microsoft. Almost all AI servers, like 99% of them, are firmly on dry land. So, what does that actually break down to? Well, per query, we're talking about something like 10 to 25 ml of water. That's like a tiny sip. It's not a giant bottle. So, yeah, the viral claim is a massive exaggeration. But, and this is a big
+[...middle cut...]
+t all with a complex system of vents that creates natural air conditioning. Now, just imagine a data center built on that same principle. a self-cooling building that works in harmony with its environment with no need for water and hardly any extra energy. And that really leaves us with this final fascinating question to think about as we're building the future. What's the smarter path? Should we be engineering our technology to work with the natural world, adapting to its cycles and its systems? Or should our goal be to build completely self-contained systems totally walled off from nature? The answer to that is going to define not just the future of AI, but really the future of our planet.
+
+=== ID: svmOd0Ej4VE ===
+TITLE: AI Meets World: GDPR, the AI Job Apocalypse, and AI’s Carbon Footprint
+DESC: When we release our AI into the world, its impact extends far beyond the business and tech we’re working on. On this episode, we’re diving into the consequences of AI on consumers, housing, and the environment through the lens of GDPR, the supposed “AI job apocalypse” and some controversial takes on models’ carbon emissions.  Learn more about the articles referenced in this episode below:   How is the GDPR Doing? By Josephine Wolff [Slate] https://slate.com/technology/2019/03/gdpr-one-year-anniv
+KEYWORD: AI carbon footprint
+VIEWS: 3
+TRANSCRIPT: [Music] this is the banana data podcast a podcast hosted by data aiku i'm trevaney and i'm will and we'll be taking you through the latest and greatest in data science without taking ourselves too seriously this week we're taking a look at ai's impact on the world outside of tech with the retrospective on gdpr's first year the so-called ai job apocalypse and the environmental impact of our models so the first article i wanted to discuss comes from slate and this was actually from a couple months back but a couple months back was significant because that was the one year anniversary of gdpr and so this article is called how is gdpr doing so basically taking stock of the state of data data privacy uh in europe and abroad i'm in looking at gdpr and kind of the status quo are you familiar with gdpr i mean i'm familiar with it as a principle but the exact sort of requirements i'm not yeah i think that you're not alone in that uh but so again i think we've discussed this a little bit here and there on the program previously gdpr stands for general data protection regulation and so this instituted uh roughly a year ago in 2018 by the european union and so the whole point of the general data protection regulation was to protect consumers in europe from data privacy breaches and from inappropriate uses of personal data and so the article talks about how it's doing and it's probably not surprising to you but it's kind of a mixed bag some things that are good are the gdpr mandated a mor
+[...middle cut...]
+his plantation that is managed by the icelandic agricultural university is only 122 miles or just under 200 kilometers from the arctic circle and they actually produce about 5000 pounds of bananas a year but unfortunately those bananas are not for sale and they're in fact eaten by the staff faculty and students of the university that's all we've got for today in the world of banana data we'll be back with another podcast in two weeks but in the meantime subscribe to the banana data newsletter to read these articles and more like them we've got links for all the articles we discussed today in the show notes all right well uh it's been a pleasure training it's been great well see you next time
+
+=== ID: Kwl3XcuXk-g ===
+TITLE: Is generative AI bad for the environment? , the carbon footprint of ChatGPT
+DESC: While a single large AI model is not going to ruin the environment, if a thousand companies develop slightly different AI bots for different purposes, each used by millions of customers, the energy use could become an issue. More research is needed to make generative AI more efficient.
+KEYWORD: AI carbon footprint
+VIEWS: 22
+TRANSCRIPT: ever wondered how much energy it takes to power the artificial intelligence we use every day it's a question that's been stirring up considerable debate in the tech world as artificial intelligence or AI becomes increasingly woven into the fabric of our daily lives one aspect of AI that's been gaining a lot of attention is generative AI this technology is the driving force behind chatbots image generators and a whole host of other applications that we interact act with on a regular basis but as these AI models become more complex and Powerful they also require more energy and this is where the environmental concerns come in the truth is the more powerful the AI the more energy it consumes and as we rely more and more on these Technologies the energy demands they pose are expected to rise but just how much energy are we talking about well that's a bit of a mystery the exact carbon footprint of AI isn't easy to determine it depends on numerous factors such as the energy sources used and the efficiency of the data centers where these AI models are hosted and right now there isn't a clear-cut answer but what we do know is that the Global Tech sector which includes AI accounts for around 2 to 4% of greenhouse gas emissions that's a substantial amount and as AI continues to evolve and proliferate this figure could potentially increase but it's not all doom and gloom many in the tech industry are actively working towards making AI more efficient and environmentally friendly this inc
+[...middle cut...]
+reduced imagine running that tuned car on biofuel instead of gasoline it's the same Journey but even less environmental impact efforts are already underway to make AI more energy efficient and to power it with renewable energy tech companies are optimizing their data centers sourcing renewable energy and even purchasing carbon offsets but more can and should be done as we continue to harness the power of AI it's crucial to do so sustainably balancing the benefits with the environmental costs just as we cannot ignore the incredible potential of AI we cannot turn a blind eye to its environmental impact the future of AI must be a sustainable one for the sake of our planet and future Generations
+
+=== ID: eJYKrB8xprk ===
+TITLE: Is AI too power-hungry?
+DESC: Artificial intelligence is transforming daily life across Europe—but it’s also driving a surge in global electricity use. The International Energy Agency warns that AI-related energy consumption could double or even quadruple by 2030.  As the EU aims to cut carbon emissions by 50% in the same timeframe, is Europe ready for AI's environmental cost?  Chapters :  00:00 - 01:54 Why does AI need so much energy? 01:54 - 05:38 Microsoft gives us a tour of one of their future data centres in Finland 05:
+KEYWORD: AI carbon footprint
+VIEWS: 1881
+TRANSCRIPT: I bet you use AI on a weekly if not daily 
+basis. I know I do. In my everyday work as   a journalist I use it for things like 
+transcription or translation. But how   much is AI costing us? And do we have enough 
+power to feed what seems like a neverending   stream of new AI tools? We took a trip 
+across Europe's power grid to find out To start off our journey why not ask AI directly. So it seems that a lot of AI's energy use comes 
+from storing the data it needs to function,   and that data is kept in data centres, the 
+physical manifestation of everything we store   online. Or did you think the cloud was actually 
+a cloud? These behemoths require quite a bit of   energy to run. In 2023 data centres in Ireland 
+consumed as much energy in a year as all urban   households in the country. And with the explosion 
+of AI, especially generative AI, data centres   thirst for energy will only increase. According 
+to this International Energy Agency report data   centre energy consumption will more than double by 
+2030. And if we look at AI-optimised data centres,   in light blue, those might quadruple their 
+energy consumption in that same time frame.   Those are pretty staggering numbers considering 
+that 2030 is just 5 years from now. And you know   what else has to happen by then? Europe has 
+to cut its carbon emissions by 50% compared   to 1990 to achieve its goal of becoming climate 
+neutral by 2050. The block has been working on   curbing its energy consumption to decarbonise 
+
+[...middle cut...]
+we have enough for the speed at which AI is 
+developing? And what does this mean for our carbon   emissions? We asked the Shift Project, a 
+think tank specialised in decarbonising   the economy. And the timing couldn't be better 
+because they're currently working on a report   about what AI will mean for the climate 
+transition. Marlène is one of the authors. So ultimately it's really hard to say whether 
+AI is 100% good or bad for the planet.   It could contribute to things like 
+saving energy, managing waste,   or predicting floods. But at the same time it 
+can also be used for things like optimising   petrol extraction. Like many transformative 
+technologies it depends what it's used for.
+
+=== ID: eSSdSkDdUi8 ===
+TITLE: podcast What's the carbon footprint of using ChatGPT or Gemini? (Ritchie)
+DESC: podcast sur l'article "What's the carbon footprint of using ChatGPT or Gemini?" de Hannah Ritchie (2025)
+KEYWORD: AI carbon footprint
+VIEWS: 58
+TRANSCRIPT: Imaginons un peu la scène. On est dans sa cuisine, on tape frénétiquement recette de lasagne végétarienne sur son téléphone. Ouais. On appuie sur entrée et là pendant cette toute petite fraction de seconde à des milliers de kilomètres dans un immense centre de données ultra sécurisé, bah il y a de dizaines de serveurs surpuissants qui s'activent brusquement. Exactement. Tout un système se réveille. Voilà. Mais la question c'est combien d'énergie on vient réellement de consommer avec cette simple action ? C'est la grande question. Est-ce que c'est l'équivalent d'une petite ampoule qu'on allumerait un bref instant dans un couloir ou est-ce qu'on vient démarrer un énorme moteur de gros 44 qu'on laisserait tourner à vide pendant des heures ? Bah pendant très longtemps, l'industrie technologique a gardé ses chiffres bien sousclés. On aillé dans un brouillard total quoi. C'est clair. Mais notre exploration d'aujourd'hui s'appuie sur une source qui vient enfin dissiper ce flou. C'est l'article de recherche d'août 2025 de la chercheuse Anna Richi. Absolument. Elle décortique vraiment l'empreinte carbone et énergétique des requêtes d'intelligence artificielle, donc spécifiquement les modèles de pointe comme Chat GPT et Jimmy. Et le but ici c'est pas de faire un procès à la technologie hein, c'est juste de démystifier l'impact écologique réel au quotidien et de trier un peu les faits des mythes. Exactement. comprendre la réalité physique derrière ces outils invisibles. Bon, décortiquan
+[...middle cut...]
+e, de réunion incroyablement rapide et sans friction, on pourrait croire qu'on va gagner du temps libre. Exactement. On nous promet ça, mais si on suit le paradoxe, la société va simplement s'adapter et exiger de nous qu'on produise, qu'on lise et qu'on traite 10 fois plus de documents qu'avant. Ah oui, annulant complètement ce précieux temps libre. Est-ce que cette technologie va juste faire exploser nos propres cadences mentales et nos attentes de productivité ? C'est une excellente question et un vrai risque systémique. C'est vraiment quelque chose à méditer la prochaine fois que vous enfin que quelqu'un utilisera ces outils pour aller plus vite ? Absolument. Une belle piste de réflexion.
+
+=== ID: oILYkZjlUGA ===
+TITLE: Carbon footprint of AI models in different link
+DESC: Our project compares the carbon footprint of AI model training in local desktops versus cloud platforms (Kaggle) using 12 popular models. We found that lightweight models are greener locally, heavy models are greener on the cloud, and CodeCarbon is reliable for tracking emissions in student research.
+KEYWORD: AI carbon footprint
+VIEWS: 0
+TRANSCRIPT: going to share uh our project on carbon footprint comparison of AI models on different platform. This project was done for CC 407 and it focuses on issue that uh that that is becoming more and more important in computing sustainability and I'm and my teammates are Makata Shum and I would like to thank our faculty for this uh uh guideline for 9 week research guidance. Let me start with the introduction of our project. AI models such as B mobile net and efficient are now widely used in student project. But this project demand a lot of computing power which increases carbon dioxide emission. This is especially critical in a country like Bangladesh where electricity is mostly generated from fossil while even small project can add to the carbon footprint. What makes our project noble is that is that it is a first cross environment study on student level training in Bangladesh standardized data set and hyperparameters for fairness highlighted the difference between light and heavy models and tested the reliability of code carbon against smart plug readings which showed agreement within about 20%. in the now why does this matter in Bangladesh fusil heavy grid running the same AI workload produces far more carbon dioxide than the renewable rich countries instituted hair here increasingly relay on pre model yet they have uh no clear guidance on whether cloud or local setup are greener at the same time universities are under under uh pressure to reduce their carbon footprint they need 
+[...middle cut...]
+d that uh cloud training emitted about 22% less carbon dioxide than local training overall. But the real insight is about type of model. Lightweight model are greener on local desktop while heavy CNN are greener and faster in cloud. We also confirm that code carbon is reliable within 20% compared to smart plug make it practical tool for student. So our rule so our rule is thumb up is clear models in cloud and lightweight models in local. By following these rules, uh students, teachers and university can reduce emission, finish a project effectively and promote greener computing practice. And finally, the are the references that we use for our project. Thank you for your patience. That's all.
+
+=== ID: FtuTFQS1vYw ===
+TITLE: What's the carbon footprint of using ChatGPT or Gemini? (Ritchie)
+DESC: résumé de l'article "What's the carbon footprint of using ChatGPT or Gemini?" de Hannah Ritchie (2025)
+KEYWORD: AI carbon footprint
+VIEWS: 6
+TRANSCRIPT: Alors, c'est quoi l'empreinte carbone de chat GPT ? C'est la grande question. Non, pendant un temps, c'était un vrai mystère et puis c'est devenu une grosse inquiétude. Allez, on va regarder les chiffres de plus près. Bon, est-ce que notre utilisation de l'IA fait surchauffer la planète ? C'est un peu provoquant, c'est vrai, mais c'est une question essentielle. Faut bien se rendre compte que chaque fois qu'on tape une question dans un chatbot, hop, ça lance toute une série de calculs hyper complexes dans un data center qui se trouve, on ne sait où. Du coup, quel est l'impact de tout ça ? OK. Pour bien comprendre ce qui se passe aujourd'hui, il faut faire un petit retour en arrière parce que pendant très longtemps, ce coût énergétique de LIA, c'était une vraie boîte noire, un secret super bien gardé. Les grosses boîtes de la tech, elles n'ont pas été très bavardes sur leur console d'énergie, hein, pas du tout transparentes. Du coup, on était obligé de se baser sur des estimations un peu au doigts mouillés avec les quelques infos qu'on arrive à récupérer à droite à gauche. Et il y a à peu près un an, l'estimation qui revenait le plus souvent, la plus sérieuse, c'était ça. 9 wat par requête. Alors 9 Wat ça peut paraître beaucoup et ça l'était mais à l'époque ça semblait être une estimation assez juste. Ça a vraiment installé l'idée que ouais chaque fois qu'on parlait à Unia un coup un coût énergétique qui n'est pas rien. Sauf que et c'est là que ça devient intéressant la situati
+[...middle cut...]
+ce n'est plus le coût d'une seule requête, c'est l'explosion du nombre total de requêtes. Parce que si des milliards d'appareils de systèmes se mettent à utiliser LIA en permanence juste parce que ça ne coûte presque rien, alors là la demande globale en énergie, elle risque de monter en flèche. C'est ça la vraie question au final. Une requête c'est minuscule, d'accord ? Mais quel est le coût d'un billion de requête ? D'un trillion. On n'est plus sur un enjeu individuel là, on est sur un enjeu de système. Comment va-t-on gérer l'empreinte globale d'une technologie qui va être partout tout le temps ? C'est vraiment là-dessus que se joue tout l'avenir énergétique de l'intelligence artificielle.
+
+=== ID: wn2TwhGOGvI ===
+TITLE: How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference
+DESC: How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference  Nidhal Jegham, Marwan Abdelatti, Lassad Elmoubarki, Abdeltawab Hendawi  This paper introduces a novel infrastructure-aware benchmarking framework for quantifying the environmental footprint of LLM inference across 30 state-of-the-art models as deployed in commercial data centers. Our framework combines public API performance data with region-specific environmental multipliers and statistical inference of hardwar
+KEYWORD: AI carbon footprint
+VIEWS: 270
+TRANSCRIPT: All right, let's talk about the invisible side of artificial intelligence. It's something that's happening in the background every single time we ask a chatbot a question or get it to summarize a document or even generate an image. We're going to pull back the curtain on the hidden environmental price tag of every single one of those interactions. You know the feeling, right? You type a question into that little window and almost instantly this incredibly detailed answer just appears. It feels like magic. It feels weightless, digital, practically free. But it's not. Behind that screen, there's a very real physical process unfolding. So, what is the actual cost of asking an AI just one question? For a long time, whenever you heard about AI's environmental impact, the conversation was always about one thing, training the models. People pictured it as this massive one-time energy burn, kind of like building a giant library from the ground up. But it turns out that's not really where the main story is happening. The real story isn't about building the library. It's about what happens every single time someone goes in and checks out a book. That's what we call the inference phase. And this isn't a oneanddone deal. This is happening constantly all over the world, billions of times a day, every time one of us asks an AI for an answer. So just how big is this inference phase? Well, some recent estimates suggest it could be responsible for a pretty staggering 90% of an AI model's enti
+[...middle cut...]
+oing on. Then, we need serious innovation in hardware and cooling and smarter ways to deploy the models. And finally, they suggest that we might actually need some smart regulation, clear environmental standards for AI to set a benchmark for what responsible development looks like? Which brings us to this final really big question. As AI gets woven deeper and deeper into the fabric of our lives, who's on the hook for its environmental bill? Is it the companies building the models, the data centers running them, or is it maybe us, the users, who are driving billions and billions of these queries every single day? That's the hidden cost that sooner or later we're all going to have to confront.
+
+=== ID: cWzb3_9hR9o ===
+TITLE: TWiGS: Green AI Tradeoffs
+DESC: Host Kate Goldenring is joined by Chris Adams to explore how the Software Carbon Intensity (SCI) standard can help companies meet new EU sustainability reporting requirements, shifting green software from best practice to audited obligation. They also discuss research on “green prompting,” showing that specific words can significantly impact AI energy use, along with new tools that reveal real-time energy consumption in AI workflows. They close by examining how rising AI demand is increasing har
+KEYWORD: AI carbon footprint
+VIEWS: 79
+TRANSCRIPT: There are more people on earth
+than investors, and we need to be thinking about what is the impact
+of the company on the rest of the environment or communities around
+it, or other stakeholders other than people who hold shares in the company. Hello, and welcome to Environment
+Variables, brought to you by the Green Software Foundation. In each episode, we discuss
+the latest news and events surrounding green software. On our show, you can expect candid
+conversations with top experts in their field who have a passion for how to reduce
+the greenhouse gas emissions of software. I'm your host, Chris Adams. Hello everyone and welcome back
+to this Week in Green Software. I'm one of your hosts, Kate Goldenring,
+and today I'm joined by a very familiar face to the Environment
+Variables podcast at large and this week in Green software, Chris Adams. For this episode, we're gonna dig into
+four stories, starting with how the SCI, or Software Carbon Intensity standard,
+can support the corporate sustainability reporting directive in Europe or CSRD. And then we'll dig into shifting into
+some research on how to do greener LLM prompting and energy management. And then we'll close by talking about
+a few other articles with regard to how to measure your kilowatt hours
+in your LLM inferencing sessions. And finally, with how AI
+is having an impact on the refurbishing market for laptops. So, I wanna go ahead and pass it
+off to Chris briefly to go ahead and introduce yourself for the folks
+who might a
+[...middle cut...]
+d that you can visit podcast.greensoftware.foundation to listen
+to more episodes of Environment Variables. And with that, we'll see
+you all next episode. So goodbye for now. Thank you, Kate. See you folks. Hey everyone, thanks for listening. Just a reminder to follow Environment
+Variables on Apple Podcasts, Spotify, or wherever you get your podcasts. And please do leave a rating and
+review if you like what we're doing. It helps other people discover
+the show, and of course, we'd love to have more listeners. To find out more about the Green
+Software Foundation, please visit greensoftware.foundation. That's greensoftware.foundation
+in any browser. Thanks again, and see
+you in the next episode.
+
+=== ID: cZ9IJUAY3ms ===
+TITLE: [Télécom Paris Ideas] The carbon footprint of researchers in theoretical computer science and AI
+DESC: Antoine Amarilli's research focuses on theoretical computer science, but he also sometimes takes the side roads. For example, he is committed to the climate and points out that, in computer-related disciplines, the evaluation model for researchers is still strongly correlated with their travel to international conferences, with a high carbon footprint as a result.
+KEYWORD: AI carbon footprint
+VIEWS: 28
+TRANSCRIPT: [Musique] donc ce manifeste TCS fortical computer scientist for future c'est une initiative qu'on a lancé avec d'autres chercheurs en informatique théorique en 2020 parce qu'on s'est posé la question de l'empreinte carbone de nos activités et on s'est dit qu'il faudrait tendre vers une trajectoire qui permette de les de les les réduire donc en 2020 on c'est on a lancé ça juste avant le covid et là le covid a soudain changé complètement le mode de fonctionnement des congrès scientifique notamment en informatique qui fonctionne beaucoup avec des congrès avec un voyage obligatoire pour présenter ses travaux ces congrès sont tous arrêtés et sont passés en distantielle et maintenant ces congrès reprennent et donc se pose la question de est-ce qu'on va réussir à infléchir un peu la trajectoire sur la base de cette expérience de congrès en distantiel pour que les chercheurs arrivent à conserver leur productivité scientifique et continuer à collaborer les uns avec les autres mais en voyageant moins pour rester sur une trajectoire [Musique] soutenable l'informatique ça fonctionne beaucoup à base de congrès c'est peut-être parce que c'est une discipline jeune qui s'est beaucoup structurée autour de voyage vu qu'elle est apparu à un moment où le voyage international était déjà possible et les chercheurs étant beaucoup évalués sur leur productivité scientifique ça veut dire que pour la carrière d'un chercheur en informatique c'est vital de publier dans les conférences prestigieuses du do
+[...middle cut...]
+ des discussions autour de préprint dans des journaux à publication rapides sur des sur des forums il y a même des des forums où les gens collaborent sur des problèmes de recherche en informatique ça commence à se développer c'est quelque chose qui est pas du tout dans le dans le radar de la bibliométrie classique mais c'est quelque chose où la la collaboration peut se faire à des échelles qui sont difficilement imaginables aujourd'hui dans le mode de fonctionnement traditionnel ça a aussi un coût en terme de carbone mais l'impact marginal d'une discussion supplémentaire sur un forum il est bien moindre que l'impact marginal d'un voyage en avion supplémentaire pour aller à une conf [Musique]
+
+=== ID: wZHYgKvgJY0 ===
+TITLE: AI: Environmental Nightmare or Climate Savior?
+DESC: Is AI the "Environmental Boogeyman" or our best hope for a sustainable future? 🌍🤖 In this episode of Everyday Data, NYU MSPAI grads Patricia and Zac dive deep into the polarizing debate surrounding AI’s carbon footprint and resource consumption. From viral "meme wars" to the serious depletion of natural resources, we explore whether the convenience of AI tools like OpenAI’s Sora is worth the environmental cost.  In this episode, we discuss: The Resource Crisis: Zac breaks down how AI infrastruct
+KEYWORD: AI carbon footprint
+VIEWS: 54
+TRANSCRIPT: Hello and welcome to Everyday Data, where we examine currently trending topics in data analytics and AI and how they show up in our everyday lives. We're your hosts, Patricia and Zach, MSPAI grads from NYU and data and pop culture enthusiasts. So today on the podcast, we have some great topics, but first we're going to delve into the segment of news of the week. So, Patricia, I'm going to share with you what I've been looking at this week in the news, which is, of course, OpenAI. Not that they're not in the news. They're always in the news for something, but what was in the news this past week was, yes, was Sora. So, I'm sure you saw it. I think we've talked about it. Everyone's talked about it. But the closing of the Sora model uh OpenAI it caught my eye uh because it was tied to also OpenAI also getting more funding. So the latest round of funding was like $122 billion. So, some are of course saying that this closing of Sora was tied of course to a pending IPO, which is this continued topic on our podcast about the AI bubble, the AI boom, when's it going to stop? But another fresh round of funding and cutting their losses, I think, is definitely steering the ship of towards what's most profitable for them. So, it makes sense. But at the same time, I guess I just ask your commentary on this if you followed other models because Sora may be closed. Gemini has released their new image model. So they're still I feel like developing these image tools and we're seeing as what you'
+[...middle cut...]
+s something that we say all the time in our in our podcast is AI is here, but what are we going to do about it? And how are we going to protect humanity and the earth? And I think that hopefully this has been good conversation to spark some ideas and thoughts. And yeah, I would love to hear from listeners, viewers, let us know your thoughts. Yeah. What are your thoughts on AI in the future? Living with AI uh living with AI as a planet, not just a person. Yeah. How can we become one with the machine, I guess, right? So yeah, thanks for watching and thanks for listening to this episode this week of Everyday Data with Patricia and Zach. And we hope to see you back here on the next episode. Bye.
+
+=== ID: Va9ZwjKbSIY ===
+TITLE: AI's Hidden Water Footprint: How Machines are Drinking Up Our Planet
+DESC: Get your LEVOIT Top Fill Humidifier on Amazon! https://amzn.to/4fAgp7Y Discover how AI's water footprint could rival entire cities! Learn about the shocking reality of AI's hidden water usage and what it means for our planet. Subscribe now to stay updated on this developing story! #AIwaterfootprint #Sustainability #ArtificialIntelligence
+KEYWORD: AI carbon footprint
+VIEWS: 3
+TRANSCRIPT: breathe better and sleep deeper with the Lait classic 160 top fill humidifier don't wait check out the link in the video description to get your Lavo top fill humidifier on Amazon today and enjoy a healthier more comfortable home welcome to AI daily where we're diving into the latest developments in artificial intelligence today we're exploring a story that's sure to raise some eyebrows the water footprint of AI models imagine a world where your favorite social media platform is is using more water than your entire household sounds like science fiction right but it's not just a myth according to a recent study the total annual water withdrawal for Global AI in 2027 could be as high as 46 Denmark or half of the United Kingdom that's a staggering amount of water and it's all thanks to our beloved machines now you might be thinking but wait I thought AI was supposed to help us conserve resources well here's the thing while AI can certainly optimize energy consumption its own water usage is a whole different story and it's not just about saving water it's also about balancing carbon and water Footprints you see when we talk about reducing our carbon footprint we usually focus on Energy Efficiency but what about water it's a crucial resource that's becoming increasingly scarce so how do we reconcile these two competing priorities one researcher suggests that by exploiting spatial temporal diversity of water efficiency we can dynamically schedule AI model training and inference to 
+[...middle cut...]
+pproach requires us to rethink our current methods of energy consumption and production the bottom line is that we need to take a holistic approach to addressing both carbon and water Footprints no more separating these issues or expecting one magic solution we need to work together governments Industries individuals to find sustainable ways to power our machines without sacrificing the planet's precious resources that's all for today on AI daily thanks for joining me on this journey into the world of AI and Water Conservation stay tuned for more updates on this developing story and don't forget to subscribe to AI daily for the latest news and insights on the world of artificial intelligence
+
+=== ID: 2-mERmeTAE4 ===
+TITLE: AI Power Demand Sparks Climate Fears, What Is The True Cost Of Artificial Intelligence | WION
+DESC: The rapid rise of artificial intelligence is driving a surge in electricity demand as massive data centres consume huge amounts of power. Experts warn that training and running advanced AI systems requires enormous computing resources, increasing carbon emissions and putting pressure on energy grids.   #ai #aipowerdemand #wion #wionnews #climate   About Channel:   WION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is t
+KEYWORD: AI carbon footprint
+VIEWS: 1164
+TRANSCRIPT: Now, here's a story that might make you think twice before asking your phone's AI app one more question. Those massive data centers powering AI, the same ones helping you write emails, edit photos, and maybe even avoid work, are quietly becoming a big climate problem. And well, think of data centers as giant digital factories. They don't make cars, they make answers. But to do that, they use a lot of electricity, and we mean a lot. Some estimates say data centers could soon use over thousand terowatt hours of electricity which is almost like powering a medium-sized country. And it's not just electricity. These centers also need huge amounts of water and sometimes over a million liters a day just to keep their machines from overheating. So yes, your AI generated joke might actually come with the side of water stress. And here's where things get a bit ironic. Big tech companies promise to go green, but thanks to the AI boom, many are now using more fossil fuels like natural gas to keep up with the demand. So, while your apps are getting smarter, the planet may be getting hotter. Another problem is location. Many data centers are built in places that are already hot, which means they need even more cooling and even more power. It's like putting an air conditioner inside an oven. And experts also warn about something called a heat island effect. And basically these centers can make nearby areas warmer affecting millions of people over time. Now the biggest concern is that most people don't even know that this is happening because data centers are out of sight and well out of mind out of sight. In fact researchers call this invisible infrastructure and we see the benefits fast internet smart AI but we don't see the cost on energy water and of course the environment.
+
+=== ID: 7k-2QJs7yaU ===
+TITLE: IIIT Kottayam Webinar #1 2022: SUSTAINABLE AI - REDUCING CARBON FOOTPRINT | Anmol Krishan, Google
+DESC: The rapid pace of technological developments must be paralleled with carbon emission mitigation strategies. State-of-the-art Artificial Intelligence models underpinning the cutting-edge applications offer boosted performance, but is accompanied by a heavy cost in terms of high emission of CO2. It is imperative that AI developers and deployment personnel adopt sustainability practices.   Mr. Anmol Krishan Sachdeva, Hybrid Architect at Google throws light on how the carbon footprint can be monitor
+KEYWORD: AI carbon footprint
+VIEWS: 210
+TRANSCRIPT: for the webinar series based on frontiers in artificial intelligence from automation to societal applications conducted by the data science research group of triple h depot being an active organization for the for dealing with and currently technologies like data science and artificial intelligence on having observed the importance and growth in this tech field have been great enthusiasts in organizing this webinar and parting the knowledge and usage of the advancement of artificial intelligence through this so we officially bookmarked the beginning of the event with a one minute silence now i call upon dr christina joseph mom to address the audience regarding the overview of the event over to you ma'am thank you ram a very good afternoon to everyone the american multinational fast food giant kfc kentucky fried chicken goes by the ad age its feelings are looking good similarly artificial intelligence commonly known as ai is on everyone's mix now in the union budget of india 2022 the honourable minister of finance srimati nirmala sitharam emphasized the need for sustainable development by leveraging the technological advancements like ai the past decade witnessed a surge in carbon emissions from vehicles which led to the pressing need for manufacture obligations and government regulations the current era demands the rapid pace of technological developments to be paralleled with carbon emission mitigation strategies google research is one of the leaders in this movement and ide
+[...middle cut...]
+this was a technical uh like due to the number of limits those who joined late they may not be able to join it was also streamed on facebook thank you for all the support and expecting all your presents in the subsequent sessions of this webinar series thank you uh thank you everyone once again for all the participants for the interactive session with sir and making this an interactive one i hope to see you all in much more numbers in the further webinar series have a great day everyone and uh please fill this form attendance form which has been sent to the chat box you will be getting the participation certificates within a week and yeah thank you very much thank you all thank you thank you
+
+=== ID: HDmgFkg3QeI ===
+TITLE: FEATURES: Inside AI's Complicated Climate Impact
+DESC: Artificial intelligence is transforming forecast technology and arming scientists in the fight against climate change, but behind every model lies a hidden environmental footprint: massive energy use, water consumption and electronic waste. As AI becomes part of our everyday lives, the challenge ahead is becoming clear — can we make this powerful technology sustainable enough to protect the planet, instead of straining it?
+KEYWORD: AI carbon footprint
+VIEWS: 3901
+TRANSCRIPT: I've been wanting to talk about this for a while, so let's get into it. Do the positives outweigh the negatives when it comes to artificial intelligence and our environment? It's actually a lot more nuanced than what you've been hearing. We'll start with something you may have already noticed. Using AI is as easy and accessible as ever. Before was YouTube. You watch the YouTube video, how do you fix your toilet? But now you can ask your specific question for your type of toilet and get that answered. The generative AI is an incredible breakthrough. Think of it as a magic wand that makes anything we do faster or more insightful. You don't have to be a programmer. You don't have need to be an engineer to to leverage it. They're right. We even use AI to help formulate your forecasts. Can take a trained AI model and we can leverage that to produce a weather forecast in a matter of minutes. We have an AI that [music] can answer weather questions like, should I go golfing today? Which brings us to the good news. AI and some of its uses is helping experts fight climate change. We're going to be able to produce uh forecasts much more quickly and be able to leverage observations in a way that we really haven't been able to yet. From predicting hurricanes earlier to better managing renewable energy, it's true that AI can help scientists mitigate the impacts of extreme weather. Instead of just getting a human readable output, like there's a 50% chance of rain, but then if there's a 50% 
+[...middle cut...]
+sking are we measuring the global impact and environmental impact of our online computing at the end like we we we should be smart we should inform people we can still like move along and use the right tools to help us be productive humans. I think if we can, you know, prioritize and work together to understand [music] what are those sustainable practices, it's really going to set us up well um in the longand to make that question on whether or not it's a net positive or a net negative very clearly a net positive. In the end, the real impact doesn't come from the machines, but from how we choose to use them. So AI can be a powerful ally in the fight to protect our planet if we choose wisely.
+
+=== ID: cDwM0DFoyoU ===
+TITLE: CAT Salon: Digital sustainability pt. 4 – greening AI & ML (with Sara Bergman)
+DESC: CAT member and software engineer Sara Bergman digs into the climate impact of machine learning. She highlights research on the topic, discusses how the learnings can be applied to your ML models and gives guidance on how we can measure the impact this work will have. She also borrows the environmentalism framework "Reduce, Reuse, Recycle" and shows how this could be applied to greener ML & AI. The second half of this recording is a Q&A with the live audience before we went into off-the-record co
+KEYWORD: AI carbon footprint
+VIEWS: 289
+TRANSCRIPT: hi everyone it's super nice to be here speaking with everyone today makes me super excited like um heather said my name is sora i'm a software engineer at microsoft development center here in norway where i work in a division called intelligent people services i'm also an advocate for sustainable software engineering practices and i'm a frequent writer on the sustainable software engineering dev blog that microsoft microsoft have and yes today this is the topic is machine learning sustainable so when we say uh when we think about sustainability and machine learning the first thing that comes to mind for a lot of people is how can we use this awesome technology for sustainability purposes and that is a a cool conversation that's worthy of having but it's not the conversation we're having today so today we're more focusing on what's the climate impact of sustainability what's the carbon of machine learning sorry what's the carbon footprint if you will of machine learning so i'm going to go through some research and then also talk about more concrete action that you can take and hopefully spark spark some ideas in your head all right so what do we mean when we say sustainable machine learning right so if we put it very simple this is what we mean any type of software it needs to run on servers or like a phone or a laptop or something like that but let's just simplify and stick to servers and these servers they need to run on electricity and how much they consume and depend on di
+[...middle cut...]
+ many ways so it's kind of hard to at least find any research resources on that but it's um yeah you know best how you do data collection and if that is done in like an expensive way yeah there are many parts to this right but but i think it's a very interesting trend for sure thank you so much sir um we have another one but i'll leave it for the for the discourse um really thank you for taking all those questions and just kind of threw you into the deep end but there's some really good questions so i'm going to stop recording now um we'll share the link out to everyone shortly um and i think i might have to start an ai and ml channel within slack so look out for that and i'll invite you all
+
+=== ID: LGfhCKRG2WU ===
+TITLE: The DARK Side of ChatGPT | Mass Misinformation | Carbon Footprint
+DESC: The strength of the world’s most advanced AIs in a single app. With AI Fiesta, you can now use 9+ AI models, available on both iOS and Android. This AI is designed to make you smarter.  Are tools like ChatGPT and Google Maps subtly reshaping our minds? This video explores major global research, everyday examples from Indian life, and an unexpected historical perspective to raise one tough question: is AI making us mentally lazy—or simply transforming the way we think? From fading memory skills t
+KEYWORD: AI carbon footprint
+VIEWS: 12
+TRANSCRIPT: हम सबको तो यही लगता था है ना कि आर्टिफिशियल इंटेलिजेंस यानी एआई हमें और ज्यादा स्मार्ट बनाने के लिए आया है। लेकिन क्या हो अगर इसका असर बिल्कुल उल्टा पड़ रहा हो। कुछ नई साइंसी तहकीकात ना कुछ ऐसे ही चौंका देने वाले नताज की तरफ इशारा कर रही हैं। ऐसा लगता है कि जो टूल्स हमारी मदद के लिए बनाए गए थे, वही शायद हमारी ज़हनी सलाहियतों को कम कर रहे हैं। तो आज का हमारा बड़ा सवाल यही है। क्या यह टेक्नोलॉजी जो अब हमारी जिंदगी का एक लाजमी हिस्सा है। सच में आहिस्ता-आहिस्ता हमारे ज़हनों को खोखला कर रही है। चल इस मामले की तह तक पहुंचते हैं। अच्छा इस मसले को समझने के लिए ना ज्यादा दूर नहीं सिर्फ 10 साल पीछे चलते हैं। याद करें जरा। उस वक्त कम से कम पांच से सात फोन नंबर्स तो हमें जुबानी याद होते थे। शहर के रास्ते वह बड़ी-बड़ी निशानियों से पहचाने जाते थे। और आज आज शायद अपना फोन नंबर भी सोचना पड़ जाए और Google मैप्स के बगैर तो कहीं जाने का तसवुर भी नहीं कर सकते। यह जो छोटी-छोटी मिसालें हैं ना, यह एक बहुत बड़े रुझान की तरफ इशारा कर रही हैं। इसे कहते हैं कॉग्निटिव ऑफ लोडिंग। मतलब हम अपनी सोचने और याद रखने की जिम्मेदारी आराम से टेक्नोलॉजी को दे रहे हैं। तो सवाल यह है कि जब हम अपनी ज़हनी जिम्मेदारियां टेक्नोलॉजी के हवाले कर देते हैं तो हमारे दिमाग का क्या बनता है। चले देखते हैं कि शुरुआती सबूत क्या कहते हैं कि कैसे एआई हमारे दिमाग को एक तरह से गैर फहाल कर रहा है। हाल ही में ना एक बहुत दिलचस्प तहकीक हुई। कुछ तलबा के एक ग्रुप को एक मजमून लिखने को कहा गया और इस पूरे अमल के दौरान उनके दिमाग की सरगर्मी को रिकॉर्ड किया जा रहा था और जो नताइज सामने आए वह सच में हैरानक थे। अच्छा अब जरा इस स्लाइड पर नजर डालें। नताइज
+[...middle cut...]
+िम जरूरी है, वैसे ही दिमाग के लिए ज़हनी वर्जिश लाजमी है। तो आगे का रास्ता क्या है? बहुत सादा। पहली बात एआई को एक औज़ की तरह इस्तेमाल करें। बेसाखी की तरह नहीं। दूसरी बात अपनी बुनियादी महारतों को जंग ना लगने दें। लिखना, हिसाब करना, मसाइल हल करना इनकी प्रैक्टिस जारी रखें। और तीसरी बात जानबूझकर अपने दिमाग को चैलेंज दें। पहेलियां बुझें। कोई नई चीज सीखें। अपने दिमाग को मशरूफ रखें। और आखिर में यह सवाल हम सबके लिए है। टेक्नोलॉजी का यह दरिया तो बहता रहेगा यह रुकने वाला नहीं है। अब इंतखाब हमारे हाथ में है। क्या हम सहूलत की खातिर अपनी ज़हनी सलाहियतों को कमजोर होने देंगे या फिर हम इन दोनों के दरमियान एक समझदारी वाला तवाजुन तलाश करेंगे। यही वह फैसला है जो आने वाले वक्त में हमारी इंसानियत का रुख मुतयन करेगा।
+
+=== ID: 2dCQS1jAbUo ===
+TITLE: AI's Environmental Footprint: Insights and Actions (2025-09-09)
+DESC: Hosted by UW-Madison's ML+X community (https://hub.datascience.wisc.edu/communities/mlx/ ), each monthly forum highlights two machine learning applications that share a theme followed by communal discussions.   1. WattBot: Estimating AI Emissions & Costs with RAG, Chris Endemann, 2:24  - Kaggle challenge: https://www.kaggle.com/competitions/WattBot2025/overview  2. How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference, Nidhal Jegham, 9:07 - Preprint: https://arxiv.o
+KEYWORD: AI carbon footprint
+VIEWS: 133
+TRANSCRIPT: Well, we are at the hour and we do have a lot to cover today. Um, so let's go ahead and jump in. Uh, good afternoon everyone. Uh, welcome back to our monthly ML plus X forum. Uh, my name is Chris Enderman and I work as a research cloud consultant for Dit's research cyber infrastructure office here on campus. Um, and I also help lead the ML plus X community here at WMadison. Um today I'm really excited to be joined by Nit Hall Jum who's a incoming CS and uh stats graduate student at the University of Rhode Island. Um he's also the lead author of the paper how hungry is AI which is a benchmark study that measures the energy water and carbon footprint of large language model imprints. Um before I hand things off to Nitall for the majority of the next hour um I just want to share a few announcements and also discuss why we have selected this topic um for today's forum. Here's my example exhibit A. Uh so this is a a graph showing the wildfire smoke across the US and Canada. And um this summer I had to buy two air purifiers just to get through the Canadian wildfire smoke. And um you know this was a good reminder that climate impacts are kind of no longer abstract. They're right here in our daily lives. And this is just kind of a microcosm of more serious issues. Um for many states and countries and ecosystems, a rapidly changing climate has been taking its toll um for many years if not decades now. uh AI didn't start the the fire in Canada, but I guess the question is um will it ad
+[...middle cut...]
+f the dashboard from here if you guys ever need it and you can access the repository on GitHub. Just I think you can just search for it and if you didn't find it, I will send it to Chris so he shares it with you. Perfect. Of course. All right. Well, let's give one last round of applause for Nidal and uh Chan here to today and uh thank you so much again, Nidal. This is really impressive work and very val very very important. So thank you for joining us. Of course and thank you very much for inviting me and I hope you like you will do an amazing project and keep me updated about it. All right. Well, take care everyone. Hope you have a good day. Have a good day. Thank you. Have a good day guys.
+
+=== ID: WLwwKjgRd7c ===
+TITLE: AI's Climate Solution: Procedural Compression, Ternary Logic, and the K3D Architecture
+DESC: Software was always meant to be a place, not a window. Welcome home.  The current trajectory of AI and digital infrastructure is environmentally unsustainable. In 2024, data center electricity consumption in the US alone hit 200 TWh, with AI's share projected to reach up to 50% by 2030.   But what if we could change the underlying architecture of how machines process and store knowledge?  In this explainer, we dive into K3D's Carbon Blueprint—a detailed 10-year scenario projection (2025–2035) de
+KEYWORD: AI carbon footprint
+VIEWS: 40
+TRANSCRIPT: Alright, today we're going to dive into something pretty radical. It's a new architecture for AI, and it could completely change the massive, and I mean massive , impact that AI is having on our planet's carbon footprint. I mean, let's face it, artificial intelligence is everywhere. It 's unlocking capabilities that honestly felt like science fiction just a few years ago. It's speeding up scientific discovery, it's simplifying our daily lives, the progress is just incredible. But, and this is a big but, all of this amazing progress comes with a hidden cost. It's a rapidly growing environmental price tag that, up until now, has just felt like a necessary evil we had to accept. So, let's start there. Let's really look at the problem head on, the enormous and frankly unsustainable energy footprint of modern AI. Okay, get a load of this number. 945 terawatt hours. That's the projection for how much electricity global data centers will be chewing through every single year by 2030. And get this, AI could be responsible for almost half of that. We're talking more power than many entire countries use. And if you want to put a dollar sign on it, here you go. An estimated 4.6 million dollars just to train a single large model like GBD-3. And look, this isn't just about the money. It's a stand- in for the insane amount of computational power and raw energy being burned for just one training session. You see, the whole bigger is better philosophy that's driving AI right now, it's not jus
+[...middle cut...]
+giving power back to people. And this is the commitment right from the creators of K3D. They're not patenting any of this. They're publishing everything. They're positioning this architecture as a public good, like an open standard that anyone can use and build on. And that's absolutely crucial for preventing the future of AI from being controlled by just a handful of huge companies. So really it leaves us with a critical choice, doesn't it? It 's about what kind of digital world we actually want to build . The technology to create a more efficient, a more transparent, and a more sustainable future for AI is here. The only real question left is, are we going to choose to build it? Thank you.
+
+=== ID: 6QynF3aW-DE ===
+TITLE: AI’s Hidden Carbon Footprint and How to Fix It | S.2 E.7
+DESC: Is Hydrogen the Future of Sustainable Data Centers?  The rise of AI has dramatically increased the energy demand on our ageing power grids. But what if data centers could be fully sustainable, operating entirely off-grid with zero emissions?  In my latest podcast episode, I had an insightful conversation with Yuval Bachar, CEO and Founder of ECL, who is making this vision a reality. Yuval’s innovative hydrogen-powered data centers represent a paradigm shift: they’re not just carbon-neutral—they'
+KEYWORD: AI carbon footprint
+VIEWS: 8
+TRANSCRIPT: Welcome to the Samuelini show where business innovation and sustainability converge to drive progress. Are you ready to uncover solution shaping our future? Let's dive in. Welcome to a new episode and today we are going to discuss something that is at the forefront of our of the discussion every day. So EI and the role of the data centers. So how we can empower in a sustainable way such a huge demand for data that EI requires and we do it today with an innovator a change maker Bahar uh who is the CEO and founder of ECL. Thank you so much Juval for joining us today at the show. Thank you for having me. I really appreciate it. Yuval, you have a wonderful story and now you are on the path. You had wonderful experience at the big names that everybody knows. So the blue chips and others and we want to understand you know uh what is your journey how you have ended up you know in this field of sustainability in AI. So I I started from from engineering roles. So I was working as an engineer for many years started my career in deck digital equipment corporation and then moved to Cisco for many many years since 96 to 2010. I got uh excited into the data center world in in 2009 and that's where I actually started getting deeper into the data center side. Until that I was developing mostly optical gear, routers, switches etc. So 2009 I joined the the CTO office of Cisco and I was actually in very early stage involved in building the hyperscaler data center. So I was the Cisco contact per
+[...middle cut...]
+s at DC is going to be are going to be building down the line. Fantastic. And I'm looking forward for this revolution which will really be you know a a concrete step uh which many people they don't know on how to power AI and data center the the anger for data that is out there in a more sustainable way. You has been a pleasure and honor having you on the show and I'm sure we can book you for maybe in 2026 to see where you have gone. Thank you so much you it's been a pleasure. Thank you very much for having me and and I'll be more than happy to actually participate in future events. Fantastic. Are you satisfied after this wonderful episode? Let's continue together our sustainability journey.
+
+=== ID: aJBdEVQNBTk ===
+TITLE: Is AI bad for the environment? | The Daily Aus
+DESC: As AI becomes increasingly ingrained in our lives, conversations around using it in an ethical and safe was have become more intense. However, a lesser-discussed concern is now gaining attention — the environmental impact of AI. AI requires immense quantities of resources, including electricity, water, and finite minerals. With its carbon footprint only expected to rise in the coming decades, we discuss the sustainability concerns surrounding this evolving technology.  Hosts: Achol Arok and Emma
+KEYWORD: AI carbon footprint
+VIEWS: 1506
+TRANSCRIPT: Hello and welcome to the daily aus. I'm Emma, and I'm Achol. Artificial intelligence,
+or A.I., has become increasingly ingrained in our lives in recent years, and we've seen this technology
+used for both good and for bad, from life changing medical discoveries
+to the rise of explicit deepfakes. But during the recent AI boom, we've heard a lot of conversations
+around ethics and safety. As those conversations
+have become more intense, there is a lesser discussed concern
+that is now gaining attention. And that's all
+about the environmental impact of AI. AI requires
+immense quantities of resources, and this includes
+electricity, water, and finite minerals. Now, with the growing demand of AI,
+its carbon footprint is only expected to rise in coming
+decades. Now, today, we're going to explore the early red flags environment,
+which experts are raising and what they mean
+for the sustainability of AI. Michelle,
+you have gone deep on this topic for us because I think we've seen a lot
+of headlines floating around lately about AI not being great for the environment,
+but it's a confusing space to start with, let alone
+before we get into the specifics of this. It does feel
+like a really new advancement, but I was surprised when you told me
+AI is a term that was first coined in 1955 by an American computer scientist. His name was John McCarthy. But these days
+when we're talking about AI, I think most people are probably thinking
+of what's called generative AI. So that's like OpenAI's ChatGPT
+[...middle cut...]
+ion did warn
+I pose a significant risk. Now, ultimately, knowledge is power. So by increasing transparency
+around the potential environmental impacts of AI,
+the risk may be mitigated. A thank you so much for breaking that down
+for us. A very, very big, complicated story. But you've made sense of it for us. So we thank you for joining us
+on the podcast today. And thank you for listening. If you like today's episode,
+if you learned something, feel free to pass it on to a friend. Don't forget to follow or subscribe
+wherever you listen to the daily news or if you're watching us over
+on our YouTube, we will be back a little bit later today
+with the evening headlines. Until then, have a great day!
+
+=== ID: 4scRmT98WZo ===
+TITLE: AI & The Planet: Understanding AI's Energy Footprint
+DESC: Explore the hidden environmental costs of the AI systems we use every day, from simple web searches to generating videos. This workshop provides an honest look at how AI consumes energy and water, while also discussing the potential for "Carbon neutral" technology to help manage our future resources.
+KEYWORD: AI carbon footprint
+VIEWS: 121
+TRANSCRIPT: Heat. Heat. Heat up here. Well, good morning, good afternoon everybody and welcome in across the continent for another exciting exploring by the seat of your pants broadcast. For those of you who are new to us, which is most of you today, if you're joining us for the first time, we are all about bringing conservation, adventure, and science into classrooms around the world. And everything we do goes to our YouTube channel. So, you can check out this program in three weeks or three years or like almost 4,000 other broadcasts of the coolest scientists and explorers on planet Earth. We just wrapped up February, our entire month solely dedicated to the most amazing women in science on planet Earth. Like 45 programs on every topic you can possibly imagine. So do go check those out. There's lots to explore and discover. But the reason the 450 plus of you are here today is because we are live back again with our friends at Digital Moment. Digital Moment is the ultimate group for digital literacy that we have ever worked with. It's so thrilling to get to bring them on every couple weeks, every week sometimes to highlight really cool stories about AI, digital literacy more broadly, all sorts of topics that you guys are learning about and hearing about on the news every single day. So today is no different. We are going to talk about AI's energy footprint, its impact on the planet. And to guide us on that journey, we have got Hermmon here to show us the way. So without further ado, you
+[...middle cut...]
+rts the tweaking project that to make it a little bit better, a little bit different in different areas. That was a long- winded answer. Let's say people collect data, provide information to find patterns. Beautiful. Hermon, I think no better explanation than that for our great audience today. Thank you so much for your passion, expertise, all of it. I can't encourage you enough. Everyone check out digital moment.org, the amazing digital 2030 initiative and then what uses more. We hope to see you next week as well. But what we do to wrap up every broadcast, I'm going to bring in our live classes to say a big thank you and farewell. Betting chaper, thank you so much, guys. Right there, Billy.
+
+=== ID: ixqCa-MxXM0 ===
+TITLE: The Carbon Footprint of AI | Olivier Bierlaire
+DESC: Generative AI and large language models (LLMs) are rapidly changing the tech landscape, but they come with an unexpected cost: carbon emissions. Training models like GPT-3.5 generates emissions equivalent to 800 Paris-New York flights. But what about the ongoing queries and interactions with AI tools like GitHub Copilot or CodeWhisperer? Are they contributing significantly to our carbon footprint?  In this eye-opening session, Olivier Bierlaire tackles the environmental impact of AI, exploring t
+KEYWORD: AI carbon footprint
+VIEWS: 448
+TRANSCRIPT: [Music] great welcome back everybody for next speaker uh short raise of hands who knows about the company canva yes lots of them Olivier is actually one of the founding developers so from our one was there when Ken was started one of the most successful um company when it comes to design still as of this day he then went in a different direction focusing on sustainability on AI on how this impacts our current world and then he founded carbon fire with more than 20 years of experience please give me a hand for Olivier thank you very much so I'm Olivier first time in Australia and even first time in uh Vienna uh so I used to work until very recently at elastic you might know about it and uh I'm founder of a project for measuring the carbon footprint of cloud in general with carbon ifer and another project coming named rebase where we're going to use AI to clean uh software and infrastructure so let's talk about the the big problem so if we want to respect uh the Paris agreement of limiting the global warming of 1.5 degree by 2030 we need to reduce our carbon fruit print by 45% by that time which is like very challenging and as it as software engineer and uh Ops Engineers uh we have a very uh big responsibility because it is now emitting more CO2 than civil aviation so everybody is very worried about like taking a flight there is even a word for being shame of taking a flight so yeah it is now emitting more CO2 and looking at some projection we think that by 2030 it is going to 
+[...middle cut...]
+thank you if there are no further questions there are two more administrative points uh short raise of hands who already participated in the AWS Quest okay that's pretty sad um if you didn't do so check out AWS Booth they have like a quiz Quest thingy where you can win some awesome prizes if you already participated make sure to go back there and pick up the price because it's only valid today so you can't join tomorrow um that's the first point uh second point an object was found so if somebody especially from the back seats is missing something please pick it up with me here and the third point is we now have a 20 minute coffee break so make sure to be back in 20 minutes at Hall six thanks
+
+=== ID: oaJEllAGquU ===
+TITLE: 2026 AI.Humanity Conference | Panel 4: AI, Energy, and the Hidden Cost of Data Centers
+DESC: (Panelists: Xiao Huang, Emory University; Kristin Phillips, Emory University; and John Avery, Georgia Tech)  Power bills are up. Data centers are where all the action/capex is. Behind the promises of AI lies a massive environmental footprint. Training large language models and running global data centers consume staggering amounts of electricity and water, often hidden from public view. This panel will bring together experts on energy systems, sustainability, and AI to expose the tradeoffs that 
+KEYWORD: AI carbon footprint
+VIEWS: 13
+TRANSCRIPT: Hello everyone. Uh welcome to our fourth session of today and I actually prepared a couple of slides. So my name is Shaw Wang environmental science uh scientist at Emory assistant professor and with me we have two amazing panelists um Christine Dr. Christine Phillips and Joy from Georgia Tech. All right. So, you know, before I got here, I was playing around with my agents. You know, I I don't want to feel that lonely at home. So, I talked to them a lot. And, you know, if you if you code a lot, you will notice exactly what I'm doing here. So, if you look at the upper left figure, I'm opening a Visual Studio coding environments and I created a lot of cloud agents to work for me, right? So one of the agents is searching online for literature and the other agent is trying to find hypothesis and developing um research experiments for me and the third agent is actually executing those uh experiments and creating those reports and the final agent is actually supervising this entire process and then validating step by step. So I'm using those four agents to do research for me and me I'm just sitting on the couch and drinking coffee you know play video games sometimes. So that's that's basically my life and I think that's the life for a lot of scientists nowadays especially for computer scientists and the figure on the bottom right is the product our team is developing is called research architect. So basically if you have some research data all you have to do is just throw your data 
+[...middle cut...]
+ actually quite incentivized to think about energy efficiency, right? Um and so you have this kind of tension between um utilities drawn to you know make big energy and sell big energy and um and data centers who are incentivized um for energy efficiency and I think it's really uh important that we we press on that for technological development around energy efficiency and then also um in ways that also take um rate pairs into consideration as well. All right, I think due to time limits I have to call session today. I know Christine you have to go a few minutes earlier. So let's give a round of applause for the panelist for the amazing answers. Right. Thank you all for attending the session.
+
+=== ID: hdbrVBKN1mc ===
+TITLE: Does artificial intelligence have a high carbon footprint?
+DESC: Artificial intelligence is revolutionizing industries, but behind its innovation lies an overlooked issue—its environmental impact. This video explores the hidden carbon footprint of AI technologies, diving into the energy demands of massive data centers, the environmental costs of machine learning, and how our digital advancements may be contributing to global emissions. Discover how AI, while transforming our world, could be quietly harming the planet, and what steps are being taken to mitigat
+KEYWORD: AI carbon footprint
+VIEWS: 5
+TRANSCRIPT: stop what you're doing you need to hear this about ai's hidden cost the increasing use of artificial intelligence AI is Raising serious concerns about its environmental impact Google's latest environmental report shows a whopping 48% surge in greenhouse gas emissions over the past 5 years why mainly due to the massive energy demands of AI training large AI models isn't just complex it's power hungry open AI reported a 30000 fold increase in the computational cost of training AI models between 2012 and 2018 imagine that even simple AI tasks have a big carbon footprint a single AI query can have a carbon footprint four to five times higher than a standard search Google's new AI overviews feature it consumes 10 times more energy than a typical search but it's not all doom and gloom AI also holds potential for fighting climate change by optimizing energy consumption and promoting sustainable practices so while AI is a double-edged sword it's up to us to wield it wisely subscribe for more insights on the tech shaping our world
+
+=== ID: rHhhUAMHbpw ===
+TITLE: GenAI’s Energy Footprint: Innovation vs. Sustainability
+DESC: 💖 Support BrainOmega ☕ Buy Me a Coffee: https://buymeacoffee.com/brainomega   💳 Stripe: https://buy.stripe.com/aFa00i6XF7jSbfS9T218c00   💰 PayPal: https://paypal.me/farhadrh   🎥 See the watts behind the wow. This visual tour breaks down where generative AI burns energy—training vs. inference, data centers, hardware inefficiencies, and how that translates to real-world carbon. Clear visuals + plain language = practical steps you can use today to cut cost and footprint. Built for curious viewers, 
+KEYWORD: AI carbon footprint
+VIEWS: 54
+TRANSCRIPT: Have you ever asked a chatbot a question or used an app to turn a few words into a spectacular picture? If you have, you've met generative AI. Think of it like a super smart student, but instead of reading a few books for a test, it has read a huge chunk of the entire internet. Books, articles, pictures, all those examples taught it to understand patterns. Now, when you give it a prompt like write a poem about a robot who loves to bake, it uses everything it has learned to generate something brand new. Not copying and pasting, creating. It's science. This ability to create is what makes it generative. It generates new text, new images, new sounds, and even new computer code. Imagine a giant box of Lego bricks. A simple program might sort them by color. A generative AI is a master builder that can, from one instruction, build a spaceship, a castle, a dinosaur. It understands relationships between pieces and assembles them in new ways based on countless examples it studied. It's a powerful tool for creativity and problem solving. But this skill has a hidden cost. Like our brains need food, these AI models need huge amounts of electrical energy to think. So where does all this energy go? A lot of it is used during the AI's schooling phase, which we call training. Imagine trying to teach a computer to recognize a cat. You would need to show it millions of pictures of cats. For each picture, the AI makes a guess. If it's wrong, it adjusts its internal connections a bit like a brai
+[...middle cut...]
+s abundant, or buying renewable energy credits. Transitioning to 100% renewable grids is one of the most effective solutions. We can also be smarter about how and when we run AI tasks. Some computations are urgent, others are not. For non-urgent tasks like training a new model or analyzing a large data set overnight, we can schedule them when renewable energy is most plentiful like midday sun for solar or windy nights for wind. This is carbonaware computing, aligning demand with green supply that reduces reliance on fossil fuels. It's about using power when it's cleanest. Ultimately, we all have a role to play. By being aware of hidden energy costs, we can make more informed choices. [Music]
+
+=== ID: UMqQiZic6AU ===
+TITLE: Carbon FootPrint of LLM.
+DESC: This video is part of the Responsible AI Panel. #generativeai #sustainability  #responsibleai
+KEYWORD: AI carbon footprint
+VIEWS: 50
+TRANSCRIPT: so generative we especially uh models like large language model right has a significant uh carbon footprint both during inference uh as well as scening uh some of the stats around uh for instance training a large language model uh takes around 500 tons of CO2 equivalent
+
+=== ID: UAyin_Xkvcs ===
+TITLE: Generative AI and Carbon Footprints
+DESC: This video is about the Generative AI and Carbon Footprints Environmentalists frequently stress over the environmental impact of developing new AI models. The more advanced the AI, the more power it needs to function.  Complex results like sentences, paragraphs, pictures, and even short videos are all within the capabilities of generative AI.  It has long been used in autocomplete to propose search queries and in applications like smart speakers to create audio responses.  But it only recently l
+KEYWORD: AI carbon footprint
+VIEWS: 477
+TRANSCRIPT: foreign for more educational videos thank you welcome back to our Channel where we dive into fascinating world of technology and its impact on our environment in today's video we will be discussing the Revolutionary concept of generative Ai and how it relates to carbon footprints join us as we explore this intersection and uncover the potential solution for a more sustainable future so let's get started environmentalists frequently Citrus over environmental impact of developing new AI models the more advanced the AI the more power it needs to function complex results like sentences paragraphs pictures and even short videos are all within the capabilities of generate 2 AI it has long been used in autocomplete the proposed search queries and in application like smart speakers to create audio responses but it only recently learned to generate natural words and photorealistic images it's hard to put a price on all the energy that goes into producing a single AI model from building the computers to running it in production in 2019 experts determined that the amount of energy needed to generate a generate a model wbrt 110 million parameters the larger the model the more accurate it is expected to be and it is directly related to number of parameters the creation of four picker gpt3 which contains 175 billion parameters it is projected to have 1287 megawatts of electricity and produced 552 metric tons of carbon dioxide equivalent Urban emission can also be predicted by other factors
+[...middle cut...]
+ndant finally public pressure could be useful in getting more business and research institutions to close the energy use perhaps one day people will able to use the data select Greener chatbot as we conclude this video it is evident that generator has been potential to make position impact on various fields however we must also address the environmental consequences particularly to carbon footprint associated with the development and deployment by adopting renal practices and embracing renewable energy and a demanding transparency we could pay the viewed more sustainable AI future thank you for watching and don't forget to like subscribe and share this video together we can make a difference
+
+=== ID: XdQOFY-EsSE ===
+TITLE: Mozilla Lightning Talks   Measuring the carbon footprint of AI inference
+DESC: Discussing the tradeoffs between AI and Sustainability at Mozilla's Lightning Talks  About Me: I am a Staff Design Technologist on Mozilla's Innovation Team. All opinions and explorations are my own. Learn more about Mozilla Innovation at future.mozilla.org
+KEYWORD: AI carbon footprint
+VIEWS: 39
+TRANSCRIPT: and next we have Mike my early Explorations into AI consisted of making weirder models like Style again deep dream style transfer but now several years later into the evolution of AI I found myself using AI out of convenience practicality from my coding design and writing work the tasks for which I've enlisted AI include making logos and icons table diffusion writing web copy with openai performing voice authentication with Microsoft cognitive speech I'm writing code with GitHub Copilot this presentation as you likely by now have noticed is not actually a video of me but a deep fake using voice generated from descriptive overdub and video using the software deep face so machine learning has gone from Niche use cases to being something that people will use almost unwittingly to make work faster and easier alongside creative AI I have a keen interest in sustainability and as far as matches go Ai and the environment might seem to be a pair of star-cross levers training an AI model for example can be extremely energy intensive gpt3 the model on which many of these services are listed above were based required an estimated 85 000 kilograms of CO2 it would take 100 acres of forest an entire year to sequester that much carbon so the carbon footprint of AI since 2010 has been exponential with computation costs doubling every few months and is expected to grow at a rate of 44 per year through 2025. someone asked a good question in the environment slack Channel about how much energy is
+[...middle cut...]
+uld lead with sustainability as their primary development principle on the future products team we're thinking about ways to leverage AI responsibly including minimizing the environmental impact of the things that we create one particular open source contribution I'd personally love to work on with other resilience is a JavaScript library that makes interfacing with code carbon a little bit easier but I'm curious what else we could be building how can we make sure we're building sustainably if you have knowledge and ideas about the intersection of AI open source and sustainability uh please get in touch thanks thank you Mike that was interesting I appreciate that um and next up we have Becca
+
+=== ID: ZuMyoCjjQK0 ===
+TITLE: Is AI Drinking the World Dry? The Shocking Truth Behind Water Use | Trend Lenz #ai #viral #facts
+DESC: Trend Lenz reveals the hidden environmental cost of Artificial Intelligence that no one is talking about. Behind every text, every chatbot reply, and every AI-generated word lies a shocking reality — massive water consumption.  Recent reports show that producing just 100 words through AI equals the use of three full bottles of clean water. With billions of AI prompts generated daily, experts fear that AI could intensify the global water crisis faster than expected.  Is Artificial Intelligence be
+KEYWORD: AI water usage
+VIEWS: 122
+TRANSCRIPT: सवाल लिखकर पूछें, चाहे बोलकर एआई फौरी जवाब देगा। सवाल किसी भी नोइयत का हो, किसी भी शख्सियत, जिंस, इलाके या टेक्नोलॉजी से मुताल्लिक हो। मसनोई जहानत से उसका जवाब आपको फौरी मिल जाता है। लेकिन क्या आपने कभी सोचा कि एक सवाल का जवाब देने के लिए यह मकबूल एआई चैटबॉट कितनी बिजली और पानी खर्च करता है? इस सवाल का जवाब ओपन एआई के चीफ एग्जीक्यूटिव सैम ऑल्टमैन ने एक ब्लॉग पोस्ट में दिया। उन्होंने दावा किया कि चैट जीपीटी एक सवाल का जवाब देने के लिए औसतन चाय के चम्मच का 15वा हिस्सा पानी खर्च करता है। उन्होंने कहा कि लोग अक्सर पूछते हैं कि चैट जीपीटी एक सवाल का जवाब देने के लिए कितनी बिजली खर्च करता है? उन्होंने बताया कि 034 वाट बिजली एक सवाल के जवाब पर खर्च होती है। यानी इतनी बिजली जो एक अवन एक सेकंड में खर्च करता है या तनाई की बचत करने वाले बल्ब चंद मिनटों में खर्च करते हैं। जब इस हकीकत को ज़हन में रखा जाए कि ओपन एआई के महाना सारफीन की तादाद करोड़ों में है और वो रोजाना लाखों करोड़ों सवालात एआई चार्टब से पूछते होंगे तो अंदाजा लगाया जा सकता है कि पानी और बिजली का कितना खर्चा होता होगा। इससे कब अप्रैल 2025 में सैम ऑल्टमेन ने बताया था कि अगर आप चैट जीपीटी से गुफ्तगू के दौरान मुख्तलिफ अल्फाज जैसे प्लीज और थैंक यू इस्तेमाल करते हैं तो यह अल्फाज ओपन एआई को बहुत महंगे पड़ते हैं। एक एक्स पोस्ट में एक सारिफ ने सवाल पूछा था कि ओपन एआई को लोगों की जानिब से प्लीज और थैंक यू कहने पर बिजली के इखराजात पर कितना खर्चा करना पड़ता है? इसका जवाब देते हुए सैम ऑल्टमैन ने इंकशाफ किया कि कंपनी को इन जुमलों पर लाखों करोड़ों डॉलर्स का खर्चा बिजली की मदद में करना पड़ता है। सैम ऑल्टमैन ने कोई वाज़ जवाब तो नहीं दिया मगर उ
+[...middle cut...]
+ोचने के काबिल किया और अब वो हमारे हिस्से के वसाइल भी हड़प करने लगी है। रोजाना लाखों लीटर पानी मशीनों को ठंडा करने के लिए डाटा सेंटर्स के कूलिंग टावर्स में बह जाता है। मशीनें भी सीख रही हैं। लेकिन इस सीखने की कीमत इंसान अदा कर रहा है। हम कहते हैं कि एआई इंसानों जैसी हो गई है। हां, हो गई क्योंकि अब वो भी प्यासी है। वो भी वसाइल मांगती है। वो भी थक जाती है। गर्म हो जाती है और फिर पानी पीती है। फर्क सिर्फ इतना है कि वह जबान से नहीं मांगती। वो पानी छीन लेती है। हम कुदरत की तकलीक हैं। एआई हमारी तकलीक है। अगर हमने तवाजुन ना सीखा तो हो सकता है कल कोई और दस्तक दे कि दरवाजा खोलो। पानी खत्म हो गया है और दरवाजे के बाहर कोई इंसान ना हो। बस एक मशीन हो जो कहे मैं और सीखना चाहती हूं। मुझे और पानी दो। [संगीत]
+
+=== ID: L2q9s0-0658 ===
+TITLE: AI's Secret Thirst: Water Consumption
+DESC: SHORT FORM: https://youtube.com/shorts/8DK8GqO2F90  TRANSCRIPT: In the heart of America's heartland, where endless cornfields stretch across the horizon, a remarkable story unfolds, hidden from the world's gaze. The pursuit of Artificial Intelligence supremacy has propelled tech titans like Microsoft, OpenAI, and Google into the forefront of innovation. Constructing advanced AI, such as ChatGPT, demands an astonishing amount of computational power, generating substantial heat in the process. Sur
+KEYWORD: AI water usage
+VIEWS: 199
+TRANSCRIPT: in the heart of America's Heartland where endless cornfields stretch across the horizon a remarkable story unfolds hidden from the world's gaze the pursuit of artificial intelligence Supremacy has propelled Tech Titans like Microsoft open eye and Google into the Forefront of innovation constructing Advanced AI such as chachdot demands an astonishing amount of computational power generating substantial heat in the process surprisingly these high-tech machines require a vital resource water and the true cost of this technological Marvel remains concealed beneath the surface Microsoft witnessed its Global water consumption saw by a staggering 34 percent in a single year largely fueled by its Relentless quest for AI breakthroughs however did you know that every interaction with couch consumes up to 500 milliliters of water this figure doesn't even Encompass the indirect water usage such as cooling power plants supplying electricity to data centers Google experienced a similar Trend with a 20 surge in water consumption primarily attributed to its AI research both Tech Giants have embarked on a mission to measure ai's environmental impact Microsoft's Journey LED them to the Tranquil Landscapes of Iowa where they constructed a supercomputer explicitly designed to train gpt4 even unbeknownst to the city's mayor training AI in Iowa has proven highly efficient in terms of water and energy consumption thanks to the state's climate which allows for outside air cooling nevertheless during
+[...middle cut...]
+ween training AI in water Rich Iowa or water scarce regions presents a pivotal decision as where AI is trained significantly impacts water and energy consumption local authorities are actively collaborating with tech companies to ensure responsible resource usage and Microsoft's partnership with Westies Moines Iowa has led to mutual benefits but also raised important questions experts emphasize the need for transparency in quantifying ai's environmental impact as the sun sets over the fields of Iowa we're left with a profound question can we continue to embrace the AI Revolution while preserving our planet's most precious resources the future of AI holds the answers and the world is watching
+
+=== ID: Ar99cfqPrNA ===
+TITLE: How much energy and water does the AI app DeepSeek use?
+DESC: AI’s energy and water use is expected to continue growing exponentially. The new AI-powered chatbot DeepSeek claims to use much less energy than its competitors. As Johanna Wagstaffe reports, experts say it's about time to have the conversation about AI and energy.   Connect with CBC Vancouver online: Website: https://www.cbc.ca/bc TikTok: https://www.tiktok.com/@cbcvancouver  #CBCVancouver #CBCNews #BritishColumbia #Deepseek #aiapp #artificialintelligence
+KEYWORD: AI water usage
+VIEWS: 1839
+TRANSCRIPT: you've probably heard about deep seek but compared to other AI models how much energy does it actually use because AI uses a lot of energy and a lot of water and deep seek claims to need less of it which is a big deal because AI data centers full of processors like this use a lot of energy and a lot of water all this equipment generates heat and water is continuously being used to cool those servers down now measuring that is a new field of research but to put this in perspective a brand new study up for publication found that a single Google search uses half a milliliter in water energy compared to chat GPT which uses 500 milliliters of water for every 5 to 50 prompts so deep seek the company claims to be able to achieve the same results as other AI models but for a fraction of the energy use they're saying one tenth which is a big deal if it's true and this expert says there are ways deep seek could be more efficient the details are still unclear as to how they've done and you know there's discussions about that they require less chips and they are more efficient but I I don't think we have a defin definitive answer on that on that front yet but but in theory if we can make it to consider subsets or have ways to reduce the computation size by looking at things that are more important within the entire uh billions of parameters then we can make them more efficient so whether deep seek is truly better for the environment that remains to be seen and it's important to be critic
+[...middle cut...]
+i and energy now and looking for Solutions we we will see organizations seeking to put their data centers to cool the computers in colder climates could that be helpful for countries like Greenland Canada and also you know can we produce electricity that is greener could be hydroelectric electricity can we can we use that to our own advantage and it's complicated because AI does help us to figure out green solutions for example optimizing energy usage for companies creating aied irrigation and power grids that are much more efficient but climate scientists are also paying attention to how much energy we use to get at those Solutions and maybe keep that in mind too next time you use an AI app
+
+=== ID: -3nymPrOwNI ===
+TITLE: AI Water Use. Deepfake Ads. Amazon AI. AI Privacy.
+DESC: The AI news for July 3rd, 2025  Here are the details of the day's selected top stories:  Water Consumption: The Great Unknown in Increasing AI Usage Source: https://www.heise.de/news/Wasserverbrauch-Die-grosse-Unbekannte-bei-der-zunehmenden-KI-Nutzung-10472724.html?wt_mc=rss.red.ho.themen.k%C3%BCnstliche+intelligenz.beitrag.beitrag  Criminals Use Deepfakes of Celebrities for Deceptively Real Fake Advertising Source: https://www.heise.de/news/Kriminelle-nutzen-Deepfakes-von-Prominenten-fuer-taeus
+KEYWORD: AI water usage
+VIEWS: 2
+TRANSCRIPT: Hey and welcome to the AI Briefing Daily, your podcast for the most important AI news from the past 24 hours. Today is July 3rd, 2025. And here are our top stories. AI water use, deep fake ads, Amazon AI, AI privacy, AI water use. The water consumption associated with artificial intelligence presents a significant and growing environmental problem. This primarily stems from the extensive cooling required for data centers that train AI models. While energy consumption has been widely debated, the substantial water demand has received less attention. A study by the Society for Informatics systematically examines AI systems water use throughout their life cycle from chip production to data center operation and hardware disposal. The study recommends technical, regulatory, and societal measures to reduce water needs, emphasizing the urgency of developing sustainable future strategies. By 2027, global AI applications could consume between 4.2 and 6.6 6 billion cubic meters of water, surpassing Denmark's annual consumption by 4 to six times. Training the language model, GPT3 consumed approximately 5.4 million L and crafting a 10-page report with Meta's Llama 370B uses about 0.7 L, while GPT4 could use up to 60 L. New data centers exacerbate this issue, often located in areas already facing water scarcity, potentially leading to conflicts over water usage. The study concludes that AI must be developed sustainably and responsibly to contribute effectively to global challenges. Deep f
+[...middle cut...]
+mmendable, fostering trust. In contrast, Meta AI, Google Gemini, and Microsoft Copilot have more lenient approaches. Meta AI collects data from Facebook and Instagram profiles, storing memories without opt- out options. Google collects location and contact lists without training deactivation. Microsoft Copilot even shares data with affiliated financial services. Users receive scattered, complex information, often difficult to navigate. That was the AI news of the day. With this, you're perfectly informed for today. Would you like to create an automated podcast on your own topic? Get in touch with us and we'll make it happen. Thank you for tuning in. See you tomorrow for the next AI briefing.
+
+=== ID: JiE-bL1ahJ0 ===
+TITLE: How AI is Draining the Planet’s Water? | AI vs Water Crisis | StudyIQ IAS English
+DESC: StudyIQ IAS Hindi P2I Live Foundation Batch Join करें – UPSC 2026, 2027 & 2028 के लिए।  UPSC IAS Live GS P2I Foundation 2028 Pratigya+ October Hindi Batch एडमिशन की अंतिम तिथि 15 अक्टूबर 2025 | बैच का समय शाम 6:00 बजे Hurry Enroll Now :- https://studyiq.u9ilnk.me/d/K2CZoQeQRt UPSC IAS Live GS P2I Foundation 2027 Long term Pratigya+ October Hindi Batch एडमिशन की अंतिम तिथि 15 अक्टूबर 2025 | बैच का समय शाम 6:00 बजे Hurry Enroll Now :- https://studyiq.u9ilnk.me/d/NsRpvMMx3o UPSC IAS Live GS P2I Fou
+KEYWORD: AI water usage
+VIEWS: 1846
+TRANSCRIPT: हिंदी में यूपीएससी की तैयारी से संबंधित प्रोग्राम्स को देखने के लिए सब्सक्राइब करें स्टडी आईक्यूआईएस हिंदी। मानव के विकास के लिए विज्ञान और प्रौद्योगिकी का विकास बहुत जरूरी है। क्योंकि हमने अपने आप को जितना इवॉल्व किया है उतना साइंस एंड टेक के डेवलपमेंट के साथ में किया है। आज जितनी भी दुनिया हमको दिखाई दे रही है जो हमारे आसपास है। जैसे ये पेन मेरे हाथ में है, माइक है, सामने बोर्ड है, कैमरा है, सब कुछ क्या है? तकनीक है। इस तकनीक की ही देन है और इस तकनीक ने हमको काफी एडवांस भी किया है। उसके ढेर सारे फायदे भी ह्यूमन सिविलाइजेशन को मिले हैं। लेकिन आज के समय पर एक तकनीक के बारे में आप लोग बहुत सुन रहे होंगे। एआई एआई से ही मतलब नहीं है। कोई भी जो तकनीक हो उसकी कितनी कीमत हमको चुने चुकानी पड़ती है। उसको आज समझने की कोशिश करेंगे। स्पेशली हम जो इन जनरल छोटे-मोटे काम करने के लिए नॉर्मल सर्च इंजन का यूज़ करते थे। आजकल हर कोई एi का यूज़ करने लगा है। एआई जिसको आप लोग आर्टिफिशियल इंटेलिजेंस या मशीन लर्निंग के नाम से जानते हैं। यह बहुत ही कॉमन है। बहुत ट्रेंड में है और बहुत फैंसी है अभी के समय पर। इसके मल्टीपल यूजेस हैं। हम हर तरीके से इसको यूज़ कर रहे हैं। लेकिन इसका जो यूजेज़ है, यह कितना भारी पड़ रहा है रिसोर्सेज के ऊपर। स्पेशली वाटर रिसोर्सेज। इसको समझने की कोशिश करेंगे। यूपीएससी जनरल स्टडीज प्रीलिम्स एंड मेंस साइंस एंड टेक पेपर थ्री में आपको बहुत हेल्प करेगा। और एक बात मैं आपको बता दूं कि देखिए मेरा जो पर्पस है ना वो सिर्फ और सिर्फ आपके एग्जाम में किस तरीके से एनालिटिकल क्वेश्चन पूछे जाते हैं वो आपको बताना होता है। मेरा ऐसा कोई भी पर पर्पस नहीं है कि मैं ऐसे ही कोई वीडियो आपको बता देता
+[...middle cut...]
+ऐसा कैसा एक्सेप्ट करते रहेंगे। इसके बारे में हमको सोचना पड़ेगा। नहीं तो एक बहुत भयावह संकट हमको देखने को मिलेगा। तो यह एआई पर डिस्कशन हमारा था। किस तरीके से वाटर और रिसोर्सेज को खराब कर रहा है। यह प्रतिज्ञा प्लस हमारा फाउंडेशन बैच है। अक्टूबर बैच। आप इसका हिस्सा बन सकते हैं। बिहार पीएसएस की तैयारी आपकी साथ में हो जाएगी। 25 अक्टूबर से शुरू हो रहा है। यह मेरा कोड है जी आर एस लाइव। आप इसको यूज़ कीजिए। मैक्सिमम डिस्काउंट कोर्सेस में पाइए। दिवाली सेल चल रही है और इस सेल के अंतर्गत आप इनमें एनरोल कर सकते हैं। चलिए फिर मिलते हैं आप लोगों से। तब तक खुश रहें, मस्त रहें। हैव ए नाइस डे। गुड डे। हिंदी में यूपीएससी की तैयारी से संबंधित प्रोग्राम्स को देखने के लिए सब्सक्राइब करें स्टडी आईक्यू आईएएस हिंदी।
+
+=== ID: -sNKfRq1oKg ===
+TITLE: The growing environmental impact of AI data centers’ energy demands
+DESC: The EPA has reportedly drafted a plan to eliminate all limits on greenhouse gas emissions from power plants, according to documents obtained by The New York Times. Now, with the rise of artificial intelligence technology, demand on power plants is increasing, in large part due to AI’s reliance on data centers. Ali Rogin speaks with Kenza Bryan, climate reporter for The Financial Times, for more.  Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hou
+KEYWORD: AI water usage
+VIEWS: 109093
+TRANSCRIPT: John: The EPA has reportedly drafted a plan to eliminate all limits on greenhouse gas emissions from power plants. That's according to documents recently obtained by the new York Times. The power industry is one of the top sources of U.S. Greenhouse gas emissions, which scientists have said for decades help drive climate change. Now with the rise of A.I. Technology, demand on power plants is increasing, in large part due to a.I.'s reliance on data centers. Ali rogin spoke with kenza Bryan, climate reporter for the financial times. Ali: Thanks for joining us. How would you describe the environmental impact of these data centers that are at the heart of ai? Kenza: Their environmental impact is huge and it's growing. Ai data centers are massively contributing to the continued rise in power demand, which itself contributes to the continued rise in global emissions. And most importantly, it's growing faster than grid capacities. And even more importantly, it's growing faster than renewable energy growth. Which means that even as data center energy use grows, clean energy from wind, solar, nuclear perhaps is lagging behind. Ali: And what have you learned about the public health implications of the capacity that's needed to power these ai systems? Kenza: Some of the public health implications are very local. But really, the effects are more global than local. So, pushing up demand for fossil fuels means more CO2 is emitted, which helps global temperatures creep up, which can have lo
+[...middle cut...]
+e environment and public health? Kenza: The ai boom has taken off at a awkward time for the fight against climate change, because global temperatures are already rising much faster than scientists expected. And now ai and the international energy agency has said is contributing to a massive increase in power demand, which itself is contributing to an increase in emissions. Because the problem is, we haven't decarbonized our grids yet. They're still hugely reliant on fossil fuels. They need energy even when the wind isn't blowing and the sun isn't shining, which means that but until those grid capacity constraints start to be felt -- which means that even more reliance on fossil fuels and the
+
+=== ID: 9n_bC5vwXPQ ===
+TITLE: The Truth About How A.I. Uses Water |Shawnswrld|
+DESC: AI drank my Voss  🎬 About Me I create fun, engaging, and high-quality videos that bring the worlds of tech, gaming, and creativity to life. My goal is to share stories, ideas, and content that entertain while building a strong community of people who love this space as much as I do.  ✨ Support the Channel If you enjoy my videos and want to help the channel grow, it would mean the world to me if you joined through this link: 👉 Click here to support!  💡 Create Your Own Content Want to start making
+KEYWORD: AI water usage
+VIEWS: 34
+TRANSCRIPT: When you hear AI, what do you really think of? Chat bots, robots, computers just answering questions or making images or videos on the fly. Nobody ever thinks about water. But that's the crazy part because AI is actually using a lot of fresh water. And most people know nothing about this. AI isn't turning off faucets or even dumping water at lakes. It's way more boring and way more serious than that. Here's what's really going on. Every time that you use AI, stream a video, scroll TikTok, or load a website, there's a building somewhere doing all the work. Those buildings are called data centers. Think of data centers like giant warehouses packed with wall-to-wall computers. Thousands of them, all running non-stops, no breaks, no sleep. And these computers get hot, like really hot, way hotter than Bitcoin computers. If they overheat, everything shuts down. So, companies have to cool them consistently. And one of the easiest ways to do that is water, and a lot of it. Most big data centers use fresh, clean water for cooling. The same kind of water that comes out of your sink. The same water cities use for homes, farms, and even schools. Some of these places use millions of gallons a day. Let that sink in for a second. Millions every single day. Water is being used to cool these things down. And that water doesn't magically just come back. Here's where it starts getting even more uncomfortable. A lot of data centers aren't built in rainy areas. They're built where land is cheap a
+[...middle cut...]
+anies from using water as they need. So, guess what options most of them choose? And this actually affects you even if you live nowhere near a data center. Fresh water isn't unlimited. Climate change is already putting pressure on water supplies. Droughts are getting worse. Cities are growing. And now AI adds into the mix. AI isn't evil. No, not at all. It's not even trying to take water away from people. But it keeps growing without limits or rules. It can absolutely make water storage worse. Quietly, invisibly, and without people even noticing. So is AI taking fresh water away? Yes, but not directly. It's not stealing water from your cup. It's pulling it from some systems we all depend on.
+
+=== ID: sq0mBjvVcX0 ===
+TITLE: Water Cooler Conversations with Paul Fleming: Data Centers and Water Usage
+DESC: 
+KEYWORD: AI water usage
+VIEWS: 9
+TRANSCRIPT: We're seeing more articles about the water consumption associated with with data centers. Uh the concerns about when the data centers come to town, you know, what what does it mean for water, right? Most of the water was being consumed was associated with the company's data centers, right? And and this was sort of pre AI really coming into the four. So where the huge spike in water consumption hadn't really been foreseen or realized yet, right? I will say though at the time and I think even now energy dominated the conversation, right? The energy use associated with uh data centers chewed up most of the bandwidth. Um, and I think that was partially a product of the emphasis in the climate space being around carbon, right? Yeah. Uh, and not there not being as much of an emphasis on on water. So, you know, one of the goals was was to try and get water at the table, right? Um, which we were able to do. It's interesting to see what you just said which I also concur with is the idea that even when we talk about these smaller scale issues of these companies right so usage of energy uh always dominates but people forget the water component and you see this across the board we talk about things like power plants right you know we're focused on the energy component of consumption of resources to generating electricity but thermmoelectric power plants require water right it's so it's almost this afterthought I'm I I'm being optimistic that I think optimistic that I think it's changing. Water is getting more recognition because it is a certain sense parts of it are a finite resource and so people are are actually you know coming to realization with that and and hopefully it gets the uh the respect it deserves if you will.
+
+=== ID: WJ6-JUMJlXU ===
+TITLE: 🌍 Solving AI’s Water Crisis LIVE on ARY LIVE NEWS! 💧
+DESC: On ARY LIVE NEWS, I’m discussing AI data centers’ water use, spotlighted by the BBC Urdu article. From Microsoft’s innovative underwater Project Natick to advanced closed-loop cooling and reclaimed water systems, we’re paving the way for sustainable AI! #AI #GreenTech #ARYLiveNews
+KEYWORD: AI water usage
+VIEWS: 247
+TRANSCRIPT: अब एआई की जिस तरीके से फॉर्मेशन है ना वहां एआई के एआई भी एक मशीन के अंदर मशीन के अंदर बेसिकली डाटा सेंटर्स होते हैं उनमें कंप्यूटरटर्स होते हैं और वहां पे उन कंप्यूटरटर्स के अंदर प्रोसेस हो रहे होते हैं आपके सवालात के जवाबात अब होता क्या है कि उन कंप्यूटरटर्स को के लिए को कूल करने के लिए कूलिंग सिस्टम होता है जिसमें पानी दरकार होता है पानी इस्तेमाल होता है तो अमकी मुहाककीन के मुताबिक आप ये देखें कि हर 10 से 50 सवालों के लिए आधा लीटर फिर पानी जाया होता है। तो आप लोग अच्छा एंड देन अगेन एक और बड़ी इंटरेस्टिंग बात है इसके अंदर। इंटरेस्टिंग में क्या मतलब बड़ी अजीब सी और अफसोसनाक बात है कि आप लोग जब चैट जीपीटी से पूछते हैं कि हे चैट जीपीटी प्लीज आंसर दिस क्वेश्चन और जब वो आपको आंसर करता है फिर आप उसको थैंक यू बोलते हैं तो उसमें भी पानी की जो मिकदार है वो ज्यादा हो जाती है। यानी कि आप वही आपकी बात जो सीईओ हैं ओपन एआई चैट जीपीटी के वो ये कहते हैं उनके मुताबिक सैम एल्कन के मुताबिक पानी इस्तेमाल करता है। चैट जीपीटी एक सवाल के जवाब देने के लिए एक चाय के चमचे का जो 15वा हिस्सा पानी है वो इस्तेमाल करता है। तो आप सोचिए रोजाना आप कितने सवाल कर रहे हैं? रोजाना ऑलमोस्ट एक अरब सवालात हम लोग मजमुई तौर पर चैट जीपीटी से पूछ रहे हैं और ये सिर्फ चैट जीपीटी की बात हो रही है। बाकी बॉट्स अलग है जो ग्रॉक है देन अगेन मेटा है और बाकी बाकी बॉट्स अलग हैं। अच्छा उसके बाद फिर टैक्सेस और कैलिफोर्निया के मुहाकिन ने ये बताया कि चैट जीपीटी मॉडल 3 हर 10 से 50 सवालात का जवाब देने में आधा लीटर पानी इस्तेमाल करता है। 2027 तक एआई इंडस्ट्री हर साल डेनमार्क के पूरे मुल्क के मुकाबले में चार से छह गुना ज्यादा पानी इस्तेम
+[...middle cut...]
+्यों आप हमारी जो है उस पर आपने नजर रखी मतलब अभी से शुरुआत है। इट्स आल्सो ऑन माय जॉब। ठीक है? तो होगा क्या? लाइक कास्टिन साइम इसलिए क्योंकि आपको ज्यादा लोग जानते हैं। इट्स जस्ट द बिगिनिंग यू आर सेइंग। आप पीछे नहीं हट सकते। तो एजेंटिक है लाइक अ ह्यूमन। वो इंसानों की तरह अच्छा ये फिजिकल एजेंट भी होंगे और ये सॉफ्टवेयर एजेंट भी होंगे। जी यानी कि ये चीज नहीं रुकनी है इन श ये चीज अच्छा रुकना नामुमकिन है लेकिन रोकने के नुकसानात है नुकसानात है क्योंकि हम बहुत सारी चीजें इस दुनिया में एफिशिएंट बना सकते हैं और जाहिर है पावर हंगरी तो है ही तो जिसके पास पैसा है उसे पावर एटॉमिक जो आपकी एनर्जी है वो भी क्रिएट की जा रही है आपकी एफिशिएंट होती जा रही है तो थैंक यू सो मच थैंक यू सो मच कासिम बहुत शुक्रिया के बस
+
+=== ID: 248N4yQL_zA ===
+TITLE: AI Energy and water consumption
+DESC: AI is transforming industries — from healthcare to finance — but behind the scenes, it’s also consuming staggering amounts of energy and water. Training and running large AI models requires massive data centers. These facilities not only draw enormous power — sometimes as much as the power used by tens of thousands of homes — but also consume vast amounts of water for cooling . Just to have an idea of the energy consumption, generating that cute kitty image can consume as much energy as the one 
+KEYWORD: AI water usage
+VIEWS: 8
+TRANSCRIPT: AI is transforming industries from healthcare to finance. But behind the scenes, it is also consuming staggering amounts of energy and water. Training and running large AI models requires massive data centers. These facilities not only draw enormous power, sometimes as much as the power used by tens of thousands of homes, but also consume vast amounts of water for cooling. Just to have an idea of the energy consumption, generating that cute kid image can consume as much energy as the one needed to run a laptop for 20 hours. Much more for a generated video. By 2030, data centers could use more electricity than India and as much water as all Americans drink in a year. That is a wakeup call. Hyperscalers are investing on renewable energy and advanced cooling systems. One of them has pledged to be water positive by 2030. Software providers are optimizing models to reduce compute needs. Think smaller, more efficient AI models like distillation and quantization. and consumers. We can choose greener cloud providers, reviews on necessary AI queries, and support transparency in AI energy reporting. AI can help solve global challenges, but only if we build it responsibly. Let's make sustainability part of the innovation.
+
+=== ID: hki2F9hE9cM ===
+TITLE: How Much Water Does AI Use Per Question? #amazingfacts
+DESC: Artificial Intelligence feels invisible. You ask a question… and the answer appears instantly. But behind every AI response lies a hidden infrastructure of massive data centers, powerful processors, and complex cooling systems. Many of these systems rely on water to keep servers from overheating. Researchers estimate that around half a liter of water may be consumed for roughly every 50 AI questions through cooling processes in data centers. In this short cinematic video, we explore the hidden e
+KEYWORD: AI water usage
+VIEWS: 114
+TRANSCRIPT: Every time you ask a question to artificial intelligence, something invisible happens. You type a few words. The answer appears in seconds. It feels almost weightless. But behind that simple reply lies a hidden cost. Massive data centers, thousands of powerful processors, and an enormous amount of electricity working non-stop to generate a single response. And where there is heat, there must be cooling. To keep these machines from overheating, data centers rely on huge cooling systems. And many of them use something surprisingly simple. Water. Yes, water. Researchers estimate that around half a liter of water may be consumed for roughly 50 AI questions. Not by you directly, but by the cooling systems that keep the servers running smoothly. Now, imagine this. Millions of people asking millions of questions every single minute. From homework help to coding problems to casual curiosity, each answer is powered by machines somewhere on the planet, quietly consuming energy and water to keep intelligence flowing. It's a hidden footprint of the digital age. Artificial intelligence may feel like it exists in the cloud, but in reality, it lives in vast buildings filled with humming machines, pipes, and cooling towers. The next time you ask AI a question, remember this. Behind that instant answer is a global network of technology, energy, and even water working silently to think with you.
+
+=== ID: IdzhLxOYxy8 ===
+TITLE: The Hidden Thirst of AI: Unveiling the Water Usage
+DESC: AI and the Water Crisis: An Unsaid Dimension We Often Overlook  Do you frequently interact with ChatGPT or similar AI technologies? Then, you might be substantially contributing to water evaporation without even realizing it. The resource-hungry servers that run these models are not boiling water or making steam; they use water to cool down. Consequently, the water evaporates and becomes unavailable for downstream purposes.   But it’s not just the cooling systems evaporation we’re talking about.
+KEYWORD: AI water usage
+VIEWS: 622
+TRANSCRIPT: have you ever considered how much water your latest interaction with an AI system might have used it's a thought that might not cross our minds but behind the scenes artificial intelligence has a significant water footprint this might come as a surprise but every time we interact with AI Technologies there's a hidden water cost involved these AI systems like the popular chat GPT require cooling processes to function and these processes along with the power plants generating their electricity consume substantial amounts of water as AI models become larger and more sophisticated their thirst for resources including water rises consider this Research indicates that training a model like gpt3 can result in the direct and indirect consumption of millions of liters of water that's a lot of H2O the next time you interact with an AI remember it's not just electricity that's being used it's also water training models like gpt3 can lead to the consumption of millions of liters of water this might seem odd to hear but the reality is that the thirst of AI is not limited to data it extends to water as well you see the massive data centers that power AI models require Cooling and that cooling process involves water similarly the power plants that generate the electricity to run these data centers also consume water mostly due to evaporation in cooling towers the Water toll of AI is not a static figure as AI Tech technology grows in sophistication so does its water footprint larger more com
+[...middle cut...]
+r freshwater sources due to the evaporation caused by cooling processes is a critical consideration our cities Agriculture and ecosystems depend on these sources and they're being squeezed Ed by The Thirst of AI so how do we Square this circle the answer lies in developing AI technology sustainably consciously tracking and reducing the water and energy used in AI model training and deployment companies like Microsoft are already making strides in this direction but there's still a long way to go the challenge lies in balancing the advancement of AI technology and its environmental footprint particularly its water usage it's a tall order but one we must strive to fill for a sustainable future
+
+=== ID: sRtg-5TIItE ===
+TITLE: 🎧 Tech & Earth Live – Episode: Does AI Really Use Water?
+DESC: 
+KEYWORD: AI water usage
+VIEWS: 3
+TRANSCRIPT: Welcome to our podcast life and earth. Today we are going to have a friend but very real questions. Does AI actually use water? It sounds weird, right? But the answer is yes and a lot more than you might think because AI doesn't live in the sky. is live in the huge data centers full of powerful computers and GPU. This give extremely hot when you ask them difficult questions. And when things get hot, they need cooling. One of the most common ways to cool these data centers is by using water, letting it absorb heat and then evaporate. Some data center use millions of liter of water every single day just to keep AI system from overheating. And that's not even counting the water used to produce the electricity that powers AI since power plants also use water for cooling. some so every time you chat with AI the electricity and motors working behind those scenes. The problem is that many data centers are built in dry areas like deserts because electricity is cheaper there but water is limit. This can put pressure on local communities. The good news is that some tech company are starting to find solutions by recycle of water or using a treb water and switch to airbased cooling system. Some even reuse the heat from servers to generate energy or warm buildings. So AI isn't bad, but we build and run. It need to be smarter and more responsible. Next time you ask an AI aggression, remember behind that answer are electric city, water, and the planet working for you. Thank you for watching our live tech. See you next time. See you. Goodbye.
+
+=== ID: BTYoD8GP7e0 ===
+TITLE: Artificial Intelligence, Water and Energy Consumption
+DESC: In this clip, UNC Chapel Hill librarian Carrie Baldwin-SoRelle describes environmental and ethical considerations for Artificial Intelligence.   The Coalition for Carolina hosted a webinar to  help Coalition members better understand what  Artificial Intelligence is, how it can be used and the potential impacts of AI – both the good and the bad . View the full webinar here: http://bit.ly/4kMxdMx
+KEYWORD: AI water usage
+VIEWS: 34
+TRANSCRIPT: And then the final piece that I always talk about when um working with folks at Carolina around Gen AI is are the ethical and environmental considerations. So generative AI takes uh more energy and water uh usage than sort of traditional forms of AI. Um, Sajad Moazani estimates that Genai takes between uh 100 to 1,000 times more computational power than um previous forms of data analysis uh because of that uh requirement that it has about about um the massive amounts of training that it goes through. Um it also takes larger amounts of water to cool those data centers. So Penguay Lee and colleagues found that GBT3 needs to drink or consume uh about a 500ml bottle of water uh per 10 to 50 medium length responses that it generates. So you can imagine that at scale that is a a substantial amount of of water usage for a limited resource. So best to be aware of what what the cost is um and making sure that um it's being used responsibly. Uh misinformation and bias uh are also present as they are in most systems um of information. So because these tools are trained on historic information um they have those that historic information and and perspective bias um built into it. Um an example might be you know the tool maybe sees more frequently used uh the name Turkey for the country um and we'll provide that instead of the now preferred term Turkey. Um, another thing to keep in mind, as I mentioned previously, is data protection, especially when used in sensitive settings like health insurance or the financial sector. Um, and then copyright is also a concern um to protect intellectual property rights. Um, there's some ongoing litigation about the ingest of copyrighted material by um artificial intelligence crawlers. Um, and that could include things like our faculty's publications. So, um, that's often done without the consent of the intellectual property holder. Um but that's uh the question of whether that is an appropriate use is still sort of making its way through the systems.
+
+=== ID: EPHx3k9g79k ===
+TITLE: The COST of AI: WATER
+DESC: **Want up to $1,000 off a new Tesla, or a free month of Starlink?** Tesla: https://www.tesla.com/referral/john11286.  Starlink: https://www.starlink.com/residential?referral=RC-2831852-84142-63 Thank you!  Join this channel to get access to perks: https://www.youtube.com/channel/UCyqpZ8HY9FY5jH-RoVcwlnw/join  **To become part of our Patreon team, help support the channel, and get awesome perks, check out our Patreon site here: https://www.patreon.com/DrKnowItAllKnows. Thanks for your support!  G
+KEYWORD: AI water usage
+VIEWS: 1902
+TRANSCRIPT: As is obvious to anybody who follows my channel, I love and use large language models and generative AI in general all the time. But what you might not know is the cost of using generative AI. Did you know that something like this costs something like this in terms of water alone? Yeah, it's true. So, let's take a look. Hey y'all, it's Dr. Knowit All. don't want to be a downer, but I think it is important for all of us to recognize that the there is an environmental cost to using large language models and that environmental cost is substantially higher than the traditional internet which is already reasonably high. So this video comes out of a panel that I did yesterday at the University of Georgia AI research day on the ethical and environmental impact of generative AI and in particular large language models but also diffusion models and things that make cat memes and stuff like that. And while I knew there was a significant environmental cost, I didn't realize quite how high it was. And water in particular was really shocking to me. So yeah, basically 519 milliliters, so a little bit more than this bottle of water is the cost of water to cool the data center to generate that much text. And if you think about a standard email, again, you know, just something along the lines of something like this, you're looking at only a few hundred tokens. And if you use reasoning models, which I do all the time, they can generate thousands and thousands of tokens for an answer. So the the
+[...middle cut...]
+ me know in the comments what you think about all of this stuff. You might disagree with these the with these uh conclusions and everything. You might have alternatives for how we can potentially do a better job of being stewards of the environment while using these cutting edge technologies, etc. I would love to hear about all of that stuff. Just keep it civil. While you're down there, if you don't mind liking the video, it really helps other people to find it. YouTube's algorithm depends on that. And if you want to see more of this kind of thing and more optimistic videos about technology and AI, etc., consider subscribing to the channel and I'll see you in the next video. Bye-bye. [Music]
+
+=== ID: HeChenXJRcY ===
+TITLE: Water Usage in Data Centers, NID Data Science, Fraud Detection, Nuclear Economics | Sep 23, 2025
+DESC: Takeaways  Data centers are facing scrutiny for their water usage. California's new bill requires data centers to report water use. NIH's autism initiative aims to integrate various data sources. Machine learning is crucial for detecting fraud in lending. Nvidia is investing heavily in data centers and AI technology. Nuclear energy poses significant investment risks for companies. Small modular reactors could be a viable energy solution. Data centers may need on-site energy generation. The regul
+KEYWORD: AI water usage
+VIEWS: 17
+TRANSCRIPT: Good morning and welcome to Data Talks Live. I'm Dr. Tom and today we're going to talk about data, all things data, data in the news, data and research and my take as a professor of data analytics and machine learning as well as the head of an MBA department at a university and a professional with nearly 20 years of industry experience. So, what's going on in the world of data today? We see an article, Yahoo by Ian James. Amid a data center boom, California lawmakers pass a bill to track water usage. So, data centers among energy needs also includes a large amount of fresh water. So, it looks like companies that run data centers are facing increasing scrutiny for guzzling water in the dry western US as artificial intelligence fuels boom a boom in the industry. California legislators passed a bill this month that would require facilities to report their projected water use before they begin operating and thereafter to certify how much they use annually. The bill is waiting for Governor Nuome's signatures. So what's the concern? So clearly California has water shortages. They have issues with wildfires so forth. So you could see how you would want to conserve and track how much water data centers are usually using particularly as they pop up across the country. They use water for cooling their servers. They have to control humidity to reduce static electricity which can cause stray currents which damage equipment. And then electricity generation in general uses water for coolin
+[...middle cut...]
+re aren't pipelines everywhere, but just seems like it's it's more likely to me based on a number of economic factors in the US like the political environment. People still have a a lot of people still have an unfavorable view of nuclear and the availability of capital, the amount of time it takes to go up, how much labor is required. So, we'll have to see. Something's going to need to be done. Hopefully, it's not just we throw up a couple of backup diesel generators and put some more strain on the grid. Municipalities are going to need to get involved. I think that's it for today. So, this has been another episode of Data Talks Live with Dr. Tom. I'm Dr. Tom and talk soon. Thanks everybody.
+
+=== ID: ac31bBLr1Fs ===
+TITLE: AI's Thirst: How ChatGPT Emails Impact Water Consumption
+DESC: AI's impact on resources is explored. We reveal how AI tools like ChatGPT use vast amounts of energy and water with each email, highlighting the environmental cost of AI. #AI #ChatGPT #Sustainability #ArtificialIntelligence #WaterConsumption #EnergyConsumption #Environment #Tech #Innovation #ClimateChange
+KEYWORD: AI water usage
+VIEWS: 19
+TRANSCRIPT: Intelligence is thirsty technology. For example, one study said a 100word email using chat GPT consumes the equivalent of one bottle of water. Just one email. Millions of people are writing emails using AI every day. And the AI boom is just beginning.
+
+=== ID: r_stOqEQ2Ow ===
+TITLE: ANDROID കുഞ്ഞപ്പന്മാരുടെ ലോകം ദൂരെയല്ല ! ChatGPT's Water Consumption! #androidkunjappan #chatgpt5
+DESC: For Full Episode https://www.youtube.com/watch?v=bJRjRPUjqqM&t=589s  The resource demands of ChatGPT from OpenAI and Google's Bard are substantial, necessitating extensive server clusters to fuel their potent capabilities. Cooling these data centers adds to their thirstiness. Collaboratively, Microsoft and OpenAI utilized an astounding 185,000 gallons of water to train GPT-3, a quantity comparable to what's required for cooling a nuclear reactor.  #aiprogress  #CuttingEdgeAI #techbreakthroughs  
+KEYWORD: AI water usage
+VIEWS: 86
+TRANSCRIPT: foreign [Music] foreign [Music] Vietnam the amount of heat it generates it seems can be detected at space International Space Station of the detective yes another gallons of water is um [Music] he's trying to repeat again hopefully this time it works soon we will we will have robots roaming around in the house through uh vacuum cleaner yeah [Music] robot eventually what will happen is there will be a face to it human-like appearance like foreign
+
+=== ID: w3Ye79PJM88 ===
+TITLE: AI and Water Usage: Do we really need to be worried about it?
+DESC: AI and Water are more connected than most people realize. As artificial intelligence continues to expand, the data centres that power it are using millions of litres of water every day to stay cool. This invisible demand is creating ripple effects across our freshwater systems, and ultimately, our ocean.  In this episode, Andrew Lewin uncovers how AI’s explosive growth is reshaping global water use. From groundwater depletion and saltwater intrusion near coastal data hubs to desalination dischar
+KEYWORD: AI water usage
+VIEWS: 948
+TRANSCRIPT: AI is revolutionizing everything from climate modeling to social media, but it's still creating a problem, a new kind of environmental footprint, let's say, that we rarely talk about, and we're going to talk about it today about water use. What if data centers powering AI are quietly reshaping the way water moves through our world and maybe even affecting the ocean life itself? We're going to talk about that on today's episode of the How to Protect the Ocean podcast. Let's start the show. Hey everybody, welcome back to another exciting episode of the How to Protect the Ocean podcast. I'm your host Andrew Lewen. This is the podcast where you find out what's happening with the ocean, how you can speak up for the ocean, and what you can do to live for a better ocean by taking action. And on today's episode, we are going to be talking about AI. Now, I have to admit, I am a big user of artificial intelligence. I have an account with Chat GBT, the $20 account a month, and I use it to work this podcast. I do this podcast by myself. I publish three episodes a week. I work a full-time job. I have kids. I have a family, you know, that I like to spend time with, and I like to enjoy my evenings. So, instead of spending an hour and a half or 2 hours to like do the show notes myself and write it out and go through all the process and, you know, mark everything, I use AI. I use AI to come up with the basics things based on my transcript which is using AI to get a transcript out and then I p
+[...middle cut...]
+ love to hear your thoughts on this. Let me know in the comments below because I think it's really important to start this conversation. If you're watching this on YouTube, comments below. If you're listening to this on your favorite podcast app, let me know how you feel. DM me on Instagram, how to protect the ocean. It's @ how to protect the ocean. Or go to speakoutforblue.com/cont. Let me know how you feel. Just fill out the form. Goes right to my email. I'll get back to you as soon as I can. I want to thank you so much for joining me on today's episode of the How to Protect the Ocean podcast. I'm your host, Angel Leuen. Have a great day. We'll talk to you next time and happy conservation.
+
+=== ID: MsM9sCp8z0A ===
+TITLE: Data centers, water & secrets: Companies using NDAs to hide water usage in Georgia
+DESC: Massive data centers proposed for metro Atlanta expect to use millions of gallons of water per day.  Some of those data centers are planning to use more water than entire Georgia towns.  Channel 2 consumer investigator Justin Gray has been looking into what that means for the communities around these data centers: https://2wsb.tv/446L8qm  SUBSCRIBE: https://www.youtube.com/user/channel2actionnews?app=desktop&sub_confirmation=1  ABOUT WSB-TV CHANNEL 2 ACTION NEWS: WSB-TV Channel 2 Action News is 
+KEYWORD: AI water usage
+VIEWS: 70690
+TRANSCRIPT: New at 5, massive new data centers proposed for metro Atlanta expect to use millions of gallons of water per day. In fact, some of those data centers that power the internet and now AI are planning to use more water than entire Georgia towns. Channel 2 consumer investigator Justin Gray live now at Pedmont Park. And Justin, you've been looking into what that means for the communities around these data centers. Well, George, you can see the water still in the pool at one of the larger outdoor pools in the metro area. Petemart Park pool. Let's go to News Drone 2. You know, I checked with management here at the park. They tell me 165,000 gallons is what it takes to fill this pool. Well, these hypers scale data centers we're talking about, they can use that much water in less than an hour. If you look up the hill to the left, neighbors tried to show me on the ground, but you can see it better from News Chopper 2. The proposed project sale data center in Kawita County would be bigger than all the terminals in Hartsville, Jackson combined. It's going to put pressure on on the county water supply. There's no doubt about it. Water might not be the first thing you think of when you look at big hypers scale data centers like this Google facility in Douglas County. But most data centers rely on lots of water to cool the systems. Nothing uses water or energy the way the data centers do. Chris Manganelo from the Chattahuchi Rivereper has been trying to get hard numbers to answer a pretty b
+[...middle cut...]
+er uses less water than the average large office building about 7 million gallons. But these hypers scale data centers we are talking about that are coming to Georgia, they can use that much George and Karen in less than a day. Well Justin I think the question people have at home. Does this mean that my water bill is going to go up? And that is the big question. And the data center industry is adamant that it will not that they will cover all the costs of additional infrastructure. But with all these redacted documents, these NDAs, we essentially are taking their word for it. That redacted document said it all. That pool behind you, a great visual for us, too, Justin. Thanks. Coming up here.
+
+=== ID: Sz3sjdJ2Flk ===
+TITLE: How Much Water Does AI ACTUALLY Use? | #FaikFiles 38.1
+DESC: - MIT Technology Review: https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/ - Google’s AI Power/Climate Impact Research: https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference - Google’s Paper: https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf    ===== ##### && INFO AND CONTACTS && ##### ===== Prefer to listen to your podcasts? If so, you're in luck. The aud
+KEYWORD: AI water usage
+VIEWS: 214
+TRANSCRIPT: [Music] I am so excited to talk to you about this because this has been something that has been a bug bear of mine. And if you're a longtime listener of the show, you'll remember I talked about trying to work on a project relating to figuring out how much power these AI systems are using. And unfortunately, I hit the same roadblock that a lot of other people trying to do that did, which is that none of these companies have been very forthcoming about the actual data about their power and water use. We've had to go off of sort of strange sideways estimates. I've had a power meter hooked up to my computer for almost a year at this point too and checking like the uh inference power use of local models but still no one could really tell you how much power these systems use at scale and a data center environment is a completely different thing to uh any kind of home server. So this is really crucial data. Now it's coming straight from Google which of course has a vested interest in maintaining a good public perception and seeming like they're doing good things obviously. I think this is actually a pretty good thing though, and I'll tell you why as we dig into it. First, I'll start by showing you the video that they released, which I think is edited in a way that's a little bit confusing. But stick with me cuz we're going to break all of this down. This is a video straight from Google called calculating our AI energy consumption. Specifically, what we're looking at is today what th
+[...middle cut...]
+ you are using an AI to help you do something, it's doing that thing for you and using power. That's pretty much the same as playing a video game like Fortnite or rendering an image in Blender or doing anything that uses power, right? So it's all about that sort of trade-off. And also, maybe I'm in a bubble where I just see a lot of these memes that are like AI is gonna burn us all down. Anyway, I'm gonna cut myself off before I just start ranting. We're gonna move into our next segment right after this quick break. And we're talking about hierarchical learning models, a different kind of architecture that's really cool and extremely good at reasoning through tough problems. Stay right here.
+
+=== ID: SxhHCv2RRiM ===
+TITLE: How AI Data Centers Use So Much Power and Water
+DESC: AI data centers need a lot of power and water, much more than other data centers.  They're like huge machines in our towns using up resources. We talk about why they use so much and what it means for our planet. Want to know more? Check out our video!  Visit our website for more info Amerruss.com  #GreenIT #SustainableTech #DataCenters #AI #Environment    FOLLOW US : 👇  Dr. Eric Woodell https://www.linkedin.com/in/ericwoodell/  Purchase Eric’s book :books: https://amzn.to/4cqyepQ  Amerruss LLC :
+KEYWORD: AI water usage
+VIEWS: 847
+TRANSCRIPT: [Music] we're going to build a sustainable data center we're going to do green it in fact well the first time somebody ever told me what do you think of a green data center it was uh it was one of my managers back when I worked with Southern California Edison they said well what do you think of green it and I said the only way you're going to get green it in a data center is if you spray paint the building green all right there's nothing green about it they're energy Hogs they really really are now local communities are fighting back because they don't want one of these big energy Hogs sitting in their backyard and consuming their power consuming their water well uh go to carry this analogy along an AI data center is no longer it's no longer a hog it's an elephant it's an elephant it's 10 times bigger 10 times more water 10 times more power and something to keep in mind most people are not aware of is that when there are rolling black outs the utility companies because of the nature of data centers they're not going to take the data centers offline first
+
+=== ID: TKE8bBwCrdc ===
+TITLE: How AI Is Guzzling Our Water Supply | 10 News First
+DESC: A little-known fact about AI is the amount of water it consumes to generate content in a way that is reshaping the planet.  As our demand for artificial intelligence grows in business and our personal lives, it is expected to create increasing strain on our vital natural resource.  #10NewsFirst #AI #artificialintelligence  Watch 10’s Late News weeknights at 10pm AEST.   Subscribe to 10 News First to get the latest updates and breaking news: https://bit.ly/37DDbL1  Join the conversation and follo
+KEYWORD: AI water usage
+VIEWS: 6920
+TRANSCRIPT: 
+
+=== ID: X45vF4WsOIg ===
+TITLE: Why Does AI Use So Much Water? | How Artificial Intelligence & Data Centers Consume Water
+DESC: Why Does AI Use So Much Water? | How Artificial Intelligence & Data Centers Consume Water (Explained)  🔍 Alternative High-CTR SEO Titles (YouTube + Google Friendly)  How Does AI Use Water? The Hidden Water Consumption of Artificial Intelligence Explained  Why AI Needs So Much Water | The Shocking Truth About AI, Data Centers & Cooling  Does AI Really Use Water? How ChatGPT & Data Centers Consume Millions of Liters  AI Water Consumption Explained | Why Artificial Intelligence Is Using So Much Wat
+KEYWORD: AI water usage
+VIEWS: 197
+TRANSCRIPT: Imagine typing a single question into AI and instantly triggering a global chain of events. Every keystroke sets trillions of calculations in motion inside massive data centers. What looks simple on your screen unleashes extreme energy, heat, and yes, water consumption on an unprecedented scale. Are you ready to discover how your curiosity touches the planet's water? Your prompt travels [music] at near light speed through fiber optic networks, reaching data centers across the globe. Each bite lights up rows of high-powered servers, blinking and humming with digital life. But here's the twist. These servers don't just consume electricity. They produce immense heat, forcing water inensive cooling systems into action. And the scale will surprise you. Step inside a modern data center where towers of GPUs calculate endlessly. As computations spike, temperature rises, and cooling systems roar to life, pipes pump thousands of lers of water, some evaporating instantly. One small AI request, one video frame, and the invisible water footprint begins to grow. Can you imagine the hidden cost of your daily AI interactions? It's not just the servers. AI's electricity comes from power plants, many relying on water for turbines and cooling. This means your simple question triggers indirect water usage hundreds of miles away. From rivers to reservoirs, water flows quietly but massively, sustaining the digital magic you see. How did we reach a point where curiosity equals global water demand? 
+[...middle cut...]
+ponsibility. Are we ready to act responsibly? Global AI adoption magnifies small choices. Each user's click triggers water use far from view. Rivers, reservoirs, and power plant systems operate in the background. Invisible yet impactful, the cumulative effect demands awareness. How can we design AI experiences that respect the planet's resources? From one simple prompt to a worldwide water network, the story of AI is a tale of hidden resources. Every question, video, or image leaves a footprint. Awareness is the first step. Sustainability is the next. The next time curiosity strikes, remember digital magic is powered by real water. Are you ready to make mindful AI choices? Water for cooling.
+
+=== ID: 74EogFpafBE ===
+TITLE: Is AI Really Draining the Planet?
+DESC: Is AI Killing Our Water Supply? The Truth About Data Centers. We’ve seen the headlines: ChatGPT "drinks" a bottle of water for every few dozen prompts. But is AI actually causing droughts, or is it just the newest scapegoat for a bigger crisis?  This analysis looks past the headlines to quantify the local impact of liquid cooling and "thermal pollution" in water-stressed regions. We Investigate the water and energy demand that could strain our power grid by 2030.  [WATCH NEXT] The Ad-Free Era of
+KEYWORD: AI water usage
+VIEWS: 39
+TRANSCRIPT: AI is draining our water. Data centers are being built in regions facing severe droughts, extracting water from communities that don't have enough. Millions of leaders are evaporating every day. At least that's what the headlines say. But are those claims actually true? And how harmful is it really? Let's break it down. Google, Meta, and Microsoft report using billions of liters from local water sources annually. But there's a bit of an information fog because none of them will say how much of that water is specifically for AI. Sam Elman claims a single Chad GBT prompt uses 115th of a teaspoon of water. But researchers who measured independently, they save 500 ml per 10 to 50 queries. A water bottle, four dozen questions. When the BBC pressed OpenAI for their methodology, OpenAI declined to comment. But why does AI need water? AI chips run trillions of calculations per second, generating heat that would destroy the hardware in minutes. Traditional air cooling can't keep up. The popular solution, liquid cooling, water cooled systems that end with evaporation. It has to be clean drinking quality water. Salt corrods pipes and bacteria clog systems. In most AI data centers, up to 80% of water evaporates. It doesn't get recycled back to the source. It enters the atmosphere and eventually rains down somewhere, but not necessarily anywhere near where it was extracted. The remaining 20% gets discharged back to the river or lake, but several degrees warmer. That temperature difference
+[...middle cut...]
+AI's water usage a problem? Yes, if you're building water stressed regions without considering local factors. If you're extracting groundwater that won't replenish. If you're returning thermal pollution to rivers. But no, if you're building water abundant areas with proper discharge regulations and renewable energy sources, companies won't tell us the numbers. Regulators are moving slower than construction. And while we debate water, the power grid is about to face a strain four times larger. We're asking the wrong questions because we don't have the information to ask the right ones. Because if we keep looking for the crisis in our taps, we'll never see the moment the lights finally go out.
+
+=== ID: uJy9JYeIajw ===
+TITLE: Use Python and Blender to Beat AI: Water Pressure Test 14
+DESC: This is the 23rd episode of the series "how to use python and blender to beat AI" and the 14th lesson on a model: water pressure test, a 3D animation using physics simulation, including this like cloth simulation and fluid simulation. In this episode, I'll show how to render your model and change some settings.
+KEYWORD: AI water usage
+VIEWS: 30
+TRANSCRIPT: Hello everybody. Welcome back to lesson 14 of using Python and Blender to be a um to create this model. Um before we begin, I would like to tell you some changes I made with the code. So, first off, I took our code from last time, copied it and paste it in here um for easier use. And also over here, gauge to needle. At first it was turn, but now I add the back because turn end and turn back end are actually two different things. Um, and then finally, if we go all the way up to before we even made the animations and let me just creating the things, you can um you'll find the place where we made the columns for the test vessel, which I'll just show these columns which were over oops over here uh before and depth I made it zero it was 0.4 before I made it 0.6 six now. Okay. Yeah. Just make sure you change that. All right. Now, now let's go over this that what we've made so far. So, I put this in wire and I'm going to camera view and because I realized I never actually well showed the full thing with you guys. So we can do that. All right. So actually it's very laggy. So I'll just get back to you later when it's not as laggy as before and then we can continue. Sorry, but bye. Okay, it looks less laggy than before, but you'll still notice that it's slower than usual. Well, that's because I did something to it. If you go to um output properties over here where my mouse is, you can go to frame rate. Now, I set mine to 6 fps. Um, normally it's something else like 24 or something. All
+[...middle cut...]
+d again and there was a bit of little problems in the lighting that I didn't like. However, once you're done, you're going to go to render up here again and click on view animation and the animation will just come up with small. Um, at first it'll be like this, not very animation like. However, uh you'll see it will get better um after a few few tries. Yeah, now it's getting a bit smoother. Still not very smooth, but improvement from what we saw when it first opened. You can see the valve is closing. The gauge is going back and then the water finally spilling out. So that's it for this lesson and I think we're done with this model here in general. So I will see you guys in the next one. Bye.
+
+=== ID: aDviHT_atTY ===
+TITLE: Communities raise concerns about the water usage of AI data centers during historic drought
+DESC: With North Carolina experiencing a historic drought, there are new concerns about planned data centers popping up across the state. The facilities can use significant amounts of water to cool servers. Some estimates indicate that a single data center could use as much as 2.5 million gallons of water daily.  WXII12 is your home for North Carolina breaking news and weather. For your latest North Carolina news and weather visit: https://www.wxii12.com/  For licensing inquiries: https://www.wxii12.c
+KEYWORD: AI water usage
+VIEWS: 1438
+TRANSCRIPT: WITH NORTH CAROLINA IN THE MIDST
+OF A HISTORIC DROUGHT, THERE’S
+ 
+ 
+ 
+ 
+N█EWCONCERNSABOUT PLANNED DATA
+CENTERS POPPING UP ACROSS THE STATE. THE FACILITIES CAN USE
+SIGNIFICANT AMOUNTS OF WATER TO
+COOL SERVERS, WITH SOME
+ESTIMATES INDICATING THAT A
+SINGLE DATA CENTER COULD USE AS
+MUCH AS 2.5 MILLION GALLONS A DAY. LEADERS IN CHATHAM COUNTY SAY
+THAT IS A DRIVING FORCE BEHIND
+THEIR DECISION TO PASS A ONE
+YEAR MORATORIUM ON BUILDING DATA
+CENTERS. WE KNOW THAT OUR OUR CLIMATE
+FUTURE IS AT RISK. WE ARE IN THE PROCESS OF
+CREATING A CLIMATE PLAN FOR
+CHATHAM COUNTY AND THE USE OF
+WATER. THE. THE BYPRODUCT OF ANY INDUSTRY IS
+A SIGNIFICANT CONCERN FOR US
+RIGHT NOW IN NORTH CAROLINA,
+DA
+
+=== ID: UJtDvxViAKU ===
+TITLE: AI Is Using Your Drinking Water
+DESC: AI is changing the world but it’s also consuming something we all depend on: water.  Every time you use artificial intelligence, from simple prompts to complex queries, it relies on massive data centers that require cooling systems to operate. And many of these systems use clean water, the same water used for drinking.  In this video, we reveal the hidden water footprint behind AI and how data centers consume large amounts of water to stay operational.  You’ll learn:  • How AI systems rely on da
+KEYWORD: AI water usage
+VIEWS: 49
+TRANSCRIPT: You ask AI a simple question. It gives you an answer in seconds. But what if I told you that every time you do that, you might be using water. The same water people drink. Before we go further, don't forget to like and subscribe so more people understand the real cost of technology. At first, it sounds small. Some claims say one AI interaction uses just a tiny amount of water, less than a teaspoon. But experts are skeptical, because when you scale it up, the numbers tell a very different story. Just 10 to 50 AI prompts could use up to 500 ml of water. That's one full bottle. So where does all that water go? The answer lies inside data centers. These massive facilities run thousands of powerful computer chips working non-stop to process AI requests. And those chips generate intense heat. Without cooling, they would overheat within seconds. So, data centers use liquid cooling systems, absorbing heat from the machines. Then it's sent to cooling towers where most of it evaporates into the air. In some cases, up to 80% of that water is lost, gone, just to keep servers running. So here's the reality. AI doesn't just run on code. It runs on physical resources, energy, infrastructure, and water. Lots of it. This doesn't mean we should stop using AI, but it does mean we need to ask better questions. How is it powered? Where are resources coming from? And can it be made sustainable? Because the future of technology shouldn't come at the cost of something as essential as water. If this video changed how you see AI, share it with someone who uses it everyday. And don't forget to like, subscribe, and watch the next episode.
+
+=== ID: YzfcaoM5XrQ ===
+TITLE: Green Convex EPS 2 : AI And Water Consumption
+DESC: 🌍✨ GREEN CONVEX: ONLINE PODCAST SERIES 🎙🗣️  Cultivating Action for a Greener   In case you missed the QR ;  Episode 2 – AI & Water Consumption 💧 📅 23 Oct 2025 | ⏰ 7:45 –9:30 PM Ep 2 👉 https://forms.gle/ZCqhrUs7nHQeijf68    COMING SOON !   Episode 3 – Global Policies & Natural Resources 🌐 📅 30 Oct 2025 | ⏰7:45 –9:30 PM Ep 3 👉 https://forms.gle/R1TxHVhsanuikSKk7    💸 Only RM1 per episode 🎁 Exciting lucky draw prizes 📚 MyCSD   🔗 Register now:  #ConvExMemoir #ConvExUSM #ConvEx2025
+KEYWORD: AI water usage
+VIEWS: 1002
+TRANSCRIPT: [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] Hey, hey, hey. [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] Hey, hey, hey. [music] [music] [music] [music] [music] [music] [music] [music] [music] Hey, [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] Hey. Hey. Hey. [music] [music] [music] [music] [music] [music] [music] Heat. [music] [music] [music] Hey. Hey. [music] [music] [music] [music] [music] Hey. Hey. Hey. [music] [music] [music] [music] [music] Hey, [music] do We're we're on live. We're on live right now. Hello everyone. Hi. Good evening everyone. Welcome back to Green Convex online podcast series brought to you by Tiki Department of Convex 2025. Hi, I'm Shria and I'm Vitria, second year from school math and I'm Shria again from uh school of physics and I'm uh in my third year right now. So we are you So we are your host for tonight and we are very excited to have you all tuning in live on YouTube or catching up later. Yes. Our theme as usual this year is cultivating action for a g
+[...middle cut...]
+'m Fria and I'm Shria signing off as your host for the online everyone. Thank you. Make sure you uh register for episode two and also register for episode three. That's all. [laughter] Byebye. Byebye. No, that one. Do it. Bye. [laughter] Bye. [music] [music] [music] [music] [music] Hey. Hey. Hey. [music] [music] [music] [music] [music] [music] [music] [music] Hey. [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] Hey. [music] [music] Heat. Heat. [music] [music] [music] [music] Hey. Hey. Hey. [music] [music] [music] Hey, hey, hey. [music] [music] [music] Hey, hey, hey. [music] [music] [music] [music] [music] [music] [music] [music] [music] [music] [music]
+
+=== ID: jshyfdpP2G0 ===
+TITLE: Generative AI and water usage (Science Project)
+DESC: 
+KEYWORD: AI water usage
+VIEWS: 2
+TRANSCRIPT: So before I begin with the problems of AI and water usage, I wanted to explain the difference between generative and agentic AI because I feel like a lot of people don't know the difference. Okay, so let's start with generative AI because it's more common. Generative AI is a reactive system and what that means is it's based on the reaction of users. So let's take something like chat GBT for example, a chatbot. Okay. So if you type in a prompt um say you want to generate an image or text or audio or whatever it is, the bot will do that because it is reacting to what it told you to do. A lot of the times these users have to refine the prompt. They'll tell the chatbot to maybe add something and that's what makes it a reactive system. It learns through um conversations uh and uh feedback the user may give to the AI. Aentic AI is a bit more complicated because it's more complex in its responses. So for aentic AI, it can use information from other AI agents to go beyond the prompt. So it can be a lot more complex because it is a proactive system. It will take the um the task that the person is giving the AI to do and it will go and uh do more research and maybe give suggestions on how to improve something. Now what do both of these types of AI have in common? They both run on things called large language models or LLMs which in a broader category are derivative of foundation models. Foundation models are artificial intelligence models that learn from unlabeled data from sources lik
+[...middle cut...]
+n filtering water through passing electricity through the pollutants so it can break down the chemical bonds and clean the water. This method is highly efficient because it can eliminate the carbon footprint by 74% and they have already cleaned 4 billion L of water and continue to clean more. The best solution, however, would be to avoid AI in its entirety because AI agents like MS Copilot, Gemini, and Chat GPT, according to a study done by the European Broadcasting Union and the BBC show that the results generated were wrong 45% of the time. So if you want your information to actually be correct and factual, it is better to go and do the research on your own instead of asking an AI chatbot.
+
+=== ID: CiPfxBvomYI ===
+TITLE: AI and Water Usage: Do we really need to be worried about it?
+DESC: AI and Water are more connected than most people realize. As artificial intelligence continues to expand, the data centres that power it are using millions of litres of water every day to stay cool. This invisible demand is creating ripple effects across our freshwater systems, and ultimately, our ocean.   In this episode, Andrew Lewin uncovers how AI’s explosive growth is reshaping global water use. From groundwater depletion and saltwater intrusion near coastal data hubs to desalination disc
+KEYWORD: AI water usage
+VIEWS: 53
+TRANSCRIPT: AI is revolutionizing everything from climate modeling to social media. But it's still creating a problem, a new kind of environmental footprint, let's say, that we rarely talk about. And we're going to talk about it today about water use. What if data centers powering AI are quietly reshaping the way water moves through our world and maybe even affecting the ocean life itself? We're going to talk about that on today's episode of the How to Protect the Ocean podcast. Let's start the show. Hey everybody, welcome back to another exciting episode of the How to Protect the Ocean podcast. I'm your host, Andrew Lew. This is the podcast where you find out what's happening with the ocean, how you can speak up for the ocean, and what you can do to live for a better ocean by taking action. And on today's episode, we are going to be talking about AI. Now, I have to admit, I am a big user of artificial intelligence. I have an account with ChatBT, the $20 account a month, and I use it to work this podcast. I do this podcast by myself. I publish three episodes a week. I work a full-time job. I have kids. I have a family, you know, that I like to spend time with, and I like to enjoy my evenings. So, instead of spending an hour and a half or 2 hours to like do the show notes myself and write it out and go through all the process and, you know, mark everything, I use AI. I use AI to come up with the basics things based on my transcript which is using AI to get a transcript out and then I publ
+[...middle cut...]
+thoughts on this. Let me know in the comments below because I think it's really important to start this conversation. If you're watching this on YouTube, comments below. If you're listening to this on your favorite podcast app, let me know how you feel. DM me on Instagram at how to protect [music] the ocean. It's @ how to protect the ocean. Or go to speakoutforblue.com/cont. Let me know how you feel. Just fill out the form. Goes right to my email. I'll get back to you as soon as I can. I want to thank you so much for joining me on today's episode of the How to Protect the Ocean Podcast. I'm your host, Andrew Leuen. Have a great day. We'll talk to you next time and [music] happy conservation.
+
+=== ID: v4pwhlf1CV4 ===
+TITLE: How Much Water Does AI Use? 💧The Environmental Impact of CHATGTP
+DESC: 💧 ARTIFICIAL INTELLIGENCE also leaves a MARK on the PLANET. In this video by thedailyECO, we explore AI’s water usage, energy consumption, and the environmental impact behind the creation of Ghibli-style AI images. 🌍 Discover why AI consumes so much water and energy, the ethical controversy it sparks, and the true environmental cost of each AI-generated image. ♻️ Find out how we can use AI more responsibly and reduce its ecological footprint.  #artificialintelligencewater #artificialintelligen
+KEYWORD: AI water usage
+VIEWS: 1436
+TRANSCRIPT: Today we want to talk about the hidden environmental cost behind AI generated images. Something many of us create without thinking [Music] twice. Did you know that every time you generate an image with artificial intelligence, you're using between two and five lers of water? That's right. Generating a single AI image can use up to 3.45 lers of water, which is the equivalent to more than 17 glasses. While we don't see this water being used, it's constantly flowing through data centers to cool the overheating servers powering these creations. The recent Studio Giblly image trend on Chad GPT, for example, shows just how quickly these resources add up. Generating just 1 million of these images requires approximately 40,000 L of water, which is enough to sustain 2,000 people for a day in regions where water is scarce. And it's not just water. Each AI generated image consumes about the same as a running refrigerator for up to half an hour. So, is all of this worth it? We're not saying you should stop using AI entirely. Instead, use it consciously. Generate only the images you truly need. Choose platforms working towards sustainability. And remember that every click has an environmental impact. AI can be an incredible tool, but it needs to be used ethically, sustainably, and respectfully. Caring for our planet includes being mindful of our digital choices, too. So, what do you think? Will you change how you use AI image generators? Let us know in the comments. And until next time.
+
+=== ID: wP_UK9IMs0Y ===
+TITLE: AI Is Crashing Software — But Green Hydrogen Faces a Bigger Test
+DESC: AI is crashing software stocks — but the real story isn’t on Wall Street. It’s happening in the energy systems underneath.  In this video, we break down how the same force disrupting companies like IBM and ServiceNow is now stress-testing green hydrogen — and why system-level failures matter more than the technology itself.  🔗 H2Hub by ReneEnergy (Execution Layer – Projects, Tools & Industry Insights): https://h2hub.reneenergy.com/  A professional hydrogen platform focused on how projects actual
+KEYWORD: AI water usage
+VIEWS: 153
+TRANSCRIPT: Something doesn't make sense on Wall Street right now. And [music] if you blink, you'll miss what it actually means. Companies like IBM Service Now, solid names, reliable earners. They report their quarterly results. Revenue is up. Margins are holding. They beat analyst expectations and their stocks collapse. Not a small dip, [music] not a correction. Billions wiped out in hours for doing everything right. That is not normal market behavior. That is a signal. And if you know how to read it, it doesn't just tell you what's happening to software stocks. [music] It tells you what's coming for energy systems, for infrastructure, for green hydrogen. Because the force that just broke the software business model, it's moving [music] upstream. And the next system in its path may not be ready. To understand what's happening, you need to go [music] back about 30 years. The software industry was built on one of the cleanest business models ever invented. Build a [music] tool once, charge every user who needs it. As companies grow and hire more people, revenue scales automatically. No factories, no raw materials, no physical constraints. It was elegant. It was scalable. And for decades, it worked. Customer relationship platforms, analytics, dashboards, HR [music] systems, workflow tools, project management software. The entire category exploded because every employee in every company represented a potential license. But here's what's happening now. AI doesn't just improve those tools. It
+[...middle cut...]
+lization assumptions get challenged against real grid data, real offtake structures, and real financing terms. If you're serious about operating at that level as a developer, consultant, or investor, the link is in the description. And if you want to go deeper into the execution layer, financial models, utilization, sensitivity analysis, realworld project assumptions, those tools are linked below. Because in this environment, clarity isn't optional. It's your edge. AI is rewriting the rules of software, but it's also exposing the limits of the systems [music] beneath it. Green Hydrogen is now stepping into that same test. The technology already works. The system decides who [music] survives.
+
+=== ID: EhX3Dv1_hoo ===
+TITLE: एआई की कीमत: डाटा सेंटर्स की पानी पर जंग [How AI boom is impacting Latin America and the US]
+DESC: जैसे-जैसे आर्टिफिशियल इंटेलिजेंस बढ़ रही है, वैसे-वैसे डाटा सेंटर्स की प्यास भी बढ़ रही है और ये प्यास पानी की है. उरुग्वे में गूगल के क्लाउड सेंटर के लिए रोज़ाना लाखों लीटर पानी के इस्तेमाल की योजना ने भारी विरोध खड़ा कर दिया है. समाजशास्त्री डैनियल पेन्या चेतावनी देते हैं कि यह प्रोजेक्ट 75 साल के सबसे बड़े सूखे को और गंभीर बना सकता है. उरुग्वे से लेकर चिली और अमेरिका के मेम्फिस तक, स्थानीय समुदाय टेक कंपनियों के ‘पानी के दोहन’ के खिलाफ खड़े हो रहे हैं. विशेषज्ञों का कहना है कि एआई की रीढ़ बने
+KEYWORD: AI water usage
+VIEWS: 288433
+TRANSCRIPT: डाटा सेंटर बनाने की योजनाओं का अक्सर विरोध होता है. दुनिया के दूसरे हिस्सों की तरह लैटिन अमेरिका में भी लोगों ने इसका विरोध किया है. 2023 में उरुग्वे गंभीर जल संकट से गुज़रा. तब 75 साल का सबसे भयंकर सूखा पड़ा था. और इसी सूखे के दौरान गूगल वहां पहुंचा. कंपनी रोजाना साढ़े सत्तासी लाख लीटर से ज्यादा पानी इस्तेमाल करना चाहती थी, जितना 22 हजार लोगों के लिए काफी होता. एक तो सूखा, उस पर पानी का ऐसा भीषण संकट. एक्टिविस्ट डैनियल पेन्या कहते हैं कि लोगों से कोई सलाह-मशविरा नहीं किया गया. ना जनता से कोई संवाद हुआ, न जन-सुनवाई. प्रोजेक्ट को ‘कैटगरी बी’ में रखा गया, यानी कम से मध्यम जोखिम वाला. इसलिए जन-भागीदारी सीमित रही. डैनियल पेन्या, राजधानी मोन्टेवीडियो के लिए अहम सांता लूसिया नदी पर गूगल क्लाउड प्रोजेक्ट के असर को लेकर चिंतित हैं. पानी को लेकर जंग यहां पहले ही शुरू हो चुकी है. जब नल से साफ पानी नहीं आता, तो बोतलबंद पानी ही एकमात्र विकल्प बचता है. एआई की रीढ़ कहे जाने वाले डाटा सेंटर को विशाल कम्प्यूटिंग पावर की जरूरत होती है. इतनी ऊर्जा गर्मी पैदा करती है और उसे ठंडा रखने के लिए भारी मात्रा में पानी चाहिए होता है. ये विशाल सेंटर अक्सर दुनिया के सबसे सूखे इलाकों में बनाए जाते हैं. इस पर आगे बात करेंगे. गूगल का कहना है कि उरुग्वे सेंटर में वह 85 करोड़ अमेरिकी डॉलर का निवेश कर रहा है. 2025 की गर्मियों में निर्माण स्थल ऐसा दिखता था. मोन्टेवीडियो के पास कैनेलोनिस में एक साल से काम चल रहा है. स्थानीय प्रशासन प्रोजेक्ट को लेकर उत्साहित हैं. हमें उम्मीद है कि जब ये सेंटर शुरू होगा, तो इससे प्रेरित होकर दूसरे उद्योग भी यहां आएंगे और टेक्नोलॉजिकल इनोवेशन से जुड़ी गतिविधियां बढ़ेंगी. डाटा सेंट
+[...middle cut...]
+पन सोर्स डेटा पर निर्भर हैं. असल में हमें नहीं पता कि ये कंपनियां कितना पानी इस्तेमाल करती हैं. इन टेक कंपनियों का लक्ष्य है कि 2030 तक वे ‘वॉटर-पॉजिटिव’ बनें यानी जितना पानी इस्तेमाल करें, उससे ज्यादा वापस दें. लेकिन वे यह नहीं बतातीं कि यह वॉटर-पॉजिटिविटी हासिल कैसे होगी. तो हम क्या कर सकते हैं? हम सब छोटे-छोटे कदम उठा सकते हैं ताकि कम्प्यूटिंग का लोड कम हो. जैसे साधारण गणित के लिए एआई की जगह कैलकुलेटर का इस्तेमाल करें. एआई से सवाल पूछने के बजाय सामान्य सर्च इंजन का प्रयोग करें. या फिर ऐसे वीडियो कम बनाएं जिनमें ज्यादा संसाधन लगते हों. लेकिन सिर्फ इतना करने से बड़ा फर्क नहीं पड़ेगा. एआई का इस्तेमाल और डेटा की मांग लगातार बढ़ रही है. असली चुनौती है तकनीक को पर्यावरण के लिहाज से टिकाऊ बनाना.
+
+=== ID: dOOAM1yN768 ===
+TITLE: How can we tackle AI's endless thirst for water? - BBC Africa
+DESC: More than a billion messages are sent to AI chatbots every day and each interaction uses water. There are concerns Artificial Intelligence is putting stress on drinking water sources. Here, we explain why AI uses water and how even more will be needed in the future.  Subscribe: http://bit.ly/subscribetoafrica Website: https://www.bbc.com/africa Facebook: https://www.facebook.com/bbcnewsafrica/ Twitter: https://www.twitter.com/bbcafrica/ Instagram: https://www.instagram.com/bbcafrica/
+KEYWORD: AI water usage
+VIEWS: 6653
+TRANSCRIPT: 
+
+=== ID: GAEgKWXHZHg ===
+TITLE: Amazon's Secret Water Usage: Leaked Document Reveals Hidden Data Center Consumption
+DESC: A leaked internal document exposes Amazon's strategy to keep its data centers' full water usage secret. While competitors like Microsoft and Google disclose their water consumption, Amazon has never publicly revealed its server farms' water usage. This video dives into the details of the leaked memo, Amazon's 'Water Positive' campaign, and the concerns raised by scientists and experts about the company's selective disclosure and lack of transparency. Discover how Amazon's water usage compares to
+KEYWORD: AI water usage
+VIEWS: 0
+TRANSCRIPT: Did you know that one of the world's largest tech giants might be hiding a critical environmental secret? A leaked document reveals that Amazon strategized to keep its data centers full water usage under wraps, sparking a debate about transparency and corporate responsibility. But here's where it gets controversial. While competitors like Microsoft and Google openly share their water consumption data, Amazon has chosen to disclose only a fraction of its usage, leaving out key details that could paint a far more concerning picture. Amazon, the undisputed leader in data center ownership, operates hundreds of facilities globally and is rapidly expanding to support its AI ambitions. Yet, the massive amounts of water required to cool these data centers have raised alarms. Despite this, Amazon has never publicly revealed the total water consumption of its server farms, opting instead to highlight only its primary water use, a figure that excludes secondary usage, such as water used in electricity generation. This selective disclosure has led to accusations of greenwashing and a lack of accountability. In 2021, Amazon consumed a staggering 105 billion gallons of water, equivalent to the usage of nearly a million US households. However, when designing its water positive sustainability campaign, the company's cloud computing division, AWS, chose to focus solely on primary water use, a mere 7.7 billion gallons annually. This decision, according to the leaked memo, was driven by fears o
+[...middle cut...]
+e company of engineering industry standards to obscure its water footprint. He claims Amazon has funded efforts to create methodologies that downplay its environmental impact, a charge the company denies. Is Amazon genuinely committed to sustainability, or is it prioritizing its image over the planet? This question is at the heart of the controversy. As tech giants like Amazon continue to expand in water stressed regions, the debate over transparency and accountability intensifies. What do you think? Is Amazon's approach to water usage disclosure responsible, or does it fall short of what's needed to address the environmental challenges of our time? Share your thoughts in the comments below.
+
+=== ID: axZ-KqZuKbY ===
+TITLE: How Much Clean Water Does Generative AI Use for Each Prompt?
+DESC: When we think about the environmental impact of AI, energy consumption and carbon emissions often steal the spotlight. But there’s another hidden resource that AI models like ChatGPT, Gemini, and Claude consume in large quantities: clean water. Yes, every time you ask an AI chatbot a question, it indirectly contributes to water usage. But how much? And why? Let’s dive in this podcast. #ai  #sustainability  #waterusage  #chatgpt  #greentech  #datacenters  #environment #generativeai #generativeaiw
+KEYWORD: AI water usage
+VIEWS: 228
+TRANSCRIPT: Hello everyone. In this podcast, we are going to discuss how much clean water does generative AI use for each prop. So, let us dive in. Welcome to the deep dive. We look at the key insights from information you share with us. Now, many of you know about AI's uh huge energy use, the carbon footprint that gets a lot of attention, right? But today, we're looking at something often missed, kind of a hidden side to its environmental impact. Yeah. It's a massive thirst for clean water. Exactly. And that's our mission for this deep dive really. Yeah. To unpack why generative AI needs water in the first place. Uh get a handle on how much and then explore what we can actually do about it collectively. Okay. So, let's just start there because I think for many people it sounds strange. Why on earth does AI, specifically generative AI, why does it need water? Yeah, it seems odd at first, but it really comes down to basic physics. You have these huge data centers packed with powerful servers, right? Running the AI models. Exactly. and they generate an incredible amount of heat, just intense heat. So, you need to cool them down. Okay? And the most common way still is using evaporative cooling systems. These systems directly use fresh water. It evaporates and that evaporation process absorbs the heat. So, water literally vanishing into the air to cool the machines. Pretty much. Yeah. But there's also an indirect use, the electricity powering these data centers. Yeah. Well, that electricity 
+[...middle cut...]
+ue. This has definitely been eye opening. It shifts the focus, doesn't it? Beyond just the energy use, this hidden water footprint is uh clearly a major factor we need to consider with AI. Absolutely. It makes you think differently about your own clicks, your own questions to these systems. Yeah. So maybe something for you, the listener, to think about next time you ask Chat GPT or another AI a question, just remember behind that answer isn't just electricity. There's also a sip of clean water involved. And it raises a really important question for the whole industry. Should these AI companies be required to tell us exactly how much water they're using? Should that transparency be mandatory?
+
+=== ID: kkcgysPy4oc ===
+TITLE: How Much Water Does ChatGPT Use? The Shocking Truth About AI & Cooling Water Consumption
+DESC: Ever wondered how much water is used to cool data centers every time you ask ChatGPT a question? We did the math—and the results might surprise you!  Key Takeaways from This Video: ✅ Each ChatGPT query consumes 0.1 kWh of energy, requiring about 1.8 liters of water for cooling ✅ That’s 0.48 gallons per query—or 1 gallon every 21 queries! ✅ With an estimated 50 million queries per day, ChatGPT alone consumes 2.38 million gallons of water daily ✅ That’s equivalent to 3.6 Olympic-sized swimming poo
+KEYWORD: AI water usage
+VIEWS: 671
+TRANSCRIPT: this is a fun one we asked Chachi PT to calculate how much water is consumed through cooling for every query that is run so chat recommended that we break down the electricity component and the cooling component and then combine them chat says that every query uses about 0.1 kilowatt hour of energy and every uh kilowatt hour of energy is about 1.8 L of water so that equates to18 l per query or 048 gallons per query of water consumed or every 21 queries equals about a gallon of water which leads to a great question how much is consumed every day they said there's about 10 million to 100 million couldn't give us an exact number of queries a day so they took a middle point number of 50 million queries a day times8 L per query gives us about 9 million lers a day of water consumed or 2.38 million gallons of water consumed this for reference is about 3.6 Olympic swimming pools a day of water consumed by chat GPT queries alone if you're interested more about cooling water savings for data centers or cooling water Savings in general please schedule a call with the capture H2O engineering team or download the cooling water savings1 white paper with the link on the screen thank you very much and think about how much water you're cons assuming every time you use chat GPT thanks [Music]
+

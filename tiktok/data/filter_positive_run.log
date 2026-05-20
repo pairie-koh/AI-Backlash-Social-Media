@@ -1,0 +1,178 @@
+Raw input    : C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\raw\tiktok_positive_raw.json
+Polarity     : positive
+Output CSV   : C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_positive_positive_filtered.csv
+Progress file: C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_positive_positive_filter_progress.json
+
+Loading raw data...
+  Raw videos: 7543
+  After dedup: 7543 unique videos
+
+=== LLM classification (positive vs not) ===
+  Using model: anthropic/claude-sonnet-4
+  Keys: 7, workers: 21 (3 per key)
+  Videos to classify: 7543
+  Progress file: C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_positive_positive_filter_progress.json
+  Output column: _positive
+  Pending: 7543 (skipping 0 already classified)
+    [50/7543] 2.9/s | YES: 26 NO: 24 | errors: 0 | ETA: 42.7m
+    [100/7543] 4.7/s | YES: 51 NO: 49 | errors: 0 | ETA: 26.2m
+    [150/7543] 6.1/s | YES: 76 NO: 72 | errors: 0 | ETA: 20.3m
+    [200/7543] 7.0/s | YES: 108 NO: 89 | errors: 0 | ETA: 17.5m
+    [250/7543] 7.6/s | YES: 116 NO: 129 | errors: 0 | ETA: 15.9m
+    [300/7543] 8.2/s | YES: 117 NO: 175 | errors: 0 | ETA: 14.7m
+    [350/7543] 8.7/s | YES: 127 NO: 215 | errors: 0 | ETA: 13.8m
+    [400/7543] 9.1/s | YES: 166 NO: 226 | errors: 0 | ETA: 13.0m
+    [450/7543] 9.4/s | YES: 208 NO: 234 | errors: 0 | ETA: 12.6m
+    [500/7543] 9.7/s | YES: 240 NO: 251 | errors: 0 | ETA: 12.1m
+    [550/7543] 9.9/s | YES: 248 NO: 293 | errors: 0 | ETA: 11.7m
+    [600/7543] 10.2/s | YES: 258 NO: 333 | errors: 0 | ETA: 11.4m
+    [650/7543] 10.3/s | YES: 283 NO: 355 | errors: 0 | ETA: 11.1m
+    [700/7543] 10.5/s | YES: 315 NO: 373 | errors: 0 | ETA: 10.9m
+    [750/7543] 10.6/s | YES: 348 NO: 390 | errors: 0 | ETA: 10.7m
+    [800/7543] 10.6/s | YES: 380 NO: 408 | errors: 0 | ETA: 10.6m
+    [850/7543] 10.7/s | YES: 425 NO: 413 | errors: 0 | ETA: 10.4m
+    [900/7543] 10.9/s | YES: 466 NO: 422 | errors: 0 | ETA: 10.2m
+    [950/7543] 11.0/s | YES: 510 NO: 428 | errors: 0 | ETA: 10.0m
+    [1000/7543] 11.0/s | YES: 535 NO: 453 | errors: 0 | ETA: 9.9m
+    [1050/7543] 11.1/s | YES: 558 NO: 480 | errors: 0 | ETA: 9.7m
+    [1100/7543] 11.2/s | YES: 594 NO: 492 | errors: 0 | ETA: 9.6m
+    [1150/7543] 11.2/s | YES: 634 NO: 502 | errors: 0 | ETA: 9.5m
+    [1200/7543] 11.2/s | YES: 676 NO: 510 | errors: 0 | ETA: 9.5m
+    [1250/7543] 11.1/s | YES: 719 NO: 517 | errors: 0 | ETA: 9.4m
+    [1300/7543] 11.2/s | YES: 752 NO: 534 | errors: 0 | ETA: 9.3m
+    [1350/7543] 11.2/s | YES: 792 NO: 543 | errors: 0 | ETA: 9.2m
+    [1400/7543] 11.2/s | YES: 833 NO: 552 | errors: 0 | ETA: 9.1m
+    [1450/7543] 11.2/s | YES: 871 NO: 564 | errors: 0 | ETA: 9.1m
+    [1500/7543] 11.2/s | YES: 912 NO: 573 | errors: 0 | ETA: 9.0m
+    [1550/7543] 11.1/s | YES: 955 NO: 580 | errors: 0 | ETA: 9.0m
+    [1600/7543] 11.1/s | YES: 998 NO: 586 | errors: 0 | ETA: 8.9m
+    [1650/7543] 11.1/s | YES: 1040 NO: 592 | errors: 0 | ETA: 8.9m
+    [1700/7543] 11.1/s | YES: 1082 NO: 600 | errors: 0 | ETA: 8.8m
+    [1750/7543] 11.1/s | YES: 1121 NO: 611 | errors: 0 | ETA: 8.7m
+    [1800/7543] 11.1/s | YES: 1161 NO: 620 | errors: 0 | ETA: 8.6m
+    [1850/7543] 11.0/s | YES: 1198 NO: 633 | errors: 0 | ETA: 8.6m
+    [1900/7543] 10.9/s | YES: 1229 NO: 650 | errors: 0 | ETA: 8.7m
+    [1950/7543] 10.8/s | YES: 1253 NO: 674 | errors: 0 | ETA: 8.6m
+    [2000/7543] 10.8/s | YES: 1281 NO: 696 | errors: 0 | ETA: 8.5m
+    [2050/7543] 10.8/s | YES: 1318 NO: 709 | errors: 0 | ETA: 8.5m
+    [2100/7543] 10.7/s | YES: 1357 NO: 720 | errors: 0 | ETA: 8.5m
+    [2150/7543] 10.5/s | YES: 1390 NO: 737 | errors: 0 | ETA: 8.5m
+    [2200/7543] 10.4/s | YES: 1431 NO: 745 | errors: 0 | ETA: 8.5m
+    [2250/7543] 10.3/s | YES: 1473 NO: 753 | errors: 0 | ETA: 8.5m
+    [2300/7543] 10.2/s | YES: 1513 NO: 762 | errors: 0 | ETA: 8.6m
+    [2350/7543] 10.1/s | YES: 1545 NO: 780 | errors: 0 | ETA: 8.6m
+    [2400/7543] 10.0/s | YES: 1581 NO: 792 | errors: 0 | ETA: 8.6m
+    [2450/7543] 9.9/s | YES: 1614 NO: 809 | errors: 0 | ETA: 8.6m
+    [2500/7543] 9.8/s | YES: 1649 NO: 823 | errors: 0 | ETA: 8.5m
+    [2550/7543] 9.8/s | YES: 1687 NO: 834 | errors: 0 | ETA: 8.5m
+    [2600/7543] 9.7/s | YES: 1729 NO: 842 | errors: 0 | ETA: 8.5m
+    [2650/7543] 9.5/s | YES: 1774 NO: 847 | errors: 0 | ETA: 8.6m
+    [2700/7543] 9.3/s | YES: 1817 NO: 854 | errors: 0 | ETA: 8.6m
+    [2750/7543] 9.2/s | YES: 1852 NO: 869 | errors: 0 | ETA: 8.7m
+    [2800/7543] 8.8/s | YES: 1885 NO: 885 | errors: 0 | ETA: 9.0m
+    [2850/7543] 8.4/s | YES: 1922 NO: 898 | errors: 0 | ETA: 9.3m
+    [2900/7543] 7.7/s | YES: 1946 NO: 924 | errors: 0 | ETA: 10.1m
+    [2950/7543] 7.0/s | YES: 1985 NO: 935 | errors: 0 | ETA: 10.9m
+    [3000/7543] 6.7/s | YES: 2034 NO: 936 | errors: 0 | ETA: 11.3m
+    [3050/7543] 6.2/s | YES: 2078 NO: 942 | errors: 0 | ETA: 12.0m
+    [3100/7543] 6.0/s | YES: 2124 NO: 946 | errors: 0 | ETA: 12.3m
+    [3150/7543] 5.9/s | YES: 2167 NO: 953 | errors: 0 | ETA: 12.4m
+    [3200/7543] 5.8/s | YES: 2206 NO: 962 | errors: 0 | ETA: 12.5m
+    [3250/7543] 5.7/s | YES: 2240 NO: 978 | errors: 0 | ETA: 12.6m
+    [3300/7543] 5.7/s | YES: 2274 NO: 993 | errors: 0 | ETA: 12.4m
+    [3350/7543] 5.7/s | YES: 2299 NO: 1017 | errors: 0 | ETA: 12.3m
+    [3400/7543] 5.7/s | YES: 2317 NO: 1047 | errors: 0 | ETA: 12.1m
+    [3450/7543] 5.6/s | YES: 2334 NO: 1080 | errors: 0 | ETA: 12.1m
+    [3500/7543] 5.6/s | YES: 2373 NO: 1090 | errors: 0 | ETA: 12.0m
+    [3550/7543] 5.6/s | YES: 2416 NO: 1097 | errors: 0 | ETA: 11.9m
+    [3600/7543] 5.6/s | YES: 2450 NO: 1112 | errors: 0 | ETA: 11.7m
+    [3650/7543] 5.6/s | YES: 2487 NO: 1124 | errors: 0 | ETA: 11.5m
+    [3700/7543] 5.7/s | YES: 2507 NO: 1152 | errors: 0 | ETA: 11.3m
+    [3750/7543] 5.7/s | YES: 2524 NO: 1183 | errors: 0 | ETA: 11.1m
+    [3800/7543] 5.7/s | YES: 2538 NO: 1216 | errors: 0 | ETA: 10.9m
+    [3850/7543] 5.8/s | YES: 2569 NO: 1233 | errors: 0 | ETA: 10.7m
+    [3900/7543] 5.8/s | YES: 2599 NO: 1252 | errors: 0 | ETA: 10.5m
+    [3950/7543] 5.8/s | YES: 2622 NO: 1278 | errors: 0 | ETA: 10.2m
+    [4000/7543] 5.9/s | YES: 2641 NO: 1309 | errors: 0 | ETA: 10.0m
+    [4050/7543] 5.9/s | YES: 2661 NO: 1339 | errors: 0 | ETA: 9.8m
+    [4100/7543] 6.0/s | YES: 2698 NO: 1350 | errors: 0 | ETA: 9.6m
+    [4150/7543] 6.0/s | YES: 2739 NO: 1358 | errors: 0 | ETA: 9.4m
+    [4200/7543] 6.0/s | YES: 2781 NO: 1366 | errors: 0 | ETA: 9.2m
+    [4250/7543] 6.1/s | YES: 2825 NO: 1372 | errors: 0 | ETA: 9.0m
+    [4300/7543] 6.1/s | YES: 2859 NO: 1387 | errors: 0 | ETA: 8.8m
+    [4350/7543] 6.2/s | YES: 2886 NO: 1408 | errors: 0 | ETA: 8.6m
+    [4400/7543] 6.2/s | YES: 2921 NO: 1422 | errors: 0 | ETA: 8.5m
+    [4450/7543] 6.2/s | YES: 2952 NO: 1439 | errors: 0 | ETA: 8.3m
+    [4500/7543] 6.3/s | YES: 2991 NO: 1449 | errors: 0 | ETA: 8.1m
+    [4550/7543] 6.3/s | YES: 3032 NO: 1457 | errors: 0 | ETA: 7.9m
+    [4600/7543] 6.3/s | YES: 3069 NO: 1470 | errors: 0 | ETA: 7.7m
+    [4650/7543] 6.4/s | YES: 3112 NO: 1477 | errors: 0 | ETA: 7.6m
+    [4700/7543] 6.4/s | YES: 3159 NO: 1480 | errors: 0 | ETA: 7.4m
+    [4750/7543] 6.5/s | YES: 3203 NO: 1486 | errors: 0 | ETA: 7.2m
+    [4800/7543] 6.5/s | YES: 3248 NO: 1491 | errors: 0 | ETA: 7.0m
+    [4850/7543] 6.5/s | YES: 3294 NO: 1494 | errors: 0 | ETA: 6.9m
+    [4900/7543] 6.6/s | YES: 3339 NO: 1499 | errors: 0 | ETA: 6.7m
+    [4950/7543] 6.6/s | YES: 3377 NO: 1511 | errors: 0 | ETA: 6.5m
+    [5000/7543] 6.6/s | YES: 3420 NO: 1518 | errors: 0 | ETA: 6.4m
+    [5050/7543] 6.7/s | YES: 3466 NO: 1522 | errors: 0 | ETA: 6.2m
+    [5100/7543] 6.7/s | YES: 3507 NO: 1531 | errors: 0 | ETA: 6.1m
+    [5150/7543] 6.8/s | YES: 3539 NO: 1548 | errors: 0 | ETA: 5.9m
+    [5200/7543] 6.8/s | YES: 3579 NO: 1557 | errors: 0 | ETA: 5.8m
+    [5250/7543] 6.8/s | YES: 3624 NO: 1562 | errors: 0 | ETA: 5.6m
+    [5300/7543] 6.9/s | YES: 3668 NO: 1568 | errors: 0 | ETA: 5.4m
+    [5350/7543] 6.9/s | YES: 3707 NO: 1576 | errors: 0 | ETA: 5.3m
+    [5400/7543] 6.9/s | YES: 3748 NO: 1585 | errors: 0 | ETA: 5.2m
+    [5450/7543] 7.0/s | YES: 3787 NO: 1596 | errors: 0 | ETA: 5.0m
+    [5500/7543] 7.0/s | YES: 3824 NO: 1609 | errors: 0 | ETA: 4.9m
+    [5550/7543] 7.0/s | YES: 3863 NO: 1620 | errors: 0 | ETA: 4.7m
+    [5600/7543] 7.1/s | YES: 3892 NO: 1639 | errors: 0 | ETA: 4.6m
+    [5650/7543] 7.1/s | YES: 3923 NO: 1656 | errors: 0 | ETA: 4.5m
+    [5700/7543] 7.1/s | YES: 3964 NO: 1665 | errors: 0 | ETA: 4.3m
+    [5750/7543] 7.1/s | YES: 4001 NO: 1676 | errors: 0 | ETA: 4.2m
+    [5800/7543] 7.2/s | YES: 4045 NO: 1682 | errors: 0 | ETA: 4.0m
+    [5850/7543] 7.2/s | YES: 4084 NO: 1691 | errors: 0 | ETA: 3.9m
+    [5900/7543] 7.2/s | YES: 4129 NO: 1696 | errors: 0 | ETA: 3.8m
+    [5950/7543] 7.3/s | YES: 4171 NO: 1704 | errors: 0 | ETA: 3.7m
+    [6000/7543] 7.3/s | YES: 4206 NO: 1719 | errors: 0 | ETA: 3.5m
+    [6050/7543] 7.3/s | YES: 4240 NO: 1735 | errors: 0 | ETA: 3.4m
+    [6100/7543] 7.4/s | YES: 4272 NO: 1753 | errors: 0 | ETA: 3.3m
+    [6150/7543] 7.4/s | YES: 4299 NO: 1776 | errors: 0 | ETA: 3.1m
+    [6200/7543] 7.4/s | YES: 4329 NO: 1795 | errors: 0 | ETA: 3.0m
+    [6250/7543] 7.4/s | YES: 4361 NO: 1813 | errors: 0 | ETA: 2.9m
+    [6300/7543] 7.5/s | YES: 4394 NO: 1830 | errors: 0 | ETA: 2.8m
+    [6350/7543] 7.5/s | YES: 4422 NO: 1852 | errors: 0 | ETA: 2.7m
+    [6400/7543] 7.5/s | YES: 4462 NO: 1862 | errors: 0 | ETA: 2.5m
+    [6450/7543] 7.5/s | YES: 4500 NO: 1874 | errors: 0 | ETA: 2.4m
+    [6500/7543] 7.6/s | YES: 4536 NO: 1888 | errors: 0 | ETA: 2.3m
+    [6550/7543] 7.6/s | YES: 4572 NO: 1902 | errors: 0 | ETA: 2.2m
+    [6600/7543] 7.6/s | YES: 4613 NO: 1911 | errors: 0 | ETA: 2.1m
+    [6650/7543] 7.7/s | YES: 4652 NO: 1922 | errors: 0 | ETA: 1.9m
+    [6700/7543] 7.7/s | YES: 4690 NO: 1933 | errors: 0 | ETA: 1.8m
+    [6750/7543] 7.7/s | YES: 4732 NO: 1939 | errors: 0 | ETA: 1.7m
+    [6800/7543] 7.7/s | YES: 4765 NO: 1956 | errors: 0 | ETA: 1.6m
+    [6850/7543] 7.8/s | YES: 4793 NO: 1978 | errors: 0 | ETA: 1.5m
+    [6900/7543] 7.8/s | YES: 4819 NO: 2002 | errors: 0 | ETA: 1.4m
+    [6950/7543] 7.8/s | YES: 4848 NO: 2022 | errors: 0 | ETA: 1.3m
+    [7000/7543] 7.8/s | YES: 4890 NO: 2030 | errors: 0 | ETA: 1.2m
+    [7050/7543] 7.9/s | YES: 4926 NO: 2044 | errors: 0 | ETA: 1.0m
+    [7100/7543] 7.9/s | YES: 4950 NO: 2069 | errors: 0 | ETA: 0.9m
+    [7150/7543] 7.9/s | YES: 4975 NO: 2094 | errors: 0 | ETA: 0.8m
+    [7200/7543] 7.9/s | YES: 5004 NO: 2115 | errors: 0 | ETA: 0.7m
+    [7250/7543] 8.0/s | YES: 5029 NO: 2140 | errors: 0 | ETA: 0.6m
+    [7300/7543] 8.0/s | YES: 5056 NO: 2162 | errors: 0 | ETA: 0.5m
+    [7350/7543] 8.0/s | YES: 5095 NO: 2173 | errors: 0 | ETA: 0.4m
+    [7400/7543] 8.0/s | YES: 5121 NO: 2197 | errors: 0 | ETA: 0.3m
+    [7450/7543] 8.1/s | YES: 5144 NO: 2224 | errors: 0 | ETA: 0.2m
+    [7500/7543] 8.1/s | YES: 5162 NO: 2256 | errors: 0 | ETA: 0.1m
+    [7543/7543] 8.1/s | YES: 5184 NO: 2277 | errors: 0 | ETA: 0.0m
+
+  Done in 15m 30s. API calls: 7543, errors: 0
+    YES: 5184 (68.7%)
+    NO: 2277 (30.2%)
+    UNKNOWN: 82 (1.1%)
+
+Saved 7543 videos to C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_positive_positive_filtered.csv
+
+=== FINAL SUMMARY ===
+  POSITIVE (YES): 5184 videos, 2,891,226,962 views
+  NOT POSITIVE (NO): 2277 videos, 2,780,555,197 views

@@ -26,11 +26,13 @@ from openai import OpenAI
 ROOT = Path(__file__).parent.parent
 REPO_ROOT = ROOT.parent
 DATA_DIR = ROOT / "data"
-RAW_PATH = DATA_DIR / "raw" / "tiktok_raw.json"
+DEFAULT_RAW_PATH = DATA_DIR / "raw" / "tiktok_raw.json"
 WHISPER_DIR = DATA_DIR / "whisper_transcripts"
 WHISPER_DIR.mkdir(parents=True, exist_ok=True)
 
-# Track failed video IDs so we don't retry them endlessly
+# Active raw path + failed-log path are set in main() based on CLI args.
+# Defaults preserve backwards-compatible behavior on the original backlash sweep.
+RAW_PATH = DEFAULT_RAW_PATH
 FAILED_LOG = DATA_DIR / "whisper_failed.json"
 
 # Providers: "groq" (whisper-large-v3-turbo, ~9x cheaper, fast) or "openai" (whisper-1)
@@ -259,11 +261,41 @@ def print_stats():
 
 def main():
     parser = argparse.ArgumentParser(description="Whisper transcription for TikTok videos")
+    parser.add_argument("--raw", default=str(DEFAULT_RAW_PATH),
+                        help="Path to raw Bright Data JSON (default: tiktok_raw.json).")
     parser.add_argument("--workers", type=int, default=5, help="Parallel workers (default 5)")
     parser.add_argument("--test", type=int, default=None, help="Test on N videos only")
     parser.add_argument("--stats", action="store_true", help="Print stats and exit")
     parser.add_argument("--retry-failed", action="store_true", help="Clear failed log and retry")
     args = parser.parse_args()
+
+    # Resolve raw path (relative paths anchor at repo root, then DATA_DIR)
+    raw_path = Path(args.raw)
+    if not raw_path.is_absolute():
+        candidate = REPO_ROOT / raw_path
+        raw_path = candidate if candidate.exists() else (DATA_DIR / raw_path)
+    if not raw_path.exists():
+        sys.exit(f"ERROR: raw file not found at {raw_path}")
+
+    # Derive a per-sweep failed-log so retries are scoped correctly.
+    # tiktok_raw.json -> whisper_failed.json (preserve backlash default)
+    # tiktok_positive_raw.json -> whisper_positive_failed.json
+    stem = raw_path.stem.replace("_raw", "")  # "tiktok" or "tiktok_positive"
+    if stem == "tiktok":
+        failed_log = DATA_DIR / "whisper_failed.json"
+    else:
+        suffix = stem[len("tiktok_"):] if stem.startswith("tiktok_") else stem
+        failed_log = DATA_DIR / f"whisper_{suffix}_failed.json"
+
+    # Mutate module globals so existing helpers pick up the new paths.
+    global RAW_PATH, FAILED_LOG
+    RAW_PATH = raw_path
+    FAILED_LOG = failed_log
+
+    print(f"Raw input  : {RAW_PATH}")
+    print(f"Failed log : {FAILED_LOG}")
+    print(f"Transcripts: {WHISPER_DIR}")
+    print()
 
     if args.stats:
         print_stats()

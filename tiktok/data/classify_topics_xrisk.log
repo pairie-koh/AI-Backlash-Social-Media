@@ -1,0 +1,48 @@
+Loading tiktok_ai_backlash_final.csv...
+  total rows: 8108  final-YES rows: 2416
+
+=== Topic classification ===
+  Model: gpt-5-mini
+  Keys: 7, workers: 21
+  Rows to classify: 2416
+  Pending: 2416
+    [100/2416] 7.6/s | parse_err: 0 | err: 0 | ETA 5.1m
+    [200/2416] 8.2/s | parse_err: 0 | err: 0 | ETA 4.5m
+    [300/2416] 8.5/s | parse_err: 0 | err: 0 | ETA 4.1m
+    [400/2416] 8.5/s | parse_err: 0 | err: 0 | ETA 3.9m
+    [500/2416] 8.4/s | parse_err: 1 | err: 0 | ETA 3.8m
+    [600/2416] 8.4/s | parse_err: 1 | err: 0 | ETA 3.6m
+    [700/2416] 8.2/s | parse_err: 1 | err: 0 | ETA 3.5m
+    [800/2416] 8.2/s | parse_err: 1 | err: 0 | ETA 3.3m
+    [900/2416] 8.2/s | parse_err: 1 | err: 0 | ETA 3.1m
+    [1000/2416] 8.1/s | parse_err: 1 | err: 0 | ETA 2.9m
+    [1100/2416] 8.1/s | parse_err: 1 | err: 0 | ETA 2.7m
+    [1200/2416] 8.1/s | parse_err: 1 | err: 0 | ETA 2.5m
+    [1300/2416] 8.0/s | parse_err: 1 | err: 0 | ETA 2.3m
+    [1400/2416] 7.9/s | parse_err: 1 | err: 0 | ETA 2.1m
+    [1500/2416] 8.0/s | parse_err: 1 | err: 0 | ETA 1.9m
+    [1600/2416] 8.0/s | parse_err: 1 | err: 0 | ETA 1.7m
+    [1700/2416] 8.0/s | parse_err: 1 | err: 0 | ETA 1.5m
+    [1800/2416] 8.0/s | parse_err: 1 | err: 0 | ETA 1.3m
+    [1900/2416] 8.0/s | parse_err: 1 | err: 0 | ETA 1.1m
+    [2000/2416] 8.0/s | parse_err: 1 | err: 0 | ETA 0.9m
+    [2100/2416] 8.0/s | parse_err: 1 | err: 0 | ETA 0.7m
+    [2200/2416] 8.1/s | parse_err: 1 | err: 0 | ETA 0.4m
+    [2300/2416] 8.1/s | parse_err: 1 | err: 0 | ETA 0.2m
+    [2400/2416] 8.1/s | parse_err: 1 | err: 0 | ETA 0.0m
+    [2416/2416] 8.1/s | parse_err: 1 | err: 0 | ETA 0.0m
+
+  Done in 4m 59s. API calls: 2416, errors: 0, parse errors: 1
+
+Saved 8108 rows back to C:\Users\hello\AI-Backlash-Social-Media\tiktok\data\tiktok_ai_backlash_final.csv
+
+=== PRIMARY TOPIC DISTRIBUTION (final-YES) ===
+              art    753  (31.2%)
+         deepfake    402  (16.7%)
+      general_neg    299  (12.4%)
+      environment    284  (11.8%)
+             jobs    235  ( 9.7%)
+     surveillance    199  ( 8.3%)
+        education     96  ( 4.0%)
+            xrisk     77  ( 3.2%)
+       regulation     66  ( 2.7%)

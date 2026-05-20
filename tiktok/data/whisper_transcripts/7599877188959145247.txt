@@ -1,0 +1,1 @@
+So this is how you get rid of that AI Fox feature. Go to your settings and privacy. Once you're there, go down to your playback setting. And then just toggle off the display object tag. And that's it.
