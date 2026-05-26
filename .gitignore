@@ -8,16 +8,16 @@
 .env.*
 *.pem
 
-# --- raw scrapes (>1GB each, also not redistributable) ---
-*/data/raw/*.json
+# --- raw brightdata scrapes (>1GB each, also not redistributable) ---
+**/data/raw/*.json
 
 # --- files over GitHub's 100MB per-file hard limit ---
 # Mirror these to Zenodo / Drive / LFS, do not commit to git.
-youtube/data/youtube_ai_backlash_filtered.csv
-youtube/data/youtube_ai_backlash_verified.csv
-youtube/data/youtube_ai_backlash_final.csv
-youtube/data/youtube_positive_positive_filtered.csv
-youtube/data/youtube_positive_classified.csv
+youtube/data/final/youtube_backlash_final.csv
+youtube/data/final/youtube_positive_final.csv
+archive/youtube/youtube_ai_backlash_filtered.csv
+archive/youtube/youtube_ai_backlash_verified.csv
+archive/youtube/youtube_positive_positive_filtered.csv
 
 # --- python noise ---
 __pycache__/
