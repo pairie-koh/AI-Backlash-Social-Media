@@ -187,12 +187,8 @@ def main():
         ax2, p_eng, p_n, p_total,
         list(POSITIVE_THEME_COLORS.keys()),
         POSITIVE_LABELS, POSITIVE_THEME_COLORS,
-        title=(f"AI positive themes, 2026 — engagement-weighted "
-               f"(TikTok + YouTube, {p_total/1e6:.0f}M views/plays across "
-               f"{sum(p_n.values()):,} videos)"),
+        title="AI positive themes, 2026 (engagement weighted)",
         xlabel="Share of total positive engagement (%)",
-        highlight="breakthrough_science",
-        highlight_note=f"breakthrough science {science_share:.1f}% of views",
     )
     plt.tight_layout()
     out2 = OUT / "positive_themes_2026_engagement.png"
