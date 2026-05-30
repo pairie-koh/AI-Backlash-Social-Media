@@ -10,6 +10,8 @@ Output:
 """
 
 import csv
+import json
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -94,15 +96,90 @@ def is_2026(r):
     return year_of(r) == "2026"
 
 
+# AI Team is a Malaysian entertainment group; their content matches our scrape
+# keyword on "AI" but has nothing to do with artificial intelligence.
+AI_TEAM_PAT = re.compile(
+    r"(#ai[\s_-]?team\b|ai team x|aiteam2026|aiteam membership|"
+    r"partnership ai team|datang.*ai team|aiteam[\s🇮]?‍?)",
+    re.I,
+)
+
+# Same archetype: a video unrelated to AI that bolts #ai onto its hashtag stack
+# to ride the algorithm. The CutieLoop "Only good vibes 2026" pattern is the
+# canonical example — 24M views of generic motivation content tagged #ai.
+HASHTAG_PIGGYBACK_PATS = [
+    re.compile(r"only good vibes.*2026.*#ai", re.I),
+]
+
+
+def _row_blob(r):
+    parts = [r.get("description", "") or "", r.get("hashtags", "") or "",
+             r.get("title", "") or ""]
+    return " ".join(parts).lower()
+
+
+def _is_corpus_pollution(r):
+    blob = _row_blob(r)
+    if AI_TEAM_PAT.search(blob):
+        return True
+    for pat in HASHTAG_PIGGYBACK_PATS:
+        if pat.search(blob):
+            return True
+    return False
+
+
+# Themes where the classifier over-fires and the secondary is usually more
+# accurate. model_stan: any model-name mention got stanned, even tutorials.
+# general_hype: catchall for vague positivity, often mislabeled tutorials.
+SECONDARY_PROMOTE_THEMES = {"model_stan", "general_hype"}
+
+
+def _promote_secondary(r):
+    if (r.get("_theme") or "") not in SECONDARY_PROMOTE_THEMES:
+        return
+    raw = (r.get("_secondary_themes") or "").strip()
+    if not raw or raw == "[]":
+        return
+    try:
+        arr = json.loads(raw)
+    except Exception:
+        return
+    if arr and arr[0]:
+        r["_theme"] = arr[0]
+
+
 def load():
     tt_b = [r for r in load_csv(REPO / "tiktok/data/final/tiktok_backlash_final.csv")
             if (r.get("_backlash_final") or "").upper() == "YES"]
     yt_b = [r for r in load_csv(REPO / "youtube/data/final/youtube_backlash_final.csv")
             if (r.get("_backlash_final") or "").upper() == "YES"]
-    tt_p = [r for r in load_csv(REPO / "tiktok/data/final/tiktok_positive_final.csv")
-            if (r.get("_theme") or "") and r.get("_theme") != "unknown"]
-    yt_p = [r for r in load_csv(REPO / "youtube/data/final/youtube_positive_final.csv")
-            if (r.get("_theme") or "") and r.get("_theme") != "unknown"]
+
+    tt_p_raw = load_csv(REPO / "tiktok/data/final/tiktok_positive_final.csv")
+    yt_p_raw = load_csv(REPO / "youtube/data/final/youtube_positive_final.csv")
+
+    # Cleanup pass on positive rows: drop corpus pollution (AI-Team group +
+    # hashtag piggybacks), then promote model_stan / general_hype secondaries
+    # to primary theme where present. Do this before the _theme validity
+    # check so promotions take effect.
+    n_dropped = 0
+    tt_p = []
+    for r in tt_p_raw:
+        if _is_corpus_pollution(r):
+            n_dropped += 1
+            continue
+        _promote_secondary(r)
+        if (r.get("_theme") or "") and r.get("_theme") != "unknown":
+            tt_p.append(r)
+    yt_p = []
+    for r in yt_p_raw:
+        if _is_corpus_pollution(r):
+            n_dropped += 1
+            continue
+        _promote_secondary(r)
+        if (r.get("_theme") or "") and r.get("_theme") != "unknown":
+            yt_p.append(r)
+    print(f"  cleanup: dropped {n_dropped} corpus-pollution rows from positive corpus")
+
     return tt_b, yt_b, tt_p, yt_p
 
 
