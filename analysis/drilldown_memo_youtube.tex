@@ -1,0 +1,231 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage{parskip}
+
+\captionsetup{font=small,labelfont=bf}
+\setlist{itemsep=2pt,topsep=3pt}
+
+\definecolor{accent}{HTML}{c0392b}
+\newcommand{\fig}[3]{%
+  \begin{figure}[H]
+    \centering
+    \includegraphics[width=#2\linewidth]{#1}
+    \caption{#3}
+  \end{figure}}
+
+\title{\textbf{Inside the AI Conversation:\\ Sub-Category Drill-Downs on YouTube, 2026}}
+\author{Pairie Koh \and Andrew B. Hall}
+\date{June 3, 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent This memo opens up the top-level theme bars from our AI-sentiment
+corpus on \textbf{YouTube} and asks what is \emph{inside} each one. The method
+mirrors the companion TikTok memo: \textbf{Tier~1} uses fields already in the
+corpus---the editorial \emph{register} of each video and the seed search keyword
+that surfaced it---to characterise each theme without any new classification.
+\textbf{Tier~2} runs a second, independent pass with Claude (Haiku~4.5, routed
+through OpenRouter) that assigns every classified video to one theme-specific
+sub-category. Everything here is \textbf{YouTube only} and restricted to videos
+posted in \textbf{2026}, matching the main bar charts. Most of TikTok's lessons
+survive: the deepfake fear is about \emph{scams}, not elections; the art backlash
+is organised \#noAI activism; and the most genuine enthusiasm sits in AI
+\emph{companionship}. But YouTube also adds two wrinkles. First, the
+white-collar-tech story that was almost absent on TikTok is real on YouTube
+(21\% of the jobs bar), reflecting CS YouTube's outsized share of platform
+attention. Second, ``the public's environmental concern'' looks materially
+different on YouTube than on TikTok---it is the electricity \emph{grid} (39\%),
+not water, that leads.
+\end{abstract}
+
+\tableofcontents
+\bigskip
+
+\section{Method and scope}
+
+The drill-downs sit on top of the corpus described in the main write-up:
+AI-related YouTube videos collected via Bright Data, filtered and
+theme-classified with Claude. We re-use the \emph{canonical} row filter from the
+published bar charts (backlash $=$ \texttt{\_backlash\_final=YES} with a primary
+topic; positive $=$ pollution dropped, \texttt{model\_stan}/\texttt{general\_hype}
+secondaries promoted, \texttt{\_theme} valid), so the sub-category totals add up
+to exactly the same bars readers already saw. In 2026, that filter yields
+$n=2{,}397$ backlash videos and $n=4{,}704$ positive videos on YouTube.
+
+\begin{itemize}
+  \item \textbf{Tier 1 (no new classification).} The \emph{register} field
+  (\texttt{genuine\_sentiment}, \texttt{creator\_promo},
+  \texttt{creative\_showcase}, \texttt{news\_explainer}, \texttt{brand\_official})
+  and the seed \texttt{\_search\_keyword} are already attached to each row.
+  \item \textbf{Tier 2 (new sub-classification).} A second Claude pass assigns
+  each video to one of a short, theme-specific menu of sub-categories. Hall's
+  original TikTok pass used the Anthropic Message Batches API directly; the
+  YouTube pass here is realtime-parallel through OpenRouter, but uses the same
+  Haiku~4.5 model and an identical prompt/menu, so labels are comparable across
+  platforms.
+\end{itemize}
+
+\paragraph{Caveats.} (i)~This is YouTube only; the companion TikTok memo
+covers the other half. (ii)~The keyword breakdowns (Tier~1) reflect the seed
+query, not content, and are skewed by how many seeds we used per theme---read
+them as colour, not measurement. (iii)~In the 2026 cut, the model-fandom
+($n=44$) and general-hype ($n=44$) positive sub-cells are too thin for headline
+percentages. Existential risk ($n=126$) and breakthrough science ($n=181$) are
+substantively larger on YouTube than on TikTok and can be reported, but should
+still be treated as smaller-n than the headline themes.
+
+\clearpage
+\section{Tier 1: register and keyword structure}
+
+\subsection{How organic is each positive theme?}
+
+Splitting each positive theme by editorial register is again the most
+consequential Tier~1 result, and again complicates any ``AI is well loved''
+reading of the raw volume. On YouTube the high-volume themes are even more
+promotional than on TikTok: career/productivity is 72\% creator promotion (course
+funnels, tool demos, side-hustle pitches) and only 17\% genuine sentiment, and
+creative tools are 52\% promotion plus another 31\% creative showcase, leaving
+only 13\% expressing an actual opinion. As on TikTok, the genuine enthusiasm is
+concentrated in the \emph{smaller} themes---AI companionship (41\% genuine) and
+model fandom (39\% genuine)---though the absolute levels of genuineness are
+lower than the equivalent TikTok cells (68\% and 85\%). Breakthrough science is
+69\% news/explainer content, not public excitement; this is closer to
+reposted-news framing than to original enthusiasm.
+
+\fig{positive_register_split_2026_youtube.png}{1.0}{Register split of each
+positive theme on YouTube. Green is genuine sentiment; orange and red are
+promotional. The high-volume themes (top) are the most promotional; the most
+genuine enthusiasm sits in AI companionship and model fandom, though at lower
+absolute levels than the TikTok counterparts.}
+
+\subsection{Seed-keyword breakdown per theme}
+
+The keyword views give a fast, if rough, sense of what sits under each bar. On
+the backlash side they confirm two YouTube-specific signals that matter for the
+narrative: within the environment theme, ``AI data centers'' and ``AI
+electricity'' jointly dominate the seed mix (consistent with the Tier~2
+sub-distribution), and the art theme is again dominated by movement hashtags
+(\#noAI, \#antiAI, ``stop AI art''). On the positive side, ``vibe coding'' and
+``Cursor / Copilot'' lead career/productivity, ``Suno'' and ``Veo'' carry the
+creative-tools theme, and the companion theme stretches across ``my AI
+girlfriend,'' ``character.ai,'' and emotional-support framings.
+
+\fig{drilldown_keywords_backlash_2026_youtube.png}{1.0}{Top seed search keywords
+within each YouTube backlash theme (proxy sub-categories). Read as colour, not
+measurement.}
+
+\fig{drilldown_keywords_positive_2026_youtube.png}{1.0}{Top seed search keywords
+within each YouTube positive theme. ``Vibe coding'' dominates career content;
+``Suno'' and ``Veo'' lead creative tools; the companion theme spans
+\texttt{character.ai}, ``AI girlfriend,'' and emotional-support framings.}
+
+\clearpage
+\section{Tier 2: independent sub-categories}
+
+\subsection{Backlash}
+
+The backlash drill-down delivers the same mass-versus-elite contrast as on
+TikTok, and pushes some pieces of it harder. \textbf{Deepfakes} on YouTube are
+even more concentrated as a scam fear: 51\% scam/fraud and 33\% general
+misinformation, with political/election content at just 4.5\%---a category that
+elite commentary expected to be the headline. \textbf{Jobs} anxiety is again
+generalised (34\% ``all-jobs panic'' plus 25\% reaction to layoff news), but
+unlike on TikTok, named \emph{white-collar tech} displacement is a real 21\% of
+the bar, with service/blue-collar a rounding error (2\%). This is consistent
+with CS YouTube's outsized share of platform attention---the white-collar story
+shows up where the white-collar audience is. The \textbf{art} backlash is again
+an organised movement: 53\% of it is \#noAI activism and identity content (a
+shade lower than TikTok's 66\%, but still the modal sub-category by a wide
+margin). Within \textbf{environment}, the ordering inverts relative to TikTok:
+electricity/grid (39\%) leads, then data centers (30\%), with water usage a
+distant third (15\%). \textbf{Existential risk}, finally large enough to read on
+YouTube ($n=126$), is 67\% framed as \emph{loss of control}---``AI is out of
+control,'' ``can't be stopped''---with the AGI/superintelligence framing only
+11\% and explicit extinction-doom only 8\%; the public xrisk fear is closer to a
+\emph{runaway technology} fear than to the rationalist AGI narrative.
+
+\fig{drilldown_subtopics_backlash_2026_youtube.png}{1.0}{Sub-categories within
+each backlash theme, YouTube 2026. Note the near-absence of election framing
+inside deepfakes, the rebound of named white-collar inside jobs, and the
+electricity-grid lead inside environment.}
+
+\subsection{Positive}
+
+On the positive side, the ``career win'' is again mostly a \emph{tooling demo}:
+vibe coding (30\%) plus agent automation (20\%) plus ChatGPT-workflow tips
+(11\%) together dwarf actually landing a job (3\%). Income / side-hustle pitches
+are a striking 22\% of the bar on YouTube---larger than on TikTok---which is
+consistent with the long-form-monetisation-funnel character of YouTube's
+career-tutorial economy. AI companionship splits roughly 40/34/13/9 across
+character roleplay, romantic, emotional support, and friendship---heavier on
+character.ai-style roleplay than the TikTok cell. Model fandom is essentially a
+four-way tie among Claude, ChatGPT, other named models, and generic amazement
+(roughly 23\% each), with no Claude dominance equivalent to TikTok's 51\%.
+
+\fig{drilldown_subtopics_positive_2026_youtube.png}{1.0}{Sub-categories within
+each positive theme, YouTube 2026.}
+
+\subsection{Selected themes in detail}
+
+\fig{subtopic_jobs_2026_youtube.png}{0.82}{Jobs/displacement on YouTube.
+Generalised panic and layoff news still dominate, but white-collar tech is a
+substantial 21\% slice---visibly larger than its TikTok counterpart.}
+
+\fig{subtopic_art_2026_youtube.png}{0.82}{Art/creative theft on YouTube. The
+theme is again overwhelmingly organised \#noAI activism (53\%) rather than
+individual job-loss complaints.}
+
+\fig{subtopic_environment_2026_youtube.png}{0.82}{Environment/energy on YouTube.
+Electricity/grid (39\%) leads, then data centers (30\%); water usage is a
+distant third. The ordering is inverted relative to TikTok.}
+
+\fig{subtopic_career_productivity_2026_youtube.png}{0.82}{Career/productivity on
+YouTube. Vibe coding leads, side-hustle/income content is larger than on
+TikTok, and reported employment outcomes remain a small slice.}
+
+\fig{subtopic_companion_affective_2026_youtube.png}{0.82}{AI companion on
+YouTube. Affective use is dominated by character roleplay and romantic framings
+($\approx 74\%$ combined), with emotional support and friendship rounding out
+the bar.}
+
+\clearpage
+\section{What this adds to the argument}
+
+\begin{enumerate}
+  \item \textbf{The deepfake fear is about being scammed, not about elections.}
+  The elite frame (deepfakes endanger democracy) is essentially absent on
+  YouTube too---in fact more starkly so than on TikTok (4.5\% vs 2\%, but
+  against a much larger 51\% scam share).
+  \item \textbf{The jobs panic is generalised, but with a real white-collar
+  bulge on YouTube.} Unlike TikTok, named white-collar-tech displacement is a
+  meaningful 21\% of the jobs bar---suggesting the platform on which the
+  white-collar audience already lives is where the white-collar narrative finds
+  purchase.
+  \item \textbf{The environment story is about the electricity grid first.} On
+  YouTube the resource ordering is electricity/grid $>$ data centers $>$
+  water---the inverse of TikTok's water-leads pattern. The two platforms tell
+  the public a different physical story about why AI is environmentally costly.
+  \item \textbf{The art backlash is organised on YouTube too.} \#noAI activism
+  is again the modal art sub-category by a wide margin, replicating the TikTok
+  finding on a different audience.
+  \item \textbf{Genuine enthusiasm is for companionship, not productivity.} Once
+  promotion and showcase content are removed, the most heartfelt pro-AI content
+  on YouTube is for AI companions and model loyalty---directionally identical to
+  TikTok, just at lower absolute genuineness levels.
+  \item \textbf{Existential risk is a ``runaway tech'' fear, not an AGI fear.}
+  YouTube finally has enough xrisk content to read sub-cells: two-thirds is
+  ``loss of control'' framing, with AGI/superintelligence at only 11\% and
+  extinction at 8\%. The public xrisk language and the elite/rationalist xrisk
+  language are not the same thing.
+\end{enumerate}
+
+\end{document}

@@ -1,4 +1,4 @@
-"""Shared loader for sub-category drill-down plots (TikTok only, for now).
+"""Shared loader for sub-category drill-down plots (TikTok + YouTube).
 
 Mirrors the canonical filtering used by plot_2026_x_share_engagement.py so the
 drill-downs are consistent with the published main bar plots:
@@ -6,10 +6,11 @@ drill-downs are consistent with the published main bar plots:
   - Backlash:  rows with _backlash_final == YES; theme = _topic_primary.
   - Positive:  drop corpus-pollution rows, promote model_stan / general_hype
                secondaries to primary, keep _theme non-empty and != unknown.
-  - 2026 cut:  create_time (or other date field) year == "2026".
+  - 2026 cut:  date_posted (or other date field) year == "2026".
 
-YouTube halves are intentionally omitted until the classified YouTube CSVs are
-available on this machine (they are >100MB and gitignored).
+YouTube primary key is video_id (not post_id). YouTube backlash evidence lives
+in _transcript_text rather than _evidence — _evidence_field() picks whichever
+is present.
 """
 
 import csv
@@ -103,3 +104,36 @@ def load_tiktok(only_2026=True):
         b = [r for r in b if is_2026(r)]
         p = [r for r in p if is_2026(r)]
     return b, p
+
+
+def load_youtube(only_2026=True):
+    """Returns (backlash_rows, positive_rows) for YouTube, canonical-filtered.
+
+    YouTube primary key is video_id. Backlash evidence is in _transcript_text;
+    positive has both _evidence and _transcript_text. classify_subtopics reads
+    via evidence_of_yt() which prefers _evidence then _transcript_text.
+    """
+    b = [r for r in load_csv(REPO / "youtube/data/final/youtube_backlash_final.csv")
+         if (r.get("_backlash_final") or "").upper() == "YES"
+         and (r.get("_topic_primary") or "")]
+
+    p = []
+    for r in load_csv(REPO / "youtube/data/final/youtube_positive_final.csv"):
+        if _is_corpus_pollution(r):
+            continue
+        _promote_secondary(r)
+        if (r.get("_theme") or "") and r.get("_theme") != "unknown":
+            p.append(r)
+
+    if only_2026:
+        b = [r for r in b if is_2026(r)]
+        p = [r for r in p if is_2026(r)]
+    return b, p
+
+
+def evidence_of_yt(r):
+    """YouTube backlash has only _transcript_text; positive has _evidence + _transcript_text."""
+    ev = (r.get("_evidence") or "").strip()
+    if ev:
+        return ev[:400]
+    return (r.get("_transcript_text") or "").strip()[:400]
