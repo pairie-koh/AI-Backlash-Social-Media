@@ -24,3 +24,15 @@ __pycache__/
 *.pyc
 *.pyo
 .ipynb_checkpoints/
+
+# --- os noise ---
+.DS_Store
+
+# --- latex build artifacts ---
+*.aux
+*.log
+*.out
+*.toc
+
+# --- batch job state cache ---
+tiktok/data/final/.subtopics_batch.json

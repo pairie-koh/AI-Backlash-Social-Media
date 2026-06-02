@@ -1,0 +1,180 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage{parskip}
+
+\captionsetup{font=small,labelfont=bf}
+\setlist{itemsep=2pt,topsep=3pt}
+
+\definecolor{accent}{HTML}{c0392b}
+\newcommand{\fig}[3]{%
+  \begin{figure}[H]
+    \centering
+    \includegraphics[width=#2\linewidth]{#1}
+    \caption{#3}
+  \end{figure}}
+
+\title{\textbf{Inside the AI Conversation:\\ Sub-Category Drill-Downs on TikTok, 2026}}
+\author{Pairie Koh \and Andrew B. Hall}
+\date{June 1, 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent This memo opens up the top-level theme bars from our AI-sentiment
+corpus and asks what is \emph{inside} each one. We work in two tiers.
+\textbf{Tier~1} uses fields already in the corpus---the editorial
+\emph{register} of each video and the seed search keyword that surfaced
+it---to characterise each theme without any new classification.
+\textbf{Tier~2} runs a second, independent pass with Claude (Haiku~4.5, via the
+Message Batches API) that assigns every classified video to one theme-specific
+sub-category. Everything here is \textbf{TikTok only} and restricted to videos
+posted in \textbf{2026}, matching the main bar charts. The recurring lesson is
+that the public's AI conversation is concrete and material in ways the elite
+conversation is not: the deepfake fear is about \emph{scams}, not elections;
+the jobs panic is generalised dread and layoff news, not a ``white-collar
+bloodbath''; and the loudest enthusiasm is mostly marketing, while the most
+genuine enthusiasm is for AI \emph{companionship}.
+\end{abstract}
+
+\tableofcontents
+\bigskip
+
+\section{Method and scope}
+
+The drill-downs sit on top of the corpus described in the main write-up:
+AI-related TikTok videos collected via Bright Data, filtered and theme-classified
+with Claude. We re-use the \emph{canonical} row filter from the published bar
+charts (backlash $=$ \texttt{\_backlash\_final=YES} with a primary topic;
+positive $=$ pollution dropped, \texttt{model\_stan}/\texttt{general\_hype}
+secondaries promoted, \texttt{\_theme} valid), so the sub-category totals add up
+to exactly the same bars readers already saw.
+
+\begin{itemize}
+  \item \textbf{Tier 1 (no new classification).} The \emph{register} field
+  (\texttt{genuine\_sentiment}, \texttt{creator\_promo},
+  \texttt{creative\_showcase}, \texttt{news\_explainer}, \texttt{brand\_official})
+  and the seed \texttt{\_search\_keyword} are already attached to each row.
+  \item \textbf{Tier 2 (new sub-classification).} A second Claude pass assigns
+  each video to one of a short, theme-specific menu of sub-categories. This is an
+  \emph{independent} judgement of content---not the query that found the video.
+\end{itemize}
+
+\paragraph{Caveats.} (i)~This is TikTok only; the YouTube halves of the corpus
+are not included here. (ii)~The keyword breakdowns (Tier~1) reflect the seed
+query, not content, and are skewed by how many seeds we used per theme---read
+them as colour, not measurement. (iii)~In the 2026 cut, the existential-risk
+($n=32$) and breakthrough-science ($n=20$) sub-cells are too thin for headline
+percentages.
+
+\clearpage
+\section{Tier 1: register and keyword structure}
+
+\subsection{How organic is each positive theme?}
+
+Splitting each positive theme by editorial register is the single most
+consequential Tier~1 result, because it complicates any ``AI is well loved''
+reading of the raw volume. The themes that dominate by count are the
+\emph{least} organic: career/productivity content is 60\% creator promotion
+(course and tool funnels) and only 32\% genuine sentiment, and synthetic-media
+play is overwhelmingly creative showcase with just 8\% expressing an actual
+opinion. The genuine enthusiasm is concentrated in the \emph{smaller} themes---AI
+companionship (68\% genuine) and model fandom (85\% genuine). Breakthrough
+science is three-quarters reposted news, not public excitement.
+
+\fig{positive_register_split_2026.png}{1.0}{Register split of each positive
+theme. Green is genuine sentiment; orange and red are promotional. The
+high-volume themes (top) are the most promotional; the most genuine enthusiasm
+sits in AI companionship and model fandom.}
+
+\subsection{Seed-keyword breakdown per theme}
+
+The keyword views give a fast, if rough, sense of what sits under each bar. On
+the backlash side they confirm two things that matter for the narrative: within
+the environment theme, ``AI data centers'' is the single largest seed, and the
+art theme is dominated by movement hashtags (\#noAI, \#antiAI, ``stop AI art'').
+
+\fig{drilldown_keywords_backlash_2026.png}{1.0}{Top seed search keywords within
+each backlash theme (proxy sub-categories). Read as colour, not measurement.}
+
+\fig{drilldown_keywords_positive_2026.png}{1.0}{Top seed search keywords within
+each positive theme. ``Vibe coding'' dominates career content; ``Suno'' leads
+creative tools; the companion theme spans ``my AI bestie,'' ``AI girlfriend,''
+and \texttt{character.ai}.}
+
+\clearpage
+\section{Tier 2: independent sub-categories}
+
+\subsection{Backlash}
+
+The backlash drill-down delivers the memo's sharpest mass-versus-elite contrasts.
+\textbf{Deepfakes} are feared as \emph{scams}, not as a threat to democracy:
+42\% scam/fraud and 42\% general misinformation, with political/election content
+at just 2\%. \textbf{Jobs} anxiety is generalised---36\% ``all-jobs panic'' plus
+27\% reaction to layoff news and 17\% service/blue-collar---rather than the
+specifically white-collar story (\,$\sim$5\%) that dominates elite commentary.
+The \textbf{art} backlash is not scattered grievance but an organised movement:
+66\% of it is \#noAI activism and identity content. Within \textbf{environment},
+water usage (30\%) edges out data centers (21\%) as the most-named resource.
+
+\fig{drilldown_subtopics_backlash_2026.png}{1.0}{Sub-categories within each
+backlash theme, TikTok 2026. Note the near-absence of election framing inside
+deepfakes and the small share of named white-collar inside jobs.}
+
+\subsection{Positive}
+
+On the positive side, the ``career win'' is mostly a \emph{tooling demo}: vibe
+coding (28\%) and ChatGPT-workflow tips (27\%) dwarf actually landing a job
+(4\%). AI companionship is broad rather than narrowly romantic, spreading evenly
+across romantic, friendship, emotional-support, and roleplay use. Model fandom is
+Claude-led (51\% of stan content).
+
+\fig{drilldown_subtopics_positive_2026.png}{1.0}{Sub-categories within each
+positive theme, TikTok 2026.}
+
+\subsection{Selected themes in detail}
+
+\fig{subtopic_jobs_2026.png}{0.82}{Jobs/displacement. Generalised panic and
+layoff news dominate; named white-collar displacement is a small slice.}
+
+\fig{subtopic_art_2026.png}{0.82}{Art/creative theft. The theme is overwhelmingly
+organised \#noAI activism rather than individual job-loss complaints.}
+
+\fig{subtopic_environment_2026.png}{0.82}{Environment/energy. Water usage leads,
+narrowly ahead of data centers and electricity/grid.}
+
+\fig{subtopic_career_productivity_2026.png}{0.82}{Career/productivity. The
+positive ``career win'' is mostly tool demonstrations, not reported employment
+outcomes.}
+
+\fig{subtopic_companion_affective_2026.png}{0.82}{AI companion. Affective use is
+broad---romantic, friendship, emotional support, and roleplay each take roughly a
+quarter.}
+
+\clearpage
+\section{What this adds to the argument}
+
+\begin{enumerate}
+  \item \textbf{The deepfake fear is about being scammed, not about elections.}
+  The elite frame (deepfakes endanger democracy) is almost absent; the public
+  frame is fraud and slop.
+  \item \textbf{The jobs panic is not ``white-collar.''} It is generalised dread
+  plus reactions to layoff headlines, which cuts against the specifically
+  white-collar story told in elite policy memos.
+  \item \textbf{The art backlash is organised.} Two-thirds of it is movement
+  activism, suggesting a coordinated constituency rather than diffuse complaint.
+  \item \textbf{Genuine enthusiasm is for companionship, not productivity.} Once
+  promotion and showcase content are removed, the most heartfelt pro-AI content
+  is about companions and model loyalty.
+  \item \textbf{Both elite poles are nearly invisible.} Existential risk and
+  breakthrough science remain rounding errors even at the sub-category level.
+\end{enumerate}
+
+\end{document}
