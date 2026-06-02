@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="850" viewBox="0 0 1500 850">
+<rect x="0" y="0" width="1500" height="850" fill="#f4efe6"/>
+<line x1="748.4" y1="346" x2="748.4" y2="650" stroke="#cabfa9" stroke-width="1"/>
+<text x="748.4" y="338" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="12.5" fill="#6f685c" text-anchor="middle">1B</text>
+<rect x="120.0" y="360" width="390.7" height="70" fill="#123f3c" rx="3"/>
+<line x1="510.7" y1="360" x2="510.7" y2="430" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="510.7" y="360" width="225.0" height="70" fill="#1c5b54" rx="3"/>
+<line x1="735.8" y1="360" x2="735.8" y2="430" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="735.8" y="360" width="135.4" height="70" fill="#2a786d" rx="3"/>
+<line x1="871.1" y1="360" x2="871.1" y2="430" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="871.1" y="360" width="68.9" height="70" fill="#3f9384" rx="3"/>
+<line x1="940.0" y1="360" x2="940.0" y2="430" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="940.0" y="360" width="34.4" height="70" fill="#62ab9b" rx="3"/>
+<line x1="974.4" y1="360" x2="974.4" y2="430" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="974.4" y="360" width="17.8" height="70" fill="#4a7689" rx="3"/>
+<line x1="992.2" y1="360" x2="992.2" y2="430" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="992.2" y="360" width="15.5" height="70" fill="#6f97a9" rx="3"/>
+<line x1="1007.7" y1="360" x2="1007.7" y2="430" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="1007.7" y="360" width="12.3" height="70" fill="#93b3c1" rx="3"/>
+<line x1="1020.0" y1="360" x2="1020.0" y2="430" stroke="#f4efe6" stroke-width="1.6"/>
+<text x="1038.0" y="401.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="20" font-weight="700" fill="#23201c">1.43B views+plays</text>
+<polyline points="315.4,360 315.4,316.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="315.4" cy="360" r="3" fill="#123f3c"/>
+<text x="315.4" y="290.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14.5" fill="#23201c" text-anchor="middle" letter-spacing="0.4">Synthetic-media play</text>
+<text x="315.4" y="314.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="22" font-weight="700" fill="#123f3c" text-anchor="middle">43%</text>
+<polyline points="623.2,360 623.2,316.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="623.2" cy="360" r="3" fill="#1c5b54"/>
+<text x="623.2" y="290.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14.5" fill="#23201c" text-anchor="middle" letter-spacing="0.4">Career / productivity</text>
+<text x="623.2" y="314.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="22" font-weight="700" fill="#1c5b54" text-anchor="middle">25%</text>
+<polyline points="803.4,360 803.4,316.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="803.4" cy="360" r="3" fill="#2a786d"/>
+<text x="803.4" y="290.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14.5" fill="#23201c" text-anchor="middle" letter-spacing="0.4">Creative tools</text>
+<text x="803.4" y="314.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="22" font-weight="700" fill="#2a786d" text-anchor="middle">15%</text>
+<polyline points="905.6,360 905.6,264.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="905.6" cy="360" r="3" fill="#3f9384"/>
+<text x="905.6" y="238.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14.5" fill="#23201c" text-anchor="middle" letter-spacing="0.4">Education / learning</text>
+<text x="905.6" y="262.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="22" font-weight="700" fill="#3f9384" text-anchor="middle">8%</text>
+<polyline points="957.2,360.0 957.2,346.0 1163.0,212.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="957.2" cy="360.0" r="2.6" fill="#62ab9b"/>
+<rect x="1175.0" y="203.0" width="12" height="12" fill="#62ab9b" rx="2"/>
+<text x="1194.0" y="213.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">AI companionship<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">4%</tspan></text>
+<polyline points="983.3,360.0 983.3,346.0 1163.0,255.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="983.3" cy="360.0" r="2.6" fill="#4a7689"/>
+<rect x="1175.0" y="246.0" width="12" height="12" fill="#4a7689" rx="2"/>
+<text x="1194.0" y="256.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">Model fandom<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">2%</tspan></text>
+<polyline points="1000.0,360.0 1000.0,346.0 1163.0,298.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="1000.0" cy="360.0" r="2.6" fill="#6f97a9"/>
+<rect x="1175.0" y="289.0" width="12" height="12" fill="#6f97a9" rx="2"/>
+<text x="1194.0" y="299.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">General hype<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">2%</tspan></text>
+<polyline points="1013.9,360.0 1013.9,346.0 1163.0,341.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="1013.9" cy="360.0" r="2.6" fill="#93b3c1"/>
+<rect x="1175.0" y="332.0" width="12" height="12" fill="#93b3c1" rx="2"/>
+<text x="1194.0" y="342.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">Breakthrough science<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">1%</tspan></text>
+<rect x="120.0" y="566" width="78.2" height="70" fill="#6e2b2a" rx="3"/>
+<line x1="198.2" y1="566" x2="198.2" y2="636" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="198.2" y="566" width="70.2" height="70" fill="#8f3a33" rx="3"/>
+<line x1="268.4" y1="566" x2="268.4" y2="636" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="268.4" y="566" width="65.3" height="70" fill="#ab5640" rx="3"/>
+<line x1="333.7" y1="566" x2="333.7" y2="636" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="333.7" y="566" width="46.1" height="70" fill="#c07a4f" rx="3"/>
+<line x1="379.8" y1="566" x2="379.8" y2="636" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="379.8" y="566" width="27.4" height="70" fill="#cf9a6a" rx="3"/>
+<line x1="407.1" y1="566" x2="407.1" y2="636" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="407.1" y="566" width="22.3" height="70" fill="#d8b487" rx="3"/>
+<line x1="429.5" y1="566" x2="429.5" y2="636" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="429.5" y="566" width="19.0" height="70" fill="#c2a079" rx="3"/>
+<line x1="448.5" y1="566" x2="448.5" y2="636" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="448.5" y="566" width="14.4" height="70" fill="#a98e6f" rx="3"/>
+<line x1="462.9" y1="566" x2="462.9" y2="636" stroke="#f4efe6" stroke-width="1.6"/>
+<rect x="462.9" y="566" width="9.4" height="70" fill="#8f7a5f" rx="3"/>
+<line x1="472.4" y1="566" x2="472.4" y2="636" stroke="#f4efe6" stroke-width="1.6"/>
+<text x="490.4" y="607.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="20" font-weight="700" fill="#23201c">561M views+plays</text>
+<polyline points="159.1,636 150.0,674.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="159.1" cy="636" r="3" fill="#6e2b2a"/>
+<text x="150.0" y="700.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14.5" fill="#23201c" text-anchor="middle" letter-spacing="0.4">Art / creative theft</text>
+<text x="150.0" y="724.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="22" font-weight="700" fill="#6e2b2a" text-anchor="middle">22%</text>
+<polyline points="233.3,636 450.0,674.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="233.3" cy="636" r="3" fill="#8f3a33"/>
+<text x="450.0" y="700.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14.5" fill="#23201c" text-anchor="middle" letter-spacing="0.4">General anti-AI</text>
+<text x="450.0" y="724.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="22" font-weight="700" fill="#8f3a33" text-anchor="middle">20%</text>
+<polyline points="301.0,636 300.0,674.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="301.0" cy="636" r="3" fill="#ab5640"/>
+<text x="300.0" y="700.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14.5" fill="#23201c" text-anchor="middle" letter-spacing="0.4">Deepfakes / misinfo</text>
+<text x="300.0" y="724.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="22" font-weight="700" fill="#ab5640" text-anchor="middle">19%</text>
+<polyline points="356.7,601.0 356.7,601.0 610.4,549.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="356.7" cy="601.0" r="2.6" fill="#c07a4f"/>
+<rect x="622.4" y="540.0" width="12" height="12" fill="#c07a4f" rx="2"/>
+<text x="641.4" y="550.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">Jobs / displacement<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">13%</tspan></text>
+<polyline points="393.5,601.0 393.5,601.0 610.4,705.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="393.5" cy="601.0" r="2.6" fill="#cf9a6a"/>
+<rect x="622.4" y="696.0" width="12" height="12" fill="#cf9a6a" rx="2"/>
+<text x="641.4" y="706.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">Existential risk<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">8%</tspan></text>
+<polyline points="418.3,601.0 418.3,601.0 610.4,510.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="418.3" cy="601.0" r="2.6" fill="#d8b487"/>
+<rect x="622.4" y="501.0" width="12" height="12" fill="#d8b487" rx="2"/>
+<text x="641.4" y="511.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">Environment / energy<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">6%</tspan></text>
+<polyline points="439.0,601.0 439.0,601.0 610.4,666.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="439.0" cy="601.0" r="2.6" fill="#c2a079"/>
+<rect x="622.4" y="657.0" width="12" height="12" fill="#c2a079" rx="2"/>
+<text x="641.4" y="667.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">Surveillance / privacy<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">5%</tspan></text>
+<polyline points="455.7,601.0 455.7,601.0 610.4,627.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="455.7" cy="601.0" r="2.6" fill="#a98e6f"/>
+<rect x="622.4" y="618.0" width="12" height="12" fill="#a98e6f" rx="2"/>
+<text x="641.4" y="628.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">Regulation calls<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">4%</tspan></text>
+<polyline points="467.7,601.0 467.7,601.0 610.4,588.0" fill="none" stroke="#9a907c" stroke-width="1.1"/>
+<circle cx="467.7" cy="601.0" r="2.6" fill="#8f7a5f"/>
+<rect x="622.4" y="579.0" width="12" height="12" fill="#8f7a5f" rx="2"/>
+<text x="641.4" y="589.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="14" fill="#23201c" letter-spacing="0.3">Education<tspan font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-weight="700" fill="#23201c" dx="6">3%</tspan></text>
+<text x="98" y="402.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="22" font-weight="700" fill="#123f3c" text-anchor="end">PRO-AI</text>
+<text x="98" y="608.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="22" font-weight="700" fill="#6e2b2a" text-anchor="end">ANTI-AI</text>
+<text x="118" y="84" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="46" font-weight="700" fill="#23201c">What the public actually watches about AI</text>
+<text x="118" y="112" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="16" fill="#6f685c" letter-spacing="0.4">TikTok &#43; YouTube, 2026 &#160;&#160;&#183;&#160;&#160;reach-weighted by total views &#43; plays</text>
+<line x1="118" y1="128" x2="1410" y2="128" stroke="#cabfa9" stroke-width="1"/>
+<line x1="118" y1="746.0" x2="1336.0" y2="746.0" stroke="#cabfa9" stroke-width="1"/>
+<text x="118" y="777.0" font-family="Didot, 'Hoefler Text', 'Cambria', Georgia, serif" font-size="17" font-weight="700" fill="#23201c">Free Systems Lab</text>
+<text x="118" y="798.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="13.5" fill="#6f685c" letter-spacing="0.3">Stanford Graduate School of Business&#160;&#160;&#183;&#160;&#160;Hoover Institution</text>
+<text x="118" y="819.0" font-family="'Optima', 'Avenir Next', 'Corbel', 'Helvetica Neue', sans-serif" font-size="13.5" fill="#23201c">freesystems.substack.com</text>
+</svg>
